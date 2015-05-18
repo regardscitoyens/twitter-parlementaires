@@ -11,9 +11,8 @@ if len(sys.argv) < 3:
 
 LIST_USER, LIST_SLUG = sys.argv[1:3]
 
-for d in [".cache", "data"]:
-    if not os.path.isdir(d):
-        os.makedirs(d)
+if not os.path.isdir(".cache"):
+    os.makedirs(".cache")
 
 t = Twitter(auth=OAuth(OAUTH_TOKEN, OAUTH_SECRET, KEY, SECRET))
 accounts = {}
@@ -21,7 +20,7 @@ page = 1
 cursor = -1
 while cursor:
     res = t.lists.members(owner_screen_name=LIST_USER, slug=LIST_SLUG, cursor=cursor, include_entities='false', skip_status='true', count=5000)
-    with open(os.path.join('.cache', '%s-%s.json' % (LIST_USER, cursor if cursor != -1 else 0)), 'w') as f:
+    with open(os.path.join('.cache', 'twitter-%s-%s.json' % (LIST_USER, cursor if cursor != -1 else 0)), 'w') as f:
         json.dump(res, f)
     cursor = res.get('next_cursor', res.get('next_cursor_str', 0))
     new = 0
@@ -33,5 +32,5 @@ while cursor:
     print("[INFO/%s] page %s -> %s results including %s new ; new total: %s" % (LIST_SLUG, page, len(res['users']), new, len(accounts)))
     page += 1
 
-with open(os.path.join('data', 'twitter-%s.json' % LIST_USER), 'w') as f:
+with open(os.path.join('.cache', 'twitter-%s.json' % LIST_USER), 'w') as f:
     json.dump(accounts, f)

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import os, sys, json, re
+from datetime import datetime
 from twitter import Twitter, OAuth
 from twitterconfig import KEY, SECRET, OAUTH_TOKEN, OAUTH_SECRET
 twitterConn = Twitter(auth=OAuth(OAUTH_TOKEN, OAUTH_SECRET, KEY, SECRET))
@@ -63,11 +64,15 @@ re_clean = re.compile(r'[^a-z]+', re.I)
 nospaces = lambda x: re_clean.sub('', x)
 clean = lambda x: re_clean.sub(' ', clean_accents(x.lower())).strip()
 
+re_clean_desc = re.compile(r"[\s\n]+")
+clean_desc = lambda x: re_clean_desc.sub(" ", x)
+
 re_clean_twiturl = re.compile(r"^.*twitter.com/(?:#!/)*([^/]+).*$", re.I)
 clean_twiturl = lambda x: re_clean_twiturl.sub(r"\1", x).strip()
 
-re_clean_url = re.compile(r"^(?:https?://)?(?:(?:www2?|deputation)\.)?(.*?)/?$", re.I)
-clean_url = lambda x: re_clean_url.sub(r"\1", x.strip())
+re_clean_url = re.compile(r"^((?:https?://)?(?:(?:www2?|deputation)\.)?)(.*?)/?$", re.I)
+check_url = lambda x: re_clean_url.sub(r"\2", x.strip())
+clean_url = lambda x: re_clean_url.sub(r"\1\2", x.strip())
 
 re_clean_initiales = re.compile(r"^([A-Z]{1,2}[\. ]+)+(d('|[eus]+ (la )?))?")
 clean_initiales = lambda x: nospaces(clean(re_clean_initiales.sub("", x.strip())))
@@ -90,7 +95,7 @@ def store_one(twid, parl, slug):
             tw = twitterConn.users.show(screen_name=twid)
         except:
             return log("Could not get info on Twitter account https://twitter.com/%s" % twid, "warning")
-        log("Twitter account %s for %s found in urls but missing from list" % (twid, parl['nom']), "info")
+        log("Twitter account %s for %s found in urls but missing from list" % (twid.encode("utf-8"), parl['nom'].encode("utf-8")), "info")
     parl['twitter'] = twid
     parl['twitter_data'] = tw
     goodparls.append(parl)
@@ -110,9 +115,10 @@ if len(goodparls):
     log_status()
 
 # Then try to identify parl from matching his metadata to the name, urls and description from Twitter
+urlentities = lambda tw: [u["expanded_url"] for u in tw["entities"].get("url", {"urls": []})["urls"]]
 def match_parl(tw):
     twid = tw["screen_name"]
-    urls = [clean_url(u["expanded_url"]) for u in tw["entities"].get("url", {"urls": []})["urls"]]
+    urls = [check_url(u) for u in urlentities(tw)]
     possible = []
 
     for slug in parls.keys():
@@ -152,7 +158,7 @@ def match_parl(tw):
 
         # Try to match a url
         for url in urls:
-            if url in [clean_url(u["site"]) for u in parl["sites_web"]] + [clean_url(parl.get('url_an', parl.get('url_institution', '')))]:
+            if url in [check_url(u["site"]) for u in parl["sites_web"]] + [check_url(parl.get('url_an', parl.get('url_institution', '')))]:
                 return store_one(twid, parl, slug)
 
     # Check matches by family name found
@@ -170,9 +176,36 @@ if len(twitter):
 
 
 # Write output data
-headers = ["nom", "twitter", "slug"]
+if not os.path.isdir("data"):
+    os.makedirs("data")
+
+formatcsv = lambda x: '"%s"' % x.encode("utf-8").replace('"', '""') if type(x) == unicode else str(x)
+
+headers = ["twitter", "nom", "nom_de_famille", "prenom", "sexe", "twitter_tweets", "twitter_followers", "twitter_following", "twitter_listed", "twitter_favourites", "twitter_verified", "twitter_protected", "twitter_id", "twitter_name", "twitter_description", "twitter_created_at", "sites_web", "url_institution", "slug", "url_nos%s_api" % typeparls]
+
+orderparls = sorted(goodparls, key=lambda x: "%s - %s" % (x["nom_de_famille"], x["prenom"]))
 with open(os.path.join("data", "%s.csv" % typeparls), "w") as f:
     print >> f, ",".join(headers)
-    for parl in sorted(goodparls, key=lambda x: x["nom_de_famille"]):
-        print >> f, ",".join([parl[k].encode("utf-8") for k in headers])
+    for parl in orderparls:
+        tw = parl["twitter_data"]
+        parl["twitter_id"] = tw["id"]
+        parl["twitter_name"] = tw["name"]
+        parl["twitter_created_at"] = datetime.strptime(tw["created_at"], '%a %b %d %H:%M:%S +0000 %Y').isoformat()
+        parl["twitter_description"] = clean_desc(tw["description"])
+        parl["twitter_tweets"] = tw["statuses_count"]
+        parl["twitter_favourites"] = tw["favourites_count"]
+        parl["twitter_followers"] = tw["followers_count"]
+        parl["twitter_following"] = tw["friends_count"]
+        parl["twitter_listed"] = tw["listed_count"]
+        parl["twitter_verified"] = tw["verified"]
+        parl["twitter_protected"] = tw["protected"]
+        parl["sites_web"] = "|".join(list(set([clean_url(u) for u in [s["site"] for s in parl["sites_web"]] + [u for u in urlentities(tw) if "/tribun/fiches_id/" not in u]])))
+        if "url_institution" not in parl:
+            parl["url_institution"] = parl["url_an"]
+        parl["url_nos%s_api" % typeparls] = parl["url_nos%s_api" % typeparls].replace("/json", "/csv")
+        print >> f, ",".join([formatcsv(parl[k]) for k in headers])
+        parl["url_nos%s_api" % typeparls] = parl["url_nos%s_api" % typeparls].replace("/csv", "/json")
+        parl["sites_web"] = parl["sites_web"].split("|")
 
+with open(os.path.join("data", "%s.json" % typeparls), "w") as f:
+    json.dump(orderparls, f, indent=2)
