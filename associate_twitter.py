@@ -208,4 +208,4 @@ with open(os.path.join("data", "%s.csv" % typeparls), "w") as f:
         parl["sites_web"] = parl["sites_web"].split("|")
 
 with open(os.path.join("data", "%s.json" % typeparls), "w") as f:
-    json.dump(orderparls, f, indent=2)
+    json.dump(orderparls, f, indent=2, sort_keys=True)
