@@ -6,7 +6,7 @@ source /usr/local/bin/virtualenvwrapper.sh
 mkvirtualenv --no-site-packages twitter-parls
 workon twitter-parls
 pip install -r requirements.txt
-add2virtualenv .
+add2virtualenv $(pwd)
 deactivate
 
 echo
@@ -21,5 +21,5 @@ fi
 
 echo
 echo "Add to your crontab a line such as the following to automatically update evry hour:"
-echo "00 * * * * "$(dirname $0)"/bin/update.sh"
+echo "00 * * * * "$(pwd)"/bin/update.sh"
 
