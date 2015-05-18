@@ -6,14 +6,15 @@ echo "Downloading..."
 echo "--------------"
 source /usr/local/bin/virtualenvwrapper.sh
 workon twitter-parls
-./get_twitter.py "AssembleeNat" "les-députés"
-./get_twitter.py "Senat_Info" "senateurs"
-wget -q "http://www.nosdeputes.fr/deputes/json" -O .cache/deputes.json
-wget -q "http://www.nossenateurs.fr/senateurs/json" -O .cache/senateurs.json
+./download_twitter.py "AssembleeNat" "les-députés"
+./download_twitter.py "Senat_Info" "senateurs"
+curl -sL "http://www.nosdeputes.fr/deputes/json?$$" > .cache/deputes.json
+curl -sL "http://www.nossenateurs.fr/senateurs/json?$$" > .cache/senateurs.json
 
 echo
 echo "Associating..."
 echo "--------------"
-./associate_twitter.py data/twitter-AssembleeNat.json .cache/deputes.json
-./associate_twitter.py data/twitter-Senat_Info.json .cache/senateurs.json
+./associate_twitter.py deputes data/twitter-AssembleeNat.json
+./associate_twitter.py senateurs data/twitter-Senat_Info.json
+echo
 

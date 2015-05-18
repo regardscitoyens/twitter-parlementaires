@@ -30,7 +30,7 @@ while cursor:
         if name not in accounts:
             accounts[name] = account
             new += 1
-    print("INFO: page %s -> %s results including %s new ; new total: %s" % (page, len(res['users']), new, len(accounts)))
+    print("[INFO/%s] page %s -> %s results including %s new ; new total: %s" % (LIST_SLUG, page, len(res['users']), new, len(accounts)))
     page += 1
 
 with open(os.path.join('data', 'twitter-%s.json' % LIST_USER), 'w') as f:
