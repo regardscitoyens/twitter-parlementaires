@@ -110,6 +110,7 @@ for slug in parls.keys():
             if twid.lower() in excludes:
                 continue
             store_one(twid, parl, slug)
+            break
 
 if len(goodparls):
     log_status()
