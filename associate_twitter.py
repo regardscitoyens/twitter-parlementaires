@@ -27,8 +27,8 @@ with open(sys.argv[2]) as f:
 
 # Exclude bad accounts
 notparls = ["bayrou"]
-groupes = ["crcsenat", "udiuc", "ecolosenat", "senateursps", "senateursump"]
-doublons = ["teambouillon", "fdebeauce", "vignal2012", "deputecvautrin", "clergeau2012", "isabellebruneau", "roussetalain", "elubondy"]
+groupes = ["crcsenat", "udiuc", "ecolosenat", "senateursps", "senateursump", "lesrep_senat"]
+doublons = ["teambouillon", "fdebeauce", "vignal2012", "deputecvautrin", "clergeau2012", "isabellebruneau", "roussetalain", "elubondy", "FLefebvre_UMP"]
 
 excludes = notparls + groupes + doublons
 for e in excludes:
