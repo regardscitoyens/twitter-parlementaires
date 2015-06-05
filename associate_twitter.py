@@ -30,7 +30,7 @@ notparls = ["bayrou"]
 groupes = ["crcsenat", "udiuc", "ecolosenat", "senateursps", "senateursump", "lesrep_senat"]
 doublons = ["teambouillon", "fdebeauce", "vignal2012", "deputecvautrin", "clergeau2012", "isabellebruneau", "roussetalain", "elubondy", "FLefebvre_UMP"]
 
-excludes = notparls + groupes + doublons
+excludes = [t.lower() for t in notparls + groupes + doublons]
 for e in excludes:
     if e in twitter:
         twitter.pop(e)
