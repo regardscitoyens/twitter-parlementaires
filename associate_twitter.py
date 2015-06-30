@@ -120,7 +120,7 @@ if len(goodparls):
 urlentities = lambda tw: [u["expanded_url"] for u in tw["entities"].get("url", {"urls": []})["urls"]]
 def match_parl(tw):
     twid = tw["screen_name"]
-    urls = [check_url(u) for u in urlentities(tw)]
+    urls = [check_url(u) for u in urlentities(tw) if u]
     possible = []
 
     for slug in parls.keys():
@@ -201,7 +201,7 @@ with open(os.path.join("data", "%s.csv" % typeparls), "w") as f:
         parl["twitter_listed"] = tw["listed_count"]
         parl["twitter_verified"] = tw["verified"]
         parl["twitter_protected"] = tw["protected"]
-        parl["sites_web"] = "|".join(list(set([clean_url(u) for u in [s["site"] for s in parl["sites_web"]] + [u for u in urlentities(tw) if "/tribun/fiches_id/" not in u]])))
+        parl["sites_web"] = "|".join(list(set([clean_url(u) for u in [s["site"] for s in parl["sites_web"] if s] + [u for u in urlentities(tw) if u and "/tribun/fiches_id/" not in u]])))
         if "url_institution" not in parl:
             parl["url_institution"] = parl["url_an"]
         parl["url_nos%s_api" % typeparls] = parl["url_nos%s_api" % typeparls].replace("/json", "/csv")
