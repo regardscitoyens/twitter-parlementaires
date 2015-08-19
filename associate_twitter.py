@@ -18,7 +18,11 @@ typeparl = typeparls.rstrip("s")
 goodparls = []
 
 with open(os.path.join(".cache", "%s.json" % typeparls)) as f:
-    parls = dict((parl["slug"], parl) for parl in [p[typeparl] for p in json.load(f)[typeparls]])
+    try:
+        parls = dict((parl["slug"], parl) for parl in [p[typeparl] for p in json.load(f)[typeparls]])
+    except ValueError:
+        sys.stderr.write("Could not open Nos%s.fr parlementaires list" % typeparls)
+        exit(1)
 
 
 # Read Twitter list data
