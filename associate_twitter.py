@@ -108,14 +108,16 @@ def store_one(twid, parl, slug):
 # First try to find twitter urls in each parl websites list
 for slug in parls.keys():
     parl = parls[slug]
+    twid = None
     for url in list(parl["sites_web"]):
-        if "twitter" in url['site']:
+        if "senat.fr" in url["site"] or "assemblee-nationale.fr" in url["site"]:
+            parl["sites_web"].remove(url)
+        elif "twitter" in url["site"] and not twid:
             twid = clean_twiturl(url['site'].decode("utf-8"))
             if twid.lower() in excludes:
                 parl["sites_web"].remove(url)
                 continue
             store_one(twid, parl, slug)
-            break
 
 if len(goodparls):
     log_status()
