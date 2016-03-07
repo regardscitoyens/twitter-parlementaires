@@ -108,15 +108,16 @@ def store_one(twid, parl, slug):
 # First try to find twitter urls in each parl websites list
 for slug in parls.keys():
     parl = parls[slug]
-    twid = None
+    found = False
     for url in list(parl["sites_web"]):
         if "senat.fr" in url["site"] or "assemblee-nationale.fr" in url["site"]:
             parl["sites_web"].remove(url)
-        elif "twitter" in url["site"] and not twid:
+        elif "twitter" in url["site"] and not found:
             twid = clean_twiturl(url['site'].decode("utf-8"))
             if twid.lower() in excludes:
                 parl["sites_web"].remove(url)
                 continue
+            found = True
             store_one(twid, parl, slug)
 
 if len(goodparls):
@@ -207,7 +208,7 @@ with open(os.path.join("data", "%s.csv" % typeparls), "w") as f:
         parl["twitter_listed"] = tw["listed_count"]
         parl["twitter_verified"] = tw["verified"]
         parl["twitter_protected"] = tw["protected"]
-        parl["sites_web"] = "|".join(list(set([clean_url(u) for u in [s["site"] for s in parl["sites_web"] if s] + [u for u in urlentities(tw) if u and "/tribun/fiches_id/" not in u]])))
+        parl["sites_web"] = "|".join(list(set([clean_url(u) for u in [s["site"] for s in parl["sites_web"] if s] + [u for u in urlentities(tw) if u and "senat.fr" not in u and "assemblee-nationale.fr" not in u]])))
         if "url_institution" not in parl:
             parl["url_institution"] = parl["url_an"]
         parl["url_nos%s_api" % typeparls] = parl["url_nos%s_api" % typeparls].replace("/json", "/csv")
