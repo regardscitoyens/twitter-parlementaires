@@ -3,6 +3,7 @@
 
 import os, sys, json, re
 from datetime import datetime
+from itertools import chain
 from twitter import Twitter, OAuth
 from twitterconfig import KEY, SECRET, OAUTH_TOKEN, OAUTH_SECRET
 twitterConn = Twitter(auth=OAuth(OAUTH_TOKEN, OAUTH_SECRET, KEY, SECRET))
@@ -84,6 +85,9 @@ clean_initiales = lambda x: nospaces(clean(re_clean_initiales.sub("", x.strip())
 re_reorder = re.compile(r"^(.+)\s+(\S+)$")
 reorder = lambda x: re_reorder.sub(r"\2 \1", x.strip())
 
+re_reorder_part = re.compile(r"^(.+)\s+\((d.*)\)$")
+reorder_part = lambda x: re_reorder_part.sub(r"\2 \1", x.strip())
+
 re_split = re.compile(r"([A-Z])")
 split_twid = lambda x: [clean(w) for w in re_split.sub(r" \1", x).strip().split(" ")]
 
@@ -130,13 +134,16 @@ def match_parl(tw):
     urls = [check_url(u) for u in urlentities(tw) if u]
     possible = []
 
+    name = clean(tw["name"])
+    namenospaces = nospaces(name)
+    subnames = set(chain(*[name.split(" ", i) for i in [1,2,3]]))
+
     for slug in parls.keys():
         parl = parls[slug]
 
         # Try to match the full name
-        name = clean(tw["name"])
         check = nospaces(clean(parl["nom"]))
-        if nospaces(name) == check:
+        if namenospaces == check:
             return store_one(twid, parl, slug)
 
         # Try to replace first name in the right place
@@ -147,12 +154,12 @@ def match_parl(tw):
             reordname = reorder(reordname)
 
         # Try to find family name matches only
-        checkfam = nospaces(clean(parl["nom_de_famille"]))
-        if nospaces(name) == checkfam:
+        checkfam = nospaces(clean(reorder_part(parl["nom_de_famille"])))
+        if namenospaces == checkfam:
             possible.append(parl)
         else:
-            for word in name.split(" "):
-                if len(word) > 3 and clean(word) == checkfam:
+            for word in subnames:
+                if len(word) > 3 and nospaces(clean(word)) == checkfam:
                     possible.append(parl)
 
         # Try to remove first name as initiales
