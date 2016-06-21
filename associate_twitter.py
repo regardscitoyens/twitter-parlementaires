@@ -33,7 +33,7 @@ with open(sys.argv[2]) as f:
 # Exclude bad accounts
 notparls = ["bayrou"]
 groupes = ["crcsenat", "udiuc", "ecolosenat", "senateursps", "senateursump", "lesrep_senat"]
-doublons = ["teambouillon", "fdebeauce", "vignal2012", "deputecvautrin", "clergeau2012", "isabellebruneau", "roussetalain", "elubondy", "FLefebvre_UMP", "Gabouty2012", "moniquerabin", "PascalAllizard"]
+doublons = ["teambouillon", "fdebeauce", "vignal2012", "deputecvautrin", "clergeau2012", "isabellebruneau", "roussetalain", "elubondy", "FLefebvre_UMP", "Gabouty2012", "moniquerabin", "PascalAllizard", "pascalegruny"]
 
 excludes = [t.lower() for t in notparls + groupes + doublons]
 for e in excludes:
