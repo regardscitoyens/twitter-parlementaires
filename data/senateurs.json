@@ -806,9 +806,9 @@
           ]
         }
       }, 
-      "favourites_count": 692, 
+      "favourites_count": 695, 
       "follow_request_sent": false, 
-      "followers_count": 15911, 
+      "followers_count": 15913, 
       "following": false, 
       "friends_count": 1332, 
       "geo_enabled": true, 
@@ -840,158 +840,300 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Mon Oct 24 20:26:23 +0000 2016", 
+        "created_at": "Tue Oct 25 14:56:22 +0000 2016", 
         "entities": {
-          "hashtags": [
+          "hashtags": [], 
+          "media": [
             {
+              "display_url": "pic.twitter.com/a0ZZJQqafw", 
+              "expanded_url": "https://twitter.com/IvanKorcok/status/790904533014736898/photo/1", 
+              "id": 790904523485249536, 
+              "id_str": "790904523485249536", 
               "indices": [
-                18, 
-                23
+                98, 
+                121
               ], 
-              "text": "trot"
-            }, 
-            {
-              "indices": [
-                24, 
-                30
-              ], 
-              "text": "galop"
-            }, 
-            {
-              "indices": [
-                39, 
-                46
-              ], 
-              "text": "Europe"
+              "media_url": "http://pbs.twimg.com/media/CvnbeUWWgAA5PSY.jpg", 
+              "media_url_https": "https://pbs.twimg.com/media/CvnbeUWWgAA5PSY.jpg", 
+              "sizes": {
+                "large": {
+                  "h": 1626, 
+                  "resize": "fit", 
+                  "w": 2048
+                }, 
+                "medium": {
+                  "h": 953, 
+                  "resize": "fit", 
+                  "w": 1200
+                }, 
+                "small": {
+                  "h": 540, 
+                  "resize": "fit", 
+                  "w": 680
+                }, 
+                "thumb": {
+                  "h": 150, 
+                  "resize": "crop", 
+                  "w": 150
+                }
+              }, 
+              "source_status_id": 790904533014736898, 
+              "source_status_id_str": "790904533014736898", 
+              "source_user_id": 4771118357, 
+              "source_user_id_str": "4771118357", 
+              "type": "photo", 
+              "url": "https://t.co/a0ZZJQqafw"
             }
           ], 
           "symbols": [], 
           "urls": [], 
           "user_mentions": [
             {
-              "id": 2790682272, 
-              "id_str": "2790682272", 
+              "id": 4771118357, 
+              "id_str": "4771118357", 
               "indices": [
                 3, 
-                16
+                14
               ], 
-              "name": "COPIER Sylvain", 
-              "screen_name": "P_TurfCopier"
+              "name": "Ivan Korcok", 
+              "screen_name": "IvanKorcok"
+            }, 
+            {
+              "id": 36329597, 
+              "id_str": "36329597", 
+              "indices": [
+                34, 
+                46
+              ], 
+              "name": "European Parliament", 
+              "screen_name": "Europarl_EN"
+            }, 
+            {
+              "id": 123109597, 
+              "id_str": "123109597", 
+              "indices": [
+                64, 
+                77
+              ], 
+              "name": "Kristalina Georgieva", 
+              "screen_name": "KGeorgievaEU"
             }, 
             {
               "id": 110191018, 
               "id_str": "110191018", 
               "indices": [
-                95, 
-                107
+                84, 
+                96
               ], 
               "name": "Jean Arthuis", 
               "screen_name": "JeanArthuis"
-            }, 
+            }
+          ]
+        }, 
+        "extended_entities": {
+          "media": [
             {
-              "id": 132915396, 
-              "id_str": "132915396", 
+              "display_url": "pic.twitter.com/a0ZZJQqafw", 
+              "expanded_url": "https://twitter.com/IvanKorcok/status/790904533014736898/photo/1", 
+              "id": 790904523485249536, 
+              "id_str": "790904523485249536", 
               "indices": [
-                127, 
-                138
+                98, 
+                121
               ], 
-              "name": "Paris-Turf", 
-              "screen_name": "Paris_Turf"
+              "media_url": "http://pbs.twimg.com/media/CvnbeUWWgAA5PSY.jpg", 
+              "media_url_https": "https://pbs.twimg.com/media/CvnbeUWWgAA5PSY.jpg", 
+              "sizes": {
+                "large": {
+                  "h": 1626, 
+                  "resize": "fit", 
+                  "w": 2048
+                }, 
+                "medium": {
+                  "h": 953, 
+                  "resize": "fit", 
+                  "w": 1200
+                }, 
+                "small": {
+                  "h": 540, 
+                  "resize": "fit", 
+                  "w": 680
+                }, 
+                "thumb": {
+                  "h": 150, 
+                  "resize": "crop", 
+                  "w": 150
+                }
+              }, 
+              "source_status_id": 790904533014736898, 
+              "source_status_id_str": "790904533014736898", 
+              "source_user_id": 4771118357, 
+              "source_user_id_str": "4771118357", 
+              "type": "photo", 
+              "url": "https://t.co/a0ZZJQqafw"
             }
           ]
         }, 
         "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 790650666280742916, 
-        "id_str": "790650666280742916", 
+        "id": 790930003554930688, 
+        "id_str": "790930003554930688", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
         "in_reply_to_user_id": null, 
         "in_reply_to_user_id_str": null, 
         "is_quote_status": false, 
-        "lang": "fr", 
+        "lang": "en", 
         "place": null, 
-        "retweet_count": 4, 
+        "possibly_sensitive": false, 
+        "retweet_count": 10, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
           "coordinates": null, 
-          "created_at": "Mon Oct 24 20:05:34 +0000 2016", 
+          "created_at": "Tue Oct 25 13:15:09 +0000 2016", 
           "entities": {
-            "hashtags": [
+            "hashtags": [], 
+            "media": [
               {
+                "display_url": "pic.twitter.com/a0ZZJQqafw", 
+                "expanded_url": "https://twitter.com/IvanKorcok/status/790904533014736898/photo/1", 
+                "id": 790904523485249536, 
+                "id_str": "790904523485249536", 
                 "indices": [
-                  0, 
-                  5
+                  82, 
+                  105
                 ], 
-                "text": "trot"
-              }, 
-              {
-                "indices": [
-                  6, 
-                  12
-                ], 
-                "text": "galop"
-              }, 
-              {
-                "indices": [
-                  21, 
-                  28
-                ], 
-                "text": "Europe"
+                "media_url": "http://pbs.twimg.com/media/CvnbeUWWgAA5PSY.jpg", 
+                "media_url_https": "https://pbs.twimg.com/media/CvnbeUWWgAA5PSY.jpg", 
+                "sizes": {
+                  "large": {
+                    "h": 1626, 
+                    "resize": "fit", 
+                    "w": 2048
+                  }, 
+                  "medium": {
+                    "h": 953, 
+                    "resize": "fit", 
+                    "w": 1200
+                  }, 
+                  "small": {
+                    "h": 540, 
+                    "resize": "fit", 
+                    "w": 680
+                  }, 
+                  "thumb": {
+                    "h": 150, 
+                    "resize": "crop", 
+                    "w": 150
+                  }
+                }, 
+                "type": "photo", 
+                "url": "https://t.co/a0ZZJQqafw"
               }
             ], 
             "symbols": [], 
             "urls": [], 
             "user_mentions": [
               {
+                "id": 36329597, 
+                "id_str": "36329597", 
+                "indices": [
+                  18, 
+                  30
+                ], 
+                "name": "European Parliament", 
+                "screen_name": "Europarl_EN"
+              }, 
+              {
+                "id": 123109597, 
+                "id_str": "123109597", 
+                "indices": [
+                  48, 
+                  61
+                ], 
+                "name": "Kristalina Georgieva", 
+                "screen_name": "KGeorgievaEU"
+              }, 
+              {
                 "id": 110191018, 
                 "id_str": "110191018", 
                 "indices": [
-                  77, 
-                  89
+                  68, 
+                  80
                 ], 
                 "name": "Jean Arthuis", 
                 "screen_name": "JeanArthuis"
-              }, 
-              {
-                "id": 132915396, 
-                "id_str": "132915396", 
-                "indices": [
-                  109, 
-                  120
-                ], 
-                "name": "Paris-Turf", 
-                "screen_name": "Paris_Turf"
               }
             ]
           }, 
-          "favorite_count": 4, 
+          "extended_entities": {
+            "media": [
+              {
+                "display_url": "pic.twitter.com/a0ZZJQqafw", 
+                "expanded_url": "https://twitter.com/IvanKorcok/status/790904533014736898/photo/1", 
+                "id": 790904523485249536, 
+                "id_str": "790904523485249536", 
+                "indices": [
+                  82, 
+                  105
+                ], 
+                "media_url": "http://pbs.twimg.com/media/CvnbeUWWgAA5PSY.jpg", 
+                "media_url_https": "https://pbs.twimg.com/media/CvnbeUWWgAA5PSY.jpg", 
+                "sizes": {
+                  "large": {
+                    "h": 1626, 
+                    "resize": "fit", 
+                    "w": 2048
+                  }, 
+                  "medium": {
+                    "h": 953, 
+                    "resize": "fit", 
+                    "w": 1200
+                  }, 
+                  "small": {
+                    "h": 540, 
+                    "resize": "fit", 
+                    "w": 680
+                  }, 
+                  "thumb": {
+                    "h": 150, 
+                    "resize": "crop", 
+                    "w": 150
+                  }
+                }, 
+                "type": "photo", 
+                "url": "https://t.co/a0ZZJQqafw"
+              }
+            ]
+          }, 
+          "favorite_count": 9, 
           "favorited": false, 
           "geo": null, 
-          "id": 790645429897728000, 
-          "id_str": "790645429897728000", 
+          "id": 790904533014736898, 
+          "id_str": "790904533014736898", 
           "in_reply_to_screen_name": null, 
           "in_reply_to_status_id": null, 
           "in_reply_to_status_id_str": null, 
           "in_reply_to_user_id": null, 
           "in_reply_to_user_id_str": null, 
           "is_quote_status": false, 
-          "lang": "fr", 
+          "lang": "en", 
           "place": null, 
-          "retweet_count": 4, 
+          "possibly_sensitive": false, 
+          "retweet_count": 10, 
           "retweeted": false, 
           "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-          "text": "#trot #galop \"Plus d'#Europe pour la fili\u00e8re \u00e9quine\", lire La Tribune sign\u00e9e @JeanArthuis ce mardi en Une de @Paris_Turf", 
+          "text": "In the margins of @Europarl_EN's plenary, met w/@KGeorgievaEU &amp; @JeanArthuis. https://t.co/a0ZZJQqafw", 
           "truncated": false
         }, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "RT @P_TurfCopier: #trot #galop \"Plus d'#Europe pour la fili\u00e8re \u00e9quine\", lire La Tribune sign\u00e9e @JeanArthuis ce mardi en Une de @Paris_Turf", 
+        "text": "RT @IvanKorcok: In the margins of @Europarl_EN's plenary, met w/@KGeorgievaEU &amp; @JeanArthuis. https://t.co/a0ZZJQqafw", 
         "truncated": false
       }, 
-      "statuses_count": 2891, 
+      "statuses_count": 2895, 
       "time_zone": "Amsterdam", 
       "translator_type": "none", 
       "url": "https://t.co/YhICpAOeW0", 
@@ -999,14 +1141,14 @@
       "verified": true
     }, 
     "twitter_description": "D\u00e9put\u00e9 europ\u00e9en, Pr\u00e9sident de la com. #BUDG , fondateur de l'Alliance centriste (#UDI), ancien ministre de l'\u00e9conomie et des finances https://t.co/fhOVDCh45q", 
-    "twitter_favourites": 692, 
-    "twitter_followers": 15911, 
+    "twitter_favourites": 695, 
+    "twitter_followers": 15913, 
     "twitter_following": 1332, 
     "twitter_id": 110191018, 
     "twitter_listed": 633, 
     "twitter_name": "Jean Arthuis", 
     "twitter_protected": false, 
-    "twitter_tweets": 2891, 
+    "twitter_tweets": 2895, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/arthuis_jean83011j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-arthuis", 
@@ -2179,7 +2321,7 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 4, 
+        "retweet_count": 8, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
@@ -2266,7 +2408,7 @@
           "lang": "fr", 
           "place": null, 
           "possibly_sensitive": false, 
-          "retweet_count": 4, 
+          "retweet_count": 8, 
           "retweeted": false, 
           "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
           "text": "@bessonjean @fnccr @SEDI_38 @SYANE74 @SIEL42 Organisateurs de la distrib de l'\u00e9lec &amp; gaz mais aussi acteurs de la t\u2026 https://t.co/MMBGnugPWB", 
@@ -2515,8 +2657,8 @@
     "profession": "Cadre commercial", 
     "sexe": "F", 
     "sites_web": [
-      "http://bit.ly/1tgR7jS", 
-      "https://twitter.com/AnnickBillon"
+      "https://twitter.com/AnnickBillon", 
+      "http://bit.ly/1tgR7jS"
     ], 
     "slug": "annick-billon", 
     "twitter": "AnnickBillon", 
@@ -3432,7 +3574,7 @@
       }, 
       "favourites_count": 132, 
       "follow_request_sent": false, 
-      "followers_count": 4138, 
+      "followers_count": 4139, 
       "following": false, 
       "friends_count": 1075, 
       "geo_enabled": true, 
@@ -3503,7 +3645,7 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 211, 
+        "retweet_count": 292, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
@@ -3523,7 +3665,7 @@
             "urls": [], 
             "user_mentions": []
           }, 
-          "favorite_count": 252, 
+          "favorite_count": 364, 
           "favorited": false, 
           "geo": null, 
           "id": 790607450512711680, 
@@ -3536,7 +3678,7 @@
           "is_quote_status": false, 
           "lang": "fr", 
           "place": null, 
-          "retweet_count": 211, 
+          "retweet_count": 292, 
           "retweeted": false, 
           "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
           "text": "Je vais au Parc des Princes depuis 35 ans. J'y vais avec mes enfants, c'est mon plaisir. #C\u00e0VousNS", 
@@ -3555,7 +3697,7 @@
     }, 
     "twitter_description": "Vice-Pr\u00e9sidente de la R\u00e9gion Hauts-de-France Nord Pas de Calais-Picardie. Maire de #Calais, Pr\u00e9sidente de @capcalaisis.", 
     "twitter_favourites": 132, 
-    "twitter_followers": 4138, 
+    "twitter_followers": 4139, 
     "twitter_following": 1075, 
     "twitter_id": 551342517, 
     "twitter_listed": 173, 
@@ -4361,8 +4503,8 @@
     "profession": "Chef d'entreprise", 
     "sexe": "H", 
     "sites_web": [
-      "https://twitter.com/OlivierCadic", 
-      "http://oliviercadic.com"
+      "http://oliviercadic.com", 
+      "https://twitter.com/OlivierCadic"
     ], 
     "slug": "olivier-cadic", 
     "twitter": "OlivierCadic", 
@@ -5937,9 +6079,9 @@
     "profession": "Conseiller du commerce ext\u00e9rieur", 
     "sexe": "H", 
     "sites_web": [
-      "http://www.chevenement.fr", 
-      "https://twitter.com/chevenement", 
       "http://www.facebook.com/jpchevenement", 
+      "https://twitter.com/chevenement", 
+      "http://www.chevenement.fr", 
       "http://twitter.com/chevenement"
     ], 
     "slug": "jean-pierre-chevenement", 
@@ -5971,9 +6113,9 @@
       }, 
       "favourites_count": 155, 
       "follow_request_sent": false, 
-      "followers_count": 59270, 
+      "followers_count": 59277, 
       "following": false, 
-      "friends_count": 673, 
+      "friends_count": 675, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 57116930, 
@@ -6014,36 +6156,65 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Sat Oct 22 21:22:37 +0000 2016", 
+        "created_at": "Tue Oct 25 15:21:28 +0000 2016", 
         "entities": {
           "hashtags": [
             {
               "indices": [
-                5, 
-                9
+                20, 
+                30
               ], 
-              "text": "SLT"
+              "text": "politique"
+            }, 
+            {
+              "indices": [
+                43, 
+                55
+              ], 
+              "text": "Chev\u00e8nement"
+            }, 
+            {
+              "indices": [
+                66, 
+                73
+              ], 
+              "text": "France"
+            }, 
+            {
+              "indices": [
+                92, 
+                104
+              ], 
+              "text": "patriotisme"
+            }, 
+            {
+              "indices": [
+                105, 
+                117
+              ], 
+              "text": "r\u00e9publicain"
             }
           ], 
           "symbols": [], 
-          "urls": [
+          "urls": [], 
+          "user_mentions": [
             {
-              "display_url": "twitter.com/i/web/status/7\u2026", 
-              "expanded_url": "https://twitter.com/i/web/status/789940045113208832", 
+              "id": 104941024, 
+              "id_str": "104941024", 
               "indices": [
-                114, 
-                137
+                3, 
+                18
               ], 
-              "url": "https://t.co/ttL8O7mQkG"
+              "name": "France3Franche-Comt\u00e9", 
+              "screen_name": "F3FrancheComte"
             }
-          ], 
-          "user_mentions": []
+          ]
         }, 
-        "favorite_count": 43, 
+        "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 789940045113208832, 
-        "id_str": "789940045113208832", 
+        "id": 790936320004718592, 
+        "id_str": "790936320004718592", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -6052,14 +6223,89 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "possibly_sensitive": false, 
-        "retweet_count": 50, 
+        "retweet_count": 3, 
         "retweeted": false, 
+        "retweeted_status": {
+          "contributors": null, 
+          "coordinates": null, 
+          "created_at": "Tue Oct 25 15:03:04 +0000 2016", 
+          "entities": {
+            "hashtags": [
+              {
+                "indices": [
+                  0, 
+                  10
+                ], 
+                "text": "politique"
+              }, 
+              {
+                "indices": [
+                  23, 
+                  35
+                ], 
+                "text": "Chev\u00e8nement"
+              }, 
+              {
+                "indices": [
+                  46, 
+                  53
+                ], 
+                "text": "France"
+              }, 
+              {
+                "indices": [
+                  72, 
+                  84
+                ], 
+                "text": "patriotisme"
+              }, 
+              {
+                "indices": [
+                  85, 
+                  97
+                ], 
+                "text": "r\u00e9publicain"
+              }
+            ], 
+            "symbols": [], 
+            "urls": [
+              {
+                "display_url": "france3-regions.blog.francetvinfo.fr/politiquefranc\u2026", 
+                "expanded_url": "http://france3-regions.blog.francetvinfo.fr/politiquefranchecomte/2016/10/25/jean-pierre-chevenement-faire-france-ou-le-regain-de-patriotisme-republicain.html", 
+                "indices": [
+                  98, 
+                  121
+                ], 
+                "url": "https://t.co/2UP0KHvEr6"
+              }
+            ], 
+            "user_mentions": []
+          }, 
+          "favorite_count": 4, 
+          "favorited": false, 
+          "geo": null, 
+          "id": 790931690516418561, 
+          "id_str": "790931690516418561", 
+          "in_reply_to_screen_name": null, 
+          "in_reply_to_status_id": null, 
+          "in_reply_to_status_id_str": null, 
+          "in_reply_to_user_id": null, 
+          "in_reply_to_user_id_str": null, 
+          "is_quote_status": false, 
+          "lang": "fr", 
+          "place": null, 
+          "possibly_sensitive": false, 
+          "retweet_count": 3, 
+          "retweeted": false, 
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+          "text": "#politique Jean-Pierre #Chev\u00e8nement : \u00ab faire #France \u00bb ou le regain de #patriotisme #r\u00e9publicain https://t.co/2UP0KHvEr6", 
+          "truncated": false
+        }, 
         "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-        "text": "Dans #SLT: \"Nous avons particip\u00e9 \u00e0 l\u2019origine du bouleversement du monde musulman avec les deux guerres du Golfe\"\u2026 https://t.co/ttL8O7mQkG", 
-        "truncated": true
+        "text": "RT @F3FrancheComte: #politique Jean-Pierre #Chev\u00e8nement : \u00ab faire #France \u00bb ou le regain de #patriotisme #r\u00e9publicain https://t.co/2UP0KHvE\u2026", 
+        "truncated": false
       }, 
-      "statuses_count": 4133, 
+      "statuses_count": 4136, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": "http://t.co/uxgBAwrQat", 
@@ -6068,13 +6314,13 @@
     }, 
     "twitter_description": "Ancien ministre. Pdt du club R\u00e9publique Moderne (@RepubliqueMod) et de la Fondation Res Publica (@fondarespublica).", 
     "twitter_favourites": 155, 
-    "twitter_followers": 59270, 
-    "twitter_following": 673, 
+    "twitter_followers": 59277, 
+    "twitter_following": 675, 
     "twitter_id": 57116930, 
     "twitter_listed": 1232, 
     "twitter_name": "J-P. Chev\u00e8nement", 
     "twitter_protected": false, 
-    "twitter_tweets": 4133, 
+    "twitter_tweets": 4136, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/chevenement_jean_pierre02053w.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-pierre-chevenement", 
@@ -13396,7 +13642,7 @@
       }, 
       "favourites_count": 5, 
       "follow_request_sent": false, 
-      "followers_count": 762, 
+      "followers_count": 764, 
       "following": false, 
       "friends_count": 247, 
       "geo_enabled": false, 
@@ -13551,7 +13797,7 @@
     }, 
     "twitter_description": "Maire de Saint-Flour, Pr\u00e9sident des Maires du #Cantal, Comit\u00e9 des #Finances locales - #Collectivit\u00e9s territoriales #Urbanisme #Logement #D\u00e9veloppement durable", 
     "twitter_favourites": 5, 
-    "twitter_followers": 762, 
+    "twitter_followers": 764, 
     "twitter_following": 247, 
     "twitter_id": 2328417882, 
     "twitter_listed": 36, 
@@ -14697,8 +14943,8 @@
     "profession": null, 
     "sexe": "H", 
     "sites_web": [
-      "https://www.facebook.com/claude.kern", 
       "https://twitter.com/claude_kern", 
+      "https://www.facebook.com/claude.kern", 
       "https://www.facebook.com/senateurclaudekern"
     ], 
     "slug": "claude-kern", 
@@ -17089,7 +17335,7 @@
       }, 
       "favourites_count": 5, 
       "follow_request_sent": false, 
-      "followers_count": 3722, 
+      "followers_count": 3720, 
       "following": false, 
       "friends_count": 2374, 
       "geo_enabled": false, 
@@ -17155,7 +17401,7 @@
     }, 
     "twitter_description": "S\u00e9nateur honoraire-maire de Compi\u00e8gne , Pr\u00e9sident de l'agglom\u00e9ration de la r\u00e9gion de Compi\u00e8gne, Pr\u00e9sident de la commission des finances du S\u00e9nat.", 
     "twitter_favourites": 5, 
-    "twitter_followers": 3722, 
+    "twitter_followers": 3720, 
     "twitter_following": 2374, 
     "twitter_id": 1534099902, 
     "twitter_listed": 128, 
@@ -18286,7 +18532,7 @@
       }, 
       "favourites_count": 41, 
       "follow_request_sent": false, 
-      "followers_count": 214, 
+      "followers_count": 215, 
       "following": false, 
       "friends_count": 140, 
       "geo_enabled": false, 
@@ -18349,7 +18595,7 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 195, 
+        "retweet_count": 198, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
@@ -18371,7 +18617,7 @@
             ], 
             "user_mentions": []
           }, 
-          "favorite_count": 207, 
+          "favorite_count": 209, 
           "favorited": false, 
           "geo": null, 
           "id": 789190749237633024, 
@@ -18385,7 +18631,7 @@
           "lang": "fr", 
           "place": null, 
           "possibly_sensitive": false, 
-          "retweet_count": 195, 
+          "retweet_count": 198, 
           "retweeted": false, 
           "source": "<a href=\"http://snappytv.com\" rel=\"nofollow\">SnappyTV.com</a>", 
           "text": "Voil\u00e0 pourquoi je veux mettre fin au monopole syndical et ouvrir le 1er tour des \u00e9lections pro. \u00e0 tous les salari\u00e9s\u2026 https://t.co/mzqXtLgb2m", 
@@ -18404,7 +18650,7 @@
     }, 
     "twitter_description": "S\u00e9natrice Les R\u00e9publicains des Hautes-Alpes", 
     "twitter_favourites": 41, 
-    "twitter_followers": 214, 
+    "twitter_followers": 215, 
     "twitter_following": 140, 
     "twitter_id": 3189823869, 
     "twitter_listed": 11, 
@@ -19608,11 +19854,11 @@
           "urls": []
         }
       }, 
-      "favourites_count": 1466, 
+      "favourites_count": 1470, 
       "follow_request_sent": false, 
-      "followers_count": 88029, 
+      "followers_count": 88068, 
       "following": false, 
-      "friends_count": 2413, 
+      "friends_count": 2415, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 219361536, 
@@ -19620,7 +19866,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 1000, 
+      "listed_count": 997, 
       "location": "Paris, France", 
       "name": "Jean-Vincent Plac\u00e9", 
       "notifications": false, 
@@ -19642,39 +19888,37 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Mon Oct 24 21:34:34 +0000 2016", 
+        "created_at": "Tue Oct 25 21:14:58 +0000 2016", 
         "entities": {
-          "hashtags": [], 
-          "symbols": [], 
-          "urls": [
+          "hashtags": [
             {
-              "display_url": "po.st/SnfuvD", 
-              "expanded_url": "http://po.st/SnfuvD", 
               "indices": [
-                81, 
-                104
+                17, 
+                25
               ], 
-              "url": "https://t.co/4g7HQZIVBe"
+              "text": "Ch\u00f4mage"
             }
           ], 
+          "symbols": [], 
+          "urls": [], 
           "user_mentions": [
             {
-              "id": 22039861, 
-              "id_str": "22039861", 
+              "id": 88685879, 
+              "id_str": "88685879", 
               "indices": [
-                109, 
-                121
+                3, 
+                12
               ], 
-              "name": "L'Entreprise", 
-              "screen_name": "LEntreprise"
+              "name": "Luc BELOT", 
+              "screen_name": "LucBELOT"
             }
           ]
         }, 
-        "favorite_count": 13, 
+        "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 790667828831457280, 
-        "id_str": "790667828831457280", 
+        "id": 791025281662324736, 
+        "id_str": "791025281662324736", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -19683,14 +19927,61 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "possibly_sensitive": false, 
-        "retweet_count": 7, 
+        "retweet_count": 27, 
         "retweeted": false, 
+        "retweeted_status": {
+          "contributors": null, 
+          "coordinates": null, 
+          "created_at": "Tue Oct 25 20:55:02 +0000 2016", 
+          "entities": {
+            "hashtags": [
+              {
+                "indices": [
+                  3, 
+                  11
+                ], 
+                "text": "Ch\u00f4mage"
+              }
+            ], 
+            "symbols": [], 
+            "urls": [
+              {
+                "display_url": "twitter.com/i/web/status/7\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/791020267741057024", 
+                "indices": [
+                  117, 
+                  140
+                ], 
+                "url": "https://t.co/isQtcyqJ1a"
+              }
+            ], 
+            "user_mentions": []
+          }, 
+          "favorite_count": 18, 
+          "favorited": false, 
+          "geo": null, 
+          "id": 791020267741057024, 
+          "id_str": "791020267741057024", 
+          "in_reply_to_screen_name": null, 
+          "in_reply_to_status_id": null, 
+          "in_reply_to_status_id_str": null, 
+          "in_reply_to_user_id": null, 
+          "in_reply_to_user_id_str": null, 
+          "is_quote_status": false, 
+          "lang": "fr", 
+          "place": null, 
+          "possibly_sensitive": false, 
+          "retweet_count": 27, 
+          "retweeted": false, 
+          "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+          "text": "Le #Ch\u00f4mage baisse en France depuis 1 an, deux fois plus vite qu'en Allemagne.\nDepuis Janvier 90 000 ch\u00f4meurs de mo\u2026 https://t.co/isQtcyqJ1a", 
+          "truncated": true
+        }, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "Innovation, apprentissage, Accre... Le Conseil de simplification a encore frapp\u00e9 https://t.co/4g7HQZIVBe via @Lentreprise", 
+        "text": "RT @LucBELOT: Le #Ch\u00f4mage baisse en France depuis 1 an, deux fois plus vite qu'en Allemagne.\nDepuis Janvier 90 000 ch\u00f4meurs de moins. https\u2026", 
         "truncated": false
       }, 
-      "statuses_count": 7281, 
+      "statuses_count": 7288, 
       "time_zone": null, 
       "translator_type": "none", 
       "url": null, 
@@ -19698,14 +19989,14 @@
       "verified": true
     }, 
     "twitter_description": "Secr\u00e9taire d'Etat aupr\u00e8s du Premier Ministre, charg\u00e9 de la r\u00e9forme de l'Etat et de la simplification. Pr\u00e9sident de l' @UDE_FR", 
-    "twitter_favourites": 1466, 
-    "twitter_followers": 88029, 
-    "twitter_following": 2413, 
+    "twitter_favourites": 1470, 
+    "twitter_followers": 88068, 
+    "twitter_following": 2415, 
     "twitter_id": 219361536, 
-    "twitter_listed": 1000, 
+    "twitter_listed": 997, 
     "twitter_name": "Jean-Vincent Plac\u00e9", 
     "twitter_protected": false, 
-    "twitter_tweets": 7281, 
+    "twitter_tweets": 7288, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/place_jean_vincent11069t.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-vincent-place", 
@@ -19734,8 +20025,8 @@
     "sites_web": [
       "http://fr-fr.facebook.com/people/Jean-Pierre-Plancade/100002416394710", 
       "http://www.facebook.com/profile.php?id=100002416394710", 
-      "https://twitter.com/#!/JPPlancade", 
-      "https://twitter.com/JPPlancade"
+      "https://twitter.com/JPPlancade", 
+      "https://twitter.com/#!/JPPlancade"
     ], 
     "slug": "jean-pierre-plancade", 
     "twitter": "JPPlancade", 
@@ -21158,7 +21449,7 @@
       }, 
       "favourites_count": 50, 
       "follow_request_sent": false, 
-      "followers_count": 4775, 
+      "followers_count": 4778, 
       "following": false, 
       "friends_count": 391, 
       "geo_enabled": true, 
@@ -21333,7 +21624,7 @@
     }, 
     "twitter_description": "Maire de Strasbourg", 
     "twitter_favourites": 50, 
-    "twitter_followers": 4775, 
+    "twitter_followers": 4778, 
     "twitter_following": 391, 
     "twitter_id": 281438650, 
     "twitter_listed": 239, 
