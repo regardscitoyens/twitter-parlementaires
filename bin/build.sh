@@ -7,7 +7,7 @@ echo "--------------"
 source /usr/local/bin/virtualenvwrapper.sh
 workon twitter-parls
 ./download_twitter.py "AssembleeNat" "les-députés"
-./download_twitter.py "Senat_Info" "senateurs"
+./download_twitter.py "Senat" "senateurs"
 curl -sL "http://www.nosdeputes.fr/deputes/json" > .cache/deputes.json
 curl -sL "http://www.nossenateurs.fr/senateurs/json" > .cache/senateurs.json
 
