@@ -806,9 +806,9 @@
           ]
         }
       }, 
-      "favourites_count": 749, 
+      "favourites_count": 751, 
       "follow_request_sent": false, 
-      "followers_count": 16354, 
+      "followers_count": 16352, 
       "following": false, 
       "friends_count": 1376, 
       "geo_enabled": true, 
@@ -818,7 +818,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 638, 
+      "listed_count": 0, 
       "location": "Ch-Gontier/Bruxelles/Strasbrg", 
       "name": "Jean Arthuis", 
       "notifications": false, 
@@ -840,18 +840,68 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Thu Dec 01 19:20:10 +0000 2016", 
+        "created_at": "Fri Dec 02 16:56:20 +0000 2016", 
         "entities": {
-          "hashtags": [], 
+          "hashtags": [
+            {
+              "indices": [
+                70, 
+                86
+              ], 
+              "text": "AgriAlimentaire"
+            }, 
+            {
+              "indices": [
+                93, 
+                100
+              ], 
+              "text": "Europe"
+            }, 
+            {
+              "indices": [
+                101, 
+                119
+              ], 
+              "text": "Strat\u00e9giePartag\u00e9e"
+            }, 
+            {
+              "indices": [
+                120, 
+                128
+              ], 
+              "text": "PDLAgri"
+            }
+          ], 
           "symbols": [], 
           "urls": [], 
-          "user_mentions": []
+          "user_mentions": [
+            {
+              "id": 713293150857596928, 
+              "id_str": "713293150857596928", 
+              "indices": [
+                3, 
+                18
+              ], 
+              "name": "Lydie Bernard", 
+              "screen_name": "LydieBernard85"
+            }, 
+            {
+              "id": 110191018, 
+              "id_str": "110191018", 
+              "indices": [
+                36, 
+                48
+              ], 
+              "name": "Jean Arthuis", 
+              "screen_name": "JeanArthuis"
+            }
+          ]
         }, 
-        "favorite_count": 41, 
+        "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 804404743632224256, 
-        "id_str": "804404743632224256", 
+        "id": 804730935409262596, 
+        "id_str": "804730935409262596", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -860,13 +910,161 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 45, 
+        "retweet_count": 6, 
         "retweeted": false, 
+        "retweeted_status": {
+          "contributors": null, 
+          "coordinates": null, 
+          "created_at": "Fri Dec 02 15:51:56 +0000 2016", 
+          "entities": {
+            "hashtags": [
+              {
+                "indices": [
+                  50, 
+                  66
+                ], 
+                "text": "AgriAlimentaire"
+              }, 
+              {
+                "indices": [
+                  73, 
+                  80
+                ], 
+                "text": "Europe"
+              }, 
+              {
+                "indices": [
+                  81, 
+                  99
+                ], 
+                "text": "Strat\u00e9giePartag\u00e9e"
+              }, 
+              {
+                "indices": [
+                  100, 
+                  108
+                ], 
+                "text": "PDLAgri"
+              }
+            ], 
+            "media": [
+              {
+                "display_url": "pic.twitter.com/PybCLtRBd2", 
+                "expanded_url": "https://twitter.com/LydieBernard85/status/804714727427477504/photo/1", 
+                "id": 804714720188133376, 
+                "id_str": "804714720188133376", 
+                "indices": [
+                  109, 
+                  132
+                ], 
+                "media_url": "http://pbs.twimg.com/media/CyrrxkJXcAAsZJX.jpg", 
+                "media_url_https": "https://pbs.twimg.com/media/CyrrxkJXcAAsZJX.jpg", 
+                "sizes": {
+                  "large": {
+                    "h": 551, 
+                    "resize": "fit", 
+                    "w": 980
+                  }, 
+                  "medium": {
+                    "h": 551, 
+                    "resize": "fit", 
+                    "w": 980
+                  }, 
+                  "small": {
+                    "h": 382, 
+                    "resize": "fit", 
+                    "w": 680
+                  }, 
+                  "thumb": {
+                    "h": 150, 
+                    "resize": "crop", 
+                    "w": 150
+                  }
+                }, 
+                "type": "photo", 
+                "url": "https://t.co/PybCLtRBd2"
+              }
+            ], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": [
+              {
+                "id": 110191018, 
+                "id_str": "110191018", 
+                "indices": [
+                  16, 
+                  28
+                ], 
+                "name": "Jean Arthuis", 
+                "screen_name": "JeanArthuis"
+              }
+            ]
+          }, 
+          "extended_entities": {
+            "media": [
+              {
+                "display_url": "pic.twitter.com/PybCLtRBd2", 
+                "expanded_url": "https://twitter.com/LydieBernard85/status/804714727427477504/photo/1", 
+                "id": 804714720188133376, 
+                "id_str": "804714720188133376", 
+                "indices": [
+                  109, 
+                  132
+                ], 
+                "media_url": "http://pbs.twimg.com/media/CyrrxkJXcAAsZJX.jpg", 
+                "media_url_https": "https://pbs.twimg.com/media/CyrrxkJXcAAsZJX.jpg", 
+                "sizes": {
+                  "large": {
+                    "h": 551, 
+                    "resize": "fit", 
+                    "w": 980
+                  }, 
+                  "medium": {
+                    "h": 551, 
+                    "resize": "fit", 
+                    "w": 980
+                  }, 
+                  "small": {
+                    "h": 382, 
+                    "resize": "fit", 
+                    "w": 680
+                  }, 
+                  "thumb": {
+                    "h": 150, 
+                    "resize": "crop", 
+                    "w": 150
+                  }
+                }, 
+                "type": "photo", 
+                "url": "https://t.co/PybCLtRBd2"
+              }
+            ]
+          }, 
+          "favorite_count": 7, 
+          "favorited": false, 
+          "geo": null, 
+          "id": 804714727427477504, 
+          "id_str": "804714727427477504", 
+          "in_reply_to_screen_name": null, 
+          "in_reply_to_status_id": null, 
+          "in_reply_to_status_id_str": null, 
+          "in_reply_to_user_id": null, 
+          "in_reply_to_user_id_str": null, 
+          "is_quote_status": false, 
+          "lang": "fr", 
+          "place": null, 
+          "possibly_sensitive": false, 
+          "retweet_count": 6, 
+          "retweeted": false, 
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+          "text": "Intervention de @JeanArthuis sur les enjeux de l' #AgriAlimentaire et L' #Europe #Strat\u00e9giePartag\u00e9e #PDLAgri https://t.co/PybCLtRBd2", 
+          "truncated": false
+        }, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "Hollande renonce \u00e0 se porter candidat au renouvellement de son mandat. D\u00e9cision lucide&amp;digne. Bon signe de changement dans la vie politique.", 
+        "text": "RT @LydieBernard85: Intervention de @JeanArthuis sur les enjeux de l' #AgriAlimentaire et L' #Europe #Strat\u00e9giePartag\u00e9e #PDLAgri https://t.\u2026", 
         "truncated": false
       }, 
-      "statuses_count": 2966, 
+      "statuses_count": 2969, 
       "time_zone": "Amsterdam", 
       "translator_type": "none", 
       "url": "https://t.co/YhICpAOeW0", 
@@ -874,14 +1072,14 @@
       "verified": true
     }, 
     "twitter_description": "D\u00e9put\u00e9 europ\u00e9en, Pr\u00e9sident de la com. #BUDG , fondateur de l'Alliance centriste (#UDI), ancien ministre de l'\u00e9conomie et des finances https://t.co/fhOVDCh45q", 
-    "twitter_favourites": 749, 
-    "twitter_followers": 16354, 
+    "twitter_favourites": 751, 
+    "twitter_followers": 16352, 
     "twitter_following": 1376, 
     "twitter_id": 110191018, 
-    "twitter_listed": 638, 
+    "twitter_listed": 0, 
     "twitter_name": "Jean Arthuis", 
     "twitter_protected": false, 
-    "twitter_tweets": 2966, 
+    "twitter_tweets": 2969, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/arthuis_jean83011j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-arthuis", 
@@ -1138,7 +1336,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 10, 
+      "listed_count": 11, 
       "location": "", 
       "name": "Fran\u00e7ois Aubey", 
       "notifications": false, 
@@ -1423,7 +1621,7 @@
     "twitter_followers": 161, 
     "twitter_following": 144, 
     "twitter_id": 2976706774, 
-    "twitter_listed": 10, 
+    "twitter_listed": 11, 
     "twitter_name": "Fran\u00e7ois Aubey", 
     "twitter_protected": false, 
     "twitter_tweets": 33, 
@@ -2145,7 +2343,7 @@
       }, 
       "favourites_count": 206, 
       "follow_request_sent": false, 
-      "followers_count": 1310, 
+      "followers_count": 1311, 
       "following": false, 
       "friends_count": 297, 
       "geo_enabled": true, 
@@ -2223,7 +2421,7 @@
     }, 
     "twitter_description": "Jean BESSON, S\u00e9nateur Honoraire, Pr\u00e9sident d'@energiesded, Vice Pr\u00e9sident de la @fnccr, #SocialR\u00e9formiste", 
     "twitter_favourites": 206, 
-    "twitter_followers": 1310, 
+    "twitter_followers": 1311, 
     "twitter_following": 297, 
     "twitter_id": 78422142, 
     "twitter_listed": 78, 
@@ -2453,8 +2651,8 @@
     "profession": "Cadre commercial", 
     "sexe": "F", 
     "sites_web": [
-      "https://twitter.com/AnnickBillon", 
-      "http://bit.ly/1tgR7jS"
+      "http://bit.ly/1tgR7jS", 
+      "https://twitter.com/AnnickBillon"
     ], 
     "slug": "annick-billon", 
     "twitter": "AnnickBillon", 
@@ -3370,7 +3568,7 @@
       }, 
       "favourites_count": 139, 
       "follow_request_sent": false, 
-      "followers_count": 4162, 
+      "followers_count": 4165, 
       "following": false, 
       "friends_count": 1076, 
       "geo_enabled": true, 
@@ -3496,7 +3694,7 @@
     }, 
     "twitter_description": "Vice-Pr\u00e9sidente de la R\u00e9gion Hauts-de-France Nord Pas de Calais-Picardie. Maire de #Calais, Pr\u00e9sidente de @capcalaisis.", 
     "twitter_favourites": 139, 
-    "twitter_followers": 4162, 
+    "twitter_followers": 4165, 
     "twitter_following": 1076, 
     "twitter_id": 551342517, 
     "twitter_listed": 172, 
@@ -4302,8 +4500,8 @@
     "profession": "Chef d'entreprise", 
     "sexe": "H", 
     "sites_web": [
-      "https://twitter.com/OlivierCadic", 
-      "http://oliviercadic.com"
+      "http://oliviercadic.com", 
+      "https://twitter.com/OlivierCadic"
     ], 
     "slug": "olivier-cadic", 
     "twitter": "OlivierCadic", 
@@ -5878,9 +6076,9 @@
     "profession": "Conseiller du commerce ext\u00e9rieur", 
     "sexe": "H", 
     "sites_web": [
-      "http://www.chevenement.fr", 
-      "https://twitter.com/chevenement", 
       "http://www.facebook.com/jpchevenement", 
+      "https://twitter.com/chevenement", 
+      "http://www.chevenement.fr", 
       "http://twitter.com/chevenement"
     ], 
     "slug": "jean-pierre-chevenement", 
@@ -5912,7 +6110,7 @@
       }, 
       "favourites_count": 155, 
       "follow_request_sent": false, 
-      "followers_count": 59751, 
+      "followers_count": 59758, 
       "following": false, 
       "friends_count": 681, 
       "geo_enabled": true, 
@@ -5922,7 +6120,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 1237, 
+      "listed_count": 1235, 
       "location": "Paris, France", 
       "name": "J-P. Chev\u00e8nement", 
       "notifications": false, 
@@ -5955,18 +6153,47 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Thu Dec 01 20:17:31 +0000 2016", 
+        "created_at": "Fri Dec 02 10:06:07 +0000 2016", 
         "entities": {
-          "hashtags": [], 
+          "hashtags": [
+            {
+              "indices": [
+                91, 
+                97
+              ], 
+              "text": "Islam"
+            }
+          ], 
           "symbols": [], 
           "urls": [], 
-          "user_mentions": []
+          "user_mentions": [
+            {
+              "id": 2284832220, 
+              "id_str": "2284832220", 
+              "indices": [
+                3, 
+                14
+              ], 
+              "name": "NL Ambassade France", 
+              "screen_name": "NLenFrance"
+            }, 
+            {
+              "id": 57116930, 
+              "id_str": "57116930", 
+              "indices": [
+                72, 
+                84
+              ], 
+              "name": "J-P. Chev\u00e8nement", 
+              "screen_name": "chevenement"
+            }
+          ]
         }, 
-        "favorite_count": 93, 
+        "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 804419175296823296, 
-        "id_str": "804419175296823296", 
+        "id": 804627700010905600, 
+        "id_str": "804627700010905600", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -5975,13 +6202,105 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 106, 
+        "retweet_count": 30, 
         "retweeted": false, 
-        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-        "text": "Fran\u00e7ois Hollande a su trouver une issue digne \u00e0 une situation qui ne l\u2019\u00e9tait pas", 
+        "retweeted_status": {
+          "contributors": null, 
+          "coordinates": null, 
+          "created_at": "Fri Dec 02 09:49:18 +0000 2016", 
+          "entities": {
+            "hashtags": [
+              {
+                "indices": [
+                  75, 
+                  81
+                ], 
+                "text": "Islam"
+              }
+            ], 
+            "symbols": [], 
+            "urls": [
+              {
+                "display_url": "twitter.com/i/web/status/8\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/804623467949789184", 
+                "indices": [
+                  117, 
+                  140
+                ], 
+                "url": "https://t.co/3S56O7vtZp"
+              }
+            ], 
+            "user_mentions": [
+              {
+                "id": 57116930, 
+                "id_str": "57116930", 
+                "indices": [
+                  56, 
+                  68
+                ], 
+                "name": "J-P. Chev\u00e8nement", 
+                "screen_name": "chevenement"
+              }
+            ]
+          }, 
+          "favorite_count": 12, 
+          "favorited": false, 
+          "geo": null, 
+          "id": 804623467949789184, 
+          "id_str": "804623467949789184", 
+          "in_reply_to_screen_name": null, 
+          "in_reply_to_status_id": null, 
+          "in_reply_to_status_id_str": null, 
+          "in_reply_to_user_id": null, 
+          "in_reply_to_user_id_str": null, 
+          "is_quote_status": false, 
+          "lang": "fr", 
+          "place": {
+            "attributes": {}, 
+            "bounding_box": {
+              "coordinates": [
+                [
+                  [
+                    2.2241005999999999, 
+                    48.815521400000002
+                  ], 
+                  [
+                    2.4699053000000002, 
+                    48.815521400000002
+                  ], 
+                  [
+                    2.4699053000000002, 
+                    48.902146100000003
+                  ], 
+                  [
+                    2.2241005999999999, 
+                    48.902146100000003
+                  ]
+                ]
+              ], 
+              "type": "Polygon"
+            }, 
+            "contained_within": [], 
+            "country": "France", 
+            "country_code": "FR", 
+            "full_name": "Paris, France", 
+            "id": "09f6a7707f18e0b1", 
+            "name": "Paris", 
+            "place_type": "city", 
+            "url": "https://api.twitter.com/1.1/geo/id/09f6a7707f18e0b1.json"
+          }, 
+          "possibly_sensitive": false, 
+          "retweet_count": 30, 
+          "retweeted": false, 
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+          "text": "\"Nous avons besoin d'un djihad la\u00efque\", dit Jean-Pierre @Chevenement sur l'#Islam en FR lors d'une r\u00e9union des amba\u2026 https://t.co/3S56O7vtZp", 
+          "truncated": true
+        }, 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @NLenFrance: \"Nous avons besoin d'un djihad la\u00efque\", dit Jean-Pierre @Chevenement sur l'#Islam en FR lors d'une r\u00e9union des ambassadeurs\u2026", 
         "truncated": false
       }, 
-      "statuses_count": 4245, 
+      "statuses_count": 4246, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": "http://t.co/uxgBAwrQat", 
@@ -5990,13 +6309,13 @@
     }, 
     "twitter_description": "Ancien ministre. Pdt du club R\u00e9publique Moderne (@RepubliqueMod) et de la Fondation Res Publica (@fondarespublica).", 
     "twitter_favourites": 155, 
-    "twitter_followers": 59751, 
+    "twitter_followers": 59758, 
     "twitter_following": 681, 
     "twitter_id": 57116930, 
-    "twitter_listed": 1237, 
+    "twitter_listed": 1235, 
     "twitter_name": "J-P. Chev\u00e8nement", 
     "twitter_protected": false, 
-    "twitter_tweets": 4245, 
+    "twitter_tweets": 4246, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/chevenement_jean_pierre02053w.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-pierre-chevenement", 
@@ -14539,8 +14858,8 @@
     "profession": null, 
     "sexe": "H", 
     "sites_web": [
-      "https://twitter.com/claude_kern", 
       "https://www.facebook.com/claude.kern", 
+      "https://twitter.com/claude_kern", 
       "https://www.facebook.com/senateurclaudekern"
     ], 
     "slug": "claude-kern", 
@@ -16931,7 +17250,7 @@
       }, 
       "favourites_count": 5, 
       "follow_request_sent": false, 
-      "followers_count": 3715, 
+      "followers_count": 3716, 
       "following": false, 
       "friends_count": 2370, 
       "geo_enabled": false, 
@@ -16997,7 +17316,7 @@
     }, 
     "twitter_description": "S\u00e9nateur honoraire-maire de Compi\u00e8gne , Pr\u00e9sident de l'agglom\u00e9ration de la r\u00e9gion de Compi\u00e8gne, Pr\u00e9sident de la commission des finances du S\u00e9nat.", 
     "twitter_favourites": 5, 
-    "twitter_followers": 3715, 
+    "twitter_followers": 3716, 
     "twitter_following": 2370, 
     "twitter_id": 1534099902, 
     "twitter_listed": 128, 
@@ -19399,11 +19718,11 @@
           "urls": []
         }
       }, 
-      "favourites_count": 1590, 
+      "favourites_count": 1597, 
       "follow_request_sent": false, 
-      "followers_count": 89116, 
+      "followers_count": 89141, 
       "following": false, 
-      "friends_count": 2408, 
+      "friends_count": 2406, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 219361536, 
@@ -19411,7 +19730,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 1009, 
+      "listed_count": 1008, 
       "location": "Paris, France", 
       "name": "Jean-Vincent Plac\u00e9", 
       "notifications": false, 
@@ -19433,26 +19752,44 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Thu Dec 01 20:45:08 +0000 2016", 
+        "created_at": "Fri Dec 02 22:35:37 +0000 2016", 
         "entities": {
           "hashtags": [
             {
               "indices": [
-                93, 
-                102
+                21, 
+                29
               ], 
-              "text": "Hollande"
+              "text": "CIH2016"
+            }, 
+            {
+              "indices": [
+                50, 
+                57
+              ], 
+              "text": "aidant"
             }
           ], 
           "symbols": [], 
           "urls": [], 
-          "user_mentions": []
+          "user_mentions": [
+            {
+              "id": 951480480, 
+              "id_str": "951480480", 
+              "indices": [
+                3, 
+                18
+              ], 
+              "name": "Gouvernement", 
+              "screen_name": "gouvernementFR"
+            }
+          ]
         }, 
-        "favorite_count": 47, 
+        "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 804426124990222336, 
-        "id_str": "804426124990222336", 
+        "id": 804816316465029125, 
+        "id_str": "804816316465029125", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -19461,13 +19798,68 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 23, 
+        "retweet_count": 37, 
         "retweeted": false, 
+        "retweeted_status": {
+          "contributors": null, 
+          "coordinates": null, 
+          "created_at": "Fri Dec 02 17:31:39 +0000 2016", 
+          "entities": {
+            "hashtags": [
+              {
+                "indices": [
+                  1, 
+                  9
+                ], 
+                "text": "CIH2016"
+              }, 
+              {
+                "indices": [
+                  30, 
+                  37
+                ], 
+                "text": "aidant"
+              }
+            ], 
+            "symbols": [], 
+            "urls": [
+              {
+                "display_url": "twitter.com/i/web/status/8\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/804739820908060672", 
+                "indices": [
+                  117, 
+                  140
+                ], 
+                "url": "https://t.co/GzcopQRxs9"
+              }
+            ], 
+            "user_mentions": []
+          }, 
+          "favorite_count": 27, 
+          "favorited": false, 
+          "geo": null, 
+          "id": 804739820908060672, 
+          "id_str": "804739820908060672", 
+          "in_reply_to_screen_name": null, 
+          "in_reply_to_status_id": null, 
+          "in_reply_to_status_id_str": null, 
+          "in_reply_to_user_id": null, 
+          "in_reply_to_user_id_str": null, 
+          "is_quote_status": false, 
+          "lang": "fr", 
+          "place": null, 
+          "possibly_sensitive": false, 
+          "retweet_count": 37, 
+          "retweeted": false, 
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+          "text": "[#CIH2016] Le cong\u00e9 de proche #aidant, un nouveau droit pour les personnes soutenant un proche en perte d\u2019autonomie\u2026 https://t.co/GzcopQRxs9", 
+          "truncated": true
+        }, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "Beaucoup d'\u00e9motion personnelle devant tant de dignit\u00e9. D\u00e9cision  courageuse. Un homme d'Etat #Hollande", 
+        "text": "RT @gouvernementFR: [#CIH2016] Le cong\u00e9 de proche #aidant, un nouveau droit pour les personnes soutenant un proche en perte d\u2019autonomie htt\u2026", 
         "truncated": false
       }, 
-      "statuses_count": 7598, 
+      "statuses_count": 7607, 
       "time_zone": null, 
       "translator_type": "none", 
       "url": null, 
@@ -19475,14 +19867,14 @@
       "verified": true
     }, 
     "twitter_description": "Secr\u00e9taire d'Etat aupr\u00e8s du Premier Ministre, charg\u00e9 de la r\u00e9forme de l'Etat et de la simplification. Pr\u00e9sident de l' @UDE_FR", 
-    "twitter_favourites": 1590, 
-    "twitter_followers": 89116, 
-    "twitter_following": 2408, 
+    "twitter_favourites": 1597, 
+    "twitter_followers": 89141, 
+    "twitter_following": 2406, 
     "twitter_id": 219361536, 
-    "twitter_listed": 1009, 
+    "twitter_listed": 1008, 
     "twitter_name": "Jean-Vincent Plac\u00e9", 
     "twitter_protected": false, 
-    "twitter_tweets": 7598, 
+    "twitter_tweets": 7607, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/place_jean_vincent11069t.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-vincent-place", 
@@ -19511,8 +19903,8 @@
     "sites_web": [
       "http://fr-fr.facebook.com/people/Jean-Pierre-Plancade/100002416394710", 
       "http://www.facebook.com/profile.php?id=100002416394710", 
-      "https://twitter.com/#!/JPPlancade", 
-      "https://twitter.com/JPPlancade"
+      "https://twitter.com/JPPlancade", 
+      "https://twitter.com/#!/JPPlancade"
     ], 
     "slug": "jean-pierre-plancade", 
     "twitter": "JPPlancade", 
@@ -20935,7 +21327,7 @@
       }, 
       "favourites_count": 54, 
       "follow_request_sent": false, 
-      "followers_count": 4925, 
+      "followers_count": 4927, 
       "following": false, 
       "friends_count": 393, 
       "geo_enabled": true, 
@@ -20967,44 +21359,58 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Mon Nov 28 10:30:32 +0000 2016", 
+        "created_at": "Fri Dec 02 17:03:59 +0000 2016", 
         "entities": {
           "hashtags": [
             {
               "indices": [
-                86, 
-                97
+                0, 
+                11
               ], 
               "text": "Strasbourg"
+            }, 
+            {
+              "indices": [
+                37, 
+                50
+              ], 
+              "text": "March\u00e9deNo\u00ebl"
+            }, 
+            {
+              "indices": [
+                62, 
+                79
+              ], 
+              "text": "JevoteStrasbourg"
             }
           ], 
           "media": [
             {
-              "display_url": "pic.twitter.com/rRvCwFhtxR", 
-              "expanded_url": "https://twitter.com/Roland_Ries/status/803184292339785728/photo/1", 
-              "id": 803184277961719808, 
-              "id_str": "803184277961719808", 
+              "display_url": "pic.twitter.com/m3pkxwgvcY", 
+              "expanded_url": "https://twitter.com/Roland_Ries/status/804732859042906112/photo/1", 
+              "id": 804732851556061184, 
+              "id_str": "804732851556061184", 
               "indices": [
-                99, 
-                122
+                108, 
+                131
               ], 
-              "media_url": "http://pbs.twimg.com/media/CyV72GkWQAAvONM.jpg", 
-              "media_url_https": "https://pbs.twimg.com/media/CyV72GkWQAAvONM.jpg", 
+              "media_url": "http://pbs.twimg.com/media/Cyr8Q8wWEAAImiD.jpg", 
+              "media_url_https": "https://pbs.twimg.com/media/Cyr8Q8wWEAAImiD.jpg", 
               "sizes": {
                 "large": {
-                  "h": 1080, 
+                  "h": 216, 
                   "resize": "fit", 
-                  "w": 1920
+                  "w": 480
                 }, 
                 "medium": {
-                  "h": 675, 
+                  "h": 216, 
                   "resize": "fit", 
-                  "w": 1200
+                  "w": 480
                 }, 
                 "small": {
-                  "h": 383, 
+                  "h": 216, 
                   "resize": "fit", 
-                  "w": 680
+                  "w": 480
                 }, 
                 "thumb": {
                   "h": 150, 
@@ -21013,52 +21419,51 @@
                 }
               }, 
               "type": "photo", 
-              "url": "https://t.co/rRvCwFhtxR"
+              "url": "https://t.co/m3pkxwgvcY"
             }
           ], 
           "symbols": [], 
-          "urls": [], 
-          "user_mentions": [
+          "urls": [
             {
-              "id": 66083959, 
-              "id_str": "66083959", 
+              "display_url": "stras.me/noel", 
+              "expanded_url": "http://stras.me/noel", 
               "indices": [
-                52, 
-                60
+                84, 
+                107
               ], 
-              "name": "Matt Pokora", 
-              "screen_name": "MPokora"
+              "url": "https://t.co/rc9Fsp7GYW"
             }
-          ]
+          ], 
+          "user_mentions": []
         }, 
         "extended_entities": {
           "media": [
             {
-              "display_url": "pic.twitter.com/rRvCwFhtxR", 
-              "expanded_url": "https://twitter.com/Roland_Ries/status/803184292339785728/photo/1", 
-              "id": 803184277961719808, 
-              "id_str": "803184277961719808", 
+              "display_url": "pic.twitter.com/m3pkxwgvcY", 
+              "expanded_url": "https://twitter.com/Roland_Ries/status/804732859042906112/photo/1", 
+              "id": 804732851556061184, 
+              "id_str": "804732851556061184", 
               "indices": [
-                99, 
-                122
+                108, 
+                131
               ], 
-              "media_url": "http://pbs.twimg.com/media/CyV72GkWQAAvONM.jpg", 
-              "media_url_https": "https://pbs.twimg.com/media/CyV72GkWQAAvONM.jpg", 
+              "media_url": "http://pbs.twimg.com/media/Cyr8Q8wWEAAImiD.jpg", 
+              "media_url_https": "https://pbs.twimg.com/media/Cyr8Q8wWEAAImiD.jpg", 
               "sizes": {
                 "large": {
-                  "h": 1080, 
+                  "h": 216, 
                   "resize": "fit", 
-                  "w": 1920
+                  "w": 480
                 }, 
                 "medium": {
-                  "h": 675, 
+                  "h": 216, 
                   "resize": "fit", 
-                  "w": 1200
+                  "w": 480
                 }, 
                 "small": {
-                  "h": 383, 
+                  "h": 216, 
                   "resize": "fit", 
-                  "w": 680
+                  "w": 480
                 }, 
                 "thumb": {
                   "h": 150, 
@@ -21067,15 +21472,15 @@
                 }
               }, 
               "type": "photo", 
-              "url": "https://t.co/rRvCwFhtxR"
+              "url": "https://t.co/m3pkxwgvcY"
             }
           ]
         }, 
-        "favorite_count": 1564, 
+        "favorite_count": 7, 
         "favorited": false, 
         "geo": null, 
-        "id": 803184292339785728, 
-        "id_str": "803184292339785728", 
+        "id": 804732859042906112, 
+        "id_str": "804732859042906112", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -21118,13 +21523,13 @@
           "url": "https://api.twitter.com/1.1/geo/id/0701e94ee168b555.json"
         }, 
         "possibly_sensitive": false, 
-        "retweet_count": 578, 
+        "retweet_count": 4, 
         "retweeted": false, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "Comme chaque ann\u00e9e, retrouvailles chaleureuses avec @MPokora sur le march\u00e9 de No\u00ebl de #Strasbourg. https://t.co/rRvCwFhtxR", 
+        "text": "#Strasbourg en lice pour le meilleur #March\u00e9deNo\u00ebl d\u2019Europe \ud83c\udf84\ud83e\udd8c#JevoteStrasbourg sur https://t.co/rc9Fsp7GYW https://t.co/m3pkxwgvcY", 
         "truncated": false
       }, 
-      "statuses_count": 314, 
+      "statuses_count": 315, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": null, 
@@ -21133,13 +21538,13 @@
     }, 
     "twitter_description": "Maire de Strasbourg", 
     "twitter_favourites": 54, 
-    "twitter_followers": 4925, 
+    "twitter_followers": 4927, 
     "twitter_following": 393, 
     "twitter_id": 281438650, 
     "twitter_listed": 240, 
     "twitter_name": "Roland Ries", 
     "twitter_protected": false, 
-    "twitter_tweets": 314, 
+    "twitter_tweets": 315, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/ries_roland04065k.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/roland-ries", 
