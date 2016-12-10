@@ -806,11 +806,11 @@
           ]
         }
       }, 
-      "favourites_count": 760, 
+      "favourites_count": 783, 
       "follow_request_sent": false, 
-      "followers_count": 16414, 
+      "followers_count": 16422, 
       "following": false, 
-      "friends_count": 1381, 
+      "friends_count": 1385, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 110191018, 
@@ -840,223 +840,44 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Wed Dec 07 21:32:16 +0000 2016", 
+        "created_at": "Fri Dec 09 16:47:55 +0000 2016", 
         "entities": {
-          "hashtags": [
-            {
-              "indices": [
-                40, 
-                44
-              ], 
-              "text": "UDI"
-            }, 
-            {
-              "indices": [
-                117, 
-                126
-              ], 
-              "text": "EnMarche"
-            }
-          ], 
+          "hashtags": [], 
           "symbols": [], 
           "urls": [], 
           "user_mentions": [
             {
-              "id": 801128782178426892, 
-              "id_str": "801128782178426892", 
+              "id": 1124584752, 
+              "id_str": "1124584752", 
               "indices": [
-                3, 
-                16
+                0, 
+                13
               ], 
-              "name": "Au Centre av. Macron", 
-              "screen_name": "CentreMacron"
-            }, 
-            {
-              "id": 110191018, 
-              "id_str": "110191018", 
-              "indices": [
-                19, 
-                31
-              ], 
-              "name": "Jean Arthuis", 
-              "screen_name": "JeanArthuis"
-            }, 
-            {
-              "id": 1976143068, 
-              "id_str": "1976143068", 
-              "indices": [
-                99, 
-                114
-              ], 
-              "name": "Emmanuel Macron", 
-              "screen_name": "EmmanuelMacron"
+              "name": "Yannick BORDE", 
+              "screen_name": "YannickBORDE"
             }
           ]
         }, 
-        "favorite_count": 0, 
+        "favorite_count": 3, 
         "favorited": false, 
         "geo": null, 
-        "id": 806612313587535879, 
-        "id_str": "806612313587535879", 
-        "in_reply_to_screen_name": null, 
-        "in_reply_to_status_id": null, 
-        "in_reply_to_status_id_str": null, 
-        "in_reply_to_user_id": null, 
-        "in_reply_to_user_id_str": null, 
+        "id": 807265532491735040, 
+        "id_str": "807265532491735040", 
+        "in_reply_to_screen_name": "YannickBORDE", 
+        "in_reply_to_status_id": 807258223908634625, 
+        "in_reply_to_status_id_str": "807258223908634625", 
+        "in_reply_to_user_id": 1124584752, 
+        "in_reply_to_user_id_str": "1124584752", 
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 39, 
+        "retweet_count": 4, 
         "retweeted": false, 
-        "retweeted_status": {
-          "contributors": null, 
-          "coordinates": null, 
-          "created_at": "Wed Dec 07 19:40:43 +0000 2016", 
-          "entities": {
-            "hashtags": [
-              {
-                "indices": [
-                  22, 
-                  26
-                ], 
-                "text": "UDI"
-              }, 
-              {
-                "indices": [
-                  99, 
-                  108
-                ], 
-                "text": "EnMarche"
-              }
-            ], 
-            "media": [
-              {
-                "display_url": "pic.twitter.com/EX6DCfLYyp", 
-                "expanded_url": "https://twitter.com/CentreMacron/status/806584240246816768/photo/1", 
-                "id": 806584213390708740, 
-                "id_str": "806584213390708740", 
-                "indices": [
-                  112, 
-                  135
-                ], 
-                "media_url": "http://pbs.twimg.com/media/CzGQEZCXUAQYiwA.jpg", 
-                "media_url_https": "https://pbs.twimg.com/media/CzGQEZCXUAQYiwA.jpg", 
-                "sizes": {
-                  "large": {
-                    "h": 2048, 
-                    "resize": "fit", 
-                    "w": 2048
-                  }, 
-                  "medium": {
-                    "h": 1200, 
-                    "resize": "fit", 
-                    "w": 1200
-                  }, 
-                  "small": {
-                    "h": 680, 
-                    "resize": "fit", 
-                    "w": 680
-                  }, 
-                  "thumb": {
-                    "h": 150, 
-                    "resize": "crop", 
-                    "w": 150
-                  }
-                }, 
-                "type": "photo", 
-                "url": "https://t.co/EX6DCfLYyp"
-              }
-            ], 
-            "symbols": [], 
-            "urls": [], 
-            "user_mentions": [
-              {
-                "id": 110191018, 
-                "id_str": "110191018", 
-                "indices": [
-                  1, 
-                  13
-                ], 
-                "name": "Jean Arthuis", 
-                "screen_name": "JeanArthuis"
-              }, 
-              {
-                "id": 1976143068, 
-                "id_str": "1976143068", 
-                "indices": [
-                  81, 
-                  96
-                ], 
-                "name": "Emmanuel Macron", 
-                "screen_name": "EmmanuelMacron"
-              }
-            ]
-          }, 
-          "extended_entities": {
-            "media": [
-              {
-                "display_url": "pic.twitter.com/EX6DCfLYyp", 
-                "expanded_url": "https://twitter.com/CentreMacron/status/806584240246816768/photo/1", 
-                "id": 806584213390708740, 
-                "id_str": "806584213390708740", 
-                "indices": [
-                  112, 
-                  135
-                ], 
-                "media_url": "http://pbs.twimg.com/media/CzGQEZCXUAQYiwA.jpg", 
-                "media_url_https": "https://pbs.twimg.com/media/CzGQEZCXUAQYiwA.jpg", 
-                "sizes": {
-                  "large": {
-                    "h": 2048, 
-                    "resize": "fit", 
-                    "w": 2048
-                  }, 
-                  "medium": {
-                    "h": 1200, 
-                    "resize": "fit", 
-                    "w": 1200
-                  }, 
-                  "small": {
-                    "h": 680, 
-                    "resize": "fit", 
-                    "w": 680
-                  }, 
-                  "thumb": {
-                    "h": 150, 
-                    "resize": "crop", 
-                    "w": 150
-                  }
-                }, 
-                "type": "photo", 
-                "url": "https://t.co/EX6DCfLYyp"
-              }
-            ]
-          }, 
-          "favorite_count": 24, 
-          "favorited": false, 
-          "geo": null, 
-          "id": 806584240246816768, 
-          "id_str": "806584240246816768", 
-          "in_reply_to_screen_name": "CentreMacron", 
-          "in_reply_to_status_id": 806579093596753920, 
-          "in_reply_to_status_id_str": "806579093596753920", 
-          "in_reply_to_user_id": 801128782178426892, 
-          "in_reply_to_user_id_str": "801128782178426892", 
-          "is_quote_status": false, 
-          "lang": "fr", 
-          "place": null, 
-          "possibly_sensitive": false, 
-          "retweet_count": 39, 
-          "retweeted": false, 
-          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-          "text": ".@JeanArthuis, d\u00e9put\u00e9 #UDI, pr\u00e9sent au lancement de notre mouvement de soutien \u00e0 @EmmanuelMacron ! #EnMarche \ud83d\udc4d\ud83c\udffb https://t.co/EX6DCfLYyp", 
-          "truncated": false
-        }, 
-        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
-        "text": "RT @CentreMacron: .@JeanArthuis, d\u00e9put\u00e9 #UDI, pr\u00e9sent au lancement de notre mouvement de soutien \u00e0 @EmmanuelMacron ! #EnMarche \ud83d\udc4d\ud83c\udffb https://t\u2026", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "@YannickBORDE Merci pour le rappel du principe de \"pr\u00e9caution\", et si nous parlions vision, projet et valeurs!", 
         "truncated": false
       }, 
-      "statuses_count": 2984, 
+      "statuses_count": 2995, 
       "time_zone": "Amsterdam", 
       "translator_type": "none", 
       "url": "https://t.co/YhICpAOeW0", 
@@ -1064,14 +885,14 @@
       "verified": true
     }, 
     "twitter_description": "D\u00e9put\u00e9 europ\u00e9en, Pr\u00e9sident de la com. #BUDG , fondateur de l'Alliance centriste (#UDI), ancien ministre de l'\u00e9conomie et des finances https://t.co/fhOVDCh45q", 
-    "twitter_favourites": 760, 
-    "twitter_followers": 16414, 
-    "twitter_following": 1381, 
+    "twitter_favourites": 783, 
+    "twitter_followers": 16422, 
+    "twitter_following": 1385, 
     "twitter_id": 110191018, 
     "twitter_listed": 640, 
     "twitter_name": "Jean Arthuis", 
     "twitter_protected": false, 
-    "twitter_tweets": 2984, 
+    "twitter_tweets": 2995, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/arthuis_jean83011j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-arthuis", 
@@ -2335,9 +2156,9 @@
       }, 
       "favourites_count": 214, 
       "follow_request_sent": false, 
-      "followers_count": 1311, 
+      "followers_count": 1312, 
       "following": false, 
-      "friends_count": 298, 
+      "friends_count": 299, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 78422142, 
@@ -2440,7 +2261,7 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 2, 
+        "retweet_count": 5, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
@@ -2498,7 +2319,7 @@
               }
             ]
           }, 
-          "favorite_count": 0, 
+          "favorite_count": 1, 
           "favorited": false, 
           "geo": null, 
           "id": 806963804387115008, 
@@ -2512,7 +2333,7 @@
           "lang": "fr", 
           "place": null, 
           "possibly_sensitive": false, 
-          "retweet_count": 2, 
+          "retweet_count": 5, 
           "retweeted": false, 
           "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
           "text": "@bessonjean @nnieson Et une borne de plus! Aujourd'hui Bourg de P\u00e9age #mobilit\u00e9Electrique #eborn\u2026 https://t.co/s0mDcMaF9t", 
@@ -2531,8 +2352,8 @@
     }, 
     "twitter_description": "Jean BESSON, S\u00e9nateur Honoraire, Pr\u00e9sident d'@energiesded, Vice Pr\u00e9sident de la @fnccr, #Progressiste", 
     "twitter_favourites": 214, 
-    "twitter_followers": 1311, 
-    "twitter_following": 298, 
+    "twitter_followers": 1312, 
+    "twitter_following": 299, 
     "twitter_id": 78422142, 
     "twitter_listed": 79, 
     "twitter_name": "Jean BESSON", 
@@ -2761,8 +2582,8 @@
     "profession": "Cadre commercial", 
     "sexe": "F", 
     "sites_web": [
-      "http://bit.ly/1tgR7jS", 
-      "https://twitter.com/AnnickBillon"
+      "https://twitter.com/AnnickBillon", 
+      "http://bit.ly/1tgR7jS"
     ], 
     "slug": "annick-billon", 
     "twitter": "AnnickBillon", 
@@ -3678,7 +3499,7 @@
       }, 
       "favourites_count": 142, 
       "follow_request_sent": false, 
-      "followers_count": 4188, 
+      "followers_count": 4187, 
       "following": false, 
       "friends_count": 1076, 
       "geo_enabled": true, 
@@ -3710,36 +3531,46 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Wed Dec 07 17:43:49 +0000 2016", 
+        "created_at": "Fri Dec 09 21:47:39 +0000 2016", 
         "entities": {
           "hashtags": [
             {
               "indices": [
-                111, 
-                121
+                122, 
+                132
               ], 
-              "text": "politique"
+              "text": "plaisance"
             }
           ], 
           "symbols": [], 
           "urls": [], 
           "user_mentions": [
             {
-              "id": 457044661, 
-              "id_str": "457044661", 
+              "id": 2305234521, 
+              "id_str": "2305234521", 
               "indices": [
                 3, 
-                14
+                12
               ], 
-              "name": "Patricia Chapelotte", 
-              "screen_name": "Chapelotte"
+              "name": "Franck Dhersin", 
+              "screen_name": "FDhersin"
+            }, 
+            {
+              "id": 17172319, 
+              "id_str": "17172319", 
+              "indices": [
+                52, 
+                67
+              ], 
+              "name": "Xavier Bertrand", 
+              "screen_name": "xavierbertrand"
             }, 
             {
               "id": 551342517, 
               "id_str": "551342517", 
               "indices": [
-                56, 
-                72
+                71, 
+                87
               ], 
               "name": "Natacha BOUCHART", 
               "screen_name": "NatachaBouchart"
@@ -3749,86 +3580,128 @@
         "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 806554824636502016, 
-        "id_str": "806554824636502016", 
+        "id": 807340963194662912, 
+        "id_str": "807340963194662912", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
         "in_reply_to_user_id": null, 
         "in_reply_to_user_id_str": null, 
-        "is_quote_status": true, 
+        "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "quoted_status_id": 806040485705850880, 
-        "quoted_status_id_str": "806040485705850880", 
-        "retweet_count": 1, 
+        "retweet_count": 3, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
           "coordinates": null, 
-          "created_at": "Wed Dec 07 06:58:50 +0000 2016", 
+          "created_at": "Fri Dec 09 17:43:42 +0000 2016", 
           "entities": {
             "hashtags": [
               {
                 "indices": [
-                  95, 
-                  105
+                  108, 
+                  118
                 ], 
-                "text": "politique"
+                "text": "plaisance"
+              }, 
+              {
+                "indices": [
+                  119, 
+                  128
+                ], 
+                "text": "nautisme"
+              }, 
+              {
+                "indices": [
+                  132, 
+                  136
+                ], 
+                "text": "HDF"
               }
             ], 
             "symbols": [], 
-            "urls": [
-              {
-                "display_url": "twitter.com/i/web/status/8\u2026", 
-                "expanded_url": "https://twitter.com/i/web/status/806392506242002944", 
-                "indices": [
-                  117, 
-                  140
-                ], 
-                "url": "https://t.co/SphLixEgzj"
-              }
-            ], 
+            "urls": [], 
             "user_mentions": [
+              {
+                "id": 17172319, 
+                "id_str": "17172319", 
+                "indices": [
+                  38, 
+                  53
+                ], 
+                "name": "Xavier Bertrand", 
+                "screen_name": "xavierbertrand"
+              }, 
               {
                 "id": 551342517, 
                 "id_str": "551342517", 
                 "indices": [
-                  40, 
-                  56
+                  57, 
+                  73
                 ], 
                 "name": "Natacha BOUCHART", 
                 "screen_name": "NatachaBouchart"
               }
             ]
           }, 
-          "favorite_count": 6, 
+          "favorite_count": 3, 
           "favorited": false, 
           "geo": null, 
-          "id": 806392506242002944, 
-          "id_str": "806392506242002944", 
+          "id": 807279571250900992, 
+          "id_str": "807279571250900992", 
           "in_reply_to_screen_name": null, 
           "in_reply_to_status_id": null, 
           "in_reply_to_status_id_str": null, 
           "in_reply_to_user_id": null, 
           "in_reply_to_user_id_str": null, 
-          "is_quote_status": true, 
+          "is_quote_status": false, 
           "lang": "fr", 
-          "place": null, 
-          "possibly_sensitive": false, 
-          "quoted_status_id": 806040485705850880, 
-          "quoted_status_id_str": "806040485705850880", 
-          "retweet_count": 1, 
+          "place": {
+            "attributes": {}, 
+            "bounding_box": {
+              "coordinates": [
+                [
+                  [
+                    174.161834, 
+                    -37.292620999999997
+                  ], 
+                  [
+                    175.55065300000001, 
+                    -37.292620999999997
+                  ], 
+                  [
+                    175.55065300000001, 
+                    -35.898837
+                  ], 
+                  [
+                    174.161834, 
+                    -35.898837
+                  ]
+                ]
+              ], 
+              "type": "Polygon"
+            }, 
+            "contained_within": [], 
+            "country": "Nouvelle-Z\u00e9lande", 
+            "country_code": "NZ", 
+            "full_name": "Auckland, New Zealand", 
+            "id": "0022e3c837579650", 
+            "name": "Auckland", 
+            "place_type": "city", 
+            "url": "https://api.twitter.com/1.1/geo/id/0022e3c837579650.json"
+          }, 
+          "retweet_count": 3, 
           "retweeted": false, 
-          "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>", 
-          "text": "Fi\u00e8re d avoir comme pr\u00e9sidente remis \u00e0  @NatachaBouchart le Prix femme influence politique: la #politique ca peut e\u2026 https://t.co/SphLixEgzj", 
-          "truncated": true
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+          "text": "...(6/6)\"La volont\u00e9 est l\u00e0, accord de @xavierbertrand et @NatachaBouchart pr cr\u00e9er une conf\u00e9rence r\u00e9gionale #plaisance #nautisme en #HDF \"", 
+          "truncated": false
         }, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "RT @Chapelotte: Fi\u00e8re d avoir comme pr\u00e9sidente remis \u00e0  @NatachaBouchart le Prix femme influence politique: la #politique ca peut etre beau\u2026", 
+        "text": "RT @FDhersin: ...(6/6)\"La volont\u00e9 est l\u00e0, accord de @xavierbertrand et @NatachaBouchart pr cr\u00e9er une conf\u00e9rence r\u00e9gionale #plaisance #nauti\u2026", 
         "truncated": false
       }, 
-      "statuses_count": 5377, 
+      "statuses_count": 5378, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": null, 
@@ -3837,13 +3710,13 @@
     }, 
     "twitter_description": "Vice-Pr\u00e9sidente de la R\u00e9gion Hauts-de-France Nord Pas de Calais-Picardie. Maire de #Calais, Pr\u00e9sidente de @capcalaisis.", 
     "twitter_favourites": 142, 
-    "twitter_followers": 4188, 
+    "twitter_followers": 4187, 
     "twitter_following": 1076, 
     "twitter_id": 551342517, 
     "twitter_listed": 171, 
     "twitter_name": "Natacha BOUCHART", 
     "twitter_protected": false, 
-    "twitter_tweets": 5377, 
+    "twitter_tweets": 5378, 
     "twitter_verified": false, 
     "url_institution": "http://www.senat.fr/senateur/bouchart_natacha11060j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/natacha-bouchart", 
@@ -4643,8 +4516,8 @@
     "profession": "Chef d'entreprise", 
     "sexe": "H", 
     "sites_web": [
-      "http://oliviercadic.com", 
-      "https://twitter.com/OlivierCadic"
+      "https://twitter.com/OlivierCadic", 
+      "http://oliviercadic.com"
     ], 
     "slug": "olivier-cadic", 
     "twitter": "OlivierCadic", 
@@ -6219,9 +6092,9 @@
     "profession": "Conseiller du commerce ext\u00e9rieur", 
     "sexe": "H", 
     "sites_web": [
-      "http://www.facebook.com/jpchevenement", 
-      "https://twitter.com/chevenement", 
       "http://www.chevenement.fr", 
+      "https://twitter.com/chevenement", 
+      "http://www.facebook.com/jpchevenement", 
       "http://twitter.com/chevenement"
     ], 
     "slug": "jean-pierre-chevenement", 
@@ -6253,7 +6126,7 @@
       }, 
       "favourites_count": 155, 
       "follow_request_sent": false, 
-      "followers_count": 59893, 
+      "followers_count": 59934, 
       "following": false, 
       "friends_count": 681, 
       "geo_enabled": true, 
@@ -6335,7 +6208,7 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 33, 
+        "retweet_count": 34, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
@@ -6365,7 +6238,7 @@
             ], 
             "user_mentions": []
           }, 
-          "favorite_count": 9, 
+          "favorite_count": 10, 
           "favorited": false, 
           "geo": null, 
           "id": 806860185348272128, 
@@ -6379,7 +6252,7 @@
           "lang": "fr", 
           "place": null, 
           "possibly_sensitive": false, 
-          "retweet_count": 33, 
+          "retweet_count": 34, 
           "retweeted": false, 
           "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
           "text": "La Fondation de l'#Islam de \ud83c\uddeb\ud83c\uddf7 soutient des projets culturels et \u00e9ducatifs pr une meilleure connaissance de la reli\u2026 https://t.co/2Q6JksFFMV", 
@@ -6398,7 +6271,7 @@
     }, 
     "twitter_description": "Ancien ministre. Pdt du club R\u00e9publique Moderne (@RepubliqueMod) et de la Fondation Res Publica (@fondarespublica).", 
     "twitter_favourites": 155, 
-    "twitter_followers": 59893, 
+    "twitter_followers": 59934, 
     "twitter_following": 681, 
     "twitter_id": 57116930, 
     "twitter_listed": 1238, 
@@ -7307,7 +7180,7 @@
       }, 
       "favourites_count": 1, 
       "follow_request_sent": false, 
-      "followers_count": 404, 
+      "followers_count": 403, 
       "following": false, 
       "friends_count": 13, 
       "geo_enabled": false, 
@@ -7478,7 +7351,7 @@
     }, 
     "twitter_description": "Maire de @villedemacon pr\u00e9sident de la @_camval", 
     "twitter_favourites": 1, 
-    "twitter_followers": 404, 
+    "twitter_followers": 403, 
     "twitter_following": 13, 
     "twitter_id": 1479161936, 
     "twitter_listed": 33, 
@@ -14948,8 +14821,8 @@
     "profession": null, 
     "sexe": "H", 
     "sites_web": [
-      "https://www.facebook.com/claude.kern", 
       "https://twitter.com/claude_kern", 
+      "https://www.facebook.com/claude.kern", 
       "https://www.facebook.com/senateurclaudekern"
     ], 
     "slug": "claude-kern", 
@@ -17340,7 +17213,7 @@
       }, 
       "favourites_count": 5, 
       "follow_request_sent": false, 
-      "followers_count": 3715, 
+      "followers_count": 3714, 
       "following": false, 
       "friends_count": 2370, 
       "geo_enabled": false, 
@@ -17406,7 +17279,7 @@
     }, 
     "twitter_description": "S\u00e9nateur honoraire-maire de Compi\u00e8gne , Pr\u00e9sident de l'agglom\u00e9ration de la r\u00e9gion de Compi\u00e8gne, Pr\u00e9sident de la commission des finances du S\u00e9nat.", 
     "twitter_favourites": 5, 
-    "twitter_followers": 3715, 
+    "twitter_followers": 3714, 
     "twitter_following": 2370, 
     "twitter_id": 1534099902, 
     "twitter_listed": 129, 
@@ -18537,7 +18410,7 @@
       }, 
       "favourites_count": 51, 
       "follow_request_sent": false, 
-      "followers_count": 217, 
+      "followers_count": 216, 
       "following": false, 
       "friends_count": 141, 
       "geo_enabled": false, 
@@ -18604,7 +18477,7 @@
     }, 
     "twitter_description": "S\u00e9natrice Les R\u00e9publicains des Hautes-Alpes", 
     "twitter_favourites": 51, 
-    "twitter_followers": 217, 
+    "twitter_followers": 216, 
     "twitter_following": 141, 
     "twitter_id": 3189823869, 
     "twitter_listed": 12, 
@@ -19808,11 +19681,11 @@
           "urls": []
         }
       }, 
-      "favourites_count": 1625, 
+      "favourites_count": 1634, 
       "follow_request_sent": false, 
-      "followers_count": 89286, 
+      "followers_count": 89322, 
       "following": false, 
-      "friends_count": 2409, 
+      "friends_count": 2407, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 219361536, 
@@ -19820,7 +19693,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 1010, 
+      "listed_count": 1011, 
       "location": "Paris, France", 
       "name": "Jean-Vincent Plac\u00e9", 
       "notifications": false, 
@@ -19842,56 +19715,49 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Thu Dec 08 23:17:17 +0000 2016", 
+        "created_at": "Fri Dec 09 19:08:30 +0000 2016", 
         "entities": {
           "hashtags": [
             {
               "indices": [
-                24, 
-                28
-              ], 
-              "text": "OGP"
-            }, 
-            {
-              "indices": [
-                91, 
-                97
+                100, 
+                106
               ], 
               "text": "OGP16"
             }, 
             {
               "indices": [
-                98, 
-                106
+                107, 
+                116
               ], 
-              "text": "opengov"
+              "text": "Act2Open"
             }
           ], 
           "media": [
             {
-              "display_url": "pic.twitter.com/mpjz7ERKHH", 
-              "expanded_url": "https://twitter.com/opengovpart/status/803351190272638977/photo/1", 
-              "id": 803351132332498948, 
-              "id_str": "803351132332498948", 
+              "display_url": "pic.twitter.com/AJjqxSWqm4", 
+              "expanded_url": "https://twitter.com/sg_map/status/807295671015526400/photo/1", 
+              "id": 807295424893685760, 
+              "id_str": "807295424893685760", 
               "indices": [
-                107, 
-                130
+                117, 
+                140
               ], 
-              "media_url": "http://pbs.twimg.com/media/CyYTmTiWIAQ8VAo.jpg", 
-              "media_url_https": "https://pbs.twimg.com/media/CyYTmTiWIAQ8VAo.jpg", 
+              "media_url": "http://pbs.twimg.com/media/CzQW6WWWEAADnpJ.jpg", 
+              "media_url_https": "https://pbs.twimg.com/media/CzQW6WWWEAADnpJ.jpg", 
               "sizes": {
                 "large": {
-                  "h": 537, 
+                  "h": 1280, 
                   "resize": "fit", 
-                  "w": 917
+                  "w": 2048
                 }, 
                 "medium": {
-                  "h": 537, 
+                  "h": 750, 
                   "resize": "fit", 
-                  "w": 917
+                  "w": 1200
                 }, 
                 "small": {
-                  "h": 398, 
+                  "h": 425, 
                   "resize": "fit", 
                   "w": 680
                 }, 
@@ -19901,55 +19767,65 @@
                   "w": 150
                 }
               }, 
-              "source_status_id": 803351190272638977, 
-              "source_status_id_str": "803351190272638977", 
-              "source_user_id": 321575853, 
-              "source_user_id_str": "321575853", 
+              "source_status_id": 807295671015526400, 
+              "source_status_id_str": "807295671015526400", 
+              "source_user_id": 159161738, 
+              "source_user_id_str": "159161738", 
               "type": "photo", 
-              "url": "https://t.co/mpjz7ERKHH"
+              "url": "https://t.co/AJjqxSWqm4"
             }
           ], 
           "symbols": [], 
           "urls": [], 
           "user_mentions": [
             {
-              "id": 321575853, 
-              "id_str": "321575853", 
+              "id": 159161738, 
+              "id_str": "159161738", 
               "indices": [
                 3, 
-                15
+                10
               ], 
-              "name": "Open Gov Partnership", 
-              "screen_name": "opengovpart"
+              "name": "SGMAP", 
+              "screen_name": "sg_map"
+            }, 
+            {
+              "id": 219361536, 
+              "id_str": "219361536", 
+              "indices": [
+                13, 
+                21
+              ], 
+              "name": "Jean-Vincent Plac\u00e9", 
+              "screen_name": "JVPlace"
             }
           ]
         }, 
         "extended_entities": {
           "media": [
             {
-              "display_url": "pic.twitter.com/mpjz7ERKHH", 
-              "expanded_url": "https://twitter.com/opengovpart/status/803351190272638977/photo/1", 
-              "id": 803351132332498948, 
-              "id_str": "803351132332498948", 
+              "display_url": "pic.twitter.com/AJjqxSWqm4", 
+              "expanded_url": "https://twitter.com/sg_map/status/807295671015526400/photo/1", 
+              "id": 807295424893685760, 
+              "id_str": "807295424893685760", 
               "indices": [
-                107, 
-                130
+                117, 
+                140
               ], 
-              "media_url": "http://pbs.twimg.com/media/CyYTmTiWIAQ8VAo.jpg", 
-              "media_url_https": "https://pbs.twimg.com/media/CyYTmTiWIAQ8VAo.jpg", 
+              "media_url": "http://pbs.twimg.com/media/CzQW6WWWEAADnpJ.jpg", 
+              "media_url_https": "https://pbs.twimg.com/media/CzQW6WWWEAADnpJ.jpg", 
               "sizes": {
                 "large": {
-                  "h": 537, 
+                  "h": 1280, 
                   "resize": "fit", 
-                  "w": 917
+                  "w": 2048
                 }, 
                 "medium": {
-                  "h": 537, 
+                  "h": 750, 
                   "resize": "fit", 
-                  "w": 917
+                  "w": 1200
                 }, 
                 "small": {
-                  "h": 398, 
+                  "h": 425, 
                   "resize": "fit", 
                   "w": 680
                 }, 
@@ -19959,84 +19835,77 @@
                   "w": 150
                 }
               }, 
-              "source_status_id": 803351190272638977, 
-              "source_status_id_str": "803351190272638977", 
-              "source_user_id": 321575853, 
-              "source_user_id_str": "321575853", 
+              "source_status_id": 807295671015526400, 
+              "source_status_id_str": "807295671015526400", 
+              "source_user_id": 159161738, 
+              "source_user_id_str": "159161738", 
               "type": "photo", 
-              "url": "https://t.co/mpjz7ERKHH"
+              "url": "https://t.co/AJjqxSWqm4"
             }
           ]
         }, 
         "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 807001128927973376, 
-        "id_str": "807001128927973376", 
+        "id": 807300911865401344, 
+        "id_str": "807300911865401344", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
         "in_reply_to_user_id": null, 
         "in_reply_to_user_id_str": null, 
         "is_quote_status": false, 
-        "lang": "en", 
+        "lang": "fr", 
         "place": null, 
         "possibly_sensitive": false, 
-        "retweet_count": 116, 
+        "retweet_count": 6, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
           "coordinates": null, 
-          "created_at": "Mon Nov 28 21:33:43 +0000 2016", 
+          "created_at": "Fri Dec 09 18:47:41 +0000 2016", 
           "entities": {
             "hashtags": [
               {
                 "indices": [
-                  7, 
-                  11
-                ], 
-                "text": "OGP"
-              }, 
-              {
-                "indices": [
-                  74, 
-                  80
+                  88, 
+                  94
                 ], 
                 "text": "OGP16"
               }, 
               {
                 "indices": [
-                  81, 
-                  89
+                  95, 
+                  104
                 ], 
-                "text": "opengov"
+                "text": "Act2Open"
               }
             ], 
             "media": [
               {
-                "display_url": "pic.twitter.com/mpjz7ERKHH", 
-                "expanded_url": "https://twitter.com/opengovpart/status/803351190272638977/photo/1", 
-                "id": 803351132332498948, 
-                "id_str": "803351132332498948", 
+                "display_url": "pic.twitter.com/AJjqxSWqm4", 
+                "expanded_url": "https://twitter.com/sg_map/status/807295671015526400/photo/1", 
+                "id": 807295424893685760, 
+                "id_str": "807295424893685760", 
                 "indices": [
-                  90, 
-                  113
+                  105, 
+                  128
                 ], 
-                "media_url": "http://pbs.twimg.com/media/CyYTmTiWIAQ8VAo.jpg", 
-                "media_url_https": "https://pbs.twimg.com/media/CyYTmTiWIAQ8VAo.jpg", 
+                "media_url": "http://pbs.twimg.com/media/CzQW6WWWEAADnpJ.jpg", 
+                "media_url_https": "https://pbs.twimg.com/media/CzQW6WWWEAADnpJ.jpg", 
                 "sizes": {
                   "large": {
-                    "h": 537, 
+                    "h": 1280, 
                     "resize": "fit", 
-                    "w": 917
+                    "w": 2048
                   }, 
                   "medium": {
-                    "h": 537, 
+                    "h": 750, 
                     "resize": "fit", 
-                    "w": 917
+                    "w": 1200
                   }, 
                   "small": {
-                    "h": 398, 
+                    "h": 425, 
                     "resize": "fit", 
                     "w": 680
                   }, 
@@ -20047,39 +19916,50 @@
                   }
                 }, 
                 "type": "photo", 
-                "url": "https://t.co/mpjz7ERKHH"
+                "url": "https://t.co/AJjqxSWqm4"
               }
             ], 
             "symbols": [], 
             "urls": [], 
-            "user_mentions": []
+            "user_mentions": [
+              {
+                "id": 219361536, 
+                "id_str": "219361536", 
+                "indices": [
+                  1, 
+                  9
+                ], 
+                "name": "Jean-Vincent Plac\u00e9", 
+                "screen_name": "JVPlace"
+              }
+            ]
           }, 
           "extended_entities": {
             "media": [
               {
-                "display_url": "pic.twitter.com/mpjz7ERKHH", 
-                "expanded_url": "https://twitter.com/opengovpart/status/803351190272638977/photo/1", 
-                "id": 803351132332498948, 
-                "id_str": "803351132332498948", 
+                "display_url": "pic.twitter.com/AJjqxSWqm4", 
+                "expanded_url": "https://twitter.com/sg_map/status/807295671015526400/photo/1", 
+                "id": 807295424893685760, 
+                "id_str": "807295424893685760", 
                 "indices": [
-                  90, 
-                  113
+                  105, 
+                  128
                 ], 
-                "media_url": "http://pbs.twimg.com/media/CyYTmTiWIAQ8VAo.jpg", 
-                "media_url_https": "https://pbs.twimg.com/media/CyYTmTiWIAQ8VAo.jpg", 
+                "media_url": "http://pbs.twimg.com/media/CzQW6WWWEAADnpJ.jpg", 
+                "media_url_https": "https://pbs.twimg.com/media/CzQW6WWWEAADnpJ.jpg", 
                 "sizes": {
                   "large": {
-                    "h": 537, 
+                    "h": 1280, 
                     "resize": "fit", 
-                    "w": 917
+                    "w": 2048
                   }, 
                   "medium": {
-                    "h": 537, 
+                    "h": 750, 
                     "resize": "fit", 
-                    "w": 917
+                    "w": 1200
                   }, 
                   "small": {
-                    "h": 398, 
+                    "h": 425, 
                     "resize": "fit", 
                     "w": 680
                   }, 
@@ -20090,35 +19970,35 @@
                   }
                 }, 
                 "type": "photo", 
-                "url": "https://t.co/mpjz7ERKHH"
+                "url": "https://t.co/AJjqxSWqm4"
               }
             ]
           }, 
-          "favorite_count": 52, 
+          "favorite_count": 6, 
           "favorited": false, 
           "geo": null, 
-          "id": 803351190272638977, 
-          "id_str": "803351190272638977", 
+          "id": 807295671015526400, 
+          "id_str": "807295671015526400", 
           "in_reply_to_screen_name": null, 
           "in_reply_to_status_id": null, 
           "in_reply_to_status_id_str": null, 
           "in_reply_to_user_id": null, 
           "in_reply_to_user_id_str": null, 
           "is_quote_status": false, 
-          "lang": "en", 
+          "lang": "fr", 
           "place": null, 
           "possibly_sensitive": false, 
-          "retweet_count": 116, 
+          "retweet_count": 6, 
           "retweeted": false, 
-          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-          "text": "How is #OGP doing 5 years since its launch? Here's a snapshot in numbers! #OGP16 #opengov https://t.co/mpjz7ERKHH", 
+          "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+          "text": ".@JVPlace fait monter sur sc\u00e8ne  toutes les \u00e9quipes lors de son discours de cl\u00f4ture ! \ud83d\ude4c #OGP16 #Act2Open https://t.co/AJjqxSWqm4", 
           "truncated": false
         }, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "RT @opengovpart: How is #OGP doing 5 years since its launch? Here's a snapshot in numbers! #OGP16 #opengov https://t.co/mpjz7ERKHH", 
+        "text": "RT @sg_map: .@JVPlace fait monter sur sc\u00e8ne  toutes les \u00e9quipes lors de son discours de cl\u00f4ture ! \ud83d\ude4c #OGP16 #Act2Open https://t.co/AJjqxSWqm4", 
         "truncated": false
       }, 
-      "statuses_count": 7694, 
+      "statuses_count": 7727, 
       "time_zone": null, 
       "translator_type": "none", 
       "url": null, 
@@ -20126,14 +20006,14 @@
       "verified": true
     }, 
     "twitter_description": "Secr\u00e9taire d'Etat aupr\u00e8s du Premier Ministre, charg\u00e9 de la r\u00e9forme de l'Etat et de la simplification. Pr\u00e9sident de l' @UDE_FR", 
-    "twitter_favourites": 1625, 
-    "twitter_followers": 89286, 
-    "twitter_following": 2409, 
+    "twitter_favourites": 1634, 
+    "twitter_followers": 89322, 
+    "twitter_following": 2407, 
     "twitter_id": 219361536, 
-    "twitter_listed": 1010, 
+    "twitter_listed": 1011, 
     "twitter_name": "Jean-Vincent Plac\u00e9", 
     "twitter_protected": false, 
-    "twitter_tweets": 7694, 
+    "twitter_tweets": 7727, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/place_jean_vincent11069t.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-vincent-place", 
@@ -20162,8 +20042,8 @@
     "sites_web": [
       "http://fr-fr.facebook.com/people/Jean-Pierre-Plancade/100002416394710", 
       "http://www.facebook.com/profile.php?id=100002416394710", 
-      "https://twitter.com/JPPlancade", 
-      "https://twitter.com/#!/JPPlancade"
+      "https://twitter.com/#!/JPPlancade", 
+      "https://twitter.com/JPPlancade"
     ], 
     "slug": "jean-pierre-plancade", 
     "twitter": "JPPlancade", 
@@ -21771,7 +21651,7 @@
             }
           ]
         }, 
-        "favorite_count": 9, 
+        "favorite_count": 10, 
         "favorited": false, 
         "geo": null, 
         "id": 806197923327410177, 
@@ -21818,7 +21698,7 @@
           "url": "https://api.twitter.com/1.1/geo/id/0701e94ee168b555.json"
         }, 
         "possibly_sensitive": false, 
-        "retweet_count": 13, 
+        "retweet_count": 14, 
         "retweeted": false, 
         "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
         "text": "#Jevotestrasbourg, meilleur march\u00e9 de #No\u00ebl d'#Europe ! https://t.co/rc9Fsp7GYW https://t.co/nMdOOlQDuC", 
