@@ -806,9 +806,9 @@
           ]
         }
       }, 
-      "favourites_count": 806, 
+      "favourites_count": 818, 
       "follow_request_sent": false, 
-      "followers_count": 16758, 
+      "followers_count": 16774, 
       "following": false, 
       "friends_count": 1456, 
       "geo_enabled": true, 
@@ -818,7 +818,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 647, 
+      "listed_count": 649, 
       "location": "Ch-Gontier/Bruxelles/Strasbrg", 
       "name": "Jean Arthuis", 
       "notifications": false, 
@@ -840,43 +840,150 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Sat Jan 07 16:37:41 +0000 2017", 
+        "created_at": "Mon Jan 09 23:01:24 +0000 2017", 
         "entities": {
-          "hashtags": [
+          "hashtags": [], 
+          "media": [
             {
+              "display_url": "pic.twitter.com/PSBbUrdWzc", 
+              "expanded_url": "https://twitter.com/EmmanuelMacron/status/818590743572844545/video/1", 
+              "id": 818589032783429632, 
+              "id_str": "818589032783429632", 
               "indices": [
-                43, 
-                54
+                93, 
+                116
               ], 
-              "text": "centristes"
-            }, 
-            {
-              "indices": [
-                61, 
-                69
-              ], 
-              "text": "Mayenne"
+              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/818589032783429632/pu/img/ygIcNM06lcxmMvIQ.jpg", 
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/818589032783429632/pu/img/ygIcNM06lcxmMvIQ.jpg", 
+              "sizes": {
+                "large": {
+                  "h": 576, 
+                  "resize": "fit", 
+                  "w": 1024
+                }, 
+                "medium": {
+                  "h": 338, 
+                  "resize": "fit", 
+                  "w": 600
+                }, 
+                "small": {
+                  "h": 191, 
+                  "resize": "fit", 
+                  "w": 340
+                }, 
+                "thumb": {
+                  "h": 150, 
+                  "resize": "crop", 
+                  "w": 150
+                }
+              }, 
+              "source_status_id": 818590743572844545, 
+              "source_status_id_str": "818590743572844545", 
+              "source_user_id": 1976143068, 
+              "source_user_id_str": "1976143068", 
+              "type": "photo", 
+              "url": "https://t.co/PSBbUrdWzc"
             }
           ], 
           "symbols": [], 
-          "urls": [
+          "urls": [], 
+          "user_mentions": [
             {
-              "display_url": "twitter.com/i/web/status/8\u2026", 
-              "expanded_url": "https://twitter.com/i/web/status/817772203324346368", 
+              "id": 1976143068, 
+              "id_str": "1976143068", 
               "indices": [
-                116, 
-                139
+                3, 
+                18
               ], 
-              "url": "https://t.co/kgYwBlyV1Q"
+              "name": "Emmanuel Macron", 
+              "screen_name": "EmmanuelMacron"
             }
-          ], 
-          "user_mentions": []
+          ]
         }, 
-        "favorite_count": 47, 
+        "extended_entities": {
+          "media": [
+            {
+              "additional_media_info": {
+                "monetizable": false
+              }, 
+              "display_url": "pic.twitter.com/PSBbUrdWzc", 
+              "expanded_url": "https://twitter.com/EmmanuelMacron/status/818590743572844545/video/1", 
+              "id": 818589032783429632, 
+              "id_str": "818589032783429632", 
+              "indices": [
+                93, 
+                116
+              ], 
+              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/818589032783429632/pu/img/ygIcNM06lcxmMvIQ.jpg", 
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/818589032783429632/pu/img/ygIcNM06lcxmMvIQ.jpg", 
+              "sizes": {
+                "large": {
+                  "h": 576, 
+                  "resize": "fit", 
+                  "w": 1024
+                }, 
+                "medium": {
+                  "h": 338, 
+                  "resize": "fit", 
+                  "w": 600
+                }, 
+                "small": {
+                  "h": 191, 
+                  "resize": "fit", 
+                  "w": 340
+                }, 
+                "thumb": {
+                  "h": 150, 
+                  "resize": "crop", 
+                  "w": 150
+                }
+              }, 
+              "source_status_id": 818590743572844545, 
+              "source_status_id_str": "818590743572844545", 
+              "source_user_id": 1976143068, 
+              "source_user_id_str": "1976143068", 
+              "type": "video", 
+              "url": "https://t.co/PSBbUrdWzc", 
+              "video_info": {
+                "aspect_ratio": [
+                  16, 
+                  9
+                ], 
+                "duration_millis": 61040, 
+                "variants": [
+                  {
+                    "bitrate": 832000, 
+                    "content_type": "video/mp4", 
+                    "url": "https://video.twimg.com/ext_tw_video/818589032783429632/pu/vid/640x360/hFB9LxkIkQam9MsE.mp4"
+                  }, 
+                  {
+                    "bitrate": 2176000, 
+                    "content_type": "video/mp4", 
+                    "url": "https://video.twimg.com/ext_tw_video/818589032783429632/pu/vid/1280x720/OdbiUbXgZDY-7A24.mp4"
+                  }, 
+                  {
+                    "content_type": "application/dash+xml", 
+                    "url": "https://video.twimg.com/ext_tw_video/818589032783429632/pu/pl/SbmS5HFOsHtkjs8X.mpd"
+                  }, 
+                  {
+                    "content_type": "application/x-mpegURL", 
+                    "url": "https://video.twimg.com/ext_tw_video/818589032783429632/pu/pl/SbmS5HFOsHtkjs8X.m3u8"
+                  }, 
+                  {
+                    "bitrate": 320000, 
+                    "content_type": "video/mp4", 
+                    "url": "https://video.twimg.com/ext_tw_video/818589032783429632/pu/vid/320x180/bIh6Fm-mdFXD8AKg.mp4"
+                  }
+                ]
+              }
+            }
+          ]
+        }, 
+        "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 817772203324346368, 
-        "id_str": "817772203324346368", 
+        "id": 818593544730537988, 
+        "id_str": "818593544730537988", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -886,13 +993,156 @@
         "lang": "fr", 
         "place": null, 
         "possibly_sensitive": false, 
-        "retweet_count": 45, 
+        "retweet_count": 180, 
         "retweeted": false, 
-        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
-        "text": "Cet apr\u00e8s-midi je r\u00e9unissais les adh\u00e9rents #centristes de la #Mayenne pour \u00e9changer sur les raisons de mon soutien\u2026 https://t.co/kgYwBlyV1Q", 
-        "truncated": true
+        "retweeted_status": {
+          "contributors": null, 
+          "coordinates": null, 
+          "created_at": "Mon Jan 09 22:50:16 +0000 2017", 
+          "entities": {
+            "hashtags": [], 
+            "media": [
+              {
+                "display_url": "pic.twitter.com/PSBbUrdWzc", 
+                "expanded_url": "https://twitter.com/EmmanuelMacron/status/818590743572844545/video/1", 
+                "id": 818589032783429632, 
+                "id_str": "818589032783429632", 
+                "indices": [
+                  73, 
+                  96
+                ], 
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/818589032783429632/pu/img/ygIcNM06lcxmMvIQ.jpg", 
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/818589032783429632/pu/img/ygIcNM06lcxmMvIQ.jpg", 
+                "sizes": {
+                  "large": {
+                    "h": 576, 
+                    "resize": "fit", 
+                    "w": 1024
+                  }, 
+                  "medium": {
+                    "h": 338, 
+                    "resize": "fit", 
+                    "w": 600
+                  }, 
+                  "small": {
+                    "h": 191, 
+                    "resize": "fit", 
+                    "w": 340
+                  }, 
+                  "thumb": {
+                    "h": 150, 
+                    "resize": "crop", 
+                    "w": 150
+                  }
+                }, 
+                "type": "photo", 
+                "url": "https://t.co/PSBbUrdWzc"
+              }
+            ], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": []
+          }, 
+          "extended_entities": {
+            "media": [
+              {
+                "additional_media_info": {
+                  "monetizable": false
+                }, 
+                "display_url": "pic.twitter.com/PSBbUrdWzc", 
+                "expanded_url": "https://twitter.com/EmmanuelMacron/status/818590743572844545/video/1", 
+                "id": 818589032783429632, 
+                "id_str": "818589032783429632", 
+                "indices": [
+                  73, 
+                  96
+                ], 
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/818589032783429632/pu/img/ygIcNM06lcxmMvIQ.jpg", 
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/818589032783429632/pu/img/ygIcNM06lcxmMvIQ.jpg", 
+                "sizes": {
+                  "large": {
+                    "h": 576, 
+                    "resize": "fit", 
+                    "w": 1024
+                  }, 
+                  "medium": {
+                    "h": 338, 
+                    "resize": "fit", 
+                    "w": 600
+                  }, 
+                  "small": {
+                    "h": 191, 
+                    "resize": "fit", 
+                    "w": 340
+                  }, 
+                  "thumb": {
+                    "h": 150, 
+                    "resize": "crop", 
+                    "w": 150
+                  }
+                }, 
+                "type": "video", 
+                "url": "https://t.co/PSBbUrdWzc", 
+                "video_info": {
+                  "aspect_ratio": [
+                    16, 
+                    9
+                  ], 
+                  "duration_millis": 61040, 
+                  "variants": [
+                    {
+                      "bitrate": 832000, 
+                      "content_type": "video/mp4", 
+                      "url": "https://video.twimg.com/ext_tw_video/818589032783429632/pu/vid/640x360/hFB9LxkIkQam9MsE.mp4"
+                    }, 
+                    {
+                      "bitrate": 2176000, 
+                      "content_type": "video/mp4", 
+                      "url": "https://video.twimg.com/ext_tw_video/818589032783429632/pu/vid/1280x720/OdbiUbXgZDY-7A24.mp4"
+                    }, 
+                    {
+                      "content_type": "application/dash+xml", 
+                      "url": "https://video.twimg.com/ext_tw_video/818589032783429632/pu/pl/SbmS5HFOsHtkjs8X.mpd"
+                    }, 
+                    {
+                      "content_type": "application/x-mpegURL", 
+                      "url": "https://video.twimg.com/ext_tw_video/818589032783429632/pu/pl/SbmS5HFOsHtkjs8X.m3u8"
+                    }, 
+                    {
+                      "bitrate": 320000, 
+                      "content_type": "video/mp4", 
+                      "url": "https://video.twimg.com/ext_tw_video/818589032783429632/pu/vid/320x180/bIh6Fm-mdFXD8AKg.mp4"
+                    }
+                  ]
+                }
+              }
+            ]
+          }, 
+          "favorite_count": 287, 
+          "favorited": false, 
+          "geo": null, 
+          "id": 818590743572844545, 
+          "id_str": "818590743572844545", 
+          "in_reply_to_screen_name": null, 
+          "in_reply_to_status_id": null, 
+          "in_reply_to_status_id_str": null, 
+          "in_reply_to_user_id": null, 
+          "in_reply_to_user_id_str": null, 
+          "is_quote_status": false, 
+          "lang": "fr", 
+          "place": null, 
+          "possibly_sensitive": false, 
+          "retweet_count": 180, 
+          "retweeted": false, 
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+          "text": "Mon objectif pour 2022 : 200 000 jeunes profitant du programme Erasmus ! https://t.co/PSBbUrdWzc", 
+          "truncated": false
+        }, 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @EmmanuelMacron: Mon objectif pour 2022 : 200 000 jeunes profitant du programme Erasmus ! https://t.co/PSBbUrdWzc", 
+        "truncated": false
       }, 
-      "statuses_count": 3035, 
+      "statuses_count": 3044, 
       "time_zone": "Amsterdam", 
       "translator_type": "none", 
       "url": "https://t.co/YhICpAOeW0", 
@@ -900,14 +1150,14 @@
       "verified": true
     }, 
     "twitter_description": "D\u00e9put\u00e9 europ\u00e9en, Pr\u00e9sident de la com. #BUDG , fondateur de l'Alliance centriste (#UDI), ancien ministre de l'\u00e9conomie et des finances https://t.co/fhOVDCh45q", 
-    "twitter_favourites": 806, 
-    "twitter_followers": 16758, 
+    "twitter_favourites": 818, 
+    "twitter_followers": 16774, 
     "twitter_following": 1456, 
     "twitter_id": 110191018, 
-    "twitter_listed": 647, 
+    "twitter_listed": 649, 
     "twitter_name": "Jean Arthuis", 
     "twitter_protected": false, 
-    "twitter_tweets": 3035, 
+    "twitter_tweets": 3044, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/arthuis_jean83011j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-arthuis", 
@@ -2171,7 +2421,7 @@
       }, 
       "favourites_count": 263, 
       "follow_request_sent": false, 
-      "followers_count": 1326, 
+      "followers_count": 1327, 
       "following": false, 
       "friends_count": 303, 
       "geo_enabled": true, 
@@ -2203,43 +2453,111 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Fri Jan 06 21:06:47 +0000 2017", 
+        "created_at": "Mon Jan 09 14:35:26 +0000 2017", 
         "entities": {
           "hashtags": [
             {
               "indices": [
-                15, 
-                30
+                24, 
+                35
               ], 
-              "text": "EmmanuelMacron"
+              "text": "\u00c9lieCester"
             }, 
             {
               "indices": [
-                38, 
-                45
+                87, 
+                93
               ], 
-              "text": "Fillon"
+              "text": "Rugby"
+            }
+          ], 
+          "media": [
+            {
+              "display_url": "pic.twitter.com/yjMfGeMYjr", 
+              "expanded_url": "https://twitter.com/bessonjean/status/818466214045487104/photo/1", 
+              "id": 818466201110216705, 
+              "id_str": "818466201110216705", 
+              "indices": [
+                94, 
+                117
+              ], 
+              "media_url": "http://pbs.twimg.com/media/C1vGrGnWgAEUvju.jpg", 
+              "media_url_https": "https://pbs.twimg.com/media/C1vGrGnWgAEUvju.jpg", 
+              "sizes": {
+                "large": {
+                  "h": 1536, 
+                  "resize": "fit", 
+                  "w": 2048
+                }, 
+                "medium": {
+                  "h": 900, 
+                  "resize": "fit", 
+                  "w": 1200
+                }, 
+                "small": {
+                  "h": 510, 
+                  "resize": "fit", 
+                  "w": 680
+                }, 
+                "thumb": {
+                  "h": 150, 
+                  "resize": "crop", 
+                  "w": 150
+                }
+              }, 
+              "type": "photo", 
+              "url": "https://t.co/yjMfGeMYjr"
             }
           ], 
           "symbols": [], 
-          "urls": [
-            {
-              "display_url": "lexpress.fr/actualite/poli\u2026", 
-              "expanded_url": "http://www.lexpress.fr/actualite/politique/elections/presidentielle-2017-macron-menace-fillon-au-premier-tour-selon-un-sondage_1866128.html", 
-              "indices": [
-                80, 
-                103
-              ], 
-              "url": "https://t.co/u6rsayFdkt"
-            }
-          ], 
+          "urls": [], 
           "user_mentions": []
+        }, 
+        "extended_entities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/yjMfGeMYjr", 
+              "expanded_url": "https://twitter.com/bessonjean/status/818466214045487104/photo/1", 
+              "id": 818466201110216705, 
+              "id_str": "818466201110216705", 
+              "indices": [
+                94, 
+                117
+              ], 
+              "media_url": "http://pbs.twimg.com/media/C1vGrGnWgAEUvju.jpg", 
+              "media_url_https": "https://pbs.twimg.com/media/C1vGrGnWgAEUvju.jpg", 
+              "sizes": {
+                "large": {
+                  "h": 1536, 
+                  "resize": "fit", 
+                  "w": 2048
+                }, 
+                "medium": {
+                  "h": 900, 
+                  "resize": "fit", 
+                  "w": 1200
+                }, 
+                "small": {
+                  "h": 510, 
+                  "resize": "fit", 
+                  "w": 680
+                }, 
+                "thumb": {
+                  "h": 150, 
+                  "resize": "crop", 
+                  "w": 150
+                }
+              }, 
+              "type": "photo", 
+              "url": "https://t.co/yjMfGeMYjr"
+            }
+          ]
         }, 
         "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 817477535252566018, 
-        "id_str": "817477535252566018", 
+        "id": 818466214045487104, 
+        "id_str": "818466214045487104", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -2252,10 +2570,10 @@
         "retweet_count": 0, 
         "retweeted": false, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "Pr\u00e9sidentielle #EmmanuelMacron menace #Fillon au premier tour, selon un sondage https://t.co/u6rsayFdkt", 
+        "text": "La foule aux obs\u00e8ques d'#\u00c9lieCester le plus grand des rugbyman, colosse au c\u0153ur tendre #Rugby https://t.co/yjMfGeMYjr", 
         "truncated": false
       }, 
-      "statuses_count": 1326, 
+      "statuses_count": 1327, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": "https://t.co/cFrea9booe", 
@@ -2264,13 +2582,13 @@
     }, 
     "twitter_description": "Jean BESSON, S\u00e9nateur Honoraire, Pr\u00e9sident d'@energiesded, Vice Pr\u00e9sident de la @fnccr, #Progressiste", 
     "twitter_favourites": 263, 
-    "twitter_followers": 1326, 
+    "twitter_followers": 1327, 
     "twitter_following": 303, 
     "twitter_id": 78422142, 
     "twitter_listed": 82, 
     "twitter_name": "Jean BESSON", 
     "twitter_protected": false, 
-    "twitter_tweets": 1326, 
+    "twitter_tweets": 1327, 
     "twitter_verified": false, 
     "url_institution": "http://www.senat.fr/senateur/besson_jean89015p.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-besson", 
@@ -2494,8 +2812,8 @@
     "profession": "Cadre commercial", 
     "sexe": "F", 
     "sites_web": [
-      "http://bit.ly/1tgR7jS", 
-      "https://twitter.com/AnnickBillon"
+      "https://twitter.com/AnnickBillon", 
+      "http://bit.ly/1tgR7jS"
     ], 
     "slug": "annick-billon", 
     "twitter": "AnnickBillon", 
@@ -3411,7 +3729,7 @@
       }, 
       "favourites_count": 143, 
       "follow_request_sent": false, 
-      "followers_count": 4211, 
+      "followers_count": 4215, 
       "following": false, 
       "friends_count": 1076, 
       "geo_enabled": true, 
@@ -3421,7 +3739,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 172, 
+      "listed_count": 171, 
       "location": "Calais, France", 
       "name": "Natacha BOUCHART", 
       "notifications": false, 
@@ -3539,10 +3857,10 @@
     }, 
     "twitter_description": "Vice-Pr\u00e9sidente de la R\u00e9gion Hauts-de-France Nord Pas de Calais-Picardie. Maire de #Calais, Pr\u00e9sidente de @capcalaisis.", 
     "twitter_favourites": 143, 
-    "twitter_followers": 4211, 
+    "twitter_followers": 4215, 
     "twitter_following": 1076, 
     "twitter_id": 551342517, 
-    "twitter_listed": 172, 
+    "twitter_listed": 171, 
     "twitter_name": "Natacha BOUCHART", 
     "twitter_protected": false, 
     "twitter_tweets": 5392, 
@@ -4345,8 +4663,8 @@
     "profession": "Chef d'entreprise", 
     "sexe": "H", 
     "sites_web": [
-      "http://oliviercadic.com", 
-      "https://twitter.com/OlivierCadic"
+      "https://twitter.com/OlivierCadic", 
+      "http://oliviercadic.com"
     ], 
     "slug": "olivier-cadic", 
     "twitter": "OlivierCadic", 
@@ -5921,9 +6239,9 @@
     "profession": "Conseiller du commerce ext\u00e9rieur", 
     "sexe": "H", 
     "sites_web": [
-      "http://www.chevenement.fr", 
-      "https://twitter.com/chevenement", 
       "http://www.facebook.com/jpchevenement", 
+      "https://twitter.com/chevenement", 
+      "http://www.chevenement.fr", 
       "http://twitter.com/chevenement"
     ], 
     "slug": "jean-pierre-chevenement", 
@@ -5955,7 +6273,7 @@
       }, 
       "favourites_count": 155, 
       "follow_request_sent": false, 
-      "followers_count": 60233, 
+      "followers_count": 60234, 
       "following": false, 
       "friends_count": 687, 
       "geo_enabled": true, 
@@ -5965,7 +6283,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 1238, 
+      "listed_count": 1240, 
       "location": "Paris, France", 
       "name": "J-P. Chev\u00e8nement", 
       "notifications": false, 
@@ -5977,7 +6295,18 @@
       "profile_image_url": "http://pbs.twimg.com/profile_images/1695001329/twitter_icon_128x128_normal.jpg", 
       "profile_image_url_https": "https://pbs.twimg.com/profile_images/1695001329/twitter_icon_128x128_normal.jpg", 
       "profile_link_color": "990000", 
-      "profile_location": null, 
+      "profile_location": {
+        "attributes": {}, 
+        "bounding_box": null, 
+        "contained_within": [], 
+        "country": "", 
+        "country_code": "", 
+        "full_name": "Paris, France", 
+        "id": "09f6a7707f18e0b1", 
+        "name": "Paris, France", 
+        "place_type": "unknown", 
+        "url": "https://api.twitter.com/1.1/geo/id/09f6a7707f18e0b1.json"
+      }, 
       "profile_sidebar_border_color": "DFDFDF", 
       "profile_sidebar_fill_color": "F3F3F3", 
       "profile_text_color": "333333", 
@@ -5987,59 +6316,69 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Wed Jan 04 11:35:09 +0000 2017", 
+        "created_at": "Mon Jan 09 09:43:42 +0000 2017", 
         "entities": {
           "hashtags": [], 
           "symbols": [], 
           "urls": [
             {
-              "display_url": "twitter.com/i/web/status/8\u2026", 
-              "expanded_url": "https://twitter.com/i/web/status/816608904167751680", 
+              "display_url": "blogs.mediapart.fr/pascalboniface\u2026", 
+              "expanded_url": "https://blogs.mediapart.fr/pascalboniface/blog/090117/un-defi-de-civilisation-3-questions-jean-pierre-chevenement", 
               "indices": [
-                117, 
-                140
+                109, 
+                132
               ], 
-              "url": "https://t.co/Tzdc1jZrT1"
+              "url": "https://t.co/yg0JKRzP6L"
             }
           ], 
           "user_mentions": [
             {
-              "id": 551669623, 
-              "id_str": "551669623", 
+              "id": 211836488, 
+              "id_str": "211836488", 
               "indices": [
-                60, 
-                75
+                3, 
+                18
               ], 
-              "name": "Fran\u00e7ois Fillon", 
-              "screen_name": "FrancoisFillon"
+              "name": "Pascal Boniface", 
+              "screen_name": "PascalBoniface"
             }, 
             {
-              "id": 18396319, 
-              "id_str": "18396319", 
+              "id": 57116930, 
+              "id_str": "57116930", 
               "indices": [
-                87, 
-                93
+                62, 
+                74
               ], 
-              "name": "iTELE", 
-              "screen_name": "itele"
+              "name": "J-P. Chev\u00e8nement", 
+              "screen_name": "chevenement"
             }, 
             {
-              "id": 72343264, 
-              "id_str": "72343264", 
+              "id": 71232198, 
+              "id_str": "71232198", 
               "indices": [
-                99, 
-                115
+                75, 
+                91
               ], 
-              "name": "Laurence Ferrari", 
-              "screen_name": "LaurenceFerrari"
+              "name": "Fondation ResPublica", 
+              "screen_name": "fondarespublica"
+            }, 
+            {
+              "id": 562854016, 
+              "id_str": "562854016", 
+              "indices": [
+                92, 
+                108
+              ], 
+              "name": "Le Club de Mediapart", 
+              "screen_name": "MediapartLeClub"
             }
           ]
         }, 
-        "favorite_count": 16, 
+        "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 816608904167751680, 
-        "id_str": "816608904167751680", 
+        "id": 818392797904510976, 
+        "id_str": "818392797904510976", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -6049,13 +6388,162 @@
         "lang": "fr", 
         "place": null, 
         "possibly_sensitive": false, 
-        "retweet_count": 20, 
+        "retweet_count": 12, 
         "retweeted": false, 
-        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-        "text": "\"Je ne suis pas partisan du grand bond en arri\u00e8re social de @FrancoisFillon\", hier sur @itele avec @LaurenceFerrari\u2026 https://t.co/Tzdc1jZrT1", 
-        "truncated": true
+        "retweeted_status": {
+          "contributors": null, 
+          "coordinates": null, 
+          "created_at": "Mon Jan 09 09:39:21 +0000 2017", 
+          "entities": {
+            "hashtags": [], 
+            "media": [
+              {
+                "display_url": "pic.twitter.com/nlJZ7Bx4gW", 
+                "expanded_url": "https://twitter.com/PascalBoniface/status/818391701509328897/photo/1", 
+                "id": 818391680281968640, 
+                "id_str": "818391680281968640", 
+                "indices": [
+                  113, 
+                  136
+                ], 
+                "media_url": "http://pbs.twimg.com/media/C1uC5a5XgAAlZUo.jpg", 
+                "media_url_https": "https://pbs.twimg.com/media/C1uC5a5XgAAlZUo.jpg", 
+                "sizes": {
+                  "large": {
+                    "h": 339, 
+                    "resize": "fit", 
+                    "w": 220
+                  }, 
+                  "medium": {
+                    "h": 339, 
+                    "resize": "fit", 
+                    "w": 220
+                  }, 
+                  "small": {
+                    "h": 339, 
+                    "resize": "fit", 
+                    "w": 220
+                  }, 
+                  "thumb": {
+                    "h": 150, 
+                    "resize": "crop", 
+                    "w": 150
+                  }
+                }, 
+                "type": "photo", 
+                "url": "https://t.co/nlJZ7Bx4gW"
+              }
+            ], 
+            "symbols": [], 
+            "urls": [
+              {
+                "display_url": "blogs.mediapart.fr/pascalboniface\u2026", 
+                "expanded_url": "https://blogs.mediapart.fr/pascalboniface/blog/090117/un-defi-de-civilisation-3-questions-jean-pierre-chevenement", 
+                "indices": [
+                  89, 
+                  112
+                ], 
+                "url": "https://t.co/yg0JKRzP6L"
+              }
+            ], 
+            "user_mentions": [
+              {
+                "id": 57116930, 
+                "id_str": "57116930", 
+                "indices": [
+                  42, 
+                  54
+                ], 
+                "name": "J-P. Chev\u00e8nement", 
+                "screen_name": "chevenement"
+              }, 
+              {
+                "id": 71232198, 
+                "id_str": "71232198", 
+                "indices": [
+                  55, 
+                  71
+                ], 
+                "name": "Fondation ResPublica", 
+                "screen_name": "fondarespublica"
+              }, 
+              {
+                "id": 562854016, 
+                "id_str": "562854016", 
+                "indices": [
+                  72, 
+                  88
+                ], 
+                "name": "Le Club de Mediapart", 
+                "screen_name": "MediapartLeClub"
+              }
+            ]
+          }, 
+          "extended_entities": {
+            "media": [
+              {
+                "display_url": "pic.twitter.com/nlJZ7Bx4gW", 
+                "expanded_url": "https://twitter.com/PascalBoniface/status/818391701509328897/photo/1", 
+                "id": 818391680281968640, 
+                "id_str": "818391680281968640", 
+                "indices": [
+                  113, 
+                  136
+                ], 
+                "media_url": "http://pbs.twimg.com/media/C1uC5a5XgAAlZUo.jpg", 
+                "media_url_https": "https://pbs.twimg.com/media/C1uC5a5XgAAlZUo.jpg", 
+                "sizes": {
+                  "large": {
+                    "h": 339, 
+                    "resize": "fit", 
+                    "w": 220
+                  }, 
+                  "medium": {
+                    "h": 339, 
+                    "resize": "fit", 
+                    "w": 220
+                  }, 
+                  "small": {
+                    "h": 339, 
+                    "resize": "fit", 
+                    "w": 220
+                  }, 
+                  "thumb": {
+                    "h": 150, 
+                    "resize": "crop", 
+                    "w": 150
+                  }
+                }, 
+                "type": "photo", 
+                "url": "https://t.co/nlJZ7Bx4gW"
+              }
+            ]
+          }, 
+          "favorite_count": 5, 
+          "favorited": false, 
+          "geo": null, 
+          "id": 818391701509328897, 
+          "id_str": "818391701509328897", 
+          "in_reply_to_screen_name": null, 
+          "in_reply_to_status_id": null, 
+          "in_reply_to_status_id_str": null, 
+          "in_reply_to_user_id": null, 
+          "in_reply_to_user_id_str": null, 
+          "is_quote_status": false, 
+          "lang": "fr", 
+          "place": null, 
+          "possibly_sensitive": false, 
+          "retweet_count": 12, 
+          "retweeted": false, 
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+          "text": "\u00ab Un d\u00e9fi de civilisation \u00bb - 3 questions @chevenement @fondarespublica @MediapartLeClub\nhttps://t.co/yg0JKRzP6L https://t.co/nlJZ7Bx4gW", 
+          "truncated": false
+        }, 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @PascalBoniface: \u00ab Un d\u00e9fi de civilisation \u00bb - 3 questions @chevenement @fondarespublica @MediapartLeClub\nhttps://t.co/yg0JKRzP6L https:\u2026", 
+        "truncated": false
       }, 
-      "statuses_count": 4281, 
+      "statuses_count": 4282, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": "http://t.co/uxgBAwrQat", 
@@ -6064,13 +6552,13 @@
     }, 
     "twitter_description": "Ancien ministre. Pdt du club R\u00e9publique Moderne (@RepubliqueMod) et de la Fondation Res Publica (@fondarespublica).", 
     "twitter_favourites": 155, 
-    "twitter_followers": 60233, 
+    "twitter_followers": 60234, 
     "twitter_following": 687, 
     "twitter_id": 57116930, 
-    "twitter_listed": 1238, 
+    "twitter_listed": 1240, 
     "twitter_name": "J-P. Chev\u00e8nement", 
     "twitter_protected": false, 
-    "twitter_tweets": 4281, 
+    "twitter_tweets": 4282, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/chevenement_jean_pierre02053w.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-pierre-chevenement", 
@@ -6841,7 +7329,7 @@
       }, 
       "favourites_count": 2, 
       "follow_request_sent": false, 
-      "followers_count": 783, 
+      "followers_count": 784, 
       "following": false, 
       "friends_count": 41, 
       "geo_enabled": false, 
@@ -6907,7 +7395,7 @@
     }, 
     "twitter_description": "", 
     "twitter_favourites": 2, 
-    "twitter_followers": 783, 
+    "twitter_followers": 784, 
     "twitter_following": 41, 
     "twitter_id": 84071417, 
     "twitter_listed": 82, 
@@ -13308,7 +13796,7 @@
       }, 
       "favourites_count": 5, 
       "follow_request_sent": false, 
-      "followers_count": 790, 
+      "followers_count": 789, 
       "following": false, 
       "friends_count": 251, 
       "geo_enabled": false, 
@@ -13386,7 +13874,7 @@
     }, 
     "twitter_description": "Maire de Saint-Flour, Pr\u00e9sident des Maires du #Cantal, Comit\u00e9 des #Finances locales - #Collectivit\u00e9s territoriales #Urbanisme #Logement #D\u00e9veloppement durable", 
     "twitter_favourites": 5, 
-    "twitter_followers": 790, 
+    "twitter_followers": 789, 
     "twitter_following": 251, 
     "twitter_id": 2328417882, 
     "twitter_listed": 36, 
@@ -14532,8 +15020,8 @@
     "profession": null, 
     "sexe": "H", 
     "sites_web": [
-      "https://www.facebook.com/claude.kern", 
       "https://twitter.com/claude_kern", 
+      "https://www.facebook.com/claude.kern", 
       "https://www.facebook.com/senateurclaudekern"
     ], 
     "slug": "claude-kern", 
@@ -16924,7 +17412,7 @@
       }, 
       "favourites_count": 5, 
       "follow_request_sent": false, 
-      "followers_count": 3720, 
+      "followers_count": 3721, 
       "following": false, 
       "friends_count": 2370, 
       "geo_enabled": false, 
@@ -16990,7 +17478,7 @@
     }, 
     "twitter_description": "S\u00e9nateur honoraire-maire de Compi\u00e8gne , Pr\u00e9sident de l'agglom\u00e9ration de la r\u00e9gion de Compi\u00e8gne, Pr\u00e9sident de la commission des finances du S\u00e9nat.", 
     "twitter_favourites": 5, 
-    "twitter_followers": 3720, 
+    "twitter_followers": 3721, 
     "twitter_following": 2370, 
     "twitter_id": 1534099902, 
     "twitter_listed": 129, 
@@ -18121,7 +18609,7 @@
       }, 
       "favourites_count": 57, 
       "follow_request_sent": false, 
-      "followers_count": 225, 
+      "followers_count": 226, 
       "following": false, 
       "friends_count": 145, 
       "geo_enabled": false, 
@@ -18188,7 +18676,7 @@
     }, 
     "twitter_description": "S\u00e9natrice Les R\u00e9publicains des Hautes-Alpes", 
     "twitter_favourites": 57, 
-    "twitter_followers": 225, 
+    "twitter_followers": 226, 
     "twitter_following": 145, 
     "twitter_id": 3189823869, 
     "twitter_listed": 12, 
@@ -19392,11 +19880,11 @@
           "urls": []
         }
       }, 
-      "favourites_count": 1675, 
+      "favourites_count": 1678, 
       "follow_request_sent": false, 
-      "followers_count": 89939, 
+      "followers_count": 89947, 
       "following": false, 
-      "friends_count": 2414, 
+      "friends_count": 2416, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 219361536, 
@@ -19426,121 +19914,88 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Sun Jan 08 21:49:18 +0000 2017", 
+        "created_at": "Mon Jan 09 20:33:31 +0000 2017", 
         "entities": {
-          "hashtags": [
-            {
-              "indices": [
-                114, 
-                124
-              ], 
-              "text": "J\u00e9rusalem"
-            }
-          ], 
+          "hashtags": [], 
           "symbols": [], 
           "urls": [], 
           "user_mentions": [
             {
-              "id": 29701712, 
-              "id_str": "29701712", 
+              "id": 37235652, 
+              "id_str": "37235652", 
               "indices": [
                 3, 
-                15
+                17
               ], 
-              "name": "FranceDiplomatie\ud83c\uddeb\ud83c\uddf7", 
-              "screen_name": "francediplo"
-            }, 
-            {
-              "id": 28332028, 
-              "id_str": "28332028", 
-              "indices": [
-                17, 
-                33
-              ], 
-              "name": "Jean-Marc Ayrault", 
-              "screen_name": "jeanmarcayrault"
+              "name": "Mireille Colas", 
+              "screen_name": "MireilleColas"
             }
           ]
         }, 
         "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 818213012259545088, 
-        "id_str": "818213012259545088", 
+        "id": 818556327907758082, 
+        "id_str": "818556327907758082", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
         "in_reply_to_user_id": null, 
         "in_reply_to_user_id_str": null, 
-        "is_quote_status": false, 
+        "is_quote_status": true, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 55, 
+        "quoted_status_id": 812254185378828288, 
+        "quoted_status_id_str": "812254185378828288", 
+        "retweet_count": 5, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
           "coordinates": null, 
-          "created_at": "Sun Jan 08 13:42:40 +0000 2017", 
+          "created_at": "Fri Dec 23 11:54:34 +0000 2016", 
           "entities": {
-            "hashtags": [
-              {
-                "indices": [
-                  97, 
-                  107
-                ], 
-                "text": "J\u00e9rusalem"
-              }
-            ], 
+            "hashtags": [], 
             "symbols": [], 
             "urls": [
               {
-                "display_url": "fdip.fr/3CrWebs9", 
-                "expanded_url": "http://www.fdip.fr/3CrWebs9", 
+                "display_url": "twitter.com/i/web/status/8\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/812265135016394753", 
                 "indices": [
                   117, 
                   140
                 ], 
-                "url": "https://t.co/1PEYaHbbDD"
+                "url": "https://t.co/ofly5LE8SF"
               }
             ], 
-            "user_mentions": [
-              {
-                "id": 28332028, 
-                "id_str": "28332028", 
-                "indices": [
-                  0, 
-                  16
-                ], 
-                "name": "Jean-Marc Ayrault", 
-                "screen_name": "jeanmarcayrault"
-              }
-            ]
+            "user_mentions": []
           }, 
-          "favorite_count": 33, 
+          "favorite_count": 4, 
           "favorited": false, 
           "geo": null, 
-          "id": 818090549039206401, 
-          "id_str": "818090549039206401", 
-          "in_reply_to_screen_name": "jeanmarcayrault", 
+          "id": 812265135016394753, 
+          "id_str": "812265135016394753", 
+          "in_reply_to_screen_name": null, 
           "in_reply_to_status_id": null, 
           "in_reply_to_status_id_str": null, 
-          "in_reply_to_user_id": 28332028, 
-          "in_reply_to_user_id_str": "28332028", 
-          "is_quote_status": false, 
+          "in_reply_to_user_id": null, 
+          "in_reply_to_user_id_str": null, 
+          "is_quote_status": true, 
           "lang": "fr", 
           "place": null, 
           "possibly_sensitive": false, 
-          "retweet_count": 55, 
+          "quoted_status_id": 812254185378828288, 
+          "quoted_status_id_str": "812254185378828288", 
+          "retweet_count": 5, 
           "retweeted": false, 
-          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-          "text": "@jeanmarcayrault:C\u2019est avec consternation que j'apprends l'attaque au camion b\u00e9lier qui a frapp\u00e9 #J\u00e9rusalem ce matin https://t.co/1PEYaHbbDD", 
-          "truncated": false
+          "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>", 
+          "text": "Faites savoir autour de vous: on simplifie la vie des entreprises avec la facture \u00e9lectronique et le portail Chorus\u2026 https://t.co/ofly5LE8SF", 
+          "truncated": true
         }, 
-        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "RT @francediplo: @jeanmarcayrault:C\u2019est avec consternation que j'apprends l'attaque au camion b\u00e9lier qui a frapp\u00e9 #J\u00e9rusalem ce matin https\u2026", 
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>", 
+        "text": "RT @MireilleColas: Faites savoir autour de vous: on simplifie la vie des entreprises avec la facture \u00e9lectronique et le portail Chorus Pro\u2026", 
         "truncated": false
       }, 
-      "statuses_count": 7833, 
+      "statuses_count": 7840, 
       "time_zone": null, 
       "translator_type": "none", 
       "url": null, 
@@ -19548,14 +20003,14 @@
       "verified": true
     }, 
     "twitter_description": "Secr\u00e9taire d'Etat aupr\u00e8s du Premier Ministre, charg\u00e9 de la r\u00e9forme de l'Etat et de la simplification. Pr\u00e9sident de l' @UDE_FR", 
-    "twitter_favourites": 1675, 
-    "twitter_followers": 89939, 
-    "twitter_following": 2414, 
+    "twitter_favourites": 1678, 
+    "twitter_followers": 89947, 
+    "twitter_following": 2416, 
     "twitter_id": 219361536, 
     "twitter_listed": 1018, 
     "twitter_name": "Jean-Vincent Plac\u00e9", 
     "twitter_protected": false, 
-    "twitter_tweets": 7833, 
+    "twitter_tweets": 7840, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/place_jean_vincent11069t.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-vincent-place", 
@@ -19584,8 +20039,8 @@
     "sites_web": [
       "http://fr-fr.facebook.com/people/Jean-Pierre-Plancade/100002416394710", 
       "http://www.facebook.com/profile.php?id=100002416394710", 
-      "https://twitter.com/#!/JPPlancade", 
-      "https://twitter.com/JPPlancade"
+      "https://twitter.com/JPPlancade", 
+      "https://twitter.com/#!/JPPlancade"
     ], 
     "slug": "jean-pierre-plancade", 
     "twitter": "JPPlancade", 
@@ -19616,7 +20071,7 @@
       }, 
       "favourites_count": 0, 
       "follow_request_sent": false, 
-      "followers_count": 873, 
+      "followers_count": 874, 
       "following": false, 
       "friends_count": 970, 
       "geo_enabled": true, 
@@ -19694,7 +20149,7 @@
     }, 
     "twitter_description": "Senateur honoraire .", 
     "twitter_favourites": 0, 
-    "twitter_followers": 873, 
+    "twitter_followers": 874, 
     "twitter_following": 970, 
     "twitter_id": 270919379, 
     "twitter_listed": 89, 
@@ -21006,9 +21461,9 @@
           "urls": []
         }
       }, 
-      "favourites_count": 61, 
+      "favourites_count": 63, 
       "follow_request_sent": false, 
-      "followers_count": 5043, 
+      "followers_count": 5050, 
       "following": false, 
       "friends_count": 393, 
       "geo_enabled": true, 
@@ -21069,7 +21524,7 @@
           "urls": [], 
           "user_mentions": []
         }, 
-        "favorite_count": 24, 
+        "favorite_count": 25, 
         "favorited": false, 
         "geo": null, 
         "id": 817083903680856067, 
@@ -21129,8 +21584,8 @@
       "verified": true
     }, 
     "twitter_description": "Maire de Strasbourg", 
-    "twitter_favourites": 61, 
-    "twitter_followers": 5043, 
+    "twitter_favourites": 63, 
+    "twitter_followers": 5050, 
     "twitter_following": 393, 
     "twitter_id": 281438650, 
     "twitter_listed": 239, 
