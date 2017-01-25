@@ -806,9 +806,9 @@
           ]
         }
       }, 
-      "favourites_count": 829, 
+      "favourites_count": 830, 
       "follow_request_sent": false, 
-      "followers_count": 16963, 
+      "followers_count": 16970, 
       "following": false, 
       "friends_count": 1492, 
       "geo_enabled": true, 
@@ -826,7 +826,7 @@
       "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/458583567761555456/NZ7gp22G.jpeg", 
       "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/458583567761555456/NZ7gp22G.jpeg", 
       "profile_background_tile": true, 
-      "profile_banner_url": "https://pbs.twimg.com/profile_banners/110191018/1447867348", 
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/110191018/1485251071", 
       "profile_image_url": "http://pbs.twimg.com/profile_images/803246807694372864/pbLfkfss_normal.jpg", 
       "profile_image_url_https": "https://pbs.twimg.com/profile_images/803246807694372864/pbLfkfss_normal.jpg", 
       "profile_link_color": "0084B4", 
@@ -840,43 +840,49 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Mon Jan 23 16:16:34 +0000 2017", 
+        "created_at": "Tue Jan 24 15:37:30 +0000 2017", 
         "entities": {
-          "hashtags": [
-            {
-              "indices": [
-                2, 
-                5
-              ], 
-              "text": "UE"
-            }, 
-            {
-              "indices": [
-                88, 
-                98
-              ], 
-              "text": "EuroForum"
-            }
-          ], 
+          "hashtags": [], 
           "symbols": [], 
           "urls": [
             {
               "display_url": "twitter.com/i/web/status/8\u2026", 
-              "expanded_url": "https://twitter.com/i/web/status/823565093363392513", 
+              "expanded_url": "https://twitter.com/i/web/status/823917650778746881", 
               "indices": [
                 117, 
                 140
               ], 
-              "url": "https://t.co/dXyLaQ16a2"
+              "url": "https://t.co/x2fa9xAfDb"
             }
           ], 
-          "user_mentions": []
+          "user_mentions": [
+            {
+              "id": 1327061083, 
+              "id_str": "1327061083", 
+              "indices": [
+                13, 
+                23
+              ], 
+              "name": "Parlement europ\u00e9en", 
+              "screen_name": "PE_FRANCE"
+            }, 
+            {
+              "id": 859397150, 
+              "id_str": "859397150", 
+              "indices": [
+                60, 
+                67
+              ], 
+              "name": "LADAPT", 
+              "screen_name": "LADAPT"
+            }
+          ]
         }, 
-        "favorite_count": 14, 
+        "favorite_count": 5, 
         "favorited": false, 
         "geo": null, 
-        "id": 823565093363392513, 
-        "id_str": "823565093363392513", 
+        "id": 823917650778746881, 
+        "id_str": "823917650778746881", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -884,15 +890,48 @@
         "in_reply_to_user_id_str": null, 
         "is_quote_status": false, 
         "lang": "fr", 
-        "place": null, 
+        "place": {
+          "attributes": {}, 
+          "bounding_box": {
+            "coordinates": [
+              [
+                [
+                  4.3139889, 
+                  50.796328199999998
+                ], 
+                [
+                  4.4369471999999996, 
+                  50.796328199999998
+                ], 
+                [
+                  4.4369471999999996, 
+                  50.913706400000002
+                ], 
+                [
+                  4.3139889, 
+                  50.913706400000002
+                ]
+              ]
+            ], 
+            "type": "Polygon"
+          }, 
+          "contained_within": [], 
+          "country": "Belgique", 
+          "country_code": "BE", 
+          "full_name": "Bruxelles, Belgique", 
+          "id": "0653bb913c88c1ea", 
+          "name": "Bruxelles", 
+          "place_type": "city", 
+          "url": "https://api.twitter.com/1.1/geo/id/0653bb913c88c1ea.json"
+        }, 
         "possibly_sensitive": false, 
-        "retweet_count": 19, 
+        "retweet_count": 1, 
         "retweeted": false, 
-        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-        "text": "L'#UE face aux d\u00e9fis fiscaux :Etats des lieux et propositions. Venez participer au 5\u00e8me #EuroForum le 17.02 \u00e0 Nante\u2026 https://t.co/dXyLaQ16a2", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "Je re\u00e7ois au @PE_FRANCE un grpe de Mayennais en formation \u00e0 @LADAPT Mayenne. Je r\u00e9ponds \u00e0 leurs questions sur ma fo\u2026 https://t.co/x2fa9xAfDb", 
         "truncated": true
       }, 
-      "statuses_count": 3089, 
+      "statuses_count": 3090, 
       "time_zone": "Amsterdam", 
       "translator_type": "none", 
       "url": "https://t.co/YhICpAOeW0", 
@@ -900,14 +939,14 @@
       "verified": true
     }, 
     "twitter_description": "D\u00e9put\u00e9 europ\u00e9en, Pr\u00e9sident de la com. #BUDG , fondateur de l'Alliance centriste (#UDI), ancien ministre de l'\u00e9conomie et des finances https://t.co/fhOVDCh45q", 
-    "twitter_favourites": 829, 
-    "twitter_followers": 16963, 
+    "twitter_favourites": 830, 
+    "twitter_followers": 16970, 
     "twitter_following": 1492, 
     "twitter_id": 110191018, 
     "twitter_listed": 652, 
     "twitter_name": "Jean Arthuis", 
     "twitter_protected": false, 
-    "twitter_tweets": 3089, 
+    "twitter_tweets": 3090, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/arthuis_jean83011j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-arthuis", 
@@ -1164,7 +1203,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 11, 
+      "listed_count": 0, 
       "location": "", 
       "name": "Fran\u00e7ois Aubey", 
       "notifications": false, 
@@ -1449,7 +1488,7 @@
     "twitter_followers": 164, 
     "twitter_following": 144, 
     "twitter_id": 2976706774, 
-    "twitter_listed": 11, 
+    "twitter_listed": 0, 
     "twitter_name": "Fran\u00e7ois Aubey", 
     "twitter_protected": false, 
     "twitter_tweets": 33, 
@@ -2171,9 +2210,9 @@
       }, 
       "favourites_count": 274, 
       "follow_request_sent": false, 
-      "followers_count": 1336, 
+      "followers_count": 1337, 
       "following": false, 
-      "friends_count": 310, 
+      "friends_count": 312, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 78422142, 
@@ -2181,7 +2220,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 82, 
+      "listed_count": 0, 
       "location": "Valence, France, Europe", 
       "name": "Jean BESSON", 
       "notifications": false, 
@@ -2260,10 +2299,10 @@
     }, 
     "twitter_description": "Jean BESSON, S\u00e9nateur Honoraire, Pr\u00e9sident d'@energiesded, Vice Pr\u00e9sident de la @fnccr, #Progressiste", 
     "twitter_favourites": 274, 
-    "twitter_followers": 1336, 
-    "twitter_following": 310, 
+    "twitter_followers": 1337, 
+    "twitter_following": 312, 
     "twitter_id": 78422142, 
-    "twitter_listed": 82, 
+    "twitter_listed": 0, 
     "twitter_name": "Jean BESSON", 
     "twitter_protected": false, 
     "twitter_tweets": 1342, 
@@ -2490,8 +2529,8 @@
     "profession": "Cadre commercial", 
     "sexe": "F", 
     "sites_web": [
-      "https://twitter.com/AnnickBillon", 
-      "http://bit.ly/1tgR7jS"
+      "http://bit.ly/1tgR7jS", 
+      "https://twitter.com/AnnickBillon"
     ], 
     "slug": "annick-billon", 
     "twitter": "AnnickBillon", 
@@ -3407,7 +3446,7 @@
       }, 
       "favourites_count": 143, 
       "follow_request_sent": false, 
-      "followers_count": 4214, 
+      "followers_count": 4216, 
       "following": false, 
       "friends_count": 1074, 
       "geo_enabled": true, 
@@ -3417,7 +3456,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 170, 
+      "listed_count": 0, 
       "location": "Calais, France", 
       "name": "Natacha BOUCHART", 
       "notifications": false, 
@@ -3565,10 +3604,10 @@
     }, 
     "twitter_description": "Vice-Pr\u00e9sidente de la R\u00e9gion Hauts-de-France Nord Pas de Calais-Picardie. Maire de #Calais, Pr\u00e9sidente de @capcalaisis.", 
     "twitter_favourites": 143, 
-    "twitter_followers": 4214, 
+    "twitter_followers": 4216, 
     "twitter_following": 1074, 
     "twitter_id": 551342517, 
-    "twitter_listed": 170, 
+    "twitter_listed": 0, 
     "twitter_name": "Natacha BOUCHART", 
     "twitter_protected": false, 
     "twitter_tweets": 5396, 
@@ -4371,8 +4410,8 @@
     "profession": "Chef d'entreprise", 
     "sexe": "H", 
     "sites_web": [
-      "https://twitter.com/OlivierCadic", 
-      "http://oliviercadic.com"
+      "http://oliviercadic.com", 
+      "https://twitter.com/OlivierCadic"
     ], 
     "slug": "olivier-cadic", 
     "twitter": "OlivierCadic", 
@@ -5947,9 +5986,9 @@
     "profession": "Conseiller du commerce ext\u00e9rieur", 
     "sexe": "H", 
     "sites_web": [
-      "http://www.facebook.com/jpchevenement", 
-      "https://twitter.com/chevenement", 
       "http://www.chevenement.fr", 
+      "https://twitter.com/chevenement", 
+      "http://www.facebook.com/jpchevenement", 
       "http://twitter.com/chevenement"
     ], 
     "slug": "jean-pierre-chevenement", 
@@ -5981,9 +6020,9 @@
       }, 
       "favourites_count": 155, 
       "follow_request_sent": false, 
-      "followers_count": 60310, 
+      "followers_count": 60311, 
       "following": false, 
-      "friends_count": 687, 
+      "friends_count": 689, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 57116930, 
@@ -5991,7 +6030,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 1239, 
+      "listed_count": 1241, 
       "location": "Paris, France", 
       "name": "J-P. Chev\u00e8nement", 
       "notifications": false, 
@@ -6024,61 +6063,54 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Thu Jan 12 11:07:42 +0000 2017", 
+        "created_at": "Tue Jan 24 19:59:58 +0000 2017", 
         "entities": {
           "hashtags": [
             {
               "indices": [
-                35, 
-                52
+                76, 
+                83
               ], 
-              "text": "DialoguesDuMatin"
+              "text": "Europe"
             }, 
             {
               "indices": [
-                70, 
-                76
+                119, 
+                132
               ], 
-              "text": "islam"
-            }, 
-            {
-              "indices": [
-                80, 
-                87
-              ], 
-              "text": "France"
+              "text": "MDBpolitique"
             }
           ], 
           "symbols": [], 
           "urls": [], 
           "user_mentions": [
             {
-              "id": 1407231344, 
-              "id_str": "1407231344", 
+              "id": 82095454, 
+              "id_str": "82095454", 
               "indices": [
                 3, 
-                19
+                15
               ], 
-              "name": "INSTITUT DIDEROT", 
-              "screen_name": "InstitutDiderot"
+              "name": "Coll\u00e8ge Bernardins", 
+              "screen_name": "CBernardins"
             }, 
             {
-              "id": 1407231344, 
-              "id_str": "1407231344", 
+              "id": 57116930, 
+              "id_str": "57116930", 
               "indices": [
-                94, 
-                110
+                106, 
+                118
               ], 
-              "name": "INSTITUT DIDEROT", 
-              "screen_name": "InstitutDiderot"
+              "name": "J-P. Chev\u00e8nement", 
+              "screen_name": "chevenement"
             }
           ]
         }, 
         "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 819501098557915137, 
-        "id_str": "819501098557915137", 
+        "id": 823983704649383937, 
+        "id_str": "823983704649383937", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -6087,66 +6119,49 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 9, 
+        "retweet_count": 7, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
           "coordinates": null, 
-          "created_at": "Thu Jan 12 09:39:38 +0000 2017", 
+          "created_at": "Tue Jan 24 19:47:36 +0000 2017", 
           "entities": {
             "hashtags": [
-              {
-                "indices": [
-                  14, 
-                  31
-                ], 
-                "text": "DialoguesDuMatin"
-              }, 
-              {
-                "indices": [
-                  49, 
-                  55
-                ], 
-                "text": "islam"
-              }, 
               {
                 "indices": [
                   59, 
                   66
                 ], 
-                "text": "France"
+                "text": "Europe"
+              }, 
+              {
+                "indices": [
+                  102, 
+                  115
+                ], 
+                "text": "MDBpolitique"
               }
             ], 
             "symbols": [], 
-            "urls": [
-              {
-                "display_url": "twitter.com/i/web/status/8\u2026", 
-                "expanded_url": "https://twitter.com/i/web/status/819478936568655873", 
-                "indices": [
-                  110, 
-                  133
-                ], 
-                "url": "https://t.co/qonYKAmEWr"
-              }
-            ], 
+            "urls": [], 
             "user_mentions": [
               {
-                "id": 1407231344, 
-                "id_str": "1407231344", 
+                "id": 57116930, 
+                "id_str": "57116930", 
                 "indices": [
-                  73, 
-                  89
+                  89, 
+                  101
                 ], 
-                "name": "INSTITUT DIDEROT", 
-                "screen_name": "InstitutDiderot"
+                "name": "J-P. Chev\u00e8nement", 
+                "screen_name": "chevenement"
               }
             ]
           }, 
-          "favorite_count": 5, 
+          "favorite_count": 3, 
           "favorited": false, 
           "geo": null, 
-          "id": 819478936568655873, 
-          "id_str": "819478936568655873", 
+          "id": 823980591620222982, 
+          "id_str": "823980591620222982", 
           "in_reply_to_screen_name": null, 
           "in_reply_to_status_id": null, 
           "in_reply_to_status_id_str": null, 
@@ -6154,19 +6169,51 @@
           "in_reply_to_user_id_str": null, 
           "is_quote_status": false, 
           "lang": "fr", 
-          "place": null, 
-          "possibly_sensitive": false, 
-          "retweet_count": 9, 
+          "place": {
+            "attributes": {}, 
+            "bounding_box": {
+              "coordinates": [
+                [
+                  [
+                    1.9795168000000001, 
+                    48.891069799999997
+                  ], 
+                  [
+                    2.0702335999999999, 
+                    48.891069799999997
+                  ], 
+                  [
+                    2.0702335999999999, 
+                    48.956955100000002
+                  ], 
+                  [
+                    1.9795168000000001, 
+                    48.956955100000002
+                  ]
+                ]
+              ], 
+              "type": "Polygon"
+            }, 
+            "contained_within": [], 
+            "country": "France", 
+            "country_code": "FR", 
+            "full_name": "Poissy, France", 
+            "id": "3bbb998ddd2b0308", 
+            "name": "Poissy", 
+            "place_type": "city", 
+            "url": "https://api.twitter.com/1.1/geo/id/3bbb998ddd2b0308.json"
+          }, 
+          "retweet_count": 7, 
           "retweeted": false, 
-          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-          "text": "\ud83d\udd34 \ud83d\udd1c F\u00c9VRIER \ud83d\udd35\n#DialoguesDuMatin\n\u2714\ufe0f \u00abLe d\u00e9fi de l'#islam de #France\u00bb\n\u2714\ufe0f L'@InstitutDiderot invite Jean-Pierre\u2026 https://t.co/qonYKAmEWr", 
-          "truncated": true
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+          "text": "\"Je suis pour un d\u00e9tour par les nations pour revenir \u00e0 une #Europe \u00e0 g\u00e9om\u00e9trie variable\" @chevenement #MDBpolitique", 
+          "truncated": false
         }, 
         "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
-        "text": "RT @InstitutDiderot: \ud83d\udd34 \ud83d\udd1c F\u00c9VRIER \ud83d\udd35\n#DialoguesDuMatin\n\u2714\ufe0f \u00abLe d\u00e9fi de l'#islam de #France\u00bb\n\u2714\ufe0f L'@InstitutDiderot invite Jean-Pierre @Chevenem\u2026", 
+        "text": "RT @CBernardins: \"Je suis pour un d\u00e9tour par les nations pour revenir \u00e0 une #Europe \u00e0 g\u00e9om\u00e9trie variable\" @chevenement #MDBpolitique", 
         "truncated": false
       }, 
-      "statuses_count": 4285, 
+      "statuses_count": 4291, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": "http://t.co/uxgBAwrQat", 
@@ -6175,13 +6222,13 @@
     }, 
     "twitter_description": "Ancien ministre. Pdt du club R\u00e9publique Moderne (@RepubliqueMod) et de la Fondation Res Publica (@fondarespublica).", 
     "twitter_favourites": 155, 
-    "twitter_followers": 60310, 
-    "twitter_following": 687, 
+    "twitter_followers": 60311, 
+    "twitter_following": 689, 
     "twitter_id": 57116930, 
-    "twitter_listed": 1239, 
+    "twitter_listed": 1241, 
     "twitter_name": "J-P. Chev\u00e8nement", 
     "twitter_protected": false, 
-    "twitter_tweets": 4285, 
+    "twitter_tweets": 4291, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/chevenement_jean_pierre02053w.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-pierre-chevenement", 
@@ -7084,7 +7131,7 @@
       }, 
       "favourites_count": 1, 
       "follow_request_sent": false, 
-      "followers_count": 411, 
+      "followers_count": 412, 
       "following": false, 
       "friends_count": 13, 
       "geo_enabled": false, 
@@ -7094,7 +7141,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 33, 
+      "listed_count": 0, 
       "location": "M\u00e2con", 
       "name": "J-P COURTOIS", 
       "notifications": false, 
@@ -7103,8 +7150,8 @@
       "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
       "profile_background_tile": false, 
       "profile_banner_url": "https://pbs.twimg.com/profile_banners/1479161936/1373527839", 
-      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000039360948/2ea3ecbe42a7fcfc9d12ad924706b42a_normal.jpeg", 
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000039360948/2ea3ecbe42a7fcfc9d12ad924706b42a_normal.jpeg", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/823948747080142848/c_ry8dzl_normal.jpg", 
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/823948747080142848/c_ry8dzl_normal.jpg", 
       "profile_link_color": "1DA1F2", 
       "profile_location": null, 
       "profile_sidebar_border_color": "C0DEED", 
@@ -7116,137 +7163,33 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Sat Nov 02 13:54:17 +0000 2013", 
+        "created_at": "Tue Jan 24 08:47:08 +0000 2017", 
         "entities": {
-          "hashtags": [
-            {
-              "indices": [
-                53, 
-                57
-              ], 
-              "text": "UMP"
-            }
-          ], 
+          "hashtags": [], 
           "symbols": [], 
           "urls": [], 
-          "user_mentions": [
-            {
-              "id": 439463212, 
-              "id_str": "439463212", 
-              "indices": [
-                3, 
-                17
-              ], 
-              "name": "Arnaud Danjean", 
-              "screen_name": "ArnaudDanjean"
-            }, 
-            {
-              "id": 1479161936, 
-              "id_str": "1479161936", 
-              "indices": [
-                75, 
-                87
-              ], 
-              "name": "J-P COURTOIS", 
-              "screen_name": "Courtois_JP"
-            }, 
-            {
-              "id": 104943467, 
-              "id_str": "104943467", 
-              "indices": [
-                92, 
-                104
-              ], 
-              "name": "France 3 Bourgogne", 
-              "screen_name": "F3Bourgogne"
-            }
-          ]
+          "user_mentions": []
         }, 
         "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 396636380878876672, 
-        "id_str": "396636380878876672", 
-        "in_reply_to_screen_name": null, 
-        "in_reply_to_status_id": null, 
-        "in_reply_to_status_id_str": null, 
-        "in_reply_to_user_id": null, 
-        "in_reply_to_user_id_str": null, 
+        "id": 823814380060114944, 
+        "id_str": "823814380060114944", 
+        "in_reply_to_screen_name": "Courtois_JP", 
+        "in_reply_to_status_id": 823812974532063232, 
+        "in_reply_to_status_id_str": "823812974532063232", 
+        "in_reply_to_user_id": 1479161936, 
+        "in_reply_to_user_id_str": "1479161936", 
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 4, 
+        "retweet_count": 0, 
         "retweeted": false, 
-        "retweeted_status": {
-          "contributors": null, 
-          "coordinates": null, 
-          "created_at": "Sat Nov 02 12:32:45 +0000 2013", 
-          "entities": {
-            "hashtags": [
-              {
-                "indices": [
-                  34, 
-                  38
-                ], 
-                "text": "UMP"
-              }, 
-              {
-                "indices": [
-                  129, 
-                  139
-                ], 
-                "text": "Bourgogne"
-              }
-            ], 
-            "symbols": [], 
-            "urls": [], 
-            "user_mentions": [
-              {
-                "id": 1479161936, 
-                "id_str": "1479161936", 
-                "indices": [
-                  56, 
-                  68
-                ], 
-                "name": "J-P COURTOIS", 
-                "screen_name": "Courtois_JP"
-              }, 
-              {
-                "id": 104943467, 
-                "id_str": "104943467", 
-                "indices": [
-                  73, 
-                  85
-                ], 
-                "name": "France 3 Bourgogne", 
-                "screen_name": "F3Bourgogne"
-              }
-            ]
-          }, 
-          "favorite_count": 1, 
-          "favorited": false, 
-          "geo": null, 
-          "id": 396615864260505600, 
-          "id_str": "396615864260505600", 
-          "in_reply_to_screen_name": null, 
-          "in_reply_to_status_id": null, 
-          "in_reply_to_status_id_str": null, 
-          "in_reply_to_user_id": null, 
-          "in_reply_to_user_id_str": null, 
-          "is_quote_status": false, 
-          "lang": "fr", 
-          "place": null, 
-          "retweet_count": 4, 
-          "retweeted": false, 
-          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-          "text": "Proximit\u00e9, concret, ouverture...l'#UMP comme on l'aime, @COURTOIS_JP sur @F3Bourgogne a fait honneur \u00e0 la droite r\u00e9publicaine de #Bourgogne", 
-          "truncated": false
-        }, 
-        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
-        "text": "RT @ArnaudDanjean: Proximit\u00e9, concret, ouverture...l'#UMP comme on l'aime, @COURTOIS_JP sur @F3Bourgogne a fait honneur \u00e0 la droite r\u00e9publi\u2026", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "Entour\u00e9 des vice-pr\u00e9sident nous aurons \u00e0 c\u0153ur de mener \u00e0 bien les projets pour l'avenir de notre territoire dans le respect des 39 communes.", 
         "truncated": false
       }, 
-      "statuses_count": 12, 
+      "statuses_count": 13, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": "https://t.co/2eq9qW7NL6", 
@@ -7255,13 +7198,13 @@
     }, 
     "twitter_description": "Maire de @villedemacon pr\u00e9sident de la @_camval", 
     "twitter_favourites": 1, 
-    "twitter_followers": 411, 
+    "twitter_followers": 412, 
     "twitter_following": 13, 
     "twitter_id": 1479161936, 
-    "twitter_listed": 33, 
+    "twitter_listed": 0, 
     "twitter_name": "J-P COURTOIS", 
     "twitter_protected": false, 
-    "twitter_tweets": 12, 
+    "twitter_tweets": 13, 
     "twitter_verified": false, 
     "url_institution": "http://www.senat.fr/senateur/courtois_jean_patrick95020y.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-patrick-courtois", 
@@ -13959,8 +13902,9 @@
     "sexe": "F", 
     "sites_web": [
       "https://www.facebook.com/senatrice.gisele.jourda", 
-      "https://twitter.com/GiseleJourda", 
+      "http://gisele-jourda.fr", 
       "www.gisele-jourda.fr", 
+      "https://twitter.com/GiseleJourda", 
       "http://www.gisele-jourda.fr"
     ], 
     "slug": "gisele-jourda", 
@@ -14645,8 +14589,8 @@
     "profession": null, 
     "sexe": "H", 
     "sites_web": [
-      "https://twitter.com/claude_kern", 
       "https://www.facebook.com/claude.kern", 
+      "https://twitter.com/claude_kern", 
       "https://www.facebook.com/senateurclaudekern"
     ], 
     "slug": "claude-kern", 
@@ -17037,9 +16981,9 @@
       }, 
       "favourites_count": 5, 
       "follow_request_sent": false, 
-      "followers_count": 3718, 
+      "followers_count": 3719, 
       "following": false, 
-      "friends_count": 2367, 
+      "friends_count": 2366, 
       "geo_enabled": false, 
       "has_extended_profile": false, 
       "id": 1534099902, 
@@ -17103,8 +17047,8 @@
     }, 
     "twitter_description": "S\u00e9nateur honoraire-maire de Compi\u00e8gne , Pr\u00e9sident de l'agglom\u00e9ration de la r\u00e9gion de Compi\u00e8gne, Pr\u00e9sident de la commission des finances du S\u00e9nat.", 
     "twitter_favourites": 5, 
-    "twitter_followers": 3718, 
-    "twitter_following": 2367, 
+    "twitter_followers": 3719, 
+    "twitter_following": 2366, 
     "twitter_id": 1534099902, 
     "twitter_listed": 130, 
     "twitter_name": "Philippe Marini", 
@@ -18232,7 +18176,7 @@
           ]
         }
       }, 
-      "favourites_count": 58, 
+      "favourites_count": 60, 
       "follow_request_sent": false, 
       "followers_count": 235, 
       "following": false, 
@@ -18300,7 +18244,7 @@
       "verified": true
     }, 
     "twitter_description": "S\u00e9natrice Les R\u00e9publicains des Hautes-Alpes", 
-    "twitter_favourites": 58, 
+    "twitter_favourites": 60, 
     "twitter_followers": 235, 
     "twitter_following": 146, 
     "twitter_id": 3189823869, 
@@ -19507,7 +19451,7 @@
       }, 
       "favourites_count": 1688, 
       "follow_request_sent": false, 
-      "followers_count": 90266, 
+      "followers_count": 90292, 
       "following": false, 
       "friends_count": 2422, 
       "geo_enabled": true, 
@@ -19517,7 +19461,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 1022, 
+      "listed_count": 1021, 
       "location": "Paris, France", 
       "name": "Jean-Vincent Plac\u00e9", 
       "notifications": false, 
@@ -19539,81 +19483,74 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Mon Jan 23 14:05:00 +0000 2017", 
+        "created_at": "Tue Jan 24 17:55:46 +0000 2017", 
         "entities": {
           "hashtags": [
             {
               "indices": [
-                24, 
-                34
+                88, 
+                96
               ], 
-              "text": "Coulaines"
+              "text": "startup"
             }, 
             {
               "indices": [
-                84, 
-                98
+                97, 
+                112
               ], 
-              "text": "modernisation"
-            }, 
-            {
-              "indices": [
-                99, 
-                113
-              ], 
-              "text": "servicepublic"
+              "text": "dessousentendu"
             }
           ], 
           "symbols": [], 
-          "urls": [
-            {
-              "display_url": "ouest-france.fr/pays-de-la-loi\u2026", 
-              "expanded_url": "http://www.ouest-france.fr/pays-de-la-loire/coulaines-72190/coulaines-une-ville-importante-dans-mon-coeur-4747874", 
-              "indices": [
-                114, 
-                137
-              ], 
-              "url": "https://t.co/sGiBi7auNa"
-            }
-          ], 
+          "urls": [], 
           "user_mentions": [
             {
-              "id": 57281645, 
-              "id_str": "57281645", 
+              "id": 106055864, 
+              "id_str": "106055864", 
               "indices": [
                 3, 
-                13
+                19
               ], 
-              "name": "Ville de Coulaines", 
-              "screen_name": "Coulaines"
+              "name": "Innovact", 
+              "screen_name": "Innovact_Center"
             }, 
             {
-              "id": 219361536, 
-              "id_str": "219361536", 
+              "id": 789152886307614722, 
+              "id_str": "789152886307614722", 
               "indices": [
-                15, 
-                23
+                52, 
+                68
               ], 
-              "name": "Jean-Vincent Plac\u00e9", 
-              "screen_name": "JVPlace"
+              "name": "Quartier Libre", 
+              "screen_name": "QuartierLibreRs"
             }, 
             {
-              "id": 172775167, 
-              "id_str": "172775167", 
+              "id": 488768592, 
+              "id_str": "488768592", 
               "indices": [
-                71, 
-                83
+                114, 
+                124
               ], 
-              "name": "CHRISTOPHE ROUILLON", 
-              "screen_name": "ch_rouillon"
+              "name": "startup #BeForStats", 
+              "screen_name": "fredoisab"
+            }, 
+            {
+              "id": 3193154025, 
+              "id_str": "3193154025", 
+              "indices": [
+                128, 
+                138
+              ], 
+              "name": "Bazam", 
+              "screen_name": "bazam_com"
             }
           ]
         }, 
         "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 823531984504889345, 
-        "id_str": "823531984504889345", 
+        "id": 823952449169924096, 
+        "id_str": "823952449169924096", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -19622,97 +19559,89 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "possibly_sensitive": false, 
         "retweet_count": 5, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
           "coordinates": null, 
-          "created_at": "Mon Jan 23 08:14:35 +0000 2017", 
+          "created_at": "Fri Jan 13 11:07:49 +0000 2017", 
           "entities": {
             "hashtags": [
               {
                 "indices": [
-                  9, 
-                  19
+                  67, 
+                  75
                 ], 
-                "text": "Coulaines"
+                "text": "startup"
               }, 
               {
                 "indices": [
-                  69, 
-                  83
+                  76, 
+                  91
                 ], 
-                "text": "modernisation"
-              }, 
-              {
-                "indices": [
-                  84, 
-                  98
-                ], 
-                "text": "servicepublic"
+                "text": "dessousentendu"
               }
             ], 
             "symbols": [], 
             "urls": [
               {
-                "display_url": "ouest-france.fr/pays-de-la-loi\u2026", 
-                "expanded_url": "http://www.ouest-france.fr/pays-de-la-loire/coulaines-72190/coulaines-une-ville-importante-dans-mon-coeur-4747874", 
+                "display_url": "twitter.com/i/web/status/8\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/819863518417735680", 
                 "indices": [
-                  99, 
-                  122
+                  108, 
+                  131
                 ], 
-                "url": "https://t.co/sGiBi7auNa"
+                "url": "https://t.co/7XKRBV1nGq"
               }
             ], 
             "user_mentions": [
               {
-                "id": 219361536, 
-                "id_str": "219361536", 
+                "id": 789152886307614722, 
+                "id_str": "789152886307614722", 
                 "indices": [
-                  0, 
-                  8
+                  31, 
+                  47
                 ], 
-                "name": "Jean-Vincent Plac\u00e9", 
-                "screen_name": "JVPlace"
+                "name": "Quartier Libre", 
+                "screen_name": "QuartierLibreRs"
               }, 
               {
-                "id": 172775167, 
-                "id_str": "172775167", 
+                "id": 488768592, 
+                "id_str": "488768592", 
                 "indices": [
-                  56, 
-                  68
+                  93, 
+                  103
                 ], 
-                "name": "CHRISTOPHE ROUILLON", 
-                "screen_name": "ch_rouillon"
+                "name": "startup #BeForStats", 
+                "screen_name": "fredoisab"
               }
             ]
           }, 
-          "favorite_count": 5, 
+          "favorite_count": 6, 
           "favorited": false, 
           "geo": null, 
-          "id": 823443798403514368, 
-          "id_str": "823443798403514368", 
-          "in_reply_to_screen_name": "JVPlace", 
+          "id": 819863518417735680, 
+          "id_str": "819863518417735680", 
+          "in_reply_to_screen_name": null, 
           "in_reply_to_status_id": null, 
           "in_reply_to_status_id_str": null, 
-          "in_reply_to_user_id": 219361536, 
-          "in_reply_to_user_id_str": "219361536", 
+          "in_reply_to_user_id": null, 
+          "in_reply_to_user_id_str": null, 
           "is_quote_status": false, 
           "lang": "fr", 
           "place": null, 
           "possibly_sensitive": false, 
           "retweet_count": 5, 
           "retweeted": false, 
-          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-          "text": "@JVPlace #Coulaines, une ville importante dans mon c\u0153ur @ch_rouillon #modernisation #servicepublic https://t.co/sGiBi7auNa", 
-          "truncated": false
+          "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+          "text": "Visite de Jean-Vincent Plac\u00e9 \u00e0 @QuartierLibreRs : pr\u00e9sentation des #startup #dessousentendu, @fredoisab et\u2026 https://t.co/7XKRBV1nGq", 
+          "truncated": true
         }, 
-        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "RT @Coulaines: @JVPlace #Coulaines, une ville importante dans mon c\u0153ur @ch_rouillon #modernisation #servicepublic https://t.co/sGiBi7auNa", 
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>", 
+        "text": "RT @Innovact_Center: Visite de Jean-Vincent Plac\u00e9 \u00e0 @QuartierLibreRs : pr\u00e9sentation des #startup #dessousentendu, @fredoisab et @bazam_com\u2026", 
         "truncated": false
       }, 
-      "statuses_count": 7917, 
+      "statuses_count": 7923, 
       "time_zone": null, 
       "translator_type": "none", 
       "url": null, 
@@ -19721,13 +19650,13 @@
     }, 
     "twitter_description": "Secr\u00e9taire d'Etat aupr\u00e8s du Premier Ministre, charg\u00e9 de la r\u00e9forme de l'Etat et de la simplification. Pr\u00e9sident de l' @UDE_FR", 
     "twitter_favourites": 1688, 
-    "twitter_followers": 90266, 
+    "twitter_followers": 90292, 
     "twitter_following": 2422, 
     "twitter_id": 219361536, 
-    "twitter_listed": 1022, 
+    "twitter_listed": 1021, 
     "twitter_name": "Jean-Vincent Plac\u00e9", 
     "twitter_protected": false, 
-    "twitter_tweets": 7917, 
+    "twitter_tweets": 7923, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/place_jean_vincent11069t.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-vincent-place", 
@@ -19756,8 +19685,8 @@
     "sites_web": [
       "http://fr-fr.facebook.com/people/Jean-Pierre-Plancade/100002416394710", 
       "http://www.facebook.com/profile.php?id=100002416394710", 
-      "https://twitter.com/JPPlancade", 
-      "https://twitter.com/#!/JPPlancade"
+      "https://twitter.com/#!/JPPlancade", 
+      "https://twitter.com/JPPlancade"
     ], 
     "slug": "jean-pierre-plancade", 
     "twitter": "JPPlancade", 
@@ -21180,7 +21109,7 @@
       }, 
       "favourites_count": 67, 
       "follow_request_sent": false, 
-      "followers_count": 5079, 
+      "followers_count": 5084, 
       "following": false, 
       "friends_count": 396, 
       "geo_enabled": true, 
@@ -21190,7 +21119,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 242, 
+      "listed_count": 0, 
       "location": "Strasbourg, France", 
       "name": "Roland Ries", 
       "notifications": false, 
@@ -21383,10 +21312,10 @@
     }, 
     "twitter_description": "Maire de Strasbourg", 
     "twitter_favourites": 67, 
-    "twitter_followers": 5079, 
+    "twitter_followers": 5084, 
     "twitter_following": 396, 
     "twitter_id": 281438650, 
-    "twitter_listed": 242, 
+    "twitter_listed": 0, 
     "twitter_name": "Roland Ries", 
     "twitter_protected": false, 
     "twitter_tweets": 330, 
