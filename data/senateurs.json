@@ -806,11 +806,11 @@
           ]
         }
       }, 
-      "favourites_count": 889, 
+      "favourites_count": 955, 
       "follow_request_sent": false, 
-      "followers_count": 17375, 
+      "followers_count": 17398, 
       "following": false, 
-      "friends_count": 1534, 
+      "friends_count": 1536, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 110191018, 
@@ -840,18 +840,54 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Thu Feb 16 11:59:13 +0000 2017", 
+        "created_at": "Fri Feb 17 18:28:40 +0000 2017", 
         "entities": {
-          "hashtags": [], 
+          "hashtags": [
+            {
+              "indices": [
+                89, 
+                99
+              ], 
+              "text": "Euroforum"
+            }, 
+            {
+              "indices": [
+                100, 
+                114
+              ], 
+              "text": "Audencia_conf"
+            }
+          ], 
           "symbols": [], 
           "urls": [], 
-          "user_mentions": []
+          "user_mentions": [
+            {
+              "id": 727575145020272644, 
+              "id_str": "727575145020272644", 
+              "indices": [
+                3, 
+                16
+              ], 
+              "name": "Constance Le Coq", 
+              "screen_name": "CoqConstance"
+            }, 
+            {
+              "id": 110191018, 
+              "id_str": "110191018", 
+              "indices": [
+                76, 
+                88
+              ], 
+              "name": "Jean Arthuis", 
+              "screen_name": "JeanArthuis"
+            }
+          ]
         }, 
-        "favorite_count": 11, 
+        "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 832197640989315073, 
-        "id_str": "832197640989315073", 
+        "id": 832658035025645568, 
+        "id_str": "832658035025645568", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -860,13 +896,68 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 11, 
+        "retweet_count": 2, 
         "retweeted": false, 
+        "retweeted_status": {
+          "contributors": null, 
+          "coordinates": null, 
+          "created_at": "Fri Feb 17 18:14:45 +0000 2017", 
+          "entities": {
+            "hashtags": [
+              {
+                "indices": [
+                  71, 
+                  81
+                ], 
+                "text": "Euroforum"
+              }, 
+              {
+                "indices": [
+                  82, 
+                  96
+                ], 
+                "text": "Audencia_conf"
+              }
+            ], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": [
+              {
+                "id": 110191018, 
+                "id_str": "110191018", 
+                "indices": [
+                  58, 
+                  70
+                ], 
+                "name": "Jean Arthuis", 
+                "screen_name": "JeanArthuis"
+              }
+            ]
+          }, 
+          "favorite_count": 4, 
+          "favorited": false, 
+          "geo": null, 
+          "id": 832654532039503873, 
+          "id_str": "832654532039503873", 
+          "in_reply_to_screen_name": null, 
+          "in_reply_to_status_id": null, 
+          "in_reply_to_status_id_str": null, 
+          "in_reply_to_user_id": null, 
+          "in_reply_to_user_id_str": null, 
+          "is_quote_status": false, 
+          "lang": "fr", 
+          "place": null, 
+          "retweet_count": 2, 
+          "retweeted": false, 
+          "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+          "text": "\"La fiscalit\u00e9 est au coeur de la construction europ\u00e9enne\" @JeanArthuis #Euroforum #Audencia_conf", 
+          "truncated": false
+        }, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "Majorit\u00e9 membres du PE vient de voter trois rapports pour dynamiser et fortifier l'UE et consolider la gouvernance de la zone euro.Confiance", 
+        "text": "RT @CoqConstance: \"La fiscalit\u00e9 est au coeur de la construction europ\u00e9enne\" @JeanArthuis #Euroforum #Audencia_conf", 
         "truncated": false
       }, 
-      "statuses_count": 3144, 
+      "statuses_count": 3159, 
       "time_zone": "Amsterdam", 
       "translator_type": "none", 
       "url": "https://t.co/YhICpAOeW0", 
@@ -874,14 +965,14 @@
       "verified": true
     }, 
     "twitter_description": "D\u00e9put\u00e9 europ\u00e9en, Pr\u00e9sident de la com. #BUDG , fondateur de l'Alliance centriste (#UDI), ancien ministre de l'\u00e9conomie et des finances https://t.co/fhOVDCh45q", 
-    "twitter_favourites": 889, 
-    "twitter_followers": 17375, 
-    "twitter_following": 1534, 
+    "twitter_favourites": 955, 
+    "twitter_followers": 17398, 
+    "twitter_following": 1536, 
     "twitter_id": 110191018, 
     "twitter_listed": 660, 
     "twitter_name": "Jean Arthuis", 
     "twitter_protected": false, 
-    "twitter_tweets": 3144, 
+    "twitter_tweets": 3159, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/arthuis_jean83011j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-arthuis", 
@@ -1008,8 +1099,8 @@
     "sites_web": [
       "https://twitter.com/dassouline", 
       "http://www.david-assouline.net", 
-      "https://www.facebook.com/DavAssouline", 
-      "http://david-assouline.net"
+      "http://david-assouline.net", 
+      "https://www.facebook.com/DavAssouline"
     ], 
     "slug": "david-assouline", 
     "twitter": "dassouline", 
@@ -2145,7 +2236,7 @@
       }, 
       "favourites_count": 322, 
       "follow_request_sent": false, 
-      "followers_count": 1338, 
+      "followers_count": 1340, 
       "following": false, 
       "friends_count": 316, 
       "geo_enabled": true, 
@@ -2314,7 +2405,7 @@
     }, 
     "twitter_description": "Jean BESSON, S\u00e9nateur Honoraire, Pr\u00e9sident d'@energiesded, Vice Pr\u00e9sident de la @fnccr, #Progressiste", 
     "twitter_favourites": 322, 
-    "twitter_followers": 1338, 
+    "twitter_followers": 1340, 
     "twitter_following": 316, 
     "twitter_id": 78422142, 
     "twitter_listed": 83, 
@@ -2544,8 +2635,8 @@
     "profession": "Cadre commercial", 
     "sexe": "F", 
     "sites_web": [
-      "https://twitter.com/AnnickBillon", 
-      "http://bit.ly/1tgR7jS"
+      "http://bit.ly/1tgR7jS", 
+      "https://twitter.com/AnnickBillon"
     ], 
     "slug": "annick-billon", 
     "twitter": "AnnickBillon", 
@@ -3461,7 +3552,7 @@
       }, 
       "favourites_count": 143, 
       "follow_request_sent": false, 
-      "followers_count": 4231, 
+      "followers_count": 4232, 
       "following": false, 
       "friends_count": 1074, 
       "geo_enabled": true, 
@@ -3471,7 +3562,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 0, 
+      "listed_count": 171, 
       "location": "Calais, France", 
       "name": "Natacha BOUCHART", 
       "notifications": false, 
@@ -3628,10 +3719,10 @@
     }, 
     "twitter_description": "Vice-Pr\u00e9sidente de la R\u00e9gion Hauts-de-France. Maire de #Calais, Pr\u00e9sidente de Grand Calais Terres & Mers", 
     "twitter_favourites": 143, 
-    "twitter_followers": 4231, 
+    "twitter_followers": 4232, 
     "twitter_following": 1074, 
     "twitter_id": 551342517, 
-    "twitter_listed": 0, 
+    "twitter_listed": 171, 
     "twitter_name": "Natacha BOUCHART", 
     "twitter_protected": false, 
     "twitter_tweets": 5409, 
@@ -4434,8 +4525,8 @@
     "profession": "Chef d'entreprise", 
     "sexe": "H", 
     "sites_web": [
-      "https://twitter.com/OlivierCadic", 
-      "http://oliviercadic.com"
+      "http://oliviercadic.com", 
+      "https://twitter.com/OlivierCadic"
     ], 
     "slug": "olivier-cadic", 
     "twitter": "OlivierCadic", 
@@ -5405,9 +5496,9 @@
     "profession": "Enseignante", 
     "sexe": "F", 
     "sites_web": [
-      "https://twitter.com/carolinecayeux", 
-      "https://www.facebook.com/caroline.cayeux.3", 
       "https://www.facebook.com/caroline.cayeux", 
+      "https://www.facebook.com/caroline.cayeux.3", 
+      "https://twitter.com/carolinecayeux", 
       "http://www.carolinecayeux.com"
     ], 
     "slug": "caroline-cayeux", 
@@ -6010,9 +6101,9 @@
     "profession": "Conseiller du commerce ext\u00e9rieur", 
     "sexe": "H", 
     "sites_web": [
-      "http://www.chevenement.fr", 
-      "https://twitter.com/chevenement", 
       "http://www.facebook.com/jpchevenement", 
+      "https://twitter.com/chevenement", 
+      "http://www.chevenement.fr", 
       "http://twitter.com/chevenement"
     ], 
     "slug": "jean-pierre-chevenement", 
@@ -6044,9 +6135,9 @@
       }, 
       "favourites_count": 156, 
       "follow_request_sent": false, 
-      "followers_count": 60494, 
+      "followers_count": 60504, 
       "following": false, 
-      "friends_count": 691, 
+      "friends_count": 690, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 57116930, 
@@ -6133,8 +6224,8 @@
     }, 
     "twitter_description": "Ancien ministre. Pdt du club R\u00e9publique Moderne (@RepubliqueMod) et de la Fondation Res Publica (@fondarespublica).", 
     "twitter_favourites": 156, 
-    "twitter_followers": 60494, 
-    "twitter_following": 691, 
+    "twitter_followers": 60504, 
+    "twitter_following": 690, 
     "twitter_id": 57116930, 
     "twitter_listed": 1242, 
     "twitter_name": "J-P. Chev\u00e8nement", 
@@ -6564,9 +6655,9 @@
     "profession": "Professeure d'universit\u00e9", 
     "sexe": "F", 
     "sites_web": [
-      "https://www.facebook.com/heleneconwaymouret", 
+      "http://www.helene-conway.com", 
       "https://twitter.com/hmouretconway", 
-      "http://www.helene-conway.com"
+      "https://www.facebook.com/heleneconwaymouret"
     ], 
     "slug": "helene-conway-mouret", 
     "twitter": "hmouretconway", 
@@ -8855,11 +8946,11 @@
     "profession": null, 
     "sexe": "F", 
     "sites_web": [
+      "http://instagram.com/elisabeth_doineau", 
       "https://twitter.com/E_Doineau", 
       "http://elisabethdoineau.wordpress.com", 
       "https://elisabethdoineau.wordpress.com", 
-      "https://www.facebook.com/elisabethdoineau", 
-      "http://instagram.com/elisabeth_doineau"
+      "https://www.facebook.com/elisabethdoineau"
     ], 
     "slug": "elisabeth-doineau", 
     "twitter": "E_Doineau", 
@@ -11758,9 +11849,9 @@
     "sexe": "H", 
     "sites_web": [
       "http://gorce.typepad.fr", 
-      "http://www.gorce.typepad.fr", 
       "https://twitter.com/ggorce", 
-      "https://www.facebook.com/gaetan.gorce"
+      "https://www.facebook.com/gaetan.gorce", 
+      "http://www.gorce.typepad.fr"
     ], 
     "slug": "gaetan-gorce", 
     "twitter": "ggorce", 
@@ -13495,7 +13586,7 @@
       }, 
       "favourites_count": 5, 
       "follow_request_sent": false, 
-      "followers_count": 817, 
+      "followers_count": 818, 
       "following": false, 
       "friends_count": 253, 
       "geo_enabled": false, 
@@ -13712,7 +13803,7 @@
     }, 
     "twitter_description": "Maire de Saint-Flour, Pr\u00e9sident des Maires du #Cantal, Comit\u00e9 des #Finances locales - #Collectivit\u00e9s territoriales #Urbanisme #Logement #D\u00e9veloppement durable", 
     "twitter_favourites": 5, 
-    "twitter_followers": 817, 
+    "twitter_followers": 818, 
     "twitter_following": 253, 
     "twitter_id": 2328417882, 
     "twitter_listed": 38, 
@@ -13773,7 +13864,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 8, 
+      "listed_count": 0, 
       "location": "CABRIERES D'AIGUES", 
       "name": "JEAN Genevi\u00e8ve", 
       "notifications": false, 
@@ -13844,7 +13935,7 @@
     "twitter_followers": 27, 
     "twitter_following": 56, 
     "twitter_id": 2172852169, 
-    "twitter_listed": 8, 
+    "twitter_listed": 0, 
     "twitter_name": "JEAN Genevi\u00e8ve", 
     "twitter_protected": false, 
     "twitter_tweets": 1, 
@@ -14861,8 +14952,8 @@
     "profession": null, 
     "sexe": "H", 
     "sites_web": [
-      "https://twitter.com/claude_kern", 
       "https://www.facebook.com/claude.kern", 
+      "https://twitter.com/claude_kern", 
       "https://www.facebook.com/senateurclaudekern"
     ], 
     "slug": "claude-kern", 
@@ -17253,7 +17344,7 @@
       }, 
       "favourites_count": 5, 
       "follow_request_sent": false, 
-      "followers_count": 3733, 
+      "followers_count": 3736, 
       "following": false, 
       "friends_count": 2365, 
       "geo_enabled": false, 
@@ -17319,7 +17410,7 @@
     }, 
     "twitter_description": "S\u00e9nateur honoraire-maire de Compi\u00e8gne , Pr\u00e9sident de l'agglom\u00e9ration de la r\u00e9gion de Compi\u00e8gne, Pr\u00e9sident de la commission des finances du S\u00e9nat.", 
     "twitter_favourites": 5, 
-    "twitter_followers": 3733, 
+    "twitter_followers": 3736, 
     "twitter_following": 2365, 
     "twitter_id": 1534099902, 
     "twitter_listed": 131, 
@@ -19811,11 +19902,11 @@
           "urls": []
         }
       }, 
-      "favourites_count": 1703, 
+      "favourites_count": 1705, 
       "follow_request_sent": false, 
-      "followers_count": 90795, 
+      "followers_count": 90810, 
       "following": false, 
-      "friends_count": 2418, 
+      "friends_count": 2420, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 219361536, 
@@ -19845,69 +19936,29 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Thu Feb 16 16:54:35 +0000 2017", 
+        "created_at": "Fri Feb 17 16:49:17 +0000 2017", 
         "entities": {
           "hashtags": [], 
           "symbols": [], 
           "urls": [], 
           "user_mentions": [
             {
-              "id": 4081472073, 
-              "id_str": "4081472073", 
+              "id": 69032746, 
+              "id_str": "69032746", 
               "indices": [
                 3, 
-                15
+                17
               ], 
-              "name": "Guillaume Gomez Chef", 
-              "screen_name": "ggomez_chef"
-            }, 
-            {
-              "id": 2470852057, 
-              "id_str": "2470852057", 
-              "indices": [
-                87, 
-                101
-              ], 
-              "name": "Table fran\u00e7aise", 
-              "screen_name": "sgclubtablefr"
-            }, 
-            {
-              "id": 487874704, 
-              "id_str": "487874704", 
-              "indices": [
-                102, 
-                118
-              ], 
-              "name": "catherine dumas", 
-              "screen_name": "catherine_dumas"
-            }, 
-            {
-              "id": 219361536, 
-              "id_str": "219361536", 
-              "indices": [
-                119, 
-                127
-              ], 
-              "name": "Jean-Vincent Plac\u00e9", 
-              "screen_name": "JVPlace"
-            }, 
-            {
-              "id": 20702279, 
-              "id_str": "20702279", 
-              "indices": [
-                128, 
-                133
-              ], 
-              "name": "N. Kosciusko-Morizet", 
-              "screen_name": "nk_m"
+              "name": "S\u00e9gol\u00e8ne Royal", 
+              "screen_name": "RoyalSegolene"
             }
           ]
         }, 
         "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 832271970062462977, 
-        "id_str": "832271970062462977", 
+        "id": 832633024957132800, 
+        "id_str": "832633024957132800", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -19916,64 +19967,23 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 16, 
+        "retweet_count": 165, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
           "coordinates": null, 
-          "created_at": "Thu Feb 16 16:54:21 +0000 2017", 
+          "created_at": "Tue Feb 14 12:16:28 +0000 2017", 
           "entities": {
             "hashtags": [], 
             "symbols": [], 
-            "urls": [
-              {
-                "display_url": "twitter.com/i/web/status/8\u2026", 
-                "expanded_url": "https://twitter.com/i/web/status/832271911753244672", 
-                "indices": [
-                  112, 
-                  135
-                ], 
-                "url": "https://t.co/uhwVskhNd4"
-              }
-            ], 
-            "user_mentions": [
-              {
-                "id": 2470852057, 
-                "id_str": "2470852057", 
-                "indices": [
-                  70, 
-                  84
-                ], 
-                "name": "Table fran\u00e7aise", 
-                "screen_name": "sgclubtablefr"
-              }, 
-              {
-                "id": 487874704, 
-                "id_str": "487874704", 
-                "indices": [
-                  85, 
-                  101
-                ], 
-                "name": "catherine dumas", 
-                "screen_name": "catherine_dumas"
-              }, 
-              {
-                "id": 219361536, 
-                "id_str": "219361536", 
-                "indices": [
-                  102, 
-                  110
-                ], 
-                "name": "Jean-Vincent Plac\u00e9", 
-                "screen_name": "JVPlace"
-              }
-            ]
+            "urls": [], 
+            "user_mentions": []
           }, 
-          "favorite_count": 30, 
+          "favorite_count": 296, 
           "favorited": false, 
           "geo": null, 
-          "id": 832271911753244672, 
-          "id_str": "832271911753244672", 
+          "id": 831477203649122307, 
+          "id_str": "831477203649122307", 
           "in_reply_to_screen_name": null, 
           "in_reply_to_status_id": null, 
           "in_reply_to_status_id_str": null, 
@@ -19982,18 +19992,17 @@
           "is_quote_status": false, 
           "lang": "fr", 
           "place": null, 
-          "possibly_sensitive": false, 
-          "retweet_count": 16, 
+          "retweet_count": 165, 
           "retweeted": false, 
           "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-          "text": "Signataire du Manifeste pour la promotion de la gastronomie fran\u00e7aise @sgclubtablefr @catherine_dumas @JVPlace\u2026 https://t.co/uhwVskhNd4", 
-          "truncated": true
+          "text": "Je signe cette semaine 2 arr\u00eat\u00e9s pr interdire bisph\u00e9nol A ds les jouets et sur l'\u00e9tiquetage des nanomat\u00e9riaux ds les produits alimentaires", 
+          "truncated": false
         }, 
-        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>", 
-        "text": "RT @ggomez_chef: Signataire du Manifeste pour la promotion de la gastronomie fran\u00e7aise @sgclubtablefr @catherine_dumas @JVPlace @nk_m @brig\u2026", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @RoyalSegolene: Je signe cette semaine 2 arr\u00eat\u00e9s pr interdire bisph\u00e9nol A ds les jouets et sur l'\u00e9tiquetage des nanomat\u00e9riaux ds les pro\u2026", 
         "truncated": false
       }, 
-      "statuses_count": 8016, 
+      "statuses_count": 8024, 
       "time_zone": null, 
       "translator_type": "none", 
       "url": null, 
@@ -20001,14 +20010,14 @@
       "verified": true
     }, 
     "twitter_description": "Secr\u00e9taire d'Etat aupr\u00e8s du Premier Ministre, charg\u00e9 de la r\u00e9forme de l'Etat et de la simplification. Pr\u00e9sident de l' @UDE_FR", 
-    "twitter_favourites": 1703, 
-    "twitter_followers": 90795, 
-    "twitter_following": 2418, 
+    "twitter_favourites": 1705, 
+    "twitter_followers": 90810, 
+    "twitter_following": 2420, 
     "twitter_id": 219361536, 
     "twitter_listed": 1025, 
     "twitter_name": "Jean-Vincent Plac\u00e9", 
     "twitter_protected": false, 
-    "twitter_tweets": 8016, 
+    "twitter_tweets": 8024, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/place_jean_vincent11069t.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-vincent-place", 
@@ -20037,8 +20046,8 @@
     "sites_web": [
       "http://fr-fr.facebook.com/people/Jean-Pierre-Plancade/100002416394710", 
       "http://www.facebook.com/profile.php?id=100002416394710", 
-      "https://twitter.com/#!/JPPlancade", 
-      "https://twitter.com/JPPlancade"
+      "https://twitter.com/JPPlancade", 
+      "https://twitter.com/#!/JPPlancade"
     ], 
     "slug": "jean-pierre-plancade", 
     "twitter": "JPPlancade", 
@@ -20071,7 +20080,7 @@
       "follow_request_sent": false, 
       "followers_count": 872, 
       "following": false, 
-      "friends_count": 969, 
+      "friends_count": 968, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 270919379, 
@@ -20148,7 +20157,7 @@
     "twitter_description": "Senateur honoraire .", 
     "twitter_favourites": 0, 
     "twitter_followers": 872, 
-    "twitter_following": 969, 
+    "twitter_following": 968, 
     "twitter_id": 270919379, 
     "twitter_listed": 89, 
     "twitter_name": "Jean-Pierre Plancade", 
@@ -21461,7 +21470,7 @@
       }, 
       "favourites_count": 70, 
       "follow_request_sent": false, 
-      "followers_count": 5138, 
+      "followers_count": 5139, 
       "following": false, 
       "friends_count": 400, 
       "geo_enabled": true, 
@@ -21534,7 +21543,7 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 29, 
+        "retweet_count": 34, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
@@ -21567,7 +21576,7 @@
               }
             ]
           }, 
-          "favorite_count": 35, 
+          "favorite_count": 53, 
           "favorited": false, 
           "geo": null, 
           "id": 832301173977792512, 
@@ -21581,7 +21590,7 @@
           "lang": "fr", 
           "place": null, 
           "possibly_sensitive": false, 
-          "retweet_count": 29, 
+          "retweet_count": 34, 
           "retweeted": false, 
           "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>", 
           "text": "R\u00e9union de travail avec la Task Force Strasbourg l'Europ\u00e9enne autour de @Roland_Ries et des \u00e9lus d'Alsace &amp; signatu\u2026 https://t.co/OrAJOaexCh", 
@@ -21600,7 +21609,7 @@
     }, 
     "twitter_description": "Maire de Strasbourg", 
     "twitter_favourites": 70, 
-    "twitter_followers": 5138, 
+    "twitter_followers": 5139, 
     "twitter_following": 400, 
     "twitter_id": 281438650, 
     "twitter_listed": 244, 
@@ -23014,9 +23023,9 @@
     "sexe": "H", 
     "sites_web": [
       "https://www.facebook.com/jeanmarie.vanlerenberghe", 
-      "http://www.mouvementdemocrate.fr/shadow/vanlerenberghe.html", 
+      "http://jmvanlerenberghe.fr", 
       "https://twitter.com/JVanlerenberghe", 
-      "http://jmvanlerenberghe.fr"
+      "http://www.mouvementdemocrate.fr/shadow/vanlerenberghe.html"
     ], 
     "slug": "jean-marie-vanlerenberghe", 
     "twitter": "JVanlerenberghe", 
