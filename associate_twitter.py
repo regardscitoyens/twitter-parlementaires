@@ -215,7 +215,17 @@ with open(os.path.join("data", "%s.csv" % typeparls), "w") as f:
         parl["twitter_listed"] = tw["listed_count"]
         parl["twitter_verified"] = tw["verified"]
         parl["twitter_protected"] = tw["protected"]
-        parl["sites_web"] = "|".join(list(set([clean_url(u) for u in [s["site"] for s in parl["sites_web"] if s] + [u for u in urlentities(tw) if u and "senat.fr" not in u and "assemblee-nationale.fr" not in u]])))
+        sites_web = set([clean_url(u) for u in [s["site"] for s in parl["sites_web"] if s] + [u for u in urlentities(tw) if u and "senat.fr" not in u and "assemblee-nationale.fr" not in u]])
+        clean_sites = []
+        done_sites = []
+        for site in sorted(sites_web, key=lambda x: len(x)):
+            if not site.startswith("http"):
+                site = "http://" + site.lstrip("/")
+            cleaned = check_url(site)
+            if cleaned not in done_sites:
+                clean_sites.append(site)
+                done_sites.append(cleaned)
+        parl["sites_web"] = "|".join(clean_sites)
         if "url_institution" not in parl:
             parl["url_institution"] = parl["url_an"]
         parl["url_nos%s_api" % typeparls] = parl["url_nos%s_api" % typeparls].replace("/json", "/csv")
