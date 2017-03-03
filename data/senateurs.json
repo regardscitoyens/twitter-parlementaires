@@ -806,9 +806,9 @@
           ]
         }
       }, 
-      "favourites_count": 969, 
+      "favourites_count": 970, 
       "follow_request_sent": false, 
-      "followers_count": 17582, 
+      "followers_count": 17597, 
       "following": false, 
       "friends_count": 1545, 
       "geo_enabled": true, 
@@ -840,33 +840,29 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Wed Mar 01 14:30:55 +0000 2017", 
+        "created_at": "Thu Mar 02 18:28:27 +0000 2017", 
         "entities": {
-          "hashtags": [
-            {
-              "indices": [
-                0, 
-                11
-              ], 
-              "text": "WhitePaper"
-            }, 
-            {
-              "indices": [
-                125, 
-                140
-              ], 
-              "text": "FutureOfEurope"
-            }
-          ], 
+          "hashtags": [], 
           "symbols": [], 
           "urls": [], 
-          "user_mentions": []
+          "user_mentions": [
+            {
+              "id": 110191018, 
+              "id_str": "110191018", 
+              "indices": [
+                3, 
+                15
+              ], 
+              "name": "Jean Arthuis", 
+              "screen_name": "JeanArthuis"
+            }
+          ]
         }, 
-        "favorite_count": 24, 
+        "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 836946858568269824, 
-        "id_str": "836946858568269824", 
+        "id": 837369022891032576, 
+        "id_str": "837369022891032576", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -875,13 +871,53 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 19, 
+        "retweet_count": 28, 
         "retweeted": false, 
-        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "#WhitePaper Juncker pose une question : Quelle Europe voulons-nous ? Je choisis l'Europe dans l'Histoire, l'Europe puissance #FutureOfEurope", 
+        "retweeted_status": {
+          "contributors": null, 
+          "coordinates": null, 
+          "created_at": "Thu Mar 02 18:16:57 +0000 2017", 
+          "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": [
+              {
+                "id": 1976143068, 
+                "id_str": "1976143068", 
+                "indices": [
+                  112, 
+                  127
+                ], 
+                "name": "Emmanuel Macron", 
+                "screen_name": "EmmanuelMacron"
+              }
+            ]
+          }, 
+          "favorite_count": 16, 
+          "favorited": false, 
+          "geo": null, 
+          "id": 837366128489947136, 
+          "id_str": "837366128489947136", 
+          "in_reply_to_screen_name": null, 
+          "in_reply_to_status_id": null, 
+          "in_reply_to_status_id_str": null, 
+          "in_reply_to_user_id": null, 
+          "in_reply_to_user_id_str": null, 
+          "is_quote_status": false, 
+          "lang": "fr", 
+          "place": null, 
+          "retweet_count": 28, 
+          "retweeted": false, 
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+          "text": "Comment les m\u00e9dias bloquent le contenu et le fond: Public Senat et Cnews renoncent au d\u00e9bat sur le projet \u00e9co d'@EmmanuelMacron pr FILLON!", 
+          "truncated": false
+        }, 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @JeanArthuis: Comment les m\u00e9dias bloquent le contenu et le fond: Public Senat et Cnews renoncent au d\u00e9bat sur le projet \u00e9co d'@EmmanuelM\u2026", 
         "truncated": false
       }, 
-      "statuses_count": 3190, 
+      "statuses_count": 3192, 
       "time_zone": "Amsterdam", 
       "translator_type": "none", 
       "url": "https://t.co/YhICpAOeW0", 
@@ -889,14 +925,14 @@
       "verified": true
     }, 
     "twitter_description": "D\u00e9put\u00e9 europ\u00e9en, Pr\u00e9sident de la com. #BUDG , fondateur de l'Alliance centriste (#UDI), ancien ministre de l'\u00e9conomie et des finances https://t.co/fhOVDCh45q", 
-    "twitter_favourites": 969, 
-    "twitter_followers": 17582, 
+    "twitter_favourites": 970, 
+    "twitter_followers": 17597, 
     "twitter_following": 1545, 
     "twitter_id": 110191018, 
     "twitter_listed": 663, 
     "twitter_name": "Jean Arthuis", 
     "twitter_protected": false, 
-    "twitter_tweets": 3190, 
+    "twitter_tweets": 3192, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/arthuis_jean83011j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-arthuis", 
@@ -2155,9 +2191,9 @@
           ]
         }
       }, 
-      "favourites_count": 374, 
+      "favourites_count": 378, 
       "follow_request_sent": false, 
-      "followers_count": 1346, 
+      "followers_count": 1348, 
       "following": false, 
       "friends_count": 320, 
       "geo_enabled": true, 
@@ -2189,43 +2225,40 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Wed Mar 01 18:15:38 +0000 2017", 
+        "created_at": "Thu Mar 02 13:14:02 +0000 2017", 
         "entities": {
           "hashtags": [
             {
               "indices": [
-                24, 
-                39
+                27, 
+                33
               ], 
-              "text": "EmmanuelMacron"
+              "text": "Dr\u00f4me"
             }, 
             {
               "indices": [
-                43, 
-                64
+                37, 
+                58
               ], 
               "text": "salonagriculture2017"
+            }, 
+            {
+              "indices": [
+                82, 
+                89
+              ], 
+              "text": "Truffe"
             }
           ], 
           "symbols": [], 
-          "urls": [
-            {
-              "display_url": "twitter.com/i/web/status/8\u2026", 
-              "expanded_url": "https://twitter.com/i/web/status/837003410922692608", 
-              "indices": [
-                108, 
-                131
-              ], 
-              "url": "https://t.co/b30HPjUemL"
-            }
-          ], 
+          "urls": [], 
           "user_mentions": []
         }, 
         "favorite_count": 1, 
         "favorited": false, 
         "geo": null, 
-        "id": 837003410922692608, 
-        "id_str": "837003410922692608", 
+        "id": 837289899753627648, 
+        "id_str": "837289899753627648", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -2234,14 +2267,13 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "possibly_sensitive": false, 
-        "retweet_count": 2, 
+        "retweet_count": 1, 
         "retweeted": false, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "Accueil chaleureux pour #EmmanuelMacron au #salonagriculture2017, ici avec les Brasseurs et leur Pr\u00e9sident\u2026 https://t.co/b30HPjUemL", 
-        "truncated": true
+        "text": "Aujourd'hui au stand de la #Dr\u00f4me au #salonagriculture2017 c'est la journ\u00e9e de la #Truffe, la TUBER MELANOSPORUM, la meilleure du Monde!", 
+        "truncated": false
       }, 
-      "statuses_count": 1373, 
+      "statuses_count": 1374, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": "https://t.co/cFrea9booe", 
@@ -2249,14 +2281,14 @@
       "verified": false
     }, 
     "twitter_description": "Jean BESSON, S\u00e9nateur Honoraire, Pr\u00e9sident d'@energiesded, Vice Pr\u00e9sident de la @fnccr, #Progressiste", 
-    "twitter_favourites": 374, 
-    "twitter_followers": 1346, 
+    "twitter_favourites": 378, 
+    "twitter_followers": 1348, 
     "twitter_following": 320, 
     "twitter_id": 78422142, 
     "twitter_listed": 83, 
     "twitter_name": "Jean BESSON", 
     "twitter_protected": false, 
-    "twitter_tweets": 1373, 
+    "twitter_tweets": 1374, 
     "twitter_verified": false, 
     "url_institution": "http://www.senat.fr/senateur/besson_jean89015p.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-besson", 
@@ -3396,9 +3428,9 @@
       }, 
       "favourites_count": 143, 
       "follow_request_sent": false, 
-      "followers_count": 4233, 
+      "followers_count": 4240, 
       "following": false, 
-      "friends_count": 1074, 
+      "friends_count": 1073, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 551342517, 
@@ -3495,7 +3527,7 @@
         "lang": "fr", 
         "place": null, 
         "possibly_sensitive": false, 
-        "retweet_count": 20, 
+        "retweet_count": 27, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
@@ -3552,7 +3584,7 @@
               }
             ]
           }, 
-          "favorite_count": 8, 
+          "favorite_count": 10, 
           "favorited": false, 
           "geo": null, 
           "id": 837023237871702018, 
@@ -3566,7 +3598,7 @@
           "lang": "fr", 
           "place": null, 
           "possibly_sensitive": false, 
-          "retweet_count": 20, 
+          "retweet_count": 27, 
           "retweeted": false, 
           "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
           "text": "#migrants de #Calais : la maire @NatachaBouchart veut emp\u00eacher les distributions de repas https://t.co/AqfAKAR5PZ v\u2026 https://t.co/uU1ttfTA4L", 
@@ -3585,8 +3617,8 @@
     }, 
     "twitter_description": "Vice-Pr\u00e9sidente de la R\u00e9gion Hauts-de-France. Maire de #Calais, Pr\u00e9sidente de Grand Calais Terres & Mers", 
     "twitter_favourites": 143, 
-    "twitter_followers": 4233, 
-    "twitter_following": 1074, 
+    "twitter_followers": 4240, 
+    "twitter_following": 1073, 
     "twitter_id": 551342517, 
     "twitter_listed": 172, 
     "twitter_name": "Natacha BOUCHART", 
@@ -5999,7 +6031,7 @@
       }, 
       "favourites_count": 156, 
       "follow_request_sent": false, 
-      "followers_count": 60667, 
+      "followers_count": 60679, 
       "following": false, 
       "friends_count": 690, 
       "geo_enabled": true, 
@@ -6042,47 +6074,39 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Wed Mar 01 12:29:47 +0000 2017", 
+        "created_at": "Thu Mar 02 21:03:31 +0000 2017", 
         "entities": {
-          "hashtags": [
-            {
-              "indices": [
-                64, 
-                77
-              ], 
-              "text": "francophonie"
-            }
-          ], 
+          "hashtags": [], 
           "symbols": [], 
-          "urls": [
-            {
-              "display_url": "fondation-res-publica.org/Quel-avenir-po\u2026", 
-              "expanded_url": "http://www.fondation-res-publica.org/Quel-avenir-pour-la-francophonie_r136.html", 
-              "indices": [
-                104, 
-                127
-              ], 
-              "url": "https://t.co/F6YL9RM92Z"
-            }
-          ], 
+          "urls": [], 
           "user_mentions": [
             {
-              "id": 71232198, 
-              "id_str": "71232198", 
+              "id": 1407231344, 
+              "id_str": "1407231344", 
               "indices": [
                 3, 
                 19
               ], 
-              "name": "Fondation ResPublica", 
-              "screen_name": "fondarespublica"
+              "name": "INSTITUT DIDEROT", 
+              "screen_name": "InstitutDiderot"
+            }, 
+            {
+              "id": 57116930, 
+              "id_str": "57116930", 
+              "indices": [
+                92, 
+                104
+              ], 
+              "name": "J-P. Chev\u00e8nement", 
+              "screen_name": "chevenement"
             }
           ]
         }, 
         "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 836916376610668545, 
-        "id_str": "836916376610668545", 
+        "id": 837408046141812736, 
+        "id_str": "837408046141812736", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -6091,40 +6115,24 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "possibly_sensitive": false, 
-        "retweet_count": 7, 
+        "retweet_count": 4, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
           "coordinates": null, 
-          "created_at": "Wed Mar 01 12:29:21 +0000 2017", 
+          "created_at": "Thu Mar 02 16:59:21 +0000 2017", 
           "entities": {
-            "hashtags": [
-              {
-                "indices": [
-                  43, 
-                  56
-                ], 
-                "text": "francophonie"
-              }, 
-              {
-                "indices": [
-                  123, 
-                  134
-                ], 
-                "text": "ResPublica"
-              }
-            ], 
+            "hashtags": [], 
             "symbols": [], 
             "urls": [
               {
-                "display_url": "fondation-res-publica.org/Quel-avenir-po\u2026", 
-                "expanded_url": "http://www.fondation-res-publica.org/Quel-avenir-pour-la-francophonie_r136.html", 
+                "display_url": "dailymotion.com/video/x5d1lya_\u2026", 
+                "expanded_url": "http://www.dailymotion.com/video/x5d1lya_le-defi-de-l-islam-de-france_news", 
                 "indices": [
-                  83, 
-                  106
+                  125, 
+                  148
                 ], 
-                "url": "https://t.co/F6YL9RM92Z"
+                "url": "https://t.co/kNi8k03wXQ"
               }
             ], 
             "user_mentions": [
@@ -6132,19 +6140,19 @@
                 "id": 57116930, 
                 "id_str": "57116930", 
                 "indices": [
-                  110, 
-                  122
+                  71, 
+                  83
                 ], 
                 "name": "J-P. Chev\u00e8nement", 
                 "screen_name": "chevenement"
               }
             ]
           }, 
-          "favorite_count": 4, 
+          "favorite_count": 5, 
           "favorited": false, 
           "geo": null, 
-          "id": 836916266606673920, 
-          "id_str": "836916266606673920", 
+          "id": 837346601945411585, 
+          "id_str": "837346601945411585", 
           "in_reply_to_screen_name": null, 
           "in_reply_to_status_id": null, 
           "in_reply_to_status_id_str": null, 
@@ -6154,17 +6162,17 @@
           "lang": "fr", 
           "place": null, 
           "possibly_sensitive": false, 
-          "retweet_count": 7, 
+          "retweet_count": 4, 
           "retweeted": false, 
-          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-          "text": "Les actes du colloque \"Quel avenir pour la #francophonie ?\" sont en ligne ici &gt; https://t.co/F6YL9RM92Z cc @chevenement #ResPublica", 
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+          "text": "\ud83c\udfa5 Replay &amp; r\u00e9sum\u00e9 du d\u00e9bat sur \"Le d\u00e9fi de l'Islam de France\" avec @chevenement Dominique Lecourt &amp; Jean Claude Seys https://t.co/kNi8k03wXQ", 
           "truncated": false
         }, 
         "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
-        "text": "RT @fondarespublica: Les actes du colloque \"Quel avenir pour la #francophonie ?\" sont en ligne ici &gt; https://t.co/F6YL9RM92Z cc @chevenemen\u2026", 
+        "text": "RT @InstitutDiderot: \ud83c\udfa5 Replay &amp; r\u00e9sum\u00e9 du d\u00e9bat sur \"Le d\u00e9fi de l'Islam de France\" avec @chevenement Dominique Lecourt &amp; Jean Claude Seys h\u2026", 
         "truncated": false
       }, 
-      "statuses_count": 4316, 
+      "statuses_count": 4317, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": "http://t.co/uxgBAwrQat", 
@@ -6173,13 +6181,13 @@
     }, 
     "twitter_description": "Ancien ministre. Pdt du club R\u00e9publique Moderne (@RepubliqueMod) et de la Fondation Res Publica (@fondarespublica).", 
     "twitter_favourites": 156, 
-    "twitter_followers": 60667, 
+    "twitter_followers": 60679, 
     "twitter_following": 690, 
     "twitter_id": 57116930, 
     "twitter_listed": 1242, 
     "twitter_name": "J-P. Chev\u00e8nement", 
     "twitter_protected": false, 
-    "twitter_tweets": 4316, 
+    "twitter_tweets": 4317, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/chevenement_jean_pierre02053w.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-pierre-chevenement", 
@@ -17235,7 +17243,7 @@
       }, 
       "favourites_count": 5, 
       "follow_request_sent": false, 
-      "followers_count": 3764, 
+      "followers_count": 3767, 
       "following": false, 
       "friends_count": 2365, 
       "geo_enabled": false, 
@@ -17245,7 +17253,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 130, 
+      "listed_count": 129, 
       "location": "Compi\u00e8gne-Paris", 
       "name": "Philippe Marini", 
       "notifications": false, 
@@ -17301,10 +17309,10 @@
     }, 
     "twitter_description": "S\u00e9nateur honoraire-maire de Compi\u00e8gne , Pr\u00e9sident de l'agglom\u00e9ration de la r\u00e9gion de Compi\u00e8gne, Pr\u00e9sident de la commission des finances du S\u00e9nat.", 
     "twitter_favourites": 5, 
-    "twitter_followers": 3764, 
+    "twitter_followers": 3767, 
     "twitter_following": 2365, 
     "twitter_id": 1534099902, 
-    "twitter_listed": 130, 
+    "twitter_listed": 129, 
     "twitter_name": "Philippe Marini", 
     "twitter_protected": false, 
     "twitter_tweets": 952, 
@@ -18430,9 +18438,9 @@
           ]
         }
       }, 
-      "favourites_count": 69, 
+      "favourites_count": 70, 
       "follow_request_sent": false, 
-      "followers_count": 247, 
+      "followers_count": 248, 
       "following": false, 
       "friends_count": 150, 
       "geo_enabled": false, 
@@ -18498,8 +18506,8 @@
       "verified": true
     }, 
     "twitter_description": "S\u00e9natrice Les R\u00e9publicains des Hautes-Alpes", 
-    "twitter_favourites": 69, 
-    "twitter_followers": 247, 
+    "twitter_favourites": 70, 
+    "twitter_followers": 248, 
     "twitter_following": 150, 
     "twitter_id": 3189823869, 
     "twitter_listed": 13, 
@@ -19704,7 +19712,7 @@
       }, 
       "favourites_count": 1713, 
       "follow_request_sent": false, 
-      "followers_count": 91081, 
+      "followers_count": 91105, 
       "following": false, 
       "friends_count": 2421, 
       "geo_enabled": true, 
@@ -19736,39 +19744,54 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Thu Mar 02 02:02:54 +0000 2017", 
+        "created_at": "Thu Mar 02 17:25:58 +0000 2017", 
         "entities": {
-          "hashtags": [], 
+          "hashtags": [
+            {
+              "indices": [
+                32, 
+                41
+              ], 
+              "text": "identit\u00e9"
+            }, 
+            {
+              "indices": [
+                101, 
+                106
+              ], 
+              "text": "Nord"
+            }
+          ], 
           "symbols": [], 
           "urls": [
             {
-              "display_url": "ow.ly/YPfi309t4GD", 
-              "expanded_url": "http://ow.ly/YPfi309t4GD", 
+              "display_url": "bit.ly/2lvP77O", 
+              "expanded_url": "http://bit.ly/2lvP77O", 
               "indices": [
-                84, 
-                107
+                109, 
+                132
               ], 
-              "url": "https://t.co/KlHiQvmobx"
+              "url": "https://t.co/2lCgE6V0qV"
             }
           ], 
           "user_mentions": [
             {
-              "id": 137253079, 
-              "id_str": "137253079", 
+              "id": 2689495026, 
+              "id_str": "2689495026", 
               "indices": [
                 3, 
-                13
+                12
               ], 
-              "name": "LaTribune", 
-              "screen_name": "LaTribune"
+              "name": "Pr\u00e9fet Nord", 
+              "screen_name": "prefet59"
             }
           ]
         }, 
         "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 837121000655503361, 
-        "id_str": "837121000655503361", 
+        "id": 837353297958866946, 
+        "id_str": "837353297958866946", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -19778,44 +19801,48 @@
         "lang": "fr", 
         "place": null, 
         "possibly_sensitive": false, 
-        "retweet_count": 1, 
+        "retweet_count": 12, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
           "coordinates": null, 
-          "created_at": "Wed Mar 01 13:15:08 +0000 2017", 
+          "created_at": "Thu Mar 02 17:20:35 +0000 2017", 
           "entities": {
-            "hashtags": [], 
+            "hashtags": [
+              {
+                "indices": [
+                  18, 
+                  27
+                ], 
+                "text": "identit\u00e9"
+              }, 
+              {
+                "indices": [
+                  87, 
+                  92
+                ], 
+                "text": "Nord"
+              }
+            ], 
             "symbols": [], 
             "urls": [
               {
-                "display_url": "ow.ly/YPfi309t4GD", 
-                "expanded_url": "http://ow.ly/YPfi309t4GD", 
+                "display_url": "twitter.com/i/web/status/8\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/837351944045936640", 
                 "indices": [
-                  69, 
-                  92
+                  96, 
+                  119
                 ], 
-                "url": "https://t.co/KlHiQvmobx"
+                "url": "https://t.co/RmUxZEmY8K"
               }
             ], 
-            "user_mentions": [
-              {
-                "id": 219361536, 
-                "id_str": "219361536", 
-                "indices": [
-                  117, 
-                  125
-                ], 
-                "name": "Jean-Vincent Plac\u00e9", 
-                "screen_name": "JVPlace"
-              }
-            ]
+            "user_mentions": []
           }, 
-          "favorite_count": 3, 
+          "favorite_count": 4, 
           "favorited": false, 
           "geo": null, 
-          "id": 836927788829507584, 
-          "id_str": "836927788829507584", 
+          "id": 837351944045936640, 
+          "id_str": "837351944045936640", 
           "in_reply_to_screen_name": null, 
           "in_reply_to_status_id": null, 
           "in_reply_to_status_id_str": null, 
@@ -19825,17 +19852,17 @@
           "lang": "fr", 
           "place": null, 
           "possibly_sensitive": false, 
-          "retweet_count": 1, 
+          "retweet_count": 12, 
           "retweeted": false, 
-          "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>", 
-          "text": "[Tribune] Vers une v\u00e9ritable transition responsable de nos campagnes https://t.co/KlHiQvmobx par Jean-Vincent Plac\u00e9 (@JVPlace)", 
-          "truncated": false
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+          "text": "Carte nationale d\u2019#identit\u00e9 : \u00e0 partir du 14 mars 2017, vos d\u00e9marches \u00e9voluent dans le #Nord !\u2026 https://t.co/RmUxZEmY8K", 
+          "truncated": true
         }, 
         "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>", 
-        "text": "RT @LaTribune: [Tribune] Vers une v\u00e9ritable transition responsable de nos campagnes https://t.co/KlHiQvmobx par Jean-Vincent Plac\u00e9 (@JVPlac\u2026", 
+        "text": "RT @prefet59: Carte nationale d\u2019#identit\u00e9 : \u00e0 partir du 14 mars 2017, vos d\u00e9marches \u00e9voluent dans le #Nord ! https://t.co/2lCgE6V0qV https:\u2026", 
         "truncated": false
       }, 
-      "statuses_count": 8071, 
+      "statuses_count": 8074, 
       "time_zone": null, 
       "translator_type": "none", 
       "url": null, 
@@ -19844,13 +19871,13 @@
     }, 
     "twitter_description": "Secr\u00e9taire d'Etat aupr\u00e8s du Premier Ministre, charg\u00e9 de la r\u00e9forme de l'Etat et de la simplification. Pr\u00e9sident de l' @UDE_FR", 
     "twitter_favourites": 1713, 
-    "twitter_followers": 91081, 
+    "twitter_followers": 91105, 
     "twitter_following": 2421, 
     "twitter_id": 219361536, 
     "twitter_listed": 1029, 
     "twitter_name": "Jean-Vincent Plac\u00e9", 
     "twitter_protected": false, 
-    "twitter_tweets": 8071, 
+    "twitter_tweets": 8074, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/place_jean_vincent11069t.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-vincent-place", 
@@ -21303,7 +21330,7 @@
       }, 
       "favourites_count": 71, 
       "follow_request_sent": false, 
-      "followers_count": 5169, 
+      "followers_count": 5171, 
       "following": false, 
       "friends_count": 401, 
       "geo_enabled": true, 
@@ -21396,7 +21423,7 @@
     }, 
     "twitter_description": "Maire de Strasbourg", 
     "twitter_favourites": 71, 
-    "twitter_followers": 5169, 
+    "twitter_followers": 5171, 
     "twitter_following": 401, 
     "twitter_id": 281438650, 
     "twitter_listed": 242, 
