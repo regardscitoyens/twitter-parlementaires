@@ -806,11 +806,11 @@
           ]
         }
       }, 
-      "favourites_count": 1065, 
+      "favourites_count": 1068, 
       "follow_request_sent": false, 
-      "followers_count": 17854, 
+      "followers_count": 17871, 
       "following": false, 
-      "friends_count": 1566, 
+      "friends_count": 1567, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 110191018, 
@@ -840,49 +840,59 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Mon Mar 20 11:14:52 +0000 2017", 
+        "created_at": "Tue Mar 21 20:52:40 +0000 2017", 
         "entities": {
           "hashtags": [], 
           "symbols": [], 
           "urls": [], 
           "user_mentions": [
             {
-              "id": 901820400, 
-              "id_str": "901820400", 
+              "id": 606349480, 
+              "id_str": "606349480", 
               "indices": [
                 3, 
-                12
+                18
               ], 
-              "name": "Stephanie Tison", 
-              "screen_name": "S_Tison1"
+              "name": "Charles Goerens", 
+              "screen_name": "CharlesGoerens"
+            }, 
+            {
+              "id": 20043573, 
+              "id_str": "20043573", 
+              "indices": [
+                102, 
+                112
+              ], 
+              "name": "lalibre.be", 
+              "screen_name": "lalibrebe"
+            }, 
+            {
+              "id": 2687237153, 
+              "id_str": "2687237153", 
+              "indices": [
+                113, 
+                125
+              ], 
+              "name": "G\u00e9rard Deprez", 
+              "screen_name": "gerardeprez"
             }, 
             {
               "id": 110191018, 
               "id_str": "110191018", 
               "indices": [
-                14, 
-                26
+                126, 
+                138
               ], 
               "name": "Jean Arthuis", 
               "screen_name": "JeanArthuis"
-            }, 
-            {
-              "id": 15969561, 
-              "id_str": "15969561", 
-              "indices": [
-                131, 
-                137
-              ], 
-              "name": "MEDEF", 
-              "screen_name": "medef"
             }
           ]
         }, 
         "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 843782892153126912, 
-        "id_str": "843782892153126912", 
+        "id": 844290684769239040, 
+        "id_str": "844290684769239040", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -891,71 +901,74 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 6, 
+        "retweet_count": 4, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
           "coordinates": null, 
-          "created_at": "Mon Mar 20 11:11:53 +0000 2017", 
+          "created_at": "Tue Mar 21 19:17:42 +0000 2017", 
           "entities": {
-            "hashtags": [
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [
               {
+                "display_url": "twitter.com/i/web/status/8\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/844266786044493825", 
                 "indices": [
-                  124, 
-                  132
+                  107, 
+                  130
                 ], 
-                "text": "matmond"
+                "url": "https://t.co/WY87LgDcy6"
               }
             ], 
-            "symbols": [], 
-            "urls": [], 
             "user_mentions": [
               {
-                "id": 110191018, 
-                "id_str": "110191018", 
+                "id": 20043573, 
+                "id_str": "20043573", 
                 "indices": [
-                  0, 
-                  12
+                  82, 
+                  92
                 ], 
-                "name": "Jean Arthuis", 
-                "screen_name": "JeanArthuis"
+                "name": "lalibre.be", 
+                "screen_name": "lalibrebe"
               }, 
               {
-                "id": 15969561, 
-                "id_str": "15969561", 
+                "id": 2687237153, 
+                "id_str": "2687237153", 
                 "indices": [
-                  117, 
-                  123
+                  93, 
+                  105
                 ], 
-                "name": "MEDEF", 
-                "screen_name": "medef"
+                "name": "G\u00e9rard Deprez", 
+                "screen_name": "gerardeprez"
               }
             ]
           }, 
-          "favorite_count": 6, 
+          "favorite_count": 7, 
           "favorited": false, 
           "geo": null, 
-          "id": 843782139879575552, 
-          "id_str": "843782139879575552", 
-          "in_reply_to_screen_name": "JeanArthuis", 
+          "id": 844266786044493825, 
+          "id_str": "844266786044493825", 
+          "in_reply_to_screen_name": null, 
           "in_reply_to_status_id": null, 
           "in_reply_to_status_id_str": null, 
-          "in_reply_to_user_id": 110191018, 
-          "in_reply_to_user_id_str": "110191018", 
+          "in_reply_to_user_id": null, 
+          "in_reply_to_user_id_str": null, 
           "is_quote_status": false, 
           "lang": "fr", 
           "place": null, 
-          "retweet_count": 6, 
+          "possibly_sensitive": false, 
+          "retweet_count": 4, 
           "retweeted": false, 
           "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-          "text": "@JeanArthuis il faut que les entreprises communiquent davantage sur ce qu'elles font, encourager les jeunes \u00e0 bouger @medef #matmond", 
-          "truncated": false
+          "text": "\"Les crises dans l'UE que nous vivons sont marqu\u00e9es par un manque de solidarit\u00e9.\" @lalibrebe @gerardeprez\u2026 https://t.co/WY87LgDcy6", 
+          "truncated": true
         }, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "RT @S_Tison1: @JeanArthuis il faut que les entreprises communiquent davantage sur ce qu'elles font, encourager les jeunes \u00e0 bouger @medef #\u2026", 
+        "text": "RT @CharlesGoerens: \"Les crises dans l'UE que nous vivons sont marqu\u00e9es par un manque de solidarit\u00e9.\" @lalibrebe @gerardeprez @JeanArthuis\u2026", 
         "truncated": false
       }, 
-      "statuses_count": 3273, 
+      "statuses_count": 3277, 
       "time_zone": "Amsterdam", 
       "translator_type": "none", 
       "url": "https://t.co/YhICpAOeW0", 
@@ -963,14 +976,14 @@
       "verified": true
     }, 
     "twitter_description": "D\u00e9put\u00e9 europ\u00e9en, Pr\u00e9sident de la com. #BUDG , fondateur de l'Alliance centriste (#UDI), ancien ministre de l'\u00e9conomie et des finances https://t.co/fhOVDCh45q", 
-    "twitter_favourites": 1065, 
-    "twitter_followers": 17854, 
-    "twitter_following": 1566, 
+    "twitter_favourites": 1068, 
+    "twitter_followers": 17871, 
+    "twitter_following": 1567, 
     "twitter_id": 110191018, 
     "twitter_listed": 664, 
     "twitter_name": "Jean Arthuis", 
     "twitter_protected": false, 
-    "twitter_tweets": 3273, 
+    "twitter_tweets": 3277, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/arthuis_jean83011j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-arthuis", 
@@ -2229,9 +2242,9 @@
           ]
         }
       }, 
-      "favourites_count": 518, 
+      "favourites_count": 526, 
       "follow_request_sent": false, 
-      "followers_count": 1346, 
+      "followers_count": 1347, 
       "following": false, 
       "friends_count": 312, 
       "geo_enabled": true, 
@@ -2241,7 +2254,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 83, 
+      "listed_count": 84, 
       "location": "Valence, France, Europe", 
       "name": "Jean BESSON", 
       "notifications": false, 
@@ -2263,49 +2276,39 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Mon Mar 20 23:51:37 +0000 2017", 
+        "created_at": "Tue Mar 21 22:53:40 +0000 2017", 
         "entities": {
           "hashtags": [], 
           "symbols": [], 
           "urls": [
             {
-              "display_url": "bfmtv.com/politique/deba\u2026", 
-              "expanded_url": "http://www.bfmtv.com/politique/debat-presidentiel-macron-juge-le-plus-convaincant-devant-melenchon-1126198.html", 
+              "display_url": "po.st/SYDgua", 
+              "expanded_url": "http://po.st/SYDgua", 
               "indices": [
-                105, 
-                128
+                66, 
+                89
               ], 
-              "url": "https://t.co/UzI4hGrKB0"
+              "url": "https://t.co/ld51aYsLZ0"
             }
           ], 
           "user_mentions": [
             {
-              "id": 133663801, 
-              "id_str": "133663801", 
-              "indices": [
-                3, 
-                9
-              ], 
-              "name": "BFMTV", 
-              "screen_name": "BFMTV"
-            }, 
-            {
-              "id": 3180612999, 
-              "id_str": "3180612999", 
+              "id": 13353862, 
+              "id_str": "13353862", 
               "indices": [
                 94, 
                 103
               ], 
-              "name": "ELABE", 
-              "screen_name": "elabe_fr"
+              "name": "L'Express", 
+              "screen_name": "LEXPRESS"
             }
           ]
         }, 
         "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 843973332970196992, 
-        "id_str": "843973332970196992", 
+        "id": 844321139295965186, 
+        "id_str": "844321139295965186", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -2315,64 +2318,13 @@
         "lang": "fr", 
         "place": null, 
         "possibly_sensitive": false, 
-        "retweet_count": 407, 
+        "retweet_count": 1, 
         "retweeted": false, 
-        "retweeted_status": {
-          "contributors": null, 
-          "coordinates": null, 
-          "created_at": "Mon Mar 20 23:46:32 +0000 2017", 
-          "entities": {
-            "hashtags": [], 
-            "symbols": [], 
-            "urls": [
-              {
-                "display_url": "twitter.com/i/web/status/8\u2026", 
-                "expanded_url": "https://twitter.com/i/web/status/843972054584123393", 
-                "indices": [
-                  95, 
-                  118
-                ], 
-                "url": "https://t.co/o9t91BRwNz"
-              }
-            ], 
-            "user_mentions": [
-              {
-                "id": 3180612999, 
-                "id_str": "3180612999", 
-                "indices": [
-                  83, 
-                  92
-                ], 
-                "name": "ELABE", 
-                "screen_name": "elabe_fr"
-              }
-            ]
-          }, 
-          "favorite_count": 243, 
-          "favorited": false, 
-          "geo": null, 
-          "id": 843972054584123393, 
-          "id_str": "843972054584123393", 
-          "in_reply_to_screen_name": null, 
-          "in_reply_to_status_id": null, 
-          "in_reply_to_status_id_str": null, 
-          "in_reply_to_user_id": null, 
-          "in_reply_to_user_id_str": null, 
-          "is_quote_status": false, 
-          "lang": "fr", 
-          "place": null, 
-          "possibly_sensitive": false, 
-          "retweet_count": 407, 
-          "retweeted": false, 
-          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-          "text": "D\u00c9BAT. Qui est le plus convaincant? \nMacron, devant M\u00e9lenchon, selon un sondage de @elabe_fr.\u2026 https://t.co/o9t91BRwNz", 
-          "truncated": true
-        }, 
-        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "RT @BFMTV: D\u00c9BAT. Qui est le plus convaincant? \nMacron, devant M\u00e9lenchon, selon un sondage de @elabe_fr. https://t.co/UzI4hGrKB0 https://t.\u2026", 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "Pr\u00e9sidentielle: Macron devance Le Pen, Hamon doubl\u00e9 par M\u00e9lenchon https://t.co/ld51aYsLZ0 via @LExpress", 
         "truncated": false
       }, 
-      "statuses_count": 1391, 
+      "statuses_count": 1394, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": "https://t.co/cFrea9booe", 
@@ -2380,14 +2332,14 @@
       "verified": false
     }, 
     "twitter_description": "Jean BESSON, S\u00e9nateur Honoraire, Pr\u00e9sident d'@energiesded, Vice Pr\u00e9sident de la @fnccr, #Progressiste", 
-    "twitter_favourites": 518, 
-    "twitter_followers": 1346, 
+    "twitter_favourites": 526, 
+    "twitter_followers": 1347, 
     "twitter_following": 312, 
     "twitter_id": 78422142, 
-    "twitter_listed": 83, 
+    "twitter_listed": 84, 
     "twitter_name": "Jean BESSON", 
     "twitter_protected": false, 
-    "twitter_tweets": 1391, 
+    "twitter_tweets": 1394, 
     "twitter_verified": false, 
     "url_institution": "http://www.senat.fr/senateur/besson_jean89015p.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-besson", 
@@ -3525,9 +3477,9 @@
           "urls": []
         }
       }, 
-      "favourites_count": 143, 
+      "favourites_count": 145, 
       "follow_request_sent": false, 
-      "followers_count": 4267, 
+      "followers_count": 4268, 
       "following": false, 
       "friends_count": 1071, 
       "geo_enabled": true, 
@@ -3537,7 +3489,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 0, 
+      "listed_count": 172, 
       "location": "Calais, France", 
       "name": "Natacha BOUCHART", 
       "notifications": false, 
@@ -3559,64 +3511,57 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Thu Mar 16 22:12:22 +0000 2017", 
+        "created_at": "Tue Mar 21 22:18:46 +0000 2017", 
         "entities": {
           "hashtags": [
             {
               "indices": [
-                53, 
-                60
+                52, 
+                59
               ], 
-              "text": "calais"
-            }, 
-            {
-              "indices": [
-                61, 
-                71
-              ], 
-              "text": "MIPIM2017"
+              "text": "Calais"
             }
           ], 
           "symbols": [], 
           "urls": [], 
           "user_mentions": [
             {
-              "id": 2454395497, 
-              "id_str": "2454395497", 
+              "id": 28214411, 
+              "id_str": "28214411", 
               "indices": [
                 3, 
-                16
+                12
               ], 
-              "name": "julienpattin", 
-              "screen_name": "julienpattin"
+              "name": "Pierre-Henri Dumont", 
+              "screen_name": "phdumont"
             }, 
             {
-              "id": 88697269, 
-              "id_str": "88697269", 
+              "id": 551669623, 
+              "id_str": "551669623", 
               "indices": [
-                28, 
-                39
+                74, 
+                89
               ], 
-              "name": "ENGIE", 
-              "screen_name": "ENGIEgroup"
+              "name": "Fran\u00e7ois Fillon", 
+              "screen_name": "FrancoisFillon"
             }, 
             {
-              "id": 3000680734, 
-              "id_str": "3000680734", 
+              "id": 23458148, 
+              "id_str": "23458148", 
               "indices": [
-                108, 
-                119
+                106, 
+                116
               ], 
-              "name": "Heroic Land", 
-              "screen_name": "HeroicLand"
+              "name": "Luc CHATEL", 
+              "screen_name": "LucChatel"
             }
           ]
         }, 
         "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 842498802854649857, 
-        "id_str": "842498802854649857", 
+        "id": 844312352866668544, 
+        "id_str": "844312352866668544", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -3625,69 +3570,62 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 9, 
+        "retweet_count": 14, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
           "coordinates": null, 
-          "created_at": "Thu Mar 16 06:22:00 +0000 2017", 
+          "created_at": "Tue Mar 21 21:15:11 +0000 2017", 
           "entities": {
             "hashtags": [
               {
                 "indices": [
-                  35, 
-                  42
+                  38, 
+                  45
                 ], 
-                "text": "calais"
-              }, 
-              {
-                "indices": [
-                  43, 
-                  53
-                ], 
-                "text": "MIPIM2017"
+                "text": "Calais"
               }
             ], 
             "symbols": [], 
             "urls": [
               {
                 "display_url": "twitter.com/i/web/status/8\u2026", 
-                "expanded_url": "https://twitter.com/i/web/status/842259637730709504", 
+                "expanded_url": "https://twitter.com/i/web/status/844296354608414720", 
                 "indices": [
                   116, 
                   139
                 ], 
-                "url": "https://t.co/F0PYyLJxUr"
+                "url": "https://t.co/bY01wgp6lw"
               }
             ], 
             "user_mentions": [
               {
-                "id": 88697269, 
-                "id_str": "88697269", 
+                "id": 551669623, 
+                "id_str": "551669623", 
                 "indices": [
-                  10, 
-                  21
+                  60, 
+                  75
                 ], 
-                "name": "ENGIE", 
-                "screen_name": "ENGIEgroup"
+                "name": "Fran\u00e7ois Fillon", 
+                "screen_name": "FrancoisFillon"
               }, 
               {
-                "id": 3000680734, 
-                "id_str": "3000680734", 
+                "id": 23458148, 
+                "id_str": "23458148", 
                 "indices": [
-                  90, 
-                  101
+                  92, 
+                  102
                 ], 
-                "name": "Heroic Land", 
-                "screen_name": "HeroicLand"
+                "name": "Luc CHATEL", 
+                "screen_name": "LucChatel"
               }
             ]
           }, 
-          "favorite_count": 7, 
+          "favorite_count": 19, 
           "favorited": false, 
           "geo": null, 
-          "id": 842259637730709504, 
-          "id_str": "842259637730709504", 
+          "id": 844296354608414720, 
+          "id_str": "844296354608414720", 
           "in_reply_to_screen_name": null, 
           "in_reply_to_status_id": null, 
           "in_reply_to_status_id_str": null, 
@@ -3695,52 +3633,19 @@
           "in_reply_to_user_id_str": null, 
           "is_quote_status": false, 
           "lang": "fr", 
-          "place": {
-            "attributes": {}, 
-            "bounding_box": {
-              "coordinates": [
-                [
-                  [
-                    6.9325498000000003, 
-                    43.596713399999999
-                  ], 
-                  [
-                    7.0027844000000004, 
-                    43.596713399999999
-                  ], 
-                  [
-                    7.0027844000000004, 
-                    43.641401399999999
-                  ], 
-                  [
-                    6.9325498000000003, 
-                    43.641401399999999
-                  ]
-                ]
-              ], 
-              "type": "Polygon"
-            }, 
-            "contained_within": [], 
-            "country": "France", 
-            "country_code": "FR", 
-            "full_name": "Mouans-Sartoux, France", 
-            "id": "3d6f65ed7a63bbdc", 
-            "name": "Mouans-Sartoux", 
-            "place_type": "city", 
-            "url": "https://api.twitter.com/1.1/geo/id/3d6f65ed7a63bbdc.json"
-          }, 
+          "place": null, 
           "possibly_sensitive": false, 
-          "retweet_count": 9, 
+          "retweet_count": 14, 
           "retweeted": false, 
           "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-          "text": "Retrouvez @ENGIEgroup sur le stand #calais #MIPIM2017 pour l'annonce des laur\u00e9ats de laap @HeroicLand parc digital\u2026 https://t.co/F0PYyLJxUr", 
+          "text": "Tr\u00e8s belle r\u00e9union publique ce soir \u00e0 #Calais pour soutenir @FrancoisFillon, en pr\u00e9sence de @LucChatel devant pr\u00e8s\u2026 https://t.co/bY01wgp6lw", 
           "truncated": true
         }, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "RT @julienpattin: Retrouvez @ENGIEgroup sur le stand #calais #MIPIM2017 pour l'annonce des laur\u00e9ats de laap @HeroicLand parc digital \u00e0 11h3\u2026", 
+        "text": "RT @phdumont: Tr\u00e8s belle r\u00e9union publique ce soir \u00e0 #Calais pour soutenir @FrancoisFillon, en pr\u00e9sence de @LucChatel devant pr\u00e8s de 400 per\u2026", 
         "truncated": false
       }, 
-      "statuses_count": 5433, 
+      "statuses_count": 5475, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": null, 
@@ -3748,14 +3653,14 @@
       "verified": false
     }, 
     "twitter_description": "Vice-Pr\u00e9sidente de la R\u00e9gion Hauts-de-France. Maire de #Calais, Pr\u00e9sidente de Grand Calais Terres & Mers", 
-    "twitter_favourites": 143, 
-    "twitter_followers": 4267, 
+    "twitter_favourites": 145, 
+    "twitter_followers": 4268, 
     "twitter_following": 1071, 
     "twitter_id": 551342517, 
-    "twitter_listed": 0, 
+    "twitter_listed": 172, 
     "twitter_name": "Natacha BOUCHART", 
     "twitter_protected": false, 
-    "twitter_tweets": 5433, 
+    "twitter_tweets": 5475, 
     "twitter_verified": false, 
     "url_institution": "http://www.senat.fr/senateur/bouchart_natacha11060j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/natacha-bouchart", 
@@ -6163,9 +6068,9 @@
       }, 
       "favourites_count": 156, 
       "follow_request_sent": false, 
-      "followers_count": 60787, 
+      "followers_count": 60790, 
       "following": false, 
-      "friends_count": 691, 
+      "friends_count": 692, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 57116930, 
@@ -6173,7 +6078,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 1240, 
+      "listed_count": 1241, 
       "location": "Paris, France", 
       "name": "J-P. Chev\u00e8nement", 
       "notifications": false, 
@@ -6185,18 +6090,7 @@
       "profile_image_url": "http://pbs.twimg.com/profile_images/1695001329/twitter_icon_128x128_normal.jpg", 
       "profile_image_url_https": "https://pbs.twimg.com/profile_images/1695001329/twitter_icon_128x128_normal.jpg", 
       "profile_link_color": "990000", 
-      "profile_location": {
-        "attributes": {}, 
-        "bounding_box": null, 
-        "contained_within": [], 
-        "country": "", 
-        "country_code": "", 
-        "full_name": "Paris, France", 
-        "id": "09f6a7707f18e0b1", 
-        "name": "Paris, France", 
-        "place_type": "unknown", 
-        "url": "https://api.twitter.com/1.1/geo/id/09f6a7707f18e0b1.json"
-      }, 
+      "profile_location": null, 
       "profile_sidebar_border_color": "DFDFDF", 
       "profile_sidebar_fill_color": "F3F3F3", 
       "profile_text_color": "333333", 
@@ -6206,67 +6100,49 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Thu Mar 09 18:42:45 +0000 2017", 
+        "created_at": "Tue Mar 21 09:01:45 +0000 2017", 
         "entities": {
-          "hashtags": [
-            {
-              "indices": [
-                122, 
-                128
-              ], 
-              "text": "debat"
-            }
-          ], 
+          "hashtags": [], 
           "symbols": [], 
           "urls": [], 
           "user_mentions": [
             {
-              "id": 123836660, 
-              "id_str": "123836660", 
+              "id": 2181991549, 
+              "id_str": "2181991549", 
               "indices": [
                 3, 
                 17
               ], 
-              "name": "Dauphine D\u00e9bat", 
-              "screen_name": "Dauphinedebat"
+              "name": "Observatoire La\u00efcit\u00e9", 
+              "screen_name": "ObservLaicite"
             }, 
             {
               "id": 57116930, 
               "id_str": "57116930", 
               "indices": [
-                19, 
-                31
+                71, 
+                83
               ], 
               "name": "J-P. Chev\u00e8nement", 
               "screen_name": "chevenement"
             }, 
             {
-              "id": 123836660, 
-              "id_str": "123836660", 
+              "id": 448298703, 
+              "id_str": "448298703", 
               "indices": [
-                49, 
-                63
+                84, 
+                99
               ], 
-              "name": "Dauphine D\u00e9bat", 
-              "screen_name": "Dauphinedebat"
-            }, 
-            {
-              "id": 78908122, 
-              "id_str": "78908122", 
-              "indices": [
-                80, 
-                95
-              ], 
-              "name": "Univ Paris-Dauphine", 
-              "screen_name": "Paris_Dauphine"
+              "name": "Najoua Elatfani", 
+              "screen_name": "NajouaElatfani"
             }
           ]
         }, 
         "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 839909338630225920, 
-        "id_str": "839909338630225920", 
+        "id": 844111778070089728, 
+        "id_str": "844111778070089728", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -6275,160 +6151,74 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 10, 
+        "retweet_count": 11, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
           "coordinates": null, 
-          "created_at": "Thu Mar 09 17:43:05 +0000 2017", 
+          "created_at": "Tue Mar 21 09:00:22 +0000 2017", 
           "entities": {
-            "hashtags": [
-              {
-                "indices": [
-                  103, 
-                  109
-                ], 
-                "text": "debat"
-              }
-            ], 
-            "media": [
-              {
-                "display_url": "pic.twitter.com/6D49PnKe8H", 
-                "expanded_url": "https://twitter.com/Dauphinedebat/status/839894323755945985/photo/1", 
-                "id": 839894317682606080, 
-                "id_str": "839894317682606080", 
-                "indices": [
-                  110, 
-                  133
-                ], 
-                "media_url": "http://pbs.twimg.com/media/C6fnbpZXQAAn87P.jpg", 
-                "media_url_https": "https://pbs.twimg.com/media/C6fnbpZXQAAn87P.jpg", 
-                "sizes": {
-                  "large": {
-                    "h": 630, 
-                    "resize": "fit", 
-                    "w": 1701
-                  }, 
-                  "medium": {
-                    "h": 444, 
-                    "resize": "fit", 
-                    "w": 1200
-                  }, 
-                  "small": {
-                    "h": 252, 
-                    "resize": "fit", 
-                    "w": 680
-                  }, 
-                  "thumb": {
-                    "h": 150, 
-                    "resize": "crop", 
-                    "w": 150
-                  }
-                }, 
-                "type": "photo", 
-                "url": "https://t.co/6D49PnKe8H"
-              }
-            ], 
+            "hashtags": [], 
             "symbols": [], 
-            "urls": [], 
+            "urls": [
+              {
+                "display_url": "twitter.com/i/web/status/8\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/844111431025025024", 
+                "indices": [
+                  117, 
+                  140
+                ], 
+                "url": "https://t.co/HspTTu9Ffu"
+              }
+            ], 
             "user_mentions": [
               {
                 "id": 57116930, 
                 "id_str": "57116930", 
                 "indices": [
-                  0, 
-                  12
+                  52, 
+                  64
                 ], 
                 "name": "J-P. Chev\u00e8nement", 
                 "screen_name": "chevenement"
               }, 
               {
-                "id": 123836660, 
-                "id_str": "123836660", 
+                "id": 448298703, 
+                "id_str": "448298703", 
                 "indices": [
-                  30, 
-                  44
+                  65, 
+                  80
                 ], 
-                "name": "Dauphine D\u00e9bat", 
-                "screen_name": "Dauphinedebat"
-              }, 
-              {
-                "id": 78908122, 
-                "id_str": "78908122", 
-                "indices": [
-                  61, 
-                  76
-                ], 
-                "name": "Univ Paris-Dauphine", 
-                "screen_name": "Paris_Dauphine"
+                "name": "Najoua Elatfani", 
+                "screen_name": "NajouaElatfani"
               }
             ]
           }, 
-          "extended_entities": {
-            "media": [
-              {
-                "display_url": "pic.twitter.com/6D49PnKe8H", 
-                "expanded_url": "https://twitter.com/Dauphinedebat/status/839894323755945985/photo/1", 
-                "id": 839894317682606080, 
-                "id_str": "839894317682606080", 
-                "indices": [
-                  110, 
-                  133
-                ], 
-                "media_url": "http://pbs.twimg.com/media/C6fnbpZXQAAn87P.jpg", 
-                "media_url_https": "https://pbs.twimg.com/media/C6fnbpZXQAAn87P.jpg", 
-                "sizes": {
-                  "large": {
-                    "h": 630, 
-                    "resize": "fit", 
-                    "w": 1701
-                  }, 
-                  "medium": {
-                    "h": 444, 
-                    "resize": "fit", 
-                    "w": 1200
-                  }, 
-                  "small": {
-                    "h": 252, 
-                    "resize": "fit", 
-                    "w": 680
-                  }, 
-                  "thumb": {
-                    "h": 150, 
-                    "resize": "crop", 
-                    "w": 150
-                  }
-                }, 
-                "type": "photo", 
-                "url": "https://t.co/6D49PnKe8H"
-              }
-            ]
-          }, 
-          "favorite_count": 5, 
+          "favorite_count": 12, 
           "favorited": false, 
           "geo": null, 
-          "id": 839894323755945985, 
-          "id_str": "839894323755945985", 
-          "in_reply_to_screen_name": "chevenement", 
+          "id": 844111431025025024, 
+          "id_str": "844111431025025024", 
+          "in_reply_to_screen_name": null, 
           "in_reply_to_status_id": null, 
           "in_reply_to_status_id_str": null, 
-          "in_reply_to_user_id": 57116930, 
-          "in_reply_to_user_id_str": "57116930", 
+          "in_reply_to_user_id": null, 
+          "in_reply_to_user_id_str": null, 
           "is_quote_status": false, 
           "lang": "fr", 
           "place": null, 
           "possibly_sensitive": false, 
-          "retweet_count": 10, 
+          "retweet_count": 11, 
           "retweeted": false, 
           "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-          "text": "@chevenement sera l'invit\u00e9 de @Dauphinedebat Lundi 13 Mars \u00e0 @Paris_Dauphine ! On vous attend nombreux #debat https://t.co/6D49PnKe8H", 
-          "truncated": false
+          "text": "L'Observatoire de la la\u00efcit\u00e9 auditionne ce matin M. @Chevenement @NajouaElatfani et la direction de la Fondation de\u2026 https://t.co/HspTTu9Ffu", 
+          "truncated": true
         }, 
         "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
-        "text": "RT @Dauphinedebat: @chevenement sera l'invit\u00e9 de @Dauphinedebat Lundi 13 Mars \u00e0 @Paris_Dauphine ! On vous attend nombreux #debat https://t.\u2026", 
+        "text": "RT @ObservLaicite: L'Observatoire de la la\u00efcit\u00e9 auditionne ce matin M. @Chevenement @NajouaElatfani et la direction de la Fondation de l'Is\u2026", 
         "truncated": false
       }, 
-      "statuses_count": 4324, 
+      "statuses_count": 4325, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": "http://t.co/uxgBAwrQat", 
@@ -6437,13 +6227,13 @@
     }, 
     "twitter_description": "Ancien ministre. Pdt du club R\u00e9publique Moderne (@RepubliqueMod) et de la Fondation Res Publica (@fondarespublica).", 
     "twitter_favourites": 156, 
-    "twitter_followers": 60787, 
-    "twitter_following": 691, 
+    "twitter_followers": 60790, 
+    "twitter_following": 692, 
     "twitter_id": 57116930, 
-    "twitter_listed": 1240, 
+    "twitter_listed": 1241, 
     "twitter_name": "J-P. Chev\u00e8nement", 
     "twitter_protected": false, 
-    "twitter_tweets": 4324, 
+    "twitter_tweets": 4325, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/chevenement_jean_pierre02053w.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-pierre-chevenement", 
@@ -7346,7 +7136,7 @@
       }, 
       "favourites_count": 3, 
       "follow_request_sent": false, 
-      "followers_count": 440, 
+      "followers_count": 442, 
       "following": false, 
       "friends_count": 12, 
       "geo_enabled": false, 
@@ -7398,7 +7188,7 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 0, 
+        "retweet_count": 1, 
         "retweeted": false, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
         "text": "Un impact important pour les M\u00e2connais : baisse de 30% du prix sur la facture TTC du chauffage d\u00e8s octobre 2018.", 
@@ -7413,7 +7203,7 @@
     }, 
     "twitter_description": "Maire de @villedemacon pr\u00e9sident de la @_MBAgglo", 
     "twitter_favourites": 3, 
-    "twitter_followers": 440, 
+    "twitter_followers": 442, 
     "twitter_following": 12, 
     "twitter_id": 1479161936, 
     "twitter_listed": 35, 
@@ -13582,7 +13372,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 0, 
+      "listed_count": 38, 
       "location": "", 
       "name": "Pierre Jarlier", 
       "notifications": false, 
@@ -13725,7 +13515,7 @@
     "twitter_followers": 843, 
     "twitter_following": 254, 
     "twitter_id": 2328417882, 
-    "twitter_listed": 0, 
+    "twitter_listed": 38, 
     "twitter_name": "Pierre Jarlier", 
     "twitter_protected": false, 
     "twitter_tweets": 107, 
@@ -17260,9 +17050,9 @@
       }, 
       "favourites_count": 5, 
       "follow_request_sent": false, 
-      "followers_count": 3782, 
+      "followers_count": 3781, 
       "following": false, 
-      "friends_count": 2364, 
+      "friends_count": 2363, 
       "geo_enabled": false, 
       "has_extended_profile": false, 
       "id": 1534099902, 
@@ -17326,8 +17116,8 @@
     }, 
     "twitter_description": "S\u00e9nateur honoraire-maire de Compi\u00e8gne , Pr\u00e9sident de l'agglom\u00e9ration de la r\u00e9gion de Compi\u00e8gne, Pr\u00e9sident de la commission des finances du S\u00e9nat.", 
     "twitter_favourites": 5, 
-    "twitter_followers": 3782, 
-    "twitter_following": 2364, 
+    "twitter_followers": 3781, 
+    "twitter_following": 2363, 
     "twitter_id": 1534099902, 
     "twitter_listed": 128, 
     "twitter_name": "Philippe Marini", 
@@ -19814,9 +19604,9 @@
           "urls": []
         }
       }, 
-      "favourites_count": 1733, 
+      "favourites_count": 1737, 
       "follow_request_sent": false, 
-      "followers_count": 91574, 
+      "followers_count": 91594, 
       "following": false, 
       "friends_count": 2423, 
       "geo_enabled": true, 
@@ -19826,7 +19616,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 1024, 
+      "listed_count": 1022, 
       "location": "Paris, France", 
       "name": "Jean-Vincent Plac\u00e9", 
       "notifications": false, 
@@ -19848,49 +19638,39 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Mon Mar 20 23:27:22 +0000 2017", 
+        "created_at": "Tue Mar 21 23:44:33 +0000 2017", 
         "entities": {
           "hashtags": [], 
           "symbols": [], 
           "urls": [], 
           "user_mentions": [
             {
-              "id": 2733058613, 
-              "id_str": "2733058613", 
+              "id": 16717501, 
+              "id_str": "16717501", 
               "indices": [
                 3, 
-                14
+                10
               ], 
-              "name": "Said Laatiriss", 
-              "screen_name": "SLaatiriss"
+              "name": "\u00c9lys\u00e9e", 
+              "screen_name": "Elysee"
             }, 
             {
-              "id": 3230368347, 
-              "id_str": "3230368347", 
+              "id": 18814998, 
+              "id_str": "18814998", 
               "indices": [
-                104, 
-                118
+                13, 
+                23
               ], 
-              "name": "Driss El Yazami", 
-              "screen_name": "DrissElyazami"
-            }, 
-            {
-              "id": 444134815, 
-              "id_str": "444134815", 
-              "indices": [
-                119, 
-                129
-              ], 
-              "name": "NEILA TAZI", 
-              "screen_name": "NEILATAZI"
+              "name": "Fran\u00e7ois Hollande", 
+              "screen_name": "fhollande"
             }
           ]
         }, 
         "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 843967230735929344, 
-        "id_str": "843967230735929344", 
+        "id": 844333944145350658, 
+        "id_str": "844333944145350658", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -19899,54 +19679,44 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 6, 
+        "retweet_count": 25, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
           "coordinates": null, 
-          "created_at": "Mon Mar 20 08:28:15 +0000 2017", 
+          "created_at": "Tue Mar 21 17:59:20 +0000 2017", 
           "entities": {
             "hashtags": [], 
             "symbols": [], 
             "urls": [
               {
                 "display_url": "twitter.com/i/web/status/8\u2026", 
-                "expanded_url": "https://twitter.com/i/web/status/843740961901547520", 
+                "expanded_url": "https://twitter.com/i/web/status/844247064846499840", 
                 "indices": [
-                  115, 
-                  138
+                  117, 
+                  140
                 ], 
-                "url": "https://t.co/mX4f4n13aK"
+                "url": "https://t.co/x6olUIdSf3"
               }
             ], 
             "user_mentions": [
               {
-                "id": 3230368347, 
-                "id_str": "3230368347", 
+                "id": 18814998, 
+                "id_str": "18814998", 
                 "indices": [
-                  88, 
-                  102
+                  1, 
+                  11
                 ], 
-                "name": "Driss El Yazami", 
-                "screen_name": "DrissElyazami"
-              }, 
-              {
-                "id": 444134815, 
-                "id_str": "444134815", 
-                "indices": [
-                  103, 
-                  113
-                ], 
-                "name": "NEILA TAZI", 
-                "screen_name": "NEILATAZI"
+                "name": "Fran\u00e7ois Hollande", 
+                "screen_name": "fhollande"
               }
             ]
           }, 
-          "favorite_count": 3, 
+          "favorite_count": 25, 
           "favorited": false, 
           "geo": null, 
-          "id": 843740961901547520, 
-          "id_str": "843740961901547520", 
+          "id": 844247064846499840, 
+          "id_str": "844247064846499840", 
           "in_reply_to_screen_name": null, 
           "in_reply_to_status_id": null, 
           "in_reply_to_status_id_str": null, 
@@ -19956,17 +19726,17 @@
           "lang": "fr", 
           "place": null, 
           "possibly_sensitive": false, 
-          "retweet_count": 6, 
+          "retweet_count": 25, 
           "retweeted": false, 
           "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
-          "text": "1) du 24 mars au 27 Mars  le Salon du livre \u00e0 Paris , le Maroc est l'invit\u00e9 d'honneur. \n@DrissElyazami @NEILATAZI\u2026 https://t.co/mX4f4n13aK", 
+          "text": ".@fhollande \"d\u00e9fendre la gastronomie, c'est d\u00e9fendre le savoir-vivre ensemble alors qu'on en a particuli\u00e8rement bes\u2026 https://t.co/x6olUIdSf3", 
           "truncated": true
         }, 
-        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>", 
-        "text": "RT @SLaatiriss: 1) du 24 mars au 27 Mars  le Salon du livre \u00e0 Paris , le Maroc est l'invit\u00e9 d'honneur. \n@DrissElyazami @NEILATAZI @najwaelh\u2026", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @Elysee: .@fhollande \"d\u00e9fendre la gastronomie, c'est d\u00e9fendre le savoir-vivre ensemble alors qu'on en a particuli\u00e8rement besoin\" https:/\u2026", 
         "truncated": false
       }, 
-      "statuses_count": 8145, 
+      "statuses_count": 8151, 
       "time_zone": null, 
       "translator_type": "none", 
       "url": null, 
@@ -19974,14 +19744,14 @@
       "verified": true
     }, 
     "twitter_description": "Secr\u00e9taire d'Etat aupr\u00e8s du Premier Ministre, charg\u00e9 de la r\u00e9forme de l'Etat et de la simplification. Pr\u00e9sident de l' @UDE_FR", 
-    "twitter_favourites": 1733, 
-    "twitter_followers": 91574, 
+    "twitter_favourites": 1737, 
+    "twitter_followers": 91594, 
     "twitter_following": 2423, 
     "twitter_id": 219361536, 
-    "twitter_listed": 1024, 
+    "twitter_listed": 1022, 
     "twitter_name": "Jean-Vincent Plac\u00e9", 
     "twitter_protected": false, 
-    "twitter_tweets": 8145, 
+    "twitter_tweets": 8151, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/place_jean_vincent11069t.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-vincent-place", 
@@ -21434,7 +21204,7 @@
       }, 
       "favourites_count": 71, 
       "follow_request_sent": false, 
-      "followers_count": 5218, 
+      "followers_count": 5224, 
       "following": false, 
       "friends_count": 400, 
       "geo_enabled": true, 
@@ -21444,7 +21214,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 242, 
+      "listed_count": 243, 
       "location": "Strasbourg, France", 
       "name": "Roland Ries", 
       "notifications": false, 
@@ -21573,10 +21343,10 @@
     }, 
     "twitter_description": "Maire de Strasbourg", 
     "twitter_favourites": 71, 
-    "twitter_followers": 5218, 
+    "twitter_followers": 5224, 
     "twitter_following": 400, 
     "twitter_id": 281438650, 
-    "twitter_listed": 242, 
+    "twitter_listed": 243, 
     "twitter_name": "Roland Ries", 
     "twitter_protected": false, 
     "twitter_tweets": 343, 
