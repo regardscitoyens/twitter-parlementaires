@@ -808,7 +808,7 @@
       }, 
       "favourites_count": 1082, 
       "follow_request_sent": false, 
-      "followers_count": 17917, 
+      "followers_count": 17936, 
       "following": false, 
       "friends_count": 1567, 
       "geo_enabled": true, 
@@ -818,7 +818,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 664, 
+      "listed_count": 665, 
       "location": "Ch-Gontier/Bruxelles/Strasbrg", 
       "name": "Jean Arthuis", 
       "notifications": false, 
@@ -840,75 +840,43 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Thu Mar 23 19:34:04 +0000 2017", 
+        "created_at": "Fri Mar 24 14:46:44 +0000 2017", 
         "entities": {
           "hashtags": [
             {
               "indices": [
-                31, 
-                38
+                12, 
+                24
               ], 
-              "text": "utopie"
+              "text": "Agriculture"
             }, 
             {
               "indices": [
-                44, 
-                53
-              ], 
-              "text": "ambition"
-            }, 
-            {
-              "indices": [
-                60, 
-                69
-              ], 
-              "text": "r\u00e9alisme"
-            }, 
-            {
-              "indices": [
-                89, 
-                96
+                49, 
+                56
               ], 
               "text": "Europe"
-            }, 
-            {
-              "indices": [
-                97, 
-                112
-              ], 
-              "text": "FutureofEurope"
             }
           ], 
           "symbols": [], 
-          "urls": [], 
-          "user_mentions": [
+          "urls": [
             {
-              "id": 2867702451, 
-              "id_str": "2867702451", 
+              "display_url": "twitter.com/i/web/status/8\u2026", 
+              "expanded_url": "https://twitter.com/i/web/status/845285758974005249", 
               "indices": [
-                3, 
-                16
+                117, 
+                140
               ], 
-              "name": "MariePierre.VEDRENNE", 
-              "screen_name": "MariePierreV"
-            }, 
-            {
-              "id": 110191018, 
-              "id_str": "110191018", 
-              "indices": [
-                118, 
-                130
-              ], 
-              "name": "Jean Arthuis", 
-              "screen_name": "JeanArthuis"
+              "url": "https://t.co/nc8D7ciTy1"
             }
-          ]
+          ], 
+          "user_mentions": []
         }, 
-        "favorite_count": 0, 
+        "favorite_count": 18, 
         "favorited": false, 
         "geo": null, 
-        "id": 844995681324580865, 
-        "id_str": "844995681324580865", 
+        "id": 845285758974005249, 
+        "id_str": "845285758974005249", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -916,134 +884,48 @@
         "in_reply_to_user_id_str": null, 
         "is_quote_status": false, 
         "lang": "fr", 
-        "place": null, 
-        "retweet_count": 13, 
-        "retweeted": false, 
-        "retweeted_status": {
-          "contributors": null, 
-          "coordinates": null, 
-          "created_at": "Thu Mar 23 18:31:52 +0000 2017", 
-          "entities": {
-            "hashtags": [
-              {
-                "indices": [
-                  13, 
-                  20
-                ], 
-                "text": "utopie"
-              }, 
-              {
-                "indices": [
-                  26, 
-                  35
-                ], 
-                "text": "ambition"
-              }, 
-              {
-                "indices": [
-                  42, 
-                  51
-                ], 
-                "text": "r\u00e9alisme"
-              }, 
-              {
-                "indices": [
-                  71, 
-                  78
-                ], 
-                "text": "Europe"
-              }, 
-              {
-                "indices": [
-                  79, 
-                  94
-                ], 
-                "text": "FutureofEurope"
-              }
-            ], 
-            "symbols": [], 
-            "urls": [
-              {
-                "display_url": "twitter.com/i/web/status/8\u2026", 
-                "expanded_url": "https://twitter.com/i/web/status/844980027066368000", 
-                "indices": [
-                  117, 
-                  140
-                ], 
-                "url": "https://t.co/K6FCCDAYA8"
-              }
-            ], 
-            "user_mentions": [
-              {
-                "id": 110191018, 
-                "id_str": "110191018", 
-                "indices": [
-                  100, 
-                  112
-                ], 
-                "name": "Jean Arthuis", 
-                "screen_name": "JeanArthuis"
-              }
-            ]
-          }, 
-          "favorite_count": 9, 
-          "favorited": false, 
-          "geo": null, 
-          "id": 844980027066368000, 
-          "id_str": "844980027066368000", 
-          "in_reply_to_screen_name": null, 
-          "in_reply_to_status_id": null, 
-          "in_reply_to_status_id_str": null, 
-          "in_reply_to_user_id": null, 
-          "in_reply_to_user_id_str": null, 
-          "is_quote_status": false, 
-          "lang": "fr", 
-          "place": {
-            "attributes": {}, 
-            "bounding_box": {
-              "coordinates": [
+        "place": {
+          "attributes": {}, 
+          "bounding_box": {
+            "coordinates": [
+              [
                 [
-                  [
-                    -1.7524660000000001, 
-                    48.076610199999998
-                  ], 
-                  [
-                    -1.6241969999999999, 
-                    48.076610199999998
-                  ], 
-                  [
-                    -1.6241969999999999, 
-                    48.154942699999999
-                  ], 
-                  [
-                    -1.7524660000000001, 
-                    48.154942699999999
-                  ]
+                  -0.7829585, 
+                  47.795988899999998
+                ], 
+                [
+                  -0.68886130000000001, 
+                  47.795988899999998
+                ], 
+                [
+                  -0.68886130000000001, 
+                  47.856612900000002
+                ], 
+                [
+                  -0.7829585, 
+                  47.856612900000002
                 ]
-              ], 
-              "type": "Polygon"
-            }, 
-            "contained_within": [], 
-            "country": "France", 
-            "country_code": "FR", 
-            "full_name": "Rennes, France", 
-            "id": "6264e4f8ac43f448", 
-            "name": "Rennes", 
-            "place_type": "city", 
-            "url": "https://api.twitter.com/1.1/geo/id/6264e4f8ac43f448.json"
+              ]
+            ], 
+            "type": "Polygon"
           }, 
-          "possibly_sensitive": false, 
-          "retweet_count": 13, 
-          "retweeted": false, 
-          "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
-          "text": "Il faut de l #utopie de l #ambition et du #r\u00e9alisme pour l avenir de l'#Europe #FutureofEurope pour @JeanArthuis un\u2026 https://t.co/K6FCCDAYA8", 
-          "truncated": true
+          "contained_within": [], 
+          "country": "France", 
+          "country_code": "FR", 
+          "full_name": "Ch\u00e2teau-Gontier, France", 
+          "id": "61aaf18ddd5a0627", 
+          "name": "Ch\u00e2teau-Gontier", 
+          "place_type": "city", 
+          "url": "https://api.twitter.com/1.1/geo/id/61aaf18ddd5a0627.json"
         }, 
-        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "RT @MariePierreV: Il faut de l #utopie de l #ambition et du #r\u00e9alisme pour l avenir de l'#Europe #FutureofEurope pour @JeanArthuis un messa\u2026", 
-        "truncated": false
+        "possibly_sensitive": false, 
+        "retweet_count": 21, 
+        "retweeted": false, 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "Pour sauver #Agriculture il y a urgence \u00e0 ce que #Europe prot\u00e8ge son march\u00e9 int\u00e9rieur, sans quoi on verra un jour l\u2026 https://t.co/nc8D7ciTy1", 
+        "truncated": true
       }, 
-      "statuses_count": 3284, 
+      "statuses_count": 3287, 
       "time_zone": "Amsterdam", 
       "translator_type": "none", 
       "url": "https://t.co/YhICpAOeW0", 
@@ -1052,13 +934,13 @@
     }, 
     "twitter_description": "D\u00e9put\u00e9 europ\u00e9en, Pr\u00e9sident de la com. #BUDG , fondateur de l'Alliance centriste (#UDI), ancien ministre de l'\u00e9conomie et des finances https://t.co/fhOVDCh45q", 
     "twitter_favourites": 1082, 
-    "twitter_followers": 17917, 
+    "twitter_followers": 17936, 
     "twitter_following": 1567, 
     "twitter_id": 110191018, 
-    "twitter_listed": 664, 
+    "twitter_listed": 665, 
     "twitter_name": "Jean Arthuis", 
     "twitter_protected": false, 
-    "twitter_tweets": 3284, 
+    "twitter_tweets": 3287, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/arthuis_jean83011j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-arthuis", 
@@ -2317,9 +2199,9 @@
           ]
         }
       }, 
-      "favourites_count": 560, 
+      "favourites_count": 574, 
       "follow_request_sent": false, 
-      "followers_count": 1352, 
+      "followers_count": 1354, 
       "following": false, 
       "friends_count": 312, 
       "geo_enabled": true, 
@@ -2351,39 +2233,28 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Thu Mar 23 11:28:52 +0000 2017", 
+        "created_at": "Fri Mar 24 22:28:37 +0000 2017", 
         "entities": {
           "hashtags": [], 
           "symbols": [], 
-          "urls": [], 
-          "user_mentions": [
+          "urls": [
             {
-              "id": 35777570, 
-              "id_str": "35777570", 
+              "display_url": "midilibre.fr//2017/03/24/so\u2026", 
+              "expanded_url": "http://www.midilibre.fr//2017/03/24/sondage-bva-presidentielle-macron-en-tete-des-intentions-de-vote-au-1er-tour,1483842.php", 
               "indices": [
-                3, 
-                15
+                81, 
+                104
               ], 
-              "name": "Ouest-France", 
-              "screen_name": "OuestFrance"
-            }, 
-            {
-              "id": 35777570, 
-              "id_str": "35777570", 
-              "indices": [
-                118, 
-                130
-              ], 
-              "name": "Ouest-France", 
-              "screen_name": "OuestFrance"
+              "url": "https://t.co/YkNssYAP9T"
             }
-          ]
+          ], 
+          "user_mentions": []
         }, 
         "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 844873579225235457, 
-        "id_str": "844873579225235457", 
+        "id": 845401998849687552, 
+        "id_str": "845401998849687552", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -2392,64 +2263,14 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 337, 
+        "possibly_sensitive": false, 
+        "retweet_count": 0, 
         "retweeted": false, 
-        "retweeted_status": {
-          "contributors": null, 
-          "coordinates": null, 
-          "created_at": "Thu Mar 23 09:08:35 +0000 2017", 
-          "entities": {
-            "hashtags": [], 
-            "symbols": [], 
-            "urls": [
-              {
-                "display_url": "twitter.com/i/web/status/8\u2026", 
-                "expanded_url": "https://twitter.com/i/web/status/844838274556280832", 
-                "indices": [
-                  115, 
-                  138
-                ], 
-                "url": "https://t.co/AOWiFvN11d"
-              }
-            ], 
-            "user_mentions": [
-              {
-                "id": 35777570, 
-                "id_str": "35777570", 
-                "indices": [
-                  101, 
-                  113
-                ], 
-                "name": "Ouest-France", 
-                "screen_name": "OuestFrance"
-              }
-            ]
-          }, 
-          "favorite_count": 244, 
-          "favorited": false, 
-          "geo": null, 
-          "id": 844838274556280832, 
-          "id_str": "844838274556280832", 
-          "in_reply_to_screen_name": null, 
-          "in_reply_to_status_id": null, 
-          "in_reply_to_status_id_str": null, 
-          "in_reply_to_user_id": null, 
-          "in_reply_to_user_id_str": null, 
-          "is_quote_status": false, 
-          "lang": "fr", 
-          "place": null, 
-          "possibly_sensitive": false, 
-          "retweet_count": 337, 
-          "retweeted": false, 
-          "source": "<a href=\"https://secure.echoboxapp.com\" rel=\"nofollow\">Echobox Social</a>", 
-          "text": "Exclusif. Jean-Yves Le Drian annonce son soutien \u00e0 Emmanuel Macron dans un entretien \u00e0 para\u00eetre dans @ouestfrance\u2026 https://t.co/AOWiFvN11d", 
-          "truncated": true
-        }, 
         "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-        "text": "RT @OuestFrance: Exclusif. Jean-Yves Le Drian annonce son soutien \u00e0 Emmanuel Macron dans un entretien \u00e0 para\u00eetre dans @ouestfrance https://\u2026", 
+        "text": "Sondage BVA / Pr\u00e9sidentielle : Macron en t\u00eate des intentions de vote au 1er tour https://t.co/YkNssYAP9T", 
         "truncated": false
       }, 
-      "statuses_count": 1398, 
+      "statuses_count": 1400, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": "https://t.co/cFrea9booe", 
@@ -2457,14 +2278,14 @@
       "verified": false
     }, 
     "twitter_description": "Jean BESSON, S\u00e9nateur Honoraire, Pr\u00e9sident d'@energiesded, Vice Pr\u00e9sident de la @fnccr, #Progressiste", 
-    "twitter_favourites": 560, 
-    "twitter_followers": 1352, 
+    "twitter_favourites": 574, 
+    "twitter_followers": 1354, 
     "twitter_following": 312, 
     "twitter_id": 78422142, 
     "twitter_listed": 84, 
     "twitter_name": "Jean BESSON", 
     "twitter_protected": false, 
-    "twitter_tweets": 1398, 
+    "twitter_tweets": 1400, 
     "twitter_verified": false, 
     "url_institution": "http://www.senat.fr/senateur/besson_jean89015p.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-besson", 
@@ -6165,7 +5986,7 @@
       }, 
       "favourites_count": 156, 
       "follow_request_sent": false, 
-      "followers_count": 60835, 
+      "followers_count": 60852, 
       "following": false, 
       "friends_count": 692, 
       "geo_enabled": true, 
@@ -6175,7 +5996,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 1240, 
+      "listed_count": 1238, 
       "location": "Paris, France", 
       "name": "J-P. Chev\u00e8nement", 
       "notifications": false, 
@@ -6236,7 +6057,7 @@
             }
           ]
         }, 
-        "favorite_count": 23, 
+        "favorite_count": 68, 
         "favorited": false, 
         "geo": null, 
         "id": 845022360193392641, 
@@ -6250,7 +6071,7 @@
         "lang": "fr", 
         "place": null, 
         "possibly_sensitive": false, 
-        "retweet_count": 32, 
+        "retweet_count": 74, 
         "retweeted": false, 
         "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
         "text": "Tribune collective dans @Le_Figaro: Europe: la supranationalit\u00e9 a \u00e9chou\u00e9, faisons confiance aux nations\u2026 https://t.co/DmB4OQ9G5L", 
@@ -6265,10 +6086,10 @@
     }, 
     "twitter_description": "Ancien ministre. Pdt du club R\u00e9publique Moderne (@RepubliqueMod) et de la Fondation Res Publica (@fondarespublica).", 
     "twitter_favourites": 156, 
-    "twitter_followers": 60835, 
+    "twitter_followers": 60852, 
     "twitter_following": 692, 
     "twitter_id": 57116930, 
-    "twitter_listed": 1240, 
+    "twitter_listed": 1238, 
     "twitter_name": "J-P. Chev\u00e8nement", 
     "twitter_protected": false, 
     "twitter_tweets": 4336, 
@@ -13400,7 +13221,7 @@
       }, 
       "favourites_count": 11, 
       "follow_request_sent": false, 
-      "followers_count": 847, 
+      "followers_count": 848, 
       "following": false, 
       "friends_count": 255, 
       "geo_enabled": false, 
@@ -13518,7 +13339,7 @@
     }, 
     "twitter_description": "Maire de Saint-Flour, Pr\u00e9sident des Maires du #Cantal, Comit\u00e9 des #Finances locales - #Collectivit\u00e9s territoriales #Urbanisme #Logement #D\u00e9veloppement durable", 
     "twitter_favourites": 11, 
-    "twitter_followers": 847, 
+    "twitter_followers": 848, 
     "twitter_following": 255, 
     "twitter_id": 2328417882, 
     "twitter_listed": 38, 
@@ -17056,9 +16877,9 @@
       }, 
       "favourites_count": 5, 
       "follow_request_sent": false, 
-      "followers_count": 3785, 
+      "followers_count": 3784, 
       "following": false, 
-      "friends_count": 2364, 
+      "friends_count": 2363, 
       "geo_enabled": false, 
       "has_extended_profile": false, 
       "id": 1534099902, 
@@ -17122,8 +16943,8 @@
     }, 
     "twitter_description": "S\u00e9nateur honoraire-maire de Compi\u00e8gne , Pr\u00e9sident de l'agglom\u00e9ration de la r\u00e9gion de Compi\u00e8gne, Pr\u00e9sident de la commission des finances du S\u00e9nat.", 
     "twitter_favourites": 5, 
-    "twitter_followers": 3785, 
-    "twitter_following": 2364, 
+    "twitter_followers": 3784, 
+    "twitter_following": 2363, 
     "twitter_id": 1534099902, 
     "twitter_listed": 128, 
     "twitter_name": "Philippe Marini", 
@@ -18253,7 +18074,7 @@
       }, 
       "favourites_count": 73, 
       "follow_request_sent": false, 
-      "followers_count": 254, 
+      "followers_count": 255, 
       "following": false, 
       "friends_count": 151, 
       "geo_enabled": false, 
@@ -18399,7 +18220,7 @@
     }, 
     "twitter_description": "S\u00e9natrice Les R\u00e9publicains des Hautes-Alpes", 
     "twitter_favourites": 73, 
-    "twitter_followers": 254, 
+    "twitter_followers": 255, 
     "twitter_following": 151, 
     "twitter_id": 3189823869, 
     "twitter_listed": 11, 
@@ -19602,9 +19423,9 @@
           "urls": []
         }
       }, 
-      "favourites_count": 1745, 
+      "favourites_count": 1748, 
       "follow_request_sent": false, 
-      "followers_count": 91643, 
+      "followers_count": 91666, 
       "following": false, 
       "friends_count": 2423, 
       "geo_enabled": true, 
@@ -19636,74 +19457,54 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Thu Mar 23 19:55:30 +0000 2017", 
+        "created_at": "Fri Mar 24 14:08:57 +0000 2017", 
         "entities": {
           "hashtags": [
             {
               "indices": [
-                25, 
+                20, 
                 35
               ], 
-              "text": "hackathon"
+              "text": "Simplification"
             }, 
             {
               "indices": [
-                48, 
-                57
+                95, 
+                112
               ], 
-              "text": "OpenData"
+              "text": "MesDroitsSociaux"
             }
           ], 
           "symbols": [], 
-          "urls": [], 
+          "urls": [
+            {
+              "display_url": "mesdroitssociaux.gouv.fr", 
+              "expanded_url": "https://www.mesdroitssociaux.gouv.fr", 
+              "indices": [
+                115, 
+                138
+              ], 
+              "url": "https://t.co/uKSOApggUf"
+            }
+          ], 
           "user_mentions": [
             {
-              "id": 306914532, 
-              "id_str": "306914532", 
+              "id": 951480480, 
+              "id_str": "951480480", 
               "indices": [
                 3, 
-                16
+                18
               ], 
-              "name": "PRIOL Jacques", 
-              "screen_name": "jacquespriol"
-            }, 
-            {
-              "id": 219361536, 
-              "id_str": "219361536", 
-              "indices": [
-                96, 
-                104
-              ], 
-              "name": "Jean-Vincent Plac\u00e9", 
-              "screen_name": "JVPlace"
-            }, 
-            {
-              "id": 1923666416, 
-              "id_str": "1923666416", 
-              "indices": [
-                105, 
-                117
-              ], 
-              "name": "JF Fountaine", 
-              "screen_name": "JFFountaine"
-            }, 
-            {
-              "id": 711604127, 
-              "id_str": "711604127", 
-              "indices": [
-                118, 
-                126
-              ], 
-              "name": "Yann Helary", 
-              "screen_name": "YHelary"
+              "name": "Gouvernement", 
+              "screen_name": "gouvernementFR"
             }
           ]
         }, 
         "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 845001075384045568, 
-        "id_str": "845001075384045568", 
+        "id": 845276253406007296, 
+        "id_str": "845276253406007296", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -19712,147 +19513,49 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 8, 
+        "possibly_sensitive": false, 
+        "retweet_count": 71, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
           "coordinates": null, 
-          "created_at": "Thu Mar 23 19:21:54 +0000 2017", 
+          "created_at": "Fri Mar 24 09:48:24 +0000 2017", 
           "entities": {
             "hashtags": [
               {
                 "indices": [
-                  7, 
-                  17
+                  0, 
+                  15
                 ], 
-                "text": "hackathon"
+                "text": "Simplification"
               }, 
               {
                 "indices": [
-                  30, 
-                  39
+                  75, 
+                  92
                 ], 
-                "text": "OpenData"
-              }
-            ], 
-            "media": [
-              {
-                "display_url": "pic.twitter.com/94rcpgELkc", 
-                "expanded_url": "https://twitter.com/jacquespriol/status/844992619033907204/photo/1", 
-                "id": 844992605251407873, 
-                "id_str": "844992605251407873", 
-                "indices": [
-                  109, 
-                  132
-                ], 
-                "media_url": "http://pbs.twimg.com/media/C7oETCnXkAE1pQ8.jpg", 
-                "media_url_https": "https://pbs.twimg.com/media/C7oETCnXkAE1pQ8.jpg", 
-                "sizes": {
-                  "large": {
-                    "h": 1152, 
-                    "resize": "fit", 
-                    "w": 2048
-                  }, 
-                  "medium": {
-                    "h": 675, 
-                    "resize": "fit", 
-                    "w": 1200
-                  }, 
-                  "small": {
-                    "h": 383, 
-                    "resize": "fit", 
-                    "w": 680
-                  }, 
-                  "thumb": {
-                    "h": 150, 
-                    "resize": "crop", 
-                    "w": 150
-                  }
-                }, 
-                "type": "photo", 
-                "url": "https://t.co/94rcpgELkc"
+                "text": "MesDroitsSociaux"
               }
             ], 
             "symbols": [], 
-            "urls": [], 
-            "user_mentions": [
+            "urls": [
               {
-                "id": 219361536, 
-                "id_str": "219361536", 
+                "display_url": "twitter.com/i/web/status/8\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/845210683679690753", 
                 "indices": [
-                  78, 
-                  86
+                  97, 
+                  120
                 ], 
-                "name": "Jean-Vincent Plac\u00e9", 
-                "screen_name": "JVPlace"
-              }, 
-              {
-                "id": 1923666416, 
-                "id_str": "1923666416", 
-                "indices": [
-                  87, 
-                  99
-                ], 
-                "name": "JF Fountaine", 
-                "screen_name": "JFFountaine"
-              }, 
-              {
-                "id": 711604127, 
-                "id_str": "711604127", 
-                "indices": [
-                  100, 
-                  108
-                ], 
-                "name": "Yann Helary", 
-                "screen_name": "YHelary"
+                "url": "https://t.co/68y7WPtjLw"
               }
-            ]
+            ], 
+            "user_mentions": []
           }, 
-          "extended_entities": {
-            "media": [
-              {
-                "display_url": "pic.twitter.com/94rcpgELkc", 
-                "expanded_url": "https://twitter.com/jacquespriol/status/844992619033907204/photo/1", 
-                "id": 844992605251407873, 
-                "id_str": "844992605251407873", 
-                "indices": [
-                  109, 
-                  132
-                ], 
-                "media_url": "http://pbs.twimg.com/media/C7oETCnXkAE1pQ8.jpg", 
-                "media_url_https": "https://pbs.twimg.com/media/C7oETCnXkAE1pQ8.jpg", 
-                "sizes": {
-                  "large": {
-                    "h": 1152, 
-                    "resize": "fit", 
-                    "w": 2048
-                  }, 
-                  "medium": {
-                    "h": 675, 
-                    "resize": "fit", 
-                    "w": 1200
-                  }, 
-                  "small": {
-                    "h": 383, 
-                    "resize": "fit", 
-                    "w": 680
-                  }, 
-                  "thumb": {
-                    "h": 150, 
-                    "resize": "crop", 
-                    "w": 150
-                  }
-                }, 
-                "type": "photo", 
-                "url": "https://t.co/94rcpgELkc"
-              }
-            ]
-          }, 
-          "favorite_count": 11, 
+          "favorite_count": 40, 
           "favorited": false, 
           "geo": null, 
-          "id": 844992619033907204, 
-          "id_str": "844992619033907204", 
+          "id": 845210683679690753, 
+          "id_str": "845210683679690753", 
           "in_reply_to_screen_name": null, 
           "in_reply_to_status_id": null, 
           "in_reply_to_status_id_str": null, 
@@ -19862,17 +19565,17 @@
           "lang": "fr", 
           "place": null, 
           "possibly_sensitive": false, 
-          "retweet_count": 8, 
+          "retweet_count": 71, 
           "retweeted": false, 
-          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-          "text": "Fin du #hackathon La Rochelle #OpenData. Beaucoup de beaux projets salu\u00e9s par @JVPlace @JFFountaine @YHelary https://t.co/94rcpgELkc", 
-          "truncated": false
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+          "text": "#Simplification\nVos droits sociaux en un seul clic avec le nouveau portail #MesDroitsSociaux \ud83d\udc49\ud83c\udffb\u2026 https://t.co/68y7WPtjLw", 
+          "truncated": true
         }, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "RT @jacquespriol: Fin du #hackathon La Rochelle #OpenData. Beaucoup de beaux projets salu\u00e9s par @JVPlace @JFFountaine @YHelary https://t.co\u2026", 
+        "text": "RT @gouvernementFR: #Simplification\nVos droits sociaux en un seul clic avec le nouveau portail #MesDroitsSociaux \ud83d\udc49\ud83c\udffbhttps://t.co/uKSOApggUf\u2026", 
         "truncated": false
       }, 
-      "statuses_count": 8201, 
+      "statuses_count": 8206, 
       "time_zone": null, 
       "translator_type": "none", 
       "url": null, 
@@ -19880,14 +19583,14 @@
       "verified": true
     }, 
     "twitter_description": "Secr\u00e9taire d'Etat aupr\u00e8s du Premier Ministre, charg\u00e9 de la r\u00e9forme de l'Etat et de la simplification. Pr\u00e9sident de l' @UDE_FR", 
-    "twitter_favourites": 1745, 
-    "twitter_followers": 91643, 
+    "twitter_favourites": 1748, 
+    "twitter_followers": 91666, 
     "twitter_following": 2423, 
     "twitter_id": 219361536, 
     "twitter_listed": 1023, 
     "twitter_name": "Jean-Vincent Plac\u00e9", 
     "twitter_protected": false, 
-    "twitter_tweets": 8201, 
+    "twitter_tweets": 8206, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/place_jean_vincent11069t.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-vincent-place", 
@@ -21340,7 +21043,7 @@
       }, 
       "favourites_count": 71, 
       "follow_request_sent": false, 
-      "followers_count": 5229, 
+      "followers_count": 5230, 
       "following": false, 
       "friends_count": 400, 
       "geo_enabled": true, 
@@ -21479,7 +21182,7 @@
     }, 
     "twitter_description": "Maire de Strasbourg", 
     "twitter_favourites": 71, 
-    "twitter_followers": 5229, 
+    "twitter_followers": 5230, 
     "twitter_following": 400, 
     "twitter_id": 281438650, 
     "twitter_listed": 244, 
