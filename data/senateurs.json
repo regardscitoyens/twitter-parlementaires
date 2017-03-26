@@ -806,11 +806,11 @@
           ]
         }
       }, 
-      "favourites_count": 1082, 
+      "favourites_count": 1094, 
       "follow_request_sent": false, 
-      "followers_count": 17936, 
+      "followers_count": 18005, 
       "following": false, 
-      "friends_count": 1567, 
+      "friends_count": 1569, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 110191018, 
@@ -818,7 +818,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 665, 
+      "listed_count": 664, 
       "location": "Ch-Gontier/Bruxelles/Strasbrg", 
       "name": "Jean Arthuis", 
       "notifications": false, 
@@ -840,43 +840,29 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Fri Mar 24 14:46:44 +0000 2017", 
+        "created_at": "Sat Mar 25 22:13:36 +0000 2017", 
         "entities": {
-          "hashtags": [
-            {
-              "indices": [
-                12, 
-                24
-              ], 
-              "text": "Agriculture"
-            }, 
-            {
-              "indices": [
-                49, 
-                56
-              ], 
-              "text": "Europe"
-            }
-          ], 
+          "hashtags": [], 
           "symbols": [], 
-          "urls": [
+          "urls": [], 
+          "user_mentions": [
             {
-              "display_url": "twitter.com/i/web/status/8\u2026", 
-              "expanded_url": "https://twitter.com/i/web/status/845285758974005249", 
+              "id": 4813171035, 
+              "id_str": "4813171035", 
               "indices": [
-                117, 
-                140
+                3, 
+                14
               ], 
-              "url": "https://t.co/nc8D7ciTy1"
+              "name": "En Marche", 
+              "screen_name": "enmarchefr"
             }
-          ], 
-          "user_mentions": []
+          ]
         }, 
-        "favorite_count": 18, 
+        "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 845285758974005249, 
-        "id_str": "845285758974005249", 
+        "id": 845760605910896640, 
+        "id_str": "845760605910896640", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -884,63 +870,69 @@
         "in_reply_to_user_id_str": null, 
         "is_quote_status": false, 
         "lang": "fr", 
-        "place": {
-          "attributes": {}, 
-          "bounding_box": {
-            "coordinates": [
-              [
-                [
-                  -0.7829585, 
-                  47.795988899999998
-                ], 
-                [
-                  -0.68886130000000001, 
-                  47.795988899999998
-                ], 
-                [
-                  -0.68886130000000001, 
-                  47.856612900000002
-                ], 
-                [
-                  -0.7829585, 
-                  47.856612900000002
-                ]
-              ]
-            ], 
-            "type": "Polygon"
-          }, 
-          "contained_within": [], 
-          "country": "France", 
-          "country_code": "FR", 
-          "full_name": "Ch\u00e2teau-Gontier, France", 
-          "id": "61aaf18ddd5a0627", 
-          "name": "Ch\u00e2teau-Gontier", 
-          "place_type": "city", 
-          "url": "https://api.twitter.com/1.1/geo/id/61aaf18ddd5a0627.json"
-        }, 
-        "possibly_sensitive": false, 
-        "retweet_count": 21, 
+        "place": null, 
+        "retweet_count": 196, 
         "retweeted": false, 
-        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
-        "text": "Pour sauver #Agriculture il y a urgence \u00e0 ce que #Europe prot\u00e8ge son march\u00e9 int\u00e9rieur, sans quoi on verra un jour l\u2026 https://t.co/nc8D7ciTy1", 
-        "truncated": true
+        "retweeted_status": {
+          "contributors": null, 
+          "coordinates": null, 
+          "created_at": "Sat Mar 25 09:50:44 +0000 2017", 
+          "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [
+              {
+                "display_url": "twitter.com/i/web/status/8\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/845573658974281728", 
+                "indices": [
+                  117, 
+                  140
+                ], 
+                "url": "https://t.co/IPt8njbfkf"
+              }
+            ], 
+            "user_mentions": []
+          }, 
+          "favorite_count": 205, 
+          "favorited": false, 
+          "geo": null, 
+          "id": 845573658974281728, 
+          "id_str": "845573658974281728", 
+          "in_reply_to_screen_name": null, 
+          "in_reply_to_status_id": null, 
+          "in_reply_to_status_id_str": null, 
+          "in_reply_to_user_id": null, 
+          "in_reply_to_user_id_str": null, 
+          "is_quote_status": false, 
+          "lang": "fr", 
+          "place": null, 
+          "possibly_sensitive": false, 
+          "retweet_count": 196, 
+          "retweeted": false, 
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+          "text": "Erasmus, c'est s'ouvrir au monde, fa\u00e7onner une appartenance \u00e0 l'Europe. Trop peu de jeunes en b\u00e9n\u00e9ficient aujourd'h\u2026 https://t.co/IPt8njbfkf", 
+          "truncated": true
+        }, 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @enmarchefr: Erasmus, c'est s'ouvrir au monde, fa\u00e7onner une appartenance \u00e0 l'Europe. Trop peu de jeunes en b\u00e9n\u00e9ficient aujourd'hui.\nNous\u2026", 
+        "truncated": false
       }, 
-      "statuses_count": 3287, 
+      "statuses_count": 3292, 
       "time_zone": "Amsterdam", 
       "translator_type": "none", 
       "url": "https://t.co/YhICpAOeW0", 
-      "utc_offset": 3600, 
+      "utc_offset": 7200, 
       "verified": true
     }, 
     "twitter_description": "D\u00e9put\u00e9 europ\u00e9en, Pr\u00e9sident de la com. #BUDG , fondateur de l'Alliance centriste (#UDI), ancien ministre de l'\u00e9conomie et des finances https://t.co/fhOVDCh45q", 
-    "twitter_favourites": 1082, 
-    "twitter_followers": 17936, 
-    "twitter_following": 1567, 
+    "twitter_favourites": 1094, 
+    "twitter_followers": 18005, 
+    "twitter_following": 1569, 
     "twitter_id": 110191018, 
-    "twitter_listed": 665, 
+    "twitter_listed": 664, 
     "twitter_name": "Jean Arthuis", 
     "twitter_protected": false, 
-    "twitter_tweets": 3287, 
+    "twitter_tweets": 3292, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/arthuis_jean83011j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-arthuis", 
@@ -2199,11 +2191,11 @@
           ]
         }
       }, 
-      "favourites_count": 574, 
+      "favourites_count": 578, 
       "follow_request_sent": false, 
-      "followers_count": 1354, 
+      "followers_count": 1352, 
       "following": false, 
-      "friends_count": 312, 
+      "friends_count": 311, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 78422142, 
@@ -2250,7 +2242,7 @@
           ], 
           "user_mentions": []
         }, 
-        "favorite_count": 0, 
+        "favorite_count": 2, 
         "favorited": false, 
         "geo": null, 
         "id": 845401998849687552, 
@@ -2264,7 +2256,7 @@
         "lang": "fr", 
         "place": null, 
         "possibly_sensitive": false, 
-        "retweet_count": 0, 
+        "retweet_count": 1, 
         "retweeted": false, 
         "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
         "text": "Sondage BVA / Pr\u00e9sidentielle : Macron en t\u00eate des intentions de vote au 1er tour https://t.co/YkNssYAP9T", 
@@ -2274,13 +2266,13 @@
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": "https://t.co/cFrea9booe", 
-      "utc_offset": 3600, 
+      "utc_offset": 7200, 
       "verified": false
     }, 
     "twitter_description": "Jean BESSON, S\u00e9nateur Honoraire, Pr\u00e9sident d'@energiesded, Vice Pr\u00e9sident de la @fnccr, #Progressiste", 
-    "twitter_favourites": 574, 
-    "twitter_followers": 1354, 
-    "twitter_following": 312, 
+    "twitter_favourites": 578, 
+    "twitter_followers": 1352, 
+    "twitter_following": 311, 
     "twitter_id": 78422142, 
     "twitter_listed": 84, 
     "twitter_name": "Jean BESSON", 
@@ -3425,7 +3417,7 @@
       }, 
       "favourites_count": 145, 
       "follow_request_sent": false, 
-      "followers_count": 4268, 
+      "followers_count": 4271, 
       "following": false, 
       "friends_count": 1070, 
       "geo_enabled": true, 
@@ -3435,7 +3427,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 172, 
+      "listed_count": 173, 
       "location": "Calais, France", 
       "name": "Natacha BOUCHART", 
       "notifications": false, 
@@ -3567,15 +3559,15 @@
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": null, 
-      "utc_offset": 3600, 
+      "utc_offset": 7200, 
       "verified": false
     }, 
     "twitter_description": "Vice-Pr\u00e9sidente de la R\u00e9gion Hauts-de-France. Maire de #Calais, Pr\u00e9sidente de Grand Calais Terres & Mers", 
     "twitter_favourites": 145, 
-    "twitter_followers": 4268, 
+    "twitter_followers": 4271, 
     "twitter_following": 1070, 
     "twitter_id": 551342517, 
-    "twitter_listed": 172, 
+    "twitter_listed": 173, 
     "twitter_name": "Natacha BOUCHART", 
     "twitter_protected": false, 
     "twitter_tweets": 5478, 
@@ -5986,7 +5978,7 @@
       }, 
       "favourites_count": 156, 
       "follow_request_sent": false, 
-      "followers_count": 60852, 
+      "followers_count": 60864, 
       "following": false, 
       "friends_count": 692, 
       "geo_enabled": true, 
@@ -6057,7 +6049,7 @@
             }
           ]
         }, 
-        "favorite_count": 68, 
+        "favorite_count": 78, 
         "favorited": false, 
         "geo": null, 
         "id": 845022360193392641, 
@@ -6071,7 +6063,7 @@
         "lang": "fr", 
         "place": null, 
         "possibly_sensitive": false, 
-        "retweet_count": 74, 
+        "retweet_count": 94, 
         "retweeted": false, 
         "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
         "text": "Tribune collective dans @Le_Figaro: Europe: la supranationalit\u00e9 a \u00e9chou\u00e9, faisons confiance aux nations\u2026 https://t.co/DmB4OQ9G5L", 
@@ -6081,12 +6073,12 @@
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": "http://t.co/uxgBAwrQat", 
-      "utc_offset": 3600, 
+      "utc_offset": 7200, 
       "verified": true
     }, 
     "twitter_description": "Ancien ministre. Pdt du club R\u00e9publique Moderne (@RepubliqueMod) et de la Fondation Res Publica (@fondarespublica).", 
     "twitter_favourites": 156, 
-    "twitter_followers": 60852, 
+    "twitter_followers": 60864, 
     "twitter_following": 692, 
     "twitter_id": 57116930, 
     "twitter_listed": 1238, 
@@ -6924,7 +6916,7 @@
       "time_zone": "London", 
       "translator_type": "none", 
       "url": "http://t.co/ifSL1qmy9z", 
-      "utc_offset": 0, 
+      "utc_offset": 3600, 
       "verified": false
     }, 
     "twitter_description": "", 
@@ -6995,7 +6987,7 @@
       }, 
       "favourites_count": 3, 
       "follow_request_sent": false, 
-      "followers_count": 444, 
+      "followers_count": 446, 
       "following": false, 
       "friends_count": 12, 
       "geo_enabled": false, 
@@ -7057,12 +7049,12 @@
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": "https://t.co/2eq9qW7NL6", 
-      "utc_offset": 3600, 
+      "utc_offset": 7200, 
       "verified": false
     }, 
     "twitter_description": "Maire de @villedemacon pr\u00e9sident de la @_MBAgglo", 
     "twitter_favourites": 3, 
-    "twitter_followers": 444, 
+    "twitter_followers": 446, 
     "twitter_following": 12, 
     "twitter_id": 1479161936, 
     "twitter_listed": 35, 
@@ -13221,7 +13213,7 @@
       }, 
       "favourites_count": 11, 
       "follow_request_sent": false, 
-      "followers_count": 848, 
+      "followers_count": 847, 
       "following": false, 
       "friends_count": 255, 
       "geo_enabled": false, 
@@ -13339,7 +13331,7 @@
     }, 
     "twitter_description": "Maire de Saint-Flour, Pr\u00e9sident des Maires du #Cantal, Comit\u00e9 des #Finances locales - #Collectivit\u00e9s territoriales #Urbanisme #Logement #D\u00e9veloppement durable", 
     "twitter_favourites": 11, 
-    "twitter_followers": 848, 
+    "twitter_followers": 847, 
     "twitter_following": 255, 
     "twitter_id": 2328417882, 
     "twitter_listed": 38, 
@@ -13390,7 +13382,7 @@
       }, 
       "favourites_count": 0, 
       "follow_request_sent": false, 
-      "followers_count": 28, 
+      "followers_count": 29, 
       "following": false, 
       "friends_count": 56, 
       "geo_enabled": false, 
@@ -13468,7 +13460,7 @@
     }, 
     "twitter_description": "", 
     "twitter_favourites": 0, 
-    "twitter_followers": 28, 
+    "twitter_followers": 29, 
     "twitter_following": 56, 
     "twitter_id": 2172852169, 
     "twitter_listed": 8, 
@@ -16877,7 +16869,7 @@
       }, 
       "favourites_count": 5, 
       "follow_request_sent": false, 
-      "followers_count": 3784, 
+      "followers_count": 3783, 
       "following": false, 
       "friends_count": 2363, 
       "geo_enabled": false, 
@@ -16943,7 +16935,7 @@
     }, 
     "twitter_description": "S\u00e9nateur honoraire-maire de Compi\u00e8gne , Pr\u00e9sident de l'agglom\u00e9ration de la r\u00e9gion de Compi\u00e8gne, Pr\u00e9sident de la commission des finances du S\u00e9nat.", 
     "twitter_favourites": 5, 
-    "twitter_followers": 3784, 
+    "twitter_followers": 3783, 
     "twitter_following": 2363, 
     "twitter_id": 1534099902, 
     "twitter_listed": 128, 
@@ -18074,7 +18066,7 @@
       }, 
       "favourites_count": 73, 
       "follow_request_sent": false, 
-      "followers_count": 255, 
+      "followers_count": 254, 
       "following": false, 
       "friends_count": 151, 
       "geo_enabled": false, 
@@ -18220,7 +18212,7 @@
     }, 
     "twitter_description": "S\u00e9natrice Les R\u00e9publicains des Hautes-Alpes", 
     "twitter_favourites": 73, 
-    "twitter_followers": 255, 
+    "twitter_followers": 254, 
     "twitter_following": 151, 
     "twitter_id": 3189823869, 
     "twitter_listed": 11, 
@@ -19423,11 +19415,11 @@
           "urls": []
         }
       }, 
-      "favourites_count": 1748, 
+      "favourites_count": 1750, 
       "follow_request_sent": false, 
-      "followers_count": 91666, 
+      "followers_count": 91690, 
       "following": false, 
-      "friends_count": 2423, 
+      "friends_count": 2425, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 219361536, 
@@ -19435,7 +19427,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 1023, 
+      "listed_count": 1021, 
       "location": "Paris, France", 
       "name": "Jean-Vincent Plac\u00e9", 
       "notifications": false, 
@@ -19457,54 +19449,39 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Fri Mar 24 14:08:57 +0000 2017", 
+        "created_at": "Sat Mar 25 18:42:24 +0000 2017", 
         "entities": {
-          "hashtags": [
-            {
-              "indices": [
-                20, 
-                35
-              ], 
-              "text": "Simplification"
-            }, 
-            {
-              "indices": [
-                95, 
-                112
-              ], 
-              "text": "MesDroitsSociaux"
-            }
-          ], 
+          "hashtags": [], 
           "symbols": [], 
           "urls": [
             {
-              "display_url": "mesdroitssociaux.gouv.fr", 
-              "expanded_url": "https://www.mesdroitssociaux.gouv.fr", 
+              "display_url": "sudouest.fr/2017/03/24/jea\u2026", 
+              "expanded_url": "http://www.sudouest.fr/2017/03/24/jean-vincent-place-re-affirme-son-soutien-a-benoit-hamon-3306251-1391.php", 
               "indices": [
-                115, 
-                138
+                113, 
+                136
               ], 
-              "url": "https://t.co/uKSOApggUf"
+              "url": "https://t.co/PnDfDAscQk"
             }
           ], 
           "user_mentions": [
             {
-              "id": 951480480, 
-              "id_str": "951480480", 
+              "id": 96773432, 
+              "id_str": "96773432", 
               "indices": [
                 3, 
-                18
+                17
               ], 
-              "name": "Gouvernement", 
-              "screen_name": "gouvernementFR"
+              "name": "SO_LaRochelle", 
+              "screen_name": "SO_LaRochelle"
             }
           ]
         }, 
         "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 845276253406007296, 
-        "id_str": "845276253406007296", 
+        "id": 845707453937389569, 
+        "id_str": "845707453937389569", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -19514,48 +19491,33 @@
         "lang": "fr", 
         "place": null, 
         "possibly_sensitive": false, 
-        "retweet_count": 71, 
+        "retweet_count": 4, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
           "coordinates": null, 
-          "created_at": "Fri Mar 24 09:48:24 +0000 2017", 
+          "created_at": "Fri Mar 24 13:59:55 +0000 2017", 
           "entities": {
-            "hashtags": [
-              {
-                "indices": [
-                  0, 
-                  15
-                ], 
-                "text": "Simplification"
-              }, 
-              {
-                "indices": [
-                  75, 
-                  92
-                ], 
-                "text": "MesDroitsSociaux"
-              }
-            ], 
+            "hashtags": [], 
             "symbols": [], 
             "urls": [
               {
                 "display_url": "twitter.com/i/web/status/8\u2026", 
-                "expanded_url": "https://twitter.com/i/web/status/845210683679690753", 
+                "expanded_url": "https://twitter.com/i/web/status/845273977845092353", 
                 "indices": [
-                  97, 
-                  120
+                  95, 
+                  118
                 ], 
-                "url": "https://t.co/68y7WPtjLw"
+                "url": "https://t.co/sVrah6NoJp"
               }
             ], 
             "user_mentions": []
           }, 
-          "favorite_count": 40, 
+          "favorite_count": 0, 
           "favorited": false, 
           "geo": null, 
-          "id": 845210683679690753, 
-          "id_str": "845210683679690753", 
+          "id": 845273977845092353, 
+          "id_str": "845273977845092353", 
           "in_reply_to_screen_name": null, 
           "in_reply_to_status_id": null, 
           "in_reply_to_status_id_str": null, 
@@ -19565,17 +19527,17 @@
           "lang": "fr", 
           "place": null, 
           "possibly_sensitive": false, 
-          "retweet_count": 71, 
+          "retweet_count": 4, 
           "retweeted": false, 
-          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-          "text": "#Simplification\nVos droits sociaux en un seul clic avec le nouveau portail #MesDroitsSociaux \ud83d\udc49\ud83c\udffb\u2026 https://t.co/68y7WPtjLw", 
+          "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+          "text": "A La Rochelle, le secr\u00e9taire d'Etat Jean-Vincent Plac\u00e9 r\u00e9-affirme son soutien \u00e0\u2026 Beno\u00eet Hamon\u2026 https://t.co/sVrah6NoJp", 
           "truncated": true
         }, 
-        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "RT @gouvernementFR: #Simplification\nVos droits sociaux en un seul clic avec le nouveau portail #MesDroitsSociaux \ud83d\udc49\ud83c\udffbhttps://t.co/uKSOApggUf\u2026", 
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>", 
+        "text": "RT @SO_LaRochelle: A La Rochelle, le secr\u00e9taire d'Etat Jean-Vincent Plac\u00e9 r\u00e9-affirme son soutien \u00e0\u2026 Beno\u00eet Hamon https://t.co/PnDfDAscQk ht\u2026", 
         "truncated": false
       }, 
-      "statuses_count": 8206, 
+      "statuses_count": 8211, 
       "time_zone": null, 
       "translator_type": "none", 
       "url": null, 
@@ -19583,14 +19545,14 @@
       "verified": true
     }, 
     "twitter_description": "Secr\u00e9taire d'Etat aupr\u00e8s du Premier Ministre, charg\u00e9 de la r\u00e9forme de l'Etat et de la simplification. Pr\u00e9sident de l' @UDE_FR", 
-    "twitter_favourites": 1748, 
-    "twitter_followers": 91666, 
-    "twitter_following": 2423, 
+    "twitter_favourites": 1750, 
+    "twitter_followers": 91690, 
+    "twitter_following": 2425, 
     "twitter_id": 219361536, 
-    "twitter_listed": 1023, 
+    "twitter_listed": 1021, 
     "twitter_name": "Jean-Vincent Plac\u00e9", 
     "twitter_protected": false, 
-    "twitter_tweets": 8206, 
+    "twitter_tweets": 8211, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/place_jean_vincent11069t.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-vincent-place", 
@@ -19724,7 +19686,7 @@
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": "https://t.co/N5X5wJ953P", 
-      "utc_offset": 3600, 
+      "utc_offset": 7200, 
       "verified": false
     }, 
     "twitter_description": "Senateur honoraire .", 
@@ -21043,7 +21005,7 @@
       }, 
       "favourites_count": 71, 
       "follow_request_sent": false, 
-      "followers_count": 5230, 
+      "followers_count": 5231, 
       "following": false, 
       "friends_count": 400, 
       "geo_enabled": true, 
@@ -21177,12 +21139,12 @@
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": null, 
-      "utc_offset": 3600, 
+      "utc_offset": 7200, 
       "verified": true
     }, 
     "twitter_description": "Maire de Strasbourg", 
     "twitter_favourites": 71, 
-    "twitter_followers": 5230, 
+    "twitter_followers": 5231, 
     "twitter_following": 400, 
     "twitter_id": 281438650, 
     "twitter_listed": 244, 
