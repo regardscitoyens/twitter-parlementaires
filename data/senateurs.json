@@ -806,11 +806,11 @@
           ]
         }
       }, 
-      "favourites_count": 1152, 
+      "favourites_count": 1154, 
       "follow_request_sent": false, 
-      "followers_count": 18249, 
+      "followers_count": 18261, 
       "following": false, 
-      "friends_count": 1608, 
+      "friends_count": 1610, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 110191018, 
@@ -818,7 +818,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 668, 
+      "listed_count": 665, 
       "location": "Ch-Gontier/Bruxelles/Strasbrg", 
       "name": "Jean Arthuis", 
       "notifications": false, 
@@ -840,28 +840,125 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Tue Apr 11 17:48:26 +0000 2017", 
+        "created_at": "Wed Apr 12 16:44:06 +0000 2017", 
         "entities": {
           "hashtags": [], 
+          "media": [
+            {
+              "display_url": "pic.twitter.com/isxpaMx8ek", 
+              "expanded_url": "https://twitter.com/LCP/status/851888108689817604/photo/1", 
+              "id": 851888105472892928, 
+              "id_str": "851888105472892928", 
+              "indices": [
+                106, 
+                129
+              ], 
+              "media_url": "http://pbs.twimg.com/media/C9KDt-sXoAAEUMA.jpg", 
+              "media_url_https": "https://pbs.twimg.com/media/C9KDt-sXoAAEUMA.jpg", 
+              "sizes": {
+                "large": {
+                  "h": 771, 
+                  "resize": "fit", 
+                  "w": 1170
+                }, 
+                "medium": {
+                  "h": 771, 
+                  "resize": "fit", 
+                  "w": 1170
+                }, 
+                "small": {
+                  "h": 448, 
+                  "resize": "fit", 
+                  "w": 680
+                }, 
+                "thumb": {
+                  "h": 150, 
+                  "resize": "crop", 
+                  "w": 150
+                }
+              }, 
+              "source_status_id": 851888108689817604, 
+              "source_status_id_str": "851888108689817604", 
+              "source_user_id": 85362553, 
+              "source_user_id_str": "85362553", 
+              "type": "photo", 
+              "url": "https://t.co/isxpaMx8ek"
+            }
+          ], 
           "symbols": [], 
           "urls": [
             {
-              "display_url": "twitter.com/i/web/status/8\u2026", 
-              "expanded_url": "https://twitter.com/i/web/status/851854467028930561", 
+              "display_url": "bit.ly/2p4VxxY", 
+              "expanded_url": "http://bit.ly/2p4VxxY", 
               "indices": [
-                117, 
-                140
+                82, 
+                105
               ], 
-              "url": "https://t.co/7PT5sIdleo"
+              "url": "https://t.co/tUVnnZDumR"
             }
           ], 
-          "user_mentions": []
+          "user_mentions": [
+            {
+              "id": 85362553, 
+              "id_str": "85362553", 
+              "indices": [
+                3, 
+                7
+              ], 
+              "name": "LCP", 
+              "screen_name": "LCP"
+            }
+          ]
         }, 
-        "favorite_count": 7, 
+        "extended_entities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/isxpaMx8ek", 
+              "expanded_url": "https://twitter.com/LCP/status/851888108689817604/photo/1", 
+              "id": 851888105472892928, 
+              "id_str": "851888105472892928", 
+              "indices": [
+                106, 
+                129
+              ], 
+              "media_url": "http://pbs.twimg.com/media/C9KDt-sXoAAEUMA.jpg", 
+              "media_url_https": "https://pbs.twimg.com/media/C9KDt-sXoAAEUMA.jpg", 
+              "sizes": {
+                "large": {
+                  "h": 771, 
+                  "resize": "fit", 
+                  "w": 1170
+                }, 
+                "medium": {
+                  "h": 771, 
+                  "resize": "fit", 
+                  "w": 1170
+                }, 
+                "small": {
+                  "h": 448, 
+                  "resize": "fit", 
+                  "w": 680
+                }, 
+                "thumb": {
+                  "h": 150, 
+                  "resize": "crop", 
+                  "w": 150
+                }
+              }, 
+              "source_status_id": 851888108689817604, 
+              "source_status_id_str": "851888108689817604", 
+              "source_user_id": 85362553, 
+              "source_user_id_str": "85362553", 
+              "type": "photo", 
+              "url": "https://t.co/isxpaMx8ek"
+            }
+          ]
+        }, 
+        "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 851854467028930561, 
-        "id_str": "851854467028930561", 
+        "id": 852200665682194432, 
+        "id_str": "852200665682194432", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -871,13 +968,131 @@
         "lang": "fr", 
         "place": null, 
         "possibly_sensitive": false, 
-        "retweet_count": 4, 
+        "retweet_count": 138, 
         "retweeted": false, 
+        "retweeted_status": {
+          "contributors": null, 
+          "coordinates": null, 
+          "created_at": "Tue Apr 11 20:02:07 +0000 2017", 
+          "entities": {
+            "hashtags": [], 
+            "media": [
+              {
+                "display_url": "pic.twitter.com/isxpaMx8ek", 
+                "expanded_url": "https://twitter.com/LCP/status/851888108689817604/photo/1", 
+                "id": 851888105472892928, 
+                "id_str": "851888105472892928", 
+                "indices": [
+                  97, 
+                  120
+                ], 
+                "media_url": "http://pbs.twimg.com/media/C9KDt-sXoAAEUMA.jpg", 
+                "media_url_https": "https://pbs.twimg.com/media/C9KDt-sXoAAEUMA.jpg", 
+                "sizes": {
+                  "large": {
+                    "h": 771, 
+                    "resize": "fit", 
+                    "w": 1170
+                  }, 
+                  "medium": {
+                    "h": 771, 
+                    "resize": "fit", 
+                    "w": 1170
+                  }, 
+                  "small": {
+                    "h": 448, 
+                    "resize": "fit", 
+                    "w": 680
+                  }, 
+                  "thumb": {
+                    "h": 150, 
+                    "resize": "crop", 
+                    "w": 150
+                  }
+                }, 
+                "type": "photo", 
+                "url": "https://t.co/isxpaMx8ek"
+              }
+            ], 
+            "symbols": [], 
+            "urls": [
+              {
+                "display_url": "bit.ly/2p4VxxY", 
+                "expanded_url": "http://bit.ly/2p4VxxY", 
+                "indices": [
+                  73, 
+                  96
+                ], 
+                "url": "https://t.co/tUVnnZDumR"
+              }
+            ], 
+            "user_mentions": []
+          }, 
+          "extended_entities": {
+            "media": [
+              {
+                "display_url": "pic.twitter.com/isxpaMx8ek", 
+                "expanded_url": "https://twitter.com/LCP/status/851888108689817604/photo/1", 
+                "id": 851888105472892928, 
+                "id_str": "851888105472892928", 
+                "indices": [
+                  97, 
+                  120
+                ], 
+                "media_url": "http://pbs.twimg.com/media/C9KDt-sXoAAEUMA.jpg", 
+                "media_url_https": "https://pbs.twimg.com/media/C9KDt-sXoAAEUMA.jpg", 
+                "sizes": {
+                  "large": {
+                    "h": 771, 
+                    "resize": "fit", 
+                    "w": 1170
+                  }, 
+                  "medium": {
+                    "h": 771, 
+                    "resize": "fit", 
+                    "w": 1170
+                  }, 
+                  "small": {
+                    "h": 448, 
+                    "resize": "fit", 
+                    "w": 680
+                  }, 
+                  "thumb": {
+                    "h": 150, 
+                    "resize": "crop", 
+                    "w": 150
+                  }
+                }, 
+                "type": "photo", 
+                "url": "https://t.co/isxpaMx8ek"
+              }
+            ]
+          }, 
+          "favorite_count": 91, 
+          "favorited": false, 
+          "geo": null, 
+          "id": 851888108689817604, 
+          "id_str": "851888108689817604", 
+          "in_reply_to_screen_name": null, 
+          "in_reply_to_status_id": null, 
+          "in_reply_to_status_id_str": null, 
+          "in_reply_to_user_id": null, 
+          "in_reply_to_user_id_str": null, 
+          "is_quote_status": false, 
+          "lang": "fr", 
+          "place": null, 
+          "possibly_sensitive": false, 
+          "retweet_count": 138, 
+          "retweeted": false, 
+          "source": "<a href=\"http://www.lcp.fr\" rel=\"nofollow\">LCP Tweets AFP</a>", 
+          "text": "Le ministre allemand des Finances soutient Macron face \u00e0 Fillon &gt;&gt; https://t.co/tUVnnZDumR https://t.co/isxpaMx8ek", 
+          "truncated": false
+        }, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "Exposition \"Nourrir au front\" (14-18)con\u00e7ue et r\u00e9alis\u00e9e par Nicolas Br\u00e9hon, ex conseiller au Senat. Symbole puissan\u2026 https://t.co/7PT5sIdleo", 
-        "truncated": true
+        "text": "RT @LCP: Le ministre allemand des Finances soutient Macron face \u00e0 Fillon &gt;&gt; https://t.co/tUVnnZDumR https://t.co/isxpaMx8ek", 
+        "truncated": false
       }, 
-      "statuses_count": 3341, 
+      "statuses_count": 3343, 
       "time_zone": "Amsterdam", 
       "translator_type": "none", 
       "url": "https://t.co/YhICpAOeW0", 
@@ -885,14 +1100,14 @@
       "verified": true
     }, 
     "twitter_description": "D\u00e9put\u00e9 europ\u00e9en, Pdt de la com. #BUDG fondateur de l'Alliance centriste #EnMarche, ancien ministre de l'\u00e9conomie et des finances https://t.co/fhOVDCyFu0", 
-    "twitter_favourites": 1152, 
-    "twitter_followers": 18249, 
-    "twitter_following": 1608, 
+    "twitter_favourites": 1154, 
+    "twitter_followers": 18261, 
+    "twitter_following": 1610, 
     "twitter_id": 110191018, 
-    "twitter_listed": 668, 
+    "twitter_listed": 665, 
     "twitter_name": "Jean Arthuis", 
     "twitter_protected": false, 
-    "twitter_tweets": 3341, 
+    "twitter_tweets": 3343, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/arthuis_jean83011j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-arthuis", 
@@ -1138,7 +1353,7 @@
       }, 
       "favourites_count": 7, 
       "follow_request_sent": false, 
-      "followers_count": 171, 
+      "followers_count": 172, 
       "following": false, 
       "friends_count": 144, 
       "geo_enabled": true, 
@@ -1430,7 +1645,7 @@
     }, 
     "twitter_description": "Maire de MEZIDON-CANON", 
     "twitter_favourites": 7, 
-    "twitter_followers": 171, 
+    "twitter_followers": 172, 
     "twitter_following": 144, 
     "twitter_id": 2976706774, 
     "twitter_listed": 11, 
@@ -2151,9 +2366,9 @@
           ]
         }
       }, 
-      "favourites_count": 887, 
+      "favourites_count": 923, 
       "follow_request_sent": false, 
-      "followers_count": 1350, 
+      "followers_count": 1351, 
       "following": false, 
       "friends_count": 314, 
       "geo_enabled": true, 
@@ -2230,8 +2445,8 @@
       "verified": false
     }, 
     "twitter_description": "Jean BESSON, S\u00e9nateur Honoraire, Pr\u00e9sident d'@energiesded, Vice Pr\u00e9sident de la @fnccr, #Progressiste", 
-    "twitter_favourites": 887, 
-    "twitter_followers": 1350, 
+    "twitter_favourites": 923, 
+    "twitter_followers": 1351, 
     "twitter_following": 314, 
     "twitter_id": 78422142, 
     "twitter_listed": 84, 
@@ -3377,9 +3592,9 @@
       }, 
       "favourites_count": 152, 
       "follow_request_sent": false, 
-      "followers_count": 4287, 
+      "followers_count": 4285, 
       "following": false, 
-      "friends_count": 1072, 
+      "friends_count": 1071, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 551342517, 
@@ -3387,7 +3602,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 173, 
+      "listed_count": 169, 
       "location": "Calais, France", 
       "name": "Natacha BOUCHART", 
       "notifications": false, 
@@ -3458,7 +3673,7 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 5, 
+        "retweet_count": 6, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
@@ -3502,7 +3717,7 @@
           "is_quote_status": false, 
           "lang": "fr", 
           "place": null, 
-          "retweet_count": 5, 
+          "retweet_count": 6, 
           "retweeted": false, 
           "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
           "text": "#GrandeSynthe \"L'accueil des migrants ne peut plus se limiter \u00e0 de l'auto-gestion avec les associations\" @NatachaBouchart, maire de Calais", 
@@ -3521,10 +3736,10 @@
     }, 
     "twitter_description": "Vice-Pr\u00e9sidente de la R\u00e9gion Hauts-de-France. Maire de #Calais, Pr\u00e9sidente de Grand Calais Terres & Mers", 
     "twitter_favourites": 152, 
-    "twitter_followers": 4287, 
-    "twitter_following": 1072, 
+    "twitter_followers": 4285, 
+    "twitter_following": 1071, 
     "twitter_id": 551342517, 
-    "twitter_listed": 173, 
+    "twitter_listed": 169, 
     "twitter_name": "Natacha BOUCHART", 
     "twitter_protected": false, 
     "twitter_tweets": 5541, 
@@ -5935,9 +6150,9 @@
       }, 
       "favourites_count": 156, 
       "follow_request_sent": false, 
-      "followers_count": 61044, 
+      "followers_count": 61058, 
       "following": false, 
-      "friends_count": 692, 
+      "friends_count": 691, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 57116930, 
@@ -6233,8 +6448,8 @@
     }, 
     "twitter_description": "Ancien ministre. Pdt du club R\u00e9publique Moderne (@RepubliqueMod) et de la Fondation Res Publica (@fondarespublica).", 
     "twitter_favourites": 156, 
-    "twitter_followers": 61044, 
-    "twitter_following": 692, 
+    "twitter_followers": 61058, 
+    "twitter_following": 691, 
     "twitter_id": 57116930, 
     "twitter_listed": 1240, 
     "twitter_name": "J-P. Chev\u00e8nement", 
@@ -7020,7 +7235,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 81, 
+      "listed_count": 0, 
       "location": "BEZIERS 34", 
       "name": "Raymond COUDERC", 
       "notifications": false, 
@@ -7079,7 +7294,7 @@
     "twitter_followers": 779, 
     "twitter_following": 41, 
     "twitter_id": 84071417, 
-    "twitter_listed": 81, 
+    "twitter_listed": 0, 
     "twitter_name": "Raymond COUDERC", 
     "twitter_protected": false, 
     "twitter_tweets": 664, 
@@ -17062,7 +17277,7 @@
       }, 
       "favourites_count": 5, 
       "follow_request_sent": false, 
-      "followers_count": 3801, 
+      "followers_count": 3803, 
       "following": false, 
       "friends_count": 2361, 
       "geo_enabled": false, 
@@ -17128,7 +17343,7 @@
     }, 
     "twitter_description": "S\u00e9nateur honoraire-maire de Compi\u00e8gne , Pr\u00e9sident de l'agglom\u00e9ration de la r\u00e9gion de Compi\u00e8gne, Pr\u00e9sident de la commission des finances du S\u00e9nat.", 
     "twitter_favourites": 5, 
-    "twitter_followers": 3801, 
+    "twitter_followers": 3803, 
     "twitter_following": 2361, 
     "twitter_id": 1534099902, 
     "twitter_listed": 128, 
@@ -18259,7 +18474,7 @@
       }, 
       "favourites_count": 74, 
       "follow_request_sent": false, 
-      "followers_count": 255, 
+      "followers_count": 256, 
       "following": false, 
       "friends_count": 151, 
       "geo_enabled": false, 
@@ -18388,7 +18603,7 @@
     }, 
     "twitter_description": "S\u00e9natrice Les R\u00e9publicains des Hautes-Alpes", 
     "twitter_favourites": 74, 
-    "twitter_followers": 255, 
+    "twitter_followers": 256, 
     "twitter_following": 151, 
     "twitter_id": 3189823869, 
     "twitter_listed": 11, 
@@ -19591,11 +19806,11 @@
           "urls": []
         }
       }, 
-      "favourites_count": 1752, 
+      "favourites_count": 1753, 
       "follow_request_sent": false, 
-      "followers_count": 92061, 
+      "followers_count": 92077, 
       "following": false, 
-      "friends_count": 2420, 
+      "friends_count": 2418, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 219361536, 
@@ -19736,7 +19951,7 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 3, 
+        "retweet_count": 6, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
@@ -19829,7 +20044,7 @@
               }
             ]
           }, 
-          "favorite_count": 4, 
+          "favorite_count": 5, 
           "favorited": false, 
           "geo": null, 
           "id": 851373658446680069, 
@@ -19843,7 +20058,7 @@
           "lang": "fr", 
           "place": null, 
           "possibly_sensitive": false, 
-          "retweet_count": 3, 
+          "retweet_count": 6, 
           "retweeted": false, 
           "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
           "text": "En librairie Le 13 avril @MarcChebsun @BenzineRachid @RejaniBouchra @BCazeneuve @chevenement @JVPlace @jattali\u2026 https://t.co/8OXVqiiaf0", 
@@ -19861,9 +20076,9 @@
       "verified": true
     }, 
     "twitter_description": "Secr\u00e9taire d'Etat aupr\u00e8s du Premier Ministre, charg\u00e9 de la r\u00e9forme de l'Etat et de la simplification. Pr\u00e9sident de l' @UDE_FR", 
-    "twitter_favourites": 1752, 
-    "twitter_followers": 92061, 
-    "twitter_following": 2420, 
+    "twitter_favourites": 1753, 
+    "twitter_followers": 92077, 
+    "twitter_following": 2418, 
     "twitter_id": 219361536, 
     "twitter_listed": 1022, 
     "twitter_name": "Jean-Vincent Plac\u00e9", 
