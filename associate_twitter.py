@@ -31,10 +31,10 @@ with open(sys.argv[2]) as f:
     twitter = json.load(f)
 
 # Exclude bad accounts
-notparls = ["bayrou"]
+notparls = ["bayrou", "ABachelay"]
 groupes = ["crcsenat", "udiuc", "ecolosenat", "senateursps", "senateursump", "lesrep_senat"]
 doublons = ["teambouillon", "fdebeauce", "vignal2012", "deputecvautrin", "clergeau2012", "isabellebruneau", "roussetalain", "elubondy", "FLefebvre_UMP", "Gabouty2012", "moniquerabin", "PascalAllizard", "pascalegruny"]
-dead = ["Guy_Delcourt", "ConchitaLacuey", "MichelVERGNIER", "bernardroman59"]
+dead = ["Guy_Delcourt", "ConchitaLacuey", "MichelVERGNIER", "bernardroman59", "AndrSaint"]
 
 excludes = [t.lower() for t in notparls + groupes + doublons + dead]
 for e in excludes:
