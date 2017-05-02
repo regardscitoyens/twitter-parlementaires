@@ -806,11 +806,11 @@
           ]
         }
       }, 
-      "favourites_count": 1181, 
+      "favourites_count": 1182, 
       "follow_request_sent": false, 
-      "followers_count": 18552, 
+      "followers_count": 18576, 
       "following": false, 
-      "friends_count": 1637, 
+      "friends_count": 1640, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 110191018, 
@@ -818,7 +818,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 672, 
+      "listed_count": 671, 
       "location": "Ch-Gontier/Bruxelles/Strasbrg", 
       "name": "Jean Arthuis", 
       "notifications": false, 
@@ -840,18 +840,39 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Sun Apr 30 12:26:51 +0000 2017", 
+        "created_at": "Mon May 01 18:18:36 +0000 2017", 
         "entities": {
           "hashtags": [], 
           "symbols": [], 
           "urls": [], 
-          "user_mentions": []
+          "user_mentions": [
+            {
+              "id": 110191018, 
+              "id_str": "110191018", 
+              "indices": [
+                3, 
+                15
+              ], 
+              "name": "Jean Arthuis", 
+              "screen_name": "JeanArthuis"
+            }, 
+            {
+              "id": 1976143068, 
+              "id_str": "1976143068", 
+              "indices": [
+                17, 
+                32
+              ], 
+              "name": "Emmanuel Macron", 
+              "screen_name": "EmmanuelMacron"
+            }
+          ]
         }, 
-        "favorite_count": 62, 
+        "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 858658909917241344, 
-        "id_str": "858658909917241344", 
+        "id": 859109815456600064, 
+        "id_str": "859109815456600064", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -860,13 +881,53 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 53, 
+        "retweet_count": 45, 
         "retweeted": false, 
+        "retweeted_status": {
+          "contributors": null, 
+          "coordinates": null, 
+          "created_at": "Mon May 01 15:31:51 +0000 2017", 
+          "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": [
+              {
+                "id": 1976143068, 
+                "id_str": "1976143068", 
+                "indices": [
+                  0, 
+                  15
+                ], 
+                "name": "Emmanuel Macron", 
+                "screen_name": "EmmanuelMacron"
+              }
+            ]
+          }, 
+          "favorite_count": 44, 
+          "favorited": false, 
+          "geo": null, 
+          "id": 859067853173030917, 
+          "id_str": "859067853173030917", 
+          "in_reply_to_screen_name": "EmmanuelMacron", 
+          "in_reply_to_status_id": null, 
+          "in_reply_to_status_id_str": null, 
+          "in_reply_to_user_id": 1976143068, 
+          "in_reply_to_user_id_str": "1976143068", 
+          "is_quote_status": false, 
+          "lang": "fr", 
+          "place": null, 
+          "retweet_count": 45, 
+          "retweeted": false, 
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+          "text": "@EmmanuelMacron \"une France forte, dans une Europe qui prot\u00e8ge\".Aux actes,lucides et courageux.Dynamisme \u00e9conomique pr une vraie solidarit\u00e9", 
+          "truncated": false
+        }, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "Marine Le Pen pr\u00f4ne deux monnaies, mais elle incarne l'unique fa\u00e7on de mener Fran\u00e7ais et France vers la catastrophe. Halte \u00e0 la d\u00e9magogie!", 
+        "text": "RT @JeanArthuis: @EmmanuelMacron \"une France forte, dans une Europe qui prot\u00e8ge\".Aux actes,lucides et courageux.Dynamisme \u00e9conomique pr une\u2026", 
         "truncated": false
       }, 
-      "statuses_count": 3409, 
+      "statuses_count": 3416, 
       "time_zone": "Amsterdam", 
       "translator_type": "none", 
       "url": "https://t.co/YhICpAOeW0", 
@@ -874,14 +935,14 @@
       "verified": true
     }, 
     "twitter_description": "D\u00e9put\u00e9 europ\u00e9en, Pdt de la com. #BUDG fondateur de l'Alliance centriste #EnMarche, ancien ministre de l'\u00e9conomie et des finances https://t.co/fhOVDCyFu0", 
-    "twitter_favourites": 1181, 
-    "twitter_followers": 18552, 
-    "twitter_following": 1637, 
+    "twitter_favourites": 1182, 
+    "twitter_followers": 18576, 
+    "twitter_following": 1640, 
     "twitter_id": 110191018, 
-    "twitter_listed": 672, 
+    "twitter_listed": 671, 
     "twitter_name": "Jean Arthuis", 
     "twitter_protected": false, 
-    "twitter_tweets": 3409, 
+    "twitter_tweets": 3416, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/arthuis_jean83011j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-arthuis", 
@@ -1127,7 +1188,7 @@
       }, 
       "favourites_count": 7, 
       "follow_request_sent": false, 
-      "followers_count": 174, 
+      "followers_count": 173, 
       "following": false, 
       "friends_count": 144, 
       "geo_enabled": true, 
@@ -1419,7 +1480,7 @@
     }, 
     "twitter_description": "Maire de MEZIDON-CANON", 
     "twitter_favourites": 7, 
-    "twitter_followers": 174, 
+    "twitter_followers": 173, 
     "twitter_following": 144, 
     "twitter_id": 2976706774, 
     "twitter_listed": 11, 
@@ -2140,7 +2201,7 @@
           ]
         }
       }, 
-      "favourites_count": 1482, 
+      "favourites_count": 1486, 
       "follow_request_sent": false, 
       "followers_count": 1351, 
       "following": false, 
@@ -2152,7 +2213,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 84, 
+      "listed_count": 0, 
       "location": "Valence, France, Europe", 
       "name": "Jean BESSON", 
       "notifications": false, 
@@ -2238,11 +2299,11 @@
       "verified": false
     }, 
     "twitter_description": "Jean BESSON, S\u00e9nateur Honoraire, Pr\u00e9sident d'@energiesded, Vice Pr\u00e9sident de la @fnccr, #Progressiste", 
-    "twitter_favourites": 1482, 
+    "twitter_favourites": 1486, 
     "twitter_followers": 1351, 
     "twitter_following": 322, 
     "twitter_id": 78422142, 
-    "twitter_listed": 84, 
+    "twitter_listed": 0, 
     "twitter_name": "Jean BESSON", 
     "twitter_protected": false, 
     "twitter_tweets": 1430, 
@@ -3385,7 +3446,7 @@
       }, 
       "favourites_count": 162, 
       "follow_request_sent": false, 
-      "followers_count": 4292, 
+      "followers_count": 4291, 
       "following": false, 
       "friends_count": 1072, 
       "geo_enabled": true, 
@@ -3395,7 +3456,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 168, 
+      "listed_count": 167, 
       "location": "Calais, France", 
       "name": "Natacha BOUCHART", 
       "notifications": false, 
@@ -3417,71 +3478,29 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Sun Apr 30 17:31:42 +0000 2017", 
+        "created_at": "Mon May 01 15:07:00 +0000 2017", 
         "entities": {
-          "hashtags": [
-            {
-              "indices": [
-                109, 
-                116
-              ], 
-              "text": "Calais"
-            }, 
-            {
-              "indices": [
-                118, 
-                125
-              ], 
-              "text": "AvecXB"
-            }, 
-            {
-              "indices": [
-                126, 
-                139
-              ], 
-              "text": "BFMPolitique"
-            }
-          ], 
+          "hashtags": [], 
           "symbols": [], 
           "urls": [], 
           "user_mentions": [
             {
-              "id": 805784843405692928, 
-              "id_str": "805784843405692928", 
+              "id": 87886754, 
+              "id_str": "87886754", 
               "indices": [
                 3, 
-                15
+                11
               ], 
-              "name": "Jeunes avec XB HDF", 
-              "screen_name": "JeunesXBHDF"
-            }, 
-            {
-              "id": 17172319, 
-              "id_str": "17172319", 
-              "indices": [
-                18, 
-                33
-              ], 
-              "name": "Xavier Bertrand", 
-              "screen_name": "xavierbertrand"
-            }, 
-            {
-              "id": 551342517, 
-              "id_str": "551342517", 
-              "indices": [
-                41, 
-                57
-              ], 
-              "name": "Natacha BOUCHART", 
-              "screen_name": "NatachaBouchart"
+              "name": "Eric Ciotti", 
+              "screen_name": "ECiotti"
             }
           ]
         }, 
         "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 858735625792606208, 
-        "id_str": "858735625792606208", 
+        "id": 859061597389692928, 
+        "id_str": "859061597389692928", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -3490,66 +3509,31 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 9, 
+        "retweet_count": 355, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
           "coordinates": null, 
-          "created_at": "Sun Apr 30 10:45:10 +0000 2017", 
+          "created_at": "Mon May 01 14:42:42 +0000 2017", 
           "entities": {
             "hashtags": [
               {
                 "indices": [
-                  92, 
-                  99
+                  125, 
+                  132
                 ], 
-                "text": "Calais"
-              }, 
-              {
-                "indices": [
-                  101, 
-                  108
-                ], 
-                "text": "AvecXB"
-              }, 
-              {
-                "indices": [
-                  109, 
-                  122
-                ], 
-                "text": "BFMPolitique"
+                "text": "1ermai"
               }
             ], 
             "symbols": [], 
             "urls": [], 
-            "user_mentions": [
-              {
-                "id": 17172319, 
-                "id_str": "17172319", 
-                "indices": [
-                  1, 
-                  16
-                ], 
-                "name": "Xavier Bertrand", 
-                "screen_name": "xavierbertrand"
-              }, 
-              {
-                "id": 551342517, 
-                "id_str": "551342517", 
-                "indices": [
-                  24, 
-                  40
-                ], 
-                "name": "Natacha BOUCHART", 
-                "screen_name": "NatachaBouchart"
-              }
-            ]
+            "user_mentions": []
           }, 
-          "favorite_count": 4, 
+          "favorite_count": 358, 
           "favorited": false, 
           "geo": null, 
-          "id": 858633317847052288, 
-          "id_str": "858633317847052288", 
+          "id": 859055484770414594, 
+          "id_str": "859055484770414594", 
           "in_reply_to_screen_name": null, 
           "in_reply_to_status_id": null, 
           "in_reply_to_status_id_str": null, 
@@ -3558,17 +3542,17 @@
           "is_quote_status": false, 
           "lang": "fr", 
           "place": null, 
-          "retweet_count": 9, 
+          "retweet_count": 355, 
           "retweeted": false, 
           "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-          "text": ".@xavierbertrand : Avec @NatachaBouchart, nous avons obtenu le d\u00e9mant\u00e8lement de la jungle \u00e0 #Calais. #AvecXB #BFMPolitique", 
+          "text": "Soutien aux CRS bless\u00e9s par des individus cagoul\u00e9s. Ces violences intol\u00e9rables en d\u00e9mocratie doivent \u00eatre s\u00e9v\u00e8rement punies. #1ermai", 
           "truncated": false
         }, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "RT @JeunesXBHDF: .@xavierbertrand : Avec @NatachaBouchart, nous avons obtenu le d\u00e9mant\u00e8lement de la jungle \u00e0 #Calais. #AvecXB #BFMPolitique", 
+        "text": "RT @ECiotti: Soutien aux CRS bless\u00e9s par des individus cagoul\u00e9s. Ces violences intol\u00e9rables en d\u00e9mocratie doivent \u00eatre s\u00e9v\u00e8rement punies. #\u2026", 
         "truncated": false
       }, 
-      "statuses_count": 5629, 
+      "statuses_count": 5631, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": null, 
@@ -3577,13 +3561,13 @@
     }, 
     "twitter_description": "Vice-Pr\u00e9sidente de la R\u00e9gion Hauts-de-France. Maire de #Calais, Pr\u00e9sidente de Grand Calais Terres & Mers", 
     "twitter_favourites": 162, 
-    "twitter_followers": 4292, 
+    "twitter_followers": 4291, 
     "twitter_following": 1072, 
     "twitter_id": 551342517, 
-    "twitter_listed": 168, 
+    "twitter_listed": 167, 
     "twitter_name": "Natacha BOUCHART", 
     "twitter_protected": false, 
-    "twitter_tweets": 5629, 
+    "twitter_tweets": 5631, 
     "twitter_verified": false, 
     "url_institution": "http://www.senat.fr/senateur/bouchart_natacha11060j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/natacha-bouchart", 
@@ -5991,7 +5975,7 @@
       }, 
       "favourites_count": 156, 
       "follow_request_sent": false, 
-      "followers_count": 61430, 
+      "followers_count": 61472, 
       "following": false, 
       "friends_count": 693, 
       "geo_enabled": true, 
@@ -6001,7 +5985,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 1242, 
+      "listed_count": 1241, 
       "location": "Paris, France", 
       "name": "J-P. Chev\u00e8nement", 
       "notifications": false, 
@@ -6166,10 +6150,10 @@
     }, 
     "twitter_description": "Ancien ministre. Pdt du club R\u00e9publique Moderne (@RepubliqueMod) et de la Fondation Res Publica (@fondarespublica).", 
     "twitter_favourites": 156, 
-    "twitter_followers": 61430, 
+    "twitter_followers": 61472, 
     "twitter_following": 693, 
     "twitter_id": 57116930, 
-    "twitter_listed": 1242, 
+    "twitter_listed": 1241, 
     "twitter_name": "J-P. Chev\u00e8nement", 
     "twitter_protected": false, 
     "twitter_tweets": 4360, 
@@ -7075,7 +7059,7 @@
       }, 
       "favourites_count": 9, 
       "follow_request_sent": false, 
-      "followers_count": 451, 
+      "followers_count": 450, 
       "following": false, 
       "friends_count": 13, 
       "geo_enabled": false, 
@@ -7164,7 +7148,7 @@
     }, 
     "twitter_description": "Maire de @villedemacon pr\u00e9sident de la @_MBAgglo", 
     "twitter_favourites": 9, 
-    "twitter_followers": 451, 
+    "twitter_followers": 450, 
     "twitter_following": 13, 
     "twitter_id": 1479161936, 
     "twitter_listed": 35, 
@@ -17000,7 +16984,7 @@
       }, 
       "favourites_count": 5, 
       "follow_request_sent": false, 
-      "followers_count": 3808, 
+      "followers_count": 3805, 
       "following": false, 
       "friends_count": 2360, 
       "geo_enabled": false, 
@@ -17066,7 +17050,7 @@
     }, 
     "twitter_description": "S\u00e9nateur honoraire-maire de Compi\u00e8gne , Pr\u00e9sident de l'agglom\u00e9ration de la r\u00e9gion de Compi\u00e8gne, Pr\u00e9sident de la commission des finances du S\u00e9nat.", 
     "twitter_favourites": 5, 
-    "twitter_followers": 3808, 
+    "twitter_followers": 3805, 
     "twitter_following": 2360, 
     "twitter_id": 1534099902, 
     "twitter_listed": 129, 
@@ -18260,7 +18244,7 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 302, 
+        "retweet_count": 363, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
@@ -18272,7 +18256,7 @@
             "urls": [], 
             "user_mentions": []
           }, 
-          "favorite_count": 419, 
+          "favorite_count": 537, 
           "favorited": false, 
           "geo": null, 
           "id": 858652896191291392, 
@@ -18285,7 +18269,7 @@
           "is_quote_status": false, 
           "lang": "fr", 
           "place": null, 
-          "retweet_count": 302, 
+          "retweet_count": 363, 
           "retweeted": false, 
           "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
           "text": "Face \u00e0 la coalition des extr\u00eames, les clivages partisans nous font courir le pire. Il est temps d'en finir avec le vieux monde politique.", 
@@ -19507,9 +19491,9 @@
           "urls": []
         }
       }, 
-      "favourites_count": 1779, 
+      "favourites_count": 1783, 
       "follow_request_sent": false, 
-      "followers_count": 92386, 
+      "followers_count": 92399, 
       "following": false, 
       "friends_count": 2417, 
       "geo_enabled": true, 
@@ -19519,7 +19503,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 1026, 
+      "listed_count": 1025, 
       "location": "Paris, France", 
       "name": "Jean-Vincent Plac\u00e9", 
       "notifications": false, 
@@ -19541,178 +19525,105 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Sun Apr 30 17:15:49 +0000 2017", 
+        "created_at": "Mon May 01 15:13:36 +0000 2017", 
         "entities": {
-          "hashtags": [
-            {
-              "indices": [
-                60, 
-                69
-              ], 
-              "text": "Camerone"
-            }
-          ], 
+          "hashtags": [], 
           "symbols": [], 
           "urls": [], 
           "user_mentions": [
             {
-              "id": 2282625044, 
-              "id_str": "2282625044", 
+              "id": 951480480, 
+              "id_str": "951480480", 
               "indices": [
                 3, 
-                15
+                18
               ], 
-              "name": "Frank Cecconi", 
-              "screen_name": "frank_cecco"
+              "name": "Gouvernement", 
+              "screen_name": "gouvernementFR"
             }, 
             {
-              "id": 219361536, 
-              "id_str": "219361536", 
+              "id": 71016845, 
+              "id_str": "71016845", 
               "indices": [
-                83, 
-                91
+                54, 
+                60
               ], 
-              "name": "Jean-Vincent Plac\u00e9", 
-              "screen_name": "JVPlace"
-            }, 
-            {
-              "id": 379056428, 
-              "id_str": "379056428", 
-              "indices": [
-                95, 
-                111
-              ], 
-              "name": "Jacques JP Martin", 
-              "screen_name": "JacquesJPMartin"
+              "name": "Paris", 
+              "screen_name": "Paris"
             }
           ]
         }, 
         "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 858731628318908416, 
-        "id_str": "858731628318908416", 
+        "id": 859063261274177536, 
+        "id_str": "859063261274177536", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
         "in_reply_to_user_id": null, 
         "in_reply_to_user_id_str": null, 
-        "is_quote_status": true, 
+        "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "quoted_status_id": 857934320610181122, 
-        "quoted_status_id_str": "857934320610181122", 
-        "retweet_count": 3, 
+        "retweet_count": 57, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
           "coordinates": null, 
-          "created_at": "Sun Apr 30 13:07:57 +0000 2017", 
+          "created_at": "Sat Apr 29 15:00:15 +0000 2017", 
           "entities": {
-            "hashtags": [
-              {
-                "indices": [
-                  43, 
-                  52
-                ], 
-                "text": "Camerone"
-              }
-            ], 
+            "hashtags": [], 
             "symbols": [], 
             "urls": [
               {
                 "display_url": "twitter.com/i/web/status/8\u2026", 
-                "expanded_url": "https://twitter.com/i/web/status/858669251695169536", 
+                "expanded_url": "https://twitter.com/i/web/status/858335126794665986", 
                 "indices": [
-                  117, 
-                  140
+                  115, 
+                  138
                 ], 
-                "url": "https://t.co/2wNM8HeFTY"
+                "url": "https://t.co/ubf0B5p0jA"
               }
             ], 
             "user_mentions": [
               {
-                "id": 219361536, 
-                "id_str": "219361536", 
+                "id": 71016845, 
+                "id_str": "71016845", 
                 "indices": [
-                  66, 
-                  74
+                  34, 
+                  40
                 ], 
-                "name": "Jean-Vincent Plac\u00e9", 
-                "screen_name": "JVPlace"
-              }, 
-              {
-                "id": 379056428, 
-                "id_str": "379056428", 
-                "indices": [
-                  78, 
-                  94
-                ], 
-                "name": "Jacques JP Martin", 
-                "screen_name": "JacquesJPMartin"
+                "name": "Paris", 
+                "screen_name": "Paris"
               }
             ]
           }, 
-          "favorite_count": 4, 
+          "favorite_count": 102, 
           "favorited": false, 
           "geo": null, 
-          "id": 858669251695169536, 
-          "id_str": "858669251695169536", 
+          "id": 858335126794665986, 
+          "id_str": "858335126794665986", 
           "in_reply_to_screen_name": null, 
           "in_reply_to_status_id": null, 
           "in_reply_to_status_id_str": null, 
           "in_reply_to_user_id": null, 
           "in_reply_to_user_id_str": null, 
-          "is_quote_status": true, 
+          "is_quote_status": false, 
           "lang": "fr", 
-          "place": {
-            "attributes": {}, 
-            "bounding_box": {
-              "coordinates": [
-                [
-                  [
-                    2.2241005999999999, 
-                    48.815521400000002
-                  ], 
-                  [
-                    2.4699053000000002, 
-                    48.815521400000002
-                  ], 
-                  [
-                    2.4699053000000002, 
-                    48.902146100000003
-                  ], 
-                  [
-                    2.2241005999999999, 
-                    48.902146100000003
-                  ]
-                ]
-              ], 
-              "type": "Polygon"
-            }, 
-            "contained_within": [], 
-            "country": "France", 
-            "country_code": "FR", 
-            "full_name": "Paris, France", 
-            "id": "09f6a7707f18e0b1", 
-            "name": "Paris", 
-            "place_type": "city", 
-            "url": "https://api.twitter.com/1.1/geo/id/09f6a7707f18e0b1.json"
-          }, 
+          "place": null, 
           "possibly_sensitive": false, 
-          "quoted_status_id": 857934320610181122, 
-          "quoted_status_id_str": "857934320610181122", 
-          "retweet_count": 3, 
+          "retweet_count": 57, 
           "retweeted": false, 
           "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-          "text": "Ce matin au Fort de Nogent pour comm\u00e9morer #Camerone avec mon ami @JVPlace et @JacquesJPMartin puis \u00e9mouvante remis\u2026 https://t.co/2wNM8HeFTY", 
+          "text": "Un monument prochainement \u00e9rig\u00e9 \u00e0 @Paris pour honorer la m\u00e9moire des militaires morts en op\u00e9rations ext\u00e9rieures\n\ud83d\udc49\u2026 https://t.co/ubf0B5p0jA", 
           "truncated": true
         }, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "RT @frank_cecco: Ce matin au Fort de Nogent pour comm\u00e9morer #Camerone avec mon ami @JVPlace et @JacquesJPMartin puis \u00e9mouvante remise des d\u2026", 
+        "text": "RT @gouvernementFR: Un monument prochainement \u00e9rig\u00e9 \u00e0 @Paris pour honorer la m\u00e9moire des militaires morts en op\u00e9rations ext\u00e9rieures\n\ud83d\udc49 https\u2026", 
         "truncated": false
       }, 
-      "statuses_count": 8250, 
+      "statuses_count": 8253, 
       "time_zone": null, 
       "translator_type": "none", 
       "url": null, 
@@ -19720,14 +19631,14 @@
       "verified": true
     }, 
     "twitter_description": "Secr\u00e9taire d'Etat aupr\u00e8s du Premier Ministre, charg\u00e9 de la r\u00e9forme de l'Etat et de la simplification. Pr\u00e9sident de l' @UDE_FR", 
-    "twitter_favourites": 1779, 
-    "twitter_followers": 92386, 
+    "twitter_favourites": 1783, 
+    "twitter_followers": 92399, 
     "twitter_following": 2417, 
     "twitter_id": 219361536, 
-    "twitter_listed": 1026, 
+    "twitter_listed": 1025, 
     "twitter_name": "Jean-Vincent Plac\u00e9", 
     "twitter_protected": false, 
-    "twitter_tweets": 8250, 
+    "twitter_tweets": 8253, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/place_jean_vincent11069t.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-vincent-place", 
@@ -21180,7 +21091,7 @@
       }, 
       "favourites_count": 71, 
       "follow_request_sent": false, 
-      "followers_count": 5331, 
+      "followers_count": 5330, 
       "following": false, 
       "friends_count": 421, 
       "geo_enabled": true, 
@@ -21212,44 +21123,128 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Sun Apr 30 15:16:40 +0000 2017", 
+        "created_at": "Mon May 01 12:43:17 +0000 2017", 
         "entities": {
-          "hashtags": [], 
-          "symbols": [], 
-          "urls": [
+          "hashtags": [
             {
-              "display_url": "mobile.lemonde.fr/economie/artic\u2026", 
-              "expanded_url": "http://mobile.lemonde.fr/economie/article/2017/04/28/un-tramway-franco-allemand-pour-feter-l-union-en-europe_5119255_3234.html?xtref=acc_dir", 
               "indices": [
-                0, 
-                23
+                103, 
+                115
               ], 
-              "url": "https://t.co/Ew2LNNC7r7"
+              "text": "ToniVetrano"
+            }, 
+            {
+              "indices": [
+                116, 
+                135
+              ], 
+              "text": "pontB\u00e9atusRh\u00e9nanus"
             }
           ], 
-          "user_mentions": []
+          "symbols": [], 
+          "urls": [], 
+          "user_mentions": [
+            {
+              "id": 605567678, 
+              "id_str": "605567678", 
+              "indices": [
+                3, 
+                17
+              ], 
+              "name": "Alain Fontanel", 
+              "screen_name": "AlainFontanel"
+            }, 
+            {
+              "id": 281438650, 
+              "id_str": "281438650", 
+              "indices": [
+                90, 
+                102
+              ], 
+              "name": "Roland Ries", 
+              "screen_name": "Roland_Ries"
+            }
+          ]
         }, 
-        "favorite_count": 15, 
+        "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 858701645135450112, 
-        "id_str": "858701645135450112", 
+        "id": 859025431168786432, 
+        "id_str": "859025431168786432", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
         "in_reply_to_user_id": null, 
         "in_reply_to_user_id_str": null, 
         "is_quote_status": false, 
-        "lang": "und", 
+        "lang": "fr", 
         "place": null, 
-        "possibly_sensitive": false, 
-        "retweet_count": 12, 
+        "retweet_count": 11, 
         "retweeted": false, 
+        "retweeted_status": {
+          "contributors": null, 
+          "coordinates": null, 
+          "created_at": "Sun Apr 30 20:04:53 +0000 2017", 
+          "entities": {
+            "hashtags": [
+              {
+                "indices": [
+                  84, 
+                  96
+                ], 
+                "text": "ToniVetrano"
+              }
+            ], 
+            "symbols": [], 
+            "urls": [
+              {
+                "display_url": "twitter.com/i/web/status/8\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/858774174134935553", 
+                "indices": [
+                  98, 
+                  121
+                ], 
+                "url": "https://t.co/CCwmMTsI4x"
+              }
+            ], 
+            "user_mentions": [
+              {
+                "id": 281438650, 
+                "id_str": "281438650", 
+                "indices": [
+                  71, 
+                  83
+                ], 
+                "name": "Roland Ries", 
+                "screen_name": "Roland_Ries"
+              }
+            ]
+          }, 
+          "favorite_count": 23, 
+          "favorited": false, 
+          "geo": null, 
+          "id": 858774174134935553, 
+          "id_str": "858774174134935553", 
+          "in_reply_to_screen_name": null, 
+          "in_reply_to_status_id": null, 
+          "in_reply_to_status_id_str": null, 
+          "in_reply_to_user_id": null, 
+          "in_reply_to_user_id_str": null, 
+          "is_quote_status": false, 
+          "lang": "fr", 
+          "place": null, 
+          "possibly_sensitive": false, 
+          "retweet_count": 11, 
+          "retweeted": false, 
+          "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>", 
+          "text": "Une photo symbolique pour un moment et un lieu qui le sont tout autant @Roland_Ries #ToniVetrano\u2026 https://t.co/CCwmMTsI4x", 
+          "truncated": true
+        }, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "https://t.co/Ew2LNNC7r7", 
+        "text": "RT @AlainFontanel: Une photo symbolique pour un moment et un lieu qui le sont tout autant @Roland_Ries #ToniVetrano #pontB\u00e9atusRh\u00e9nanus #Tr\u2026", 
         "truncated": false
       }, 
-      "statuses_count": 453, 
+      "statuses_count": 461, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": null, 
@@ -21258,13 +21253,13 @@
     }, 
     "twitter_description": "Maire de Strasbourg", 
     "twitter_favourites": 71, 
-    "twitter_followers": 5331, 
+    "twitter_followers": 5330, 
     "twitter_following": 421, 
     "twitter_id": 281438650, 
     "twitter_listed": 244, 
     "twitter_name": "Roland Ries", 
     "twitter_protected": false, 
-    "twitter_tweets": 453, 
+    "twitter_tweets": 461, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/ries_roland04065k.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/roland-ries", 
