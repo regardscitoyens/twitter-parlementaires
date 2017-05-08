@@ -808,7 +808,7 @@
       }, 
       "favourites_count": 1214, 
       "follow_request_sent": false, 
-      "followers_count": 18693, 
+      "followers_count": 18730, 
       "following": false, 
       "friends_count": 1643, 
       "geo_enabled": true, 
@@ -840,18 +840,47 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Fri May 05 22:06:55 +0000 2017", 
+        "created_at": "Sun May 07 21:20:52 +0000 2017", 
         "entities": {
-          "hashtags": [], 
+          "hashtags": [
+            {
+              "indices": [
+                122, 
+                129
+              ], 
+              "text": "Europe"
+            }
+          ], 
           "symbols": [], 
           "urls": [], 
-          "user_mentions": []
+          "user_mentions": [
+            {
+              "id": 169426475, 
+              "id_str": "169426475", 
+              "indices": [
+                3, 
+                13
+              ], 
+              "name": "Jean-Claude Juncker", 
+              "screen_name": "JunckerEU"
+            }, 
+            {
+              "id": 1976143068, 
+              "id_str": "1976143068", 
+              "indices": [
+                29, 
+                44
+              ], 
+              "name": "Emmanuel Macron", 
+              "screen_name": "EmmanuelMacron"
+            }
+          ]
         }, 
-        "favorite_count": 145, 
+        "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 860616825566048256, 
-        "id_str": "860616825566048256", 
+        "id": 861330013488107521, 
+        "id_str": "861330013488107521", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -860,13 +889,72 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 91, 
+        "retweet_count": 1903, 
         "retweeted": false, 
+        "retweeted_status": {
+          "contributors": null, 
+          "coordinates": null, 
+          "created_at": "Sun May 07 18:15:24 +0000 2017", 
+          "entities": {
+            "hashtags": [
+              {
+                "indices": [
+                  107, 
+                  114
+                ], 
+                "text": "Europe"
+              }
+            ], 
+            "symbols": [], 
+            "urls": [
+              {
+                "display_url": "twitter.com/i/web/status/8\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/861283336924385280", 
+                "indices": [
+                  116, 
+                  139
+                ], 
+                "url": "https://t.co/oXMoa6AORe"
+              }
+            ], 
+            "user_mentions": [
+              {
+                "id": 1976143068, 
+                "id_str": "1976143068", 
+                "indices": [
+                  14, 
+                  29
+                ], 
+                "name": "Emmanuel Macron", 
+                "screen_name": "EmmanuelMacron"
+              }
+            ]
+          }, 
+          "favorite_count": 2394, 
+          "favorited": false, 
+          "geo": null, 
+          "id": 861283336924385280, 
+          "id_str": "861283336924385280", 
+          "in_reply_to_screen_name": null, 
+          "in_reply_to_status_id": null, 
+          "in_reply_to_status_id_str": null, 
+          "in_reply_to_user_id": null, 
+          "in_reply_to_user_id_str": null, 
+          "is_quote_status": false, 
+          "lang": "fr", 
+          "place": null, 
+          "possibly_sensitive": false, 
+          "retweet_count": 1903, 
+          "retweeted": false, 
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+          "text": "F\u00e9licitations @EmmanuelMacron! Heureux que les Fran\u00e7ais aient choisi un avenir europ\u00e9en. Ensemble pour une #Europe\u2026 https://t.co/oXMoa6AORe", 
+          "truncated": true
+        }, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "Fin de campagne endeuill\u00e9e par le d\u00e9c\u00e8s brutal de Corinne Erhel, d\u00e9put\u00e9e des C\u00f4tes d'Armor. Je pense \u00e0 sa famille et \u00e0 tous ses proches.", 
+        "text": "RT @JunckerEU: F\u00e9licitations @EmmanuelMacron! Heureux que les Fran\u00e7ais aient choisi un avenir europ\u00e9en. Ensemble pour une #Europe plus fort\u2026", 
         "truncated": false
       }, 
-      "statuses_count": 3446, 
+      "statuses_count": 3450, 
       "time_zone": "Amsterdam", 
       "translator_type": "none", 
       "url": "https://t.co/YhICpAOeW0", 
@@ -875,13 +963,13 @@
     }, 
     "twitter_description": "D\u00e9put\u00e9 europ\u00e9en, Pdt de la com. #BUDG fondateur de l'Alliance centriste #EnMarche, ancien ministre de l'\u00e9conomie et des finances https://t.co/fhOVDCyFu0", 
     "twitter_favourites": 1214, 
-    "twitter_followers": 18693, 
+    "twitter_followers": 18730, 
     "twitter_following": 1643, 
     "twitter_id": 110191018, 
     "twitter_listed": 670, 
     "twitter_name": "Jean Arthuis", 
     "twitter_protected": false, 
-    "twitter_tweets": 3446, 
+    "twitter_tweets": 3450, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/arthuis_jean83011j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-arthuis", 
@@ -1925,9 +2013,9 @@
           ]
         }
       }, 
-      "favourites_count": 1630, 
+      "favourites_count": 1638, 
       "follow_request_sent": false, 
-      "followers_count": 1349, 
+      "followers_count": 1350, 
       "following": false, 
       "friends_count": 324, 
       "geo_enabled": true, 
@@ -1959,54 +2047,39 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Fri May 05 06:59:58 +0000 2017", 
+        "created_at": "Sun May 07 18:04:18 +0000 2017", 
         "entities": {
-          "hashtags": [
-            {
-              "indices": [
-                0, 
-                14
-              ], 
-              "text": "S\u00e9gol\u00e8neRoyal"
-            }, 
-            {
-              "indices": [
-                48, 
-                70
-              ], 
-              "text": "OrdreNationalDuM\u00e9rite"
-            }
-          ], 
+          "hashtags": [], 
           "symbols": [], 
-          "urls": [
-            {
-              "display_url": "twitter.com/i/web/status/8\u2026", 
-              "expanded_url": "https://twitter.com/i/web/status/860388584435712000", 
-              "indices": [
-                107, 
-                130
-              ], 
-              "url": "https://t.co/LQ9kj3ID6w"
-            }
-          ], 
+          "urls": [], 
           "user_mentions": [
             {
-              "id": 32376481, 
-              "id_str": "32376481", 
+              "id": 620393218, 
+              "id_str": "620393218", 
               "indices": [
-                73, 
-                85
+                117, 
+                128
               ], 
-              "name": "Jean-Jack Queyranne", 
-              "screen_name": "jjqueyranne"
+              "name": "Le Dauphin\u00e9 26-07", 
+              "screen_name": "LeDL26et07"
+            }, 
+            {
+              "id": 373420951, 
+              "id_str": "373420951", 
+              "indices": [
+                129, 
+                138
+              ], 
+              "name": "Stephane Blezy", 
+              "screen_name": "stephble"
             }
           ]
         }, 
         "favorite_count": 1, 
         "favorited": false, 
         "geo": null, 
-        "id": 860388584435712000, 
-        "id_str": "860388584435712000", 
+        "id": 861280546487447552, 
+        "id_str": "861280546487447552", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -2015,14 +2088,13 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "possibly_sensitive": false, 
         "retweet_count": 1, 
         "retweeted": false, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "#S\u00e9gol\u00e8neRoyal a remis la Croix d'Officier de l'#OrdreNationalDuM\u00e9rite \u00e0 @jjqueyranne ancien Pr\u00e9sident de\u2026 https://t.co/LQ9kj3ID6w", 
-        "truncated": true
+        "text": "Le Peuple fran\u00e7ais a clairement choisi un jeune Pr\u00e9sident qui nous permet enfin de regarder l'avenir avec optimisme. @LeDL26et07 @stephble", 
+        "truncated": false
       }, 
-      "statuses_count": 1435, 
+      "statuses_count": 1439, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": "https://t.co/cFrea9booe", 
@@ -2030,14 +2102,14 @@
       "verified": false
     }, 
     "twitter_description": "Jean BESSON, S\u00e9nateur Honoraire, Pr\u00e9sident d'@energiesded, Vice Pr\u00e9sident de la @fnccr, #Progressiste @EnMarche", 
-    "twitter_favourites": 1630, 
-    "twitter_followers": 1349, 
+    "twitter_favourites": 1638, 
+    "twitter_followers": 1350, 
     "twitter_following": 324, 
     "twitter_id": 78422142, 
     "twitter_listed": 84, 
     "twitter_name": "Jean BESSON", 
     "twitter_protected": false, 
-    "twitter_tweets": 1435, 
+    "twitter_tweets": 1439, 
     "twitter_verified": false, 
     "url_institution": "http://www.senat.fr/senateur/besson_jean89015p.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-besson", 
@@ -3175,11 +3247,11 @@
           "urls": []
         }
       }, 
-      "favourites_count": 162, 
+      "favourites_count": 163, 
       "follow_request_sent": false, 
-      "followers_count": 4293, 
+      "followers_count": 4298, 
       "following": false, 
-      "friends_count": 1070, 
+      "friends_count": 1069, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 551342517, 
@@ -3209,26 +3281,44 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Wed May 03 21:40:22 +0000 2017", 
+        "created_at": "Sun May 07 23:19:41 +0000 2017", 
         "entities": {
           "hashtags": [
             {
               "indices": [
-                96, 
-                108
+                112, 
+                131
               ], 
-              "text": "2017LeD\u00e9bat"
+              "text": "Presidentielle2017"
+            }, 
+            {
+              "indices": [
+                132, 
+                139
+              ], 
+              "text": "Calais"
             }
           ], 
           "symbols": [], 
           "urls": [], 
-          "user_mentions": []
+          "user_mentions": [
+            {
+              "id": 1976143068, 
+              "id_str": "1976143068", 
+              "indices": [
+                58, 
+                73
+              ], 
+              "name": "Emmanuel Macron", 
+              "screen_name": "EmmanuelMacron"
+            }
+          ]
         }, 
-        "favorite_count": 7, 
+        "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 859885367587164160, 
-        "id_str": "859885367587164160", 
+        "id": 861359913456607233, 
+        "id_str": "861359913456607233", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -3237,13 +3327,13 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 3, 
+        "retweet_count": 1, 
         "retweeted": false, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "L'immigration, le sujet oubli\u00e9 des candidats: ni de fermet\u00e9, ni d'humanit\u00e9. \nQuelle tristesse ! #2017LeD\u00e9bat", 
+        "text": "Pour les prot\u00e9ger, je vous demande, Monsieur le Pr\u00e9sident @EmmanuelMacron une rencontre d\u00e8s votre installation. #Presidentielle2017 #Calais", 
         "truncated": false
       }, 
-      "statuses_count": 5635, 
+      "statuses_count": 5645, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": null, 
@@ -3251,14 +3341,14 @@
       "verified": false
     }, 
     "twitter_description": "Vice-Pr\u00e9sidente de la R\u00e9gion Hauts-de-France. Maire de #Calais, Pr\u00e9sidente de Grand Calais Terres & Mers", 
-    "twitter_favourites": 162, 
-    "twitter_followers": 4293, 
-    "twitter_following": 1070, 
+    "twitter_favourites": 163, 
+    "twitter_followers": 4298, 
+    "twitter_following": 1069, 
     "twitter_id": 551342517, 
     "twitter_listed": 167, 
     "twitter_name": "Natacha BOUCHART", 
     "twitter_protected": false, 
-    "twitter_tweets": 5635, 
+    "twitter_tweets": 5645, 
     "twitter_verified": false, 
     "url_institution": "http://www.senat.fr/senateur/bouchart_natacha11060j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/natacha-bouchart", 
@@ -5666,7 +5756,7 @@
       }, 
       "favourites_count": 156, 
       "follow_request_sent": false, 
-      "followers_count": 61542, 
+      "followers_count": 61580, 
       "following": false, 
       "friends_count": 694, 
       "geo_enabled": true, 
@@ -5676,7 +5766,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 1240, 
+      "listed_count": 1239, 
       "location": "Paris, France", 
       "name": "J-P. Chev\u00e8nement", 
       "notifications": false, 
@@ -5709,28 +5799,39 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Fri May 05 09:54:39 +0000 2017", 
+        "created_at": "Sun May 07 18:42:42 +0000 2017", 
         "entities": {
           "hashtags": [], 
           "symbols": [], 
           "urls": [
             {
-              "display_url": "xfru.it/kqqQgx", 
-              "expanded_url": "http://xfru.it/kqqQgx", 
+              "display_url": "xfru.it/98P7kY", 
+              "expanded_url": "http://xfru.it/98P7kY", 
               "indices": [
-                90, 
-                113
+                117, 
+                140
               ], 
-              "url": "https://t.co/9b9W0H9ypo"
+              "url": "https://t.co/7Ci8tBEPTM"
             }
           ], 
-          "user_mentions": []
+          "user_mentions": [
+            {
+              "id": 1976143068, 
+              "id_str": "1976143068", 
+              "indices": [
+                1, 
+                16
+              ], 
+              "name": "Emmanuel Macron", 
+              "screen_name": "EmmanuelMacron"
+            }
+          ]
         }, 
-        "favorite_count": 10, 
+        "favorite_count": 25, 
         "favorited": false, 
         "geo": null, 
-        "id": 860432545581867008, 
-        "id_str": "860432545581867008", 
+        "id": 861290208595247104, 
+        "id_str": "861290208595247104", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -5740,13 +5841,13 @@
         "lang": "fr", 
         "place": null, 
         "possibly_sensitive": false, 
-        "retweet_count": 11, 
+        "retweet_count": 28, 
         "retweeted": false, 
         "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-        "text": "[AFP] Le Pen pr\u00e9sidente serait \"un tr\u00e8s mauvais coup port\u00e9 \u00e0 la R\u00e9publique\" (Chev\u00e8nement) https://t.co/9b9W0H9ypo", 
+        "text": ".@emmanuelmacron devra faire preuve de beaucoup de r\u00e9alisme et de p\u00e9dagogie.Il faut lui donner les moyens de r\u00e9ussir https://t.co/7Ci8tBEPTM", 
         "truncated": false
       }, 
-      "statuses_count": 4376, 
+      "statuses_count": 4380, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": "http://t.co/uxgBAwrQat", 
@@ -5755,13 +5856,13 @@
     }, 
     "twitter_description": "Ancien ministre. Pdt du club R\u00e9publique Moderne (@RepubliqueMod) et de la Fondation Res Publica (@fondarespublica).", 
     "twitter_favourites": 156, 
-    "twitter_followers": 61542, 
+    "twitter_followers": 61580, 
     "twitter_following": 694, 
     "twitter_id": 57116930, 
-    "twitter_listed": 1240, 
+    "twitter_listed": 1239, 
     "twitter_name": "J-P. Chev\u00e8nement", 
     "twitter_protected": false, 
-    "twitter_tweets": 4376, 
+    "twitter_tweets": 4380, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/chevenement_jean_pierre02053w.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-pierre-chevenement", 
@@ -16525,9 +16626,9 @@
       }, 
       "favourites_count": 5, 
       "follow_request_sent": false, 
-      "followers_count": 3806, 
+      "followers_count": 3808, 
       "following": false, 
-      "friends_count": 2359, 
+      "friends_count": 2356, 
       "geo_enabled": false, 
       "has_extended_profile": false, 
       "id": 1534099902, 
@@ -16535,7 +16636,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 128, 
+      "listed_count": 130, 
       "location": "Compi\u00e8gne-Paris", 
       "name": "Philippe Marini", 
       "notifications": false, 
@@ -16591,10 +16692,10 @@
     }, 
     "twitter_description": "S\u00e9nateur honoraire-maire de Compi\u00e8gne , Pr\u00e9sident de l'agglom\u00e9ration de la r\u00e9gion de Compi\u00e8gne, Pr\u00e9sident de la commission des finances du S\u00e9nat.", 
     "twitter_favourites": 5, 
-    "twitter_followers": 3806, 
-    "twitter_following": 2359, 
+    "twitter_followers": 3808, 
+    "twitter_following": 2356, 
     "twitter_id": 1534099902, 
-    "twitter_listed": 128, 
+    "twitter_listed": 130, 
     "twitter_name": "Philippe Marini", 
     "twitter_protected": false, 
     "twitter_tweets": 952, 
@@ -18032,7 +18133,7 @@
               }
             ]
           }, 
-          "favorite_count": 11, 
+          "favorite_count": 12, 
           "favorited": false, 
           "geo": null, 
           "id": 860766101570863104, 
@@ -19270,7 +19371,7 @@
       }, 
       "favourites_count": 1785, 
       "follow_request_sent": false, 
-      "followers_count": 92524, 
+      "followers_count": 92561, 
       "following": false, 
       "friends_count": 2419, 
       "geo_enabled": true, 
@@ -19302,29 +19403,29 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Sat May 06 14:35:43 +0000 2017", 
+        "created_at": "Sun May 07 20:54:13 +0000 2017", 
         "entities": {
           "hashtags": [], 
           "symbols": [], 
           "urls": [], 
           "user_mentions": [
             {
-              "id": 24744541, 
-              "id_str": "24744541", 
+              "id": 78897599, 
+              "id_str": "78897599", 
               "indices": [
                 3, 
                 13
               ], 
-              "name": "Le Monde", 
-              "screen_name": "lemondefr"
+              "name": "Christophe Madrolle", 
+              "screen_name": "cmadrolle"
             }
           ]
         }, 
         "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 860865666248835072, 
-        "id_str": "860865666248835072", 
+        "id": 861323306875719680, 
+        "id_str": "861323306875719680", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -19333,33 +19434,34 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 1338, 
+        "retweet_count": 18, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
           "coordinates": null, 
-          "created_at": "Fri May 05 16:10:53 +0000 2017", 
+          "created_at": "Sun May 07 18:24:54 +0000 2017", 
           "entities": {
             "hashtags": [], 
             "symbols": [], 
-            "urls": [
+            "urls": [], 
+            "user_mentions": [
               {
-                "display_url": "twitter.com/i/web/status/8\u2026", 
-                "expanded_url": "https://twitter.com/i/web/status/860527228337225730", 
+                "id": 3468137895, 
+                "id_str": "3468137895", 
                 "indices": [
-                  117, 
-                  140
+                  132, 
+                  139
                 ], 
-                "url": "https://t.co/bY3OMrVg5n"
+                "name": "UDE Union D\u00e9m Ecolos", 
+                "screen_name": "UDE_FR"
               }
-            ], 
-            "user_mentions": []
+            ]
           }, 
-          "favorite_count": 1310, 
+          "favorite_count": 14, 
           "favorited": false, 
           "geo": null, 
-          "id": 860527228337225730, 
-          "id_str": "860527228337225730", 
+          "id": 861285729334427650, 
+          "id_str": "861285729334427650", 
           "in_reply_to_screen_name": null, 
           "in_reply_to_status_id": null, 
           "in_reply_to_status_id_str": null, 
@@ -19368,18 +19470,17 @@
           "is_quote_status": false, 
           "lang": "fr", 
           "place": null, 
-          "possibly_sensitive": false, 
-          "retweet_count": 1338, 
+          "retweet_count": 18, 
           "retweeted": false, 
-          "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>", 
-          "text": "Cons\u00e9quence du Brexit, Jean-Claude Juncker s\u2019est exprim\u00e9 en fran\u00e7ais plut\u00f4t qu\u2019en anglais devant l\u2019Institut univers\u2026 https://t.co/bY3OMrVg5n", 
-          "truncated": true
+          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>", 
+          "text": "\" C'est la victoire de ceux qui pr\u00f4nent  le rassemblement ,le d\u00e9passement des camps, il faut trouver une large majorit\u00e9 l\u00e9gislative @UDE_FR", 
+          "truncated": false
         }, 
-        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>", 
-        "text": "RT @lemondefr: Cons\u00e9quence du Brexit, Jean-Claude Juncker s\u2019est exprim\u00e9 en fran\u00e7ais plut\u00f4t qu\u2019en anglais devant l\u2019Institut universitaire eu\u2026", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @cmadrolle: \" C'est la victoire de ceux qui pr\u00f4nent  le rassemblement ,le d\u00e9passement des camps, il faut trouver une large majorit\u00e9 l\u00e9gi\u2026", 
         "truncated": false
       }, 
-      "statuses_count": 8258, 
+      "statuses_count": 8261, 
       "time_zone": null, 
       "translator_type": "none", 
       "url": null, 
@@ -19388,13 +19489,13 @@
     }, 
     "twitter_description": "Secr\u00e9taire d'Etat aupr\u00e8s du Premier Ministre, charg\u00e9 de la r\u00e9forme de l'Etat et de la simplification. Pr\u00e9sident de l' @UDE_FR", 
     "twitter_favourites": 1785, 
-    "twitter_followers": 92524, 
+    "twitter_followers": 92561, 
     "twitter_following": 2419, 
     "twitter_id": 219361536, 
     "twitter_listed": 1023, 
     "twitter_name": "Jean-Vincent Plac\u00e9", 
     "twitter_protected": false, 
-    "twitter_tweets": 8258, 
+    "twitter_tweets": 8261, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/place_jean_vincent11069t.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-vincent-place", 
@@ -20847,7 +20948,7 @@
       }, 
       "favourites_count": 71, 
       "follow_request_sent": false, 
-      "followers_count": 5344, 
+      "followers_count": 5348, 
       "following": false, 
       "friends_count": 425, 
       "geo_enabled": true, 
@@ -20879,57 +20980,37 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Fri May 05 13:47:00 +0000 2017", 
+        "created_at": "Sun May 07 18:49:45 +0000 2017", 
         "entities": {
           "hashtags": [
             {
               "indices": [
-                92, 
-                107
+                121, 
+                140
               ], 
-              "text": "EmmanuelMacron"
+              "text": "Presidentielle2017"
             }
           ], 
           "symbols": [], 
-          "urls": [
-            {
-              "display_url": "spiegel.de/politik/auslan\u2026", 
-              "expanded_url": "http://www.spiegel.de/politik/ausland/frankreich-wahl-wer-waehlt-emmanuel-macron-wer-marine-le-pen-a-1145686.html", 
-              "indices": [
-                115, 
-                138
-              ], 
-              "url": "https://t.co/D27yoVYM77"
-            }
-          ], 
+          "urls": [], 
           "user_mentions": [
-            {
-              "id": 17965092, 
-              "id_str": "17965092", 
-              "indices": [
-                34, 
-                45
-              ], 
-              "name": "DER SPIEGEL", 
-              "screen_name": "DerSPIEGEL"
-            }, 
             {
               "id": 1976143068, 
               "id_str": "1976143068", 
               "indices": [
-                75, 
-                90
+                12, 
+                27
               ], 
               "name": "Emmanuel Macron", 
               "screen_name": "EmmanuelMacron"
             }
           ]
         }, 
-        "favorite_count": 1, 
+        "favorite_count": 6, 
         "favorited": false, 
         "geo": null, 
-        "id": 860491017421770752, 
-        "id_str": "860491017421770752", 
+        "id": 861291983339474944, 
+        "id_str": "861291983339474944", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -20938,14 +21019,13 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "possibly_sensitive": false, 
-        "retweet_count": 1, 
+        "retweet_count": 2, 
         "retweeted": false, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "Ma contribution \u00e0 un reportage de @DerSPIEGEL sur la mont\u00e9e en puissance d'@EmmanuelMacron \n#EmmanuelMacron #2017\n\nhttps://t.co/D27yoVYM77", 
+        "text": "Je f\u00e9licite @EmmanuelMacron pour cette large victoire. 2 \u00e9lecteurs(exprim\u00e9s) sur 3: Michel Rocard aurait \u00e9t\u00e9 fier de lui\n#Presidentielle2017", 
         "truncated": false
       }, 
-      "statuses_count": 477, 
+      "statuses_count": 478, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": null, 
@@ -20954,13 +21034,13 @@
     }, 
     "twitter_description": "Maire de Strasbourg", 
     "twitter_favourites": 71, 
-    "twitter_followers": 5344, 
+    "twitter_followers": 5348, 
     "twitter_following": 425, 
     "twitter_id": 281438650, 
     "twitter_listed": 244, 
     "twitter_name": "Roland Ries", 
     "twitter_protected": false, 
-    "twitter_tweets": 477, 
+    "twitter_tweets": 478, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/ries_roland04065k.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/roland-ries", 
