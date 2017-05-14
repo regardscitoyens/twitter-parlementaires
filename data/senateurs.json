@@ -808,9 +808,9 @@
       }, 
       "favourites_count": 1219, 
       "follow_request_sent": false, 
-      "followers_count": 19011, 
+      "followers_count": 19063, 
       "following": false, 
-      "friends_count": 1649, 
+      "friends_count": 1650, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 110191018, 
@@ -840,77 +840,44 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Fri May 12 10:03:16 +0000 2017", 
+        "created_at": "Sat May 13 19:42:21 +0000 2017", 
         "entities": {
           "hashtags": [], 
           "symbols": [], 
-          "urls": [
+          "urls": [], 
+          "user_mentions": [
             {
-              "display_url": "twitter.com/i/web/status/8\u2026", 
-              "expanded_url": "https://twitter.com/i/web/status/862971427452063744", 
+              "id": 300744871, 
+              "id_str": "300744871", 
               "indices": [
-                110, 
-                133
+                0, 
+                11
               ], 
-              "url": "https://t.co/fyRqdEDoX3"
+              "name": "Christian Spillmann", 
+              "screen_name": "CSpillmann"
             }
-          ], 
-          "user_mentions": []
+          ]
         }, 
-        "favorite_count": 39, 
+        "favorite_count": 1, 
         "favorited": false, 
         "geo": null, 
-        "id": 862971427452063744, 
-        "id_str": "862971427452063744", 
-        "in_reply_to_screen_name": null, 
-        "in_reply_to_status_id": null, 
-        "in_reply_to_status_id_str": null, 
-        "in_reply_to_user_id": null, 
-        "in_reply_to_user_id_str": null, 
+        "id": 863479548553428992, 
+        "id_str": "863479548553428992", 
+        "in_reply_to_screen_name": "CSpillmann", 
+        "in_reply_to_status_id": 863479408425934848, 
+        "in_reply_to_status_id_str": "863479408425934848", 
+        "in_reply_to_user_id": 300744871, 
+        "in_reply_to_user_id_str": "300744871", 
         "is_quote_status": false, 
-        "lang": "fr", 
-        "place": {
-          "attributes": {}, 
-          "bounding_box": {
-            "coordinates": [
-              [
-                [
-                  -0.44789889999999999, 
-                  47.911867700000002
-                ], 
-                [
-                  -0.38275039999999999, 
-                  47.911867700000002
-                ], 
-                [
-                  -0.38275039999999999, 
-                  47.960197000000001
-                ], 
-                [
-                  -0.44789889999999999, 
-                  47.960197000000001
-                ]
-              ]
-            ], 
-            "type": "Polygon"
-          }, 
-          "contained_within": [], 
-          "country": "France", 
-          "country_code": "FR", 
-          "full_name": "Ball\u00e9e, France", 
-          "id": "1c8b0a32699b4273", 
-          "name": "Ball\u00e9e", 
-          "place_type": "city", 
-          "url": "https://api.twitter.com/1.1/geo/id/1c8b0a32699b4273.json"
-        }, 
-        "possibly_sensitive": false, 
-        "retweet_count": 32, 
+        "lang": "en", 
+        "place": null, 
+        "retweet_count": 0, 
         "retweeted": false, 
-        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-        "text": "Rencontre \u00e0 Angers avec les Compagnons du Devoir, acteurs essentiels de la mobilit\u00e9 europ\u00e9enne des apprentis\u2026 https://t.co/fyRqdEDoX3", 
-        "truncated": true
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "@CSpillmann Impatient", 
+        "truncated": false
       }, 
-      "statuses_count": 3463, 
+      "statuses_count": 3467, 
       "time_zone": "Amsterdam", 
       "translator_type": "none", 
       "url": "https://t.co/YhICpAOeW0", 
@@ -919,13 +886,13 @@
     }, 
     "twitter_description": "D\u00e9put\u00e9 europ\u00e9en, Pdt de la com. #BUDG fondateur de l'Alliance centriste #EnMarche, ancien ministre de l'\u00e9conomie et des finances https://t.co/fhOVDCyFu0", 
     "twitter_favourites": 1219, 
-    "twitter_followers": 19011, 
-    "twitter_following": 1649, 
+    "twitter_followers": 19063, 
+    "twitter_following": 1650, 
     "twitter_id": 110191018, 
     "twitter_listed": 674, 
     "twitter_name": "Jean Arthuis", 
     "twitter_protected": false, 
-    "twitter_tweets": 3463, 
+    "twitter_tweets": 3467, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/arthuis_jean83011j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-arthuis", 
@@ -1969,9 +1936,9 @@
           ]
         }
       }, 
-      "favourites_count": 1714, 
+      "favourites_count": 1716, 
       "follow_request_sent": false, 
-      "followers_count": 1349, 
+      "followers_count": 1350, 
       "following": false, 
       "friends_count": 325, 
       "geo_enabled": true, 
@@ -2003,49 +1970,37 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Fri May 12 18:36:59 +0000 2017", 
+        "created_at": "Sat May 13 20:39:44 +0000 2017", 
         "entities": {
-          "hashtags": [], 
+          "hashtags": [
+            {
+              "indices": [
+                87, 
+                98
+              ], 
+              "text": "Eurovision"
+            }
+          ], 
           "symbols": [], 
           "urls": [], 
           "user_mentions": [
             {
-              "id": 105177639, 
-              "id_str": "105177639", 
+              "id": 3289759120, 
+              "id_str": "3289759120", 
               "indices": [
                 3, 
-                15
+                17
               ], 
-              "name": "SDED", 
-              "screen_name": "energiesded"
-            }, 
-            {
-              "id": 78422142, 
-              "id_str": "78422142", 
-              "indices": [
-                17, 
-                28
-              ], 
-              "name": "Jean BESSON", 
-              "screen_name": "bessonjean"
-            }, 
-            {
-              "id": 510382623, 
-              "id_str": "510382623", 
-              "indices": [
-                29, 
-                35
-              ], 
-              "name": "FNCCR", 
-              "screen_name": "fnccr"
+              "name": "Le prof de l'\u00eatre.", 
+              "screen_name": "leprofdeletre"
             }
           ]
         }, 
         "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 863100711156031488, 
-        "id_str": "863100711156031488", 
+        "id": 863493989584039936, 
+        "id_str": "863493989584039936", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -2054,74 +2009,50 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 2, 
+        "retweet_count": 64, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
           "coordinates": null, 
-          "created_at": "Fri May 12 17:18:55 +0000 2017", 
+          "created_at": "Sat May 13 19:18:35 +0000 2017", 
           "entities": {
-            "hashtags": [], 
-            "symbols": [], 
-            "urls": [
+            "hashtags": [
               {
-                "display_url": "twitter.com/i/web/status/8\u2026", 
-                "expanded_url": "https://twitter.com/i/web/status/863081063819517952", 
                 "indices": [
-                  116, 
-                  139
+                  68, 
+                  79
                 ], 
-                "url": "https://t.co/uFrolW37Zv"
+                "text": "Eurovision"
               }
             ], 
-            "user_mentions": [
-              {
-                "id": 78422142, 
-                "id_str": "78422142", 
-                "indices": [
-                  0, 
-                  11
-                ], 
-                "name": "Jean BESSON", 
-                "screen_name": "bessonjean"
-              }, 
-              {
-                "id": 510382623, 
-                "id_str": "510382623", 
-                "indices": [
-                  12, 
-                  18
-                ], 
-                "name": "FNCCR", 
-                "screen_name": "fnccr"
-              }
-            ]
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": []
           }, 
-          "favorite_count": 2, 
+          "favorite_count": 120, 
           "favorited": false, 
           "geo": null, 
-          "id": 863081063819517952, 
-          "id_str": "863081063819517952", 
-          "in_reply_to_screen_name": "bessonjean", 
+          "id": 863473567773732866, 
+          "id_str": "863473567773732866", 
+          "in_reply_to_screen_name": null, 
           "in_reply_to_status_id": null, 
           "in_reply_to_status_id_str": null, 
-          "in_reply_to_user_id": 78422142, 
-          "in_reply_to_user_id_str": "78422142", 
+          "in_reply_to_user_id": null, 
+          "in_reply_to_user_id_str": null, 
           "is_quote_status": false, 
           "lang": "fr", 
           "place": null, 
-          "possibly_sensitive": false, 
-          "retweet_count": 2, 
+          "retweet_count": 64, 
           "retweeted": false, 
-          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-          "text": "@bessonjean @fnccr Inauguration de la place du Champ de Mars \u00e0 Saint Vallier. Le + une borne de recharge install\u00e9e\u2026 https://t.co/uFrolW37Zv", 
-          "truncated": true
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+          "text": "La derni\u00e8re fois qu'on a gagn\u00e9 l'Eurovision, Macron n'\u00e9tait pas n\u00e9. #Eurovision", 
+          "truncated": false
         }, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "RT @energiesded: @bessonjean @fnccr Inauguration de la place du Champ de Mars \u00e0 Saint Vallier. Le + une borne de recharge install\u00e9e par le\u2026", 
+        "text": "RT @leprofdeletre: La derni\u00e8re fois qu'on a gagn\u00e9 l'Eurovision, Macron n'\u00e9tait pas n\u00e9. #Eurovision", 
         "truncated": false
       }, 
-      "statuses_count": 1440, 
+      "statuses_count": 1441, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": "https://t.co/cFrea9booe", 
@@ -2129,14 +2060,14 @@
       "verified": false
     }, 
     "twitter_description": "Jean BESSON, S\u00e9nateur Honoraire, Pr\u00e9sident d'@energiesded, Vice Pr\u00e9sident de la @fnccr, #Progressiste @EnMarche", 
-    "twitter_favourites": 1714, 
-    "twitter_followers": 1349, 
+    "twitter_favourites": 1716, 
+    "twitter_followers": 1350, 
     "twitter_following": 325, 
     "twitter_id": 78422142, 
     "twitter_listed": 84, 
     "twitter_name": "Jean BESSON", 
     "twitter_protected": false, 
-    "twitter_tweets": 1440, 
+    "twitter_tweets": 1441, 
     "twitter_verified": false, 
     "url_institution": "http://www.senat.fr/senateur/besson_jean89015p.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-besson", 
@@ -3276,7 +3207,7 @@
       }, 
       "favourites_count": 159, 
       "follow_request_sent": false, 
-      "followers_count": 4314, 
+      "followers_count": 4316, 
       "following": false, 
       "friends_count": 1070, 
       "geo_enabled": true, 
@@ -3344,7 +3275,7 @@
             }
           ]
         }, 
-        "favorite_count": 3, 
+        "favorite_count": 4, 
         "favorited": false, 
         "geo": null, 
         "id": 863342096102641664, 
@@ -3373,7 +3304,7 @@
     }, 
     "twitter_description": "Vice-Pr\u00e9sidente de la R\u00e9gion Hauts-de-France. Maire de #Calais, Pr\u00e9sidente de Grand Calais Terres & Mers", 
     "twitter_favourites": 159, 
-    "twitter_followers": 4314, 
+    "twitter_followers": 4316, 
     "twitter_following": 1070, 
     "twitter_id": 551342517, 
     "twitter_listed": 167, 
@@ -5787,7 +5718,7 @@
       }, 
       "favourites_count": 155, 
       "follow_request_sent": false, 
-      "followers_count": 61684, 
+      "followers_count": 61688, 
       "following": false, 
       "friends_count": 694, 
       "geo_enabled": true, 
@@ -5797,7 +5728,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 1240, 
+      "listed_count": 1241, 
       "location": "Paris, France", 
       "name": "J-P. Chev\u00e8nement", 
       "notifications": false, 
@@ -5945,10 +5876,10 @@
     }, 
     "twitter_description": "Ancien ministre. Pdt du club R\u00e9publique Moderne (@RepubliqueMod) et de la Fondation Res Publica (@fondarespublica).", 
     "twitter_favourites": 155, 
-    "twitter_followers": 61684, 
+    "twitter_followers": 61688, 
     "twitter_following": 694, 
     "twitter_id": 57116930, 
-    "twitter_listed": 1240, 
+    "twitter_listed": 1241, 
     "twitter_name": "J-P. Chev\u00e8nement", 
     "twitter_protected": false, 
     "twitter_tweets": 4383, 
@@ -6854,7 +6785,7 @@
       }, 
       "favourites_count": 9, 
       "follow_request_sent": false, 
-      "followers_count": 456, 
+      "followers_count": 455, 
       "following": false, 
       "friends_count": 13, 
       "geo_enabled": false, 
@@ -6864,7 +6795,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 36, 
+      "listed_count": 0, 
       "location": "M\u00e2con", 
       "name": "J-P COURTOIS", 
       "notifications": false, 
@@ -7000,10 +6931,10 @@
     }, 
     "twitter_description": "Maire de @villedemacon pr\u00e9sident de la @_MBAgglo", 
     "twitter_favourites": 9, 
-    "twitter_followers": 456, 
+    "twitter_followers": 455, 
     "twitter_following": 13, 
     "twitter_id": 1479161936, 
-    "twitter_listed": 36, 
+    "twitter_listed": 0, 
     "twitter_name": "J-P COURTOIS", 
     "twitter_protected": false, 
     "twitter_tweets": 24, 
@@ -17967,9 +17898,9 @@
           ]
         }
       }, 
-      "favourites_count": 91, 
+      "favourites_count": 94, 
       "follow_request_sent": false, 
-      "followers_count": 260, 
+      "followers_count": 262, 
       "following": false, 
       "friends_count": 156, 
       "geo_enabled": false, 
@@ -18001,29 +17932,36 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Mon May 08 06:41:22 +0000 2017", 
+        "created_at": "Sat May 13 17:01:55 +0000 2017", 
         "entities": {
-          "hashtags": [], 
-          "symbols": [], 
-          "urls": [], 
-          "user_mentions": [
+          "hashtags": [
             {
-              "id": 1976143068, 
-              "id_str": "1976143068", 
               "indices": [
-                16, 
-                31
+                101, 
+                111
               ], 
-              "name": "Emmanuel Macron", 
-              "screen_name": "EmmanuelMacron"
+              "text": "predation"
             }
-          ]
+          ], 
+          "symbols": [], 
+          "urls": [
+            {
+              "display_url": "twitter.com/i/web/status/8\u2026", 
+              "expanded_url": "https://twitter.com/i/web/status/863439171477798912", 
+              "indices": [
+                114, 
+                137
+              ], 
+              "url": "https://t.co/gAAa3ak2LH"
+            }
+          ], 
+          "user_mentions": []
         }, 
-        "favorite_count": 0, 
+        "favorite_count": 1, 
         "favorited": false, 
         "geo": null, 
-        "id": 861471067885449216, 
-        "id_str": "861471067885449216", 
+        "id": 863439171477798912, 
+        "id_str": "863439171477798912", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -18032,13 +17970,14 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 0, 
+        "possibly_sensitive": true, 
+        "retweet_count": 1, 
         "retweeted": false, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "F\u00e9licitations \u00e0 @EmmanuelMacron pour cette victoire !", 
-        "truncated": false
+        "text": "Avec l'asso.des communes pastorales PACA pour \u00e9changer sur la probl\u00e9matique des chiens de troupeaux. #predation.\u2026 https://t.co/gAAa3ak2LH", 
+        "truncated": true
       }, 
-      "statuses_count": 60, 
+      "statuses_count": 61, 
       "time_zone": "Pacific Time (US & Canada)", 
       "translator_type": "none", 
       "url": "http://t.co/T56z5maj35", 
@@ -18046,14 +17985,14 @@
       "verified": true
     }, 
     "twitter_description": "S\u00e9natrice Les R\u00e9publicains des Hautes-Alpes", 
-    "twitter_favourites": 91, 
-    "twitter_followers": 260, 
+    "twitter_favourites": 94, 
+    "twitter_followers": 262, 
     "twitter_following": 156, 
     "twitter_id": 3189823869, 
     "twitter_listed": 10, 
     "twitter_name": "P. Morhet-Richaud", 
     "twitter_protected": false, 
-    "twitter_tweets": 60, 
+    "twitter_tweets": 61, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/morhet_richaud_patricia14265w.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/patricia-morhet-richaud", 
@@ -19252,7 +19191,7 @@
       }, 
       "favourites_count": 1785, 
       "follow_request_sent": false, 
-      "followers_count": 92758, 
+      "followers_count": 92773, 
       "following": false, 
       "friends_count": 2420, 
       "geo_enabled": true, 
@@ -19337,7 +19276,7 @@
             ], 
             "user_mentions": []
           }, 
-          "favorite_count": 23, 
+          "favorite_count": 24, 
           "favorited": false, 
           "geo": null, 
           "id": 862695567708893184, 
@@ -19370,7 +19309,7 @@
     }, 
     "twitter_description": "Secr\u00e9taire d'Etat aupr\u00e8s du Premier Ministre, charg\u00e9 de la r\u00e9forme de l'Etat et de la simplification. Pr\u00e9sident de l' @UDE_FR", 
     "twitter_favourites": 1785, 
-    "twitter_followers": 92758, 
+    "twitter_followers": 92773, 
     "twitter_following": 2420, 
     "twitter_id": 219361536, 
     "twitter_listed": 1023, 
@@ -19437,7 +19376,7 @@
       }, 
       "favourites_count": 0, 
       "follow_request_sent": false, 
-      "followers_count": 867, 
+      "followers_count": 868, 
       "following": false, 
       "friends_count": 966, 
       "geo_enabled": true, 
@@ -19515,7 +19454,7 @@
     }, 
     "twitter_description": "Senateur honoraire .", 
     "twitter_favourites": 0, 
-    "twitter_followers": 867, 
+    "twitter_followers": 868, 
     "twitter_following": 966, 
     "twitter_id": 270919379, 
     "twitter_listed": 88, 
@@ -20829,7 +20768,7 @@
       }, 
       "favourites_count": 71, 
       "follow_request_sent": false, 
-      "followers_count": 5367, 
+      "followers_count": 5370, 
       "following": false, 
       "friends_count": 425, 
       "geo_enabled": true, 
@@ -20893,7 +20832,7 @@
           ], 
           "user_mentions": []
         }, 
-        "favorite_count": 1, 
+        "favorite_count": 2, 
         "favorited": false, 
         "geo": null, 
         "id": 862906147384295426, 
@@ -20924,7 +20863,7 @@
     }, 
     "twitter_description": "Maire de Strasbourg", 
     "twitter_favourites": 71, 
-    "twitter_followers": 5367, 
+    "twitter_followers": 5370, 
     "twitter_following": 425, 
     "twitter_id": 281438650, 
     "twitter_listed": 244, 
