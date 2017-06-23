@@ -808,9 +808,9 @@
           ]
         }
       }, 
-      "favourites_count": 1243, 
+      "favourites_count": 1254, 
       "follow_request_sent": false, 
-      "followers_count": 19955, 
+      "followers_count": 19982, 
       "following": false, 
       "friends_count": 1680, 
       "geo_enabled": true, 
@@ -842,29 +842,57 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Wed Jun 21 21:04:08 +0000 2017", 
+        "created_at": "Thu Jun 22 17:02:50 +0000 2017", 
         "entities": {
-          "hashtags": [], 
+          "hashtags": [
+            {
+              "indices": [
+                93, 
+                106
+              ], 
+              "text": "Politique360"
+            }
+          ], 
           "symbols": [], 
-          "urls": [], 
+          "urls": [
+            {
+              "display_url": "publicsenat.fr/article/politi\u2026", 
+              "expanded_url": "https://www.publicsenat.fr/article/politique/il-etait-temps-de-reparler-d-une-europe-de-la-defense-pour-jean-arthuis-75142", 
+              "indices": [
+                107, 
+                130
+              ], 
+              "url": "https://t.co/cOe3SbC8R7"
+            }
+          ], 
           "user_mentions": [
             {
-              "id": 1976143068, 
-              "id_str": "1976143068", 
+              "id": 40056514, 
+              "id_str": "40056514", 
               "indices": [
-                125, 
-                140
+                3, 
+                15
               ], 
-              "name": "Emmanuel Macron", 
-              "screen_name": "EmmanuelMacron"
+              "name": "Public S\u00e9nat", 
+              "screen_name": "publicsenat"
+            }, 
+            {
+              "id": 110191018, 
+              "id_str": "110191018", 
+              "indices": [
+                80, 
+                92
+              ], 
+              "name": "Jean Arthuis", 
+              "screen_name": "JeanArthuis"
             }
           ]
         }, 
-        "favorite_count": 54, 
+        "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 877633257101242368, 
-        "id_str": "877633257101242368", 
+        "id": 877934917769932800, 
+        "id_str": "877934917769932800", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -873,13 +901,73 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 32, 
+        "possibly_sensitive": false, 
+        "retweet_count": 17, 
         "retweeted": false, 
+        "retweeted_status": {
+          "contributors": null, 
+          "coordinates": null, 
+          "created_at": "Thu Jun 22 17:00:16 +0000 2017", 
+          "entities": {
+            "hashtags": [
+              {
+                "indices": [
+                  76, 
+                  89
+                ], 
+                "text": "Politique360"
+              }
+            ], 
+            "symbols": [], 
+            "urls": [
+              {
+                "display_url": "publicsenat.fr/article/politi\u2026", 
+                "expanded_url": "https://www.publicsenat.fr/article/politique/il-etait-temps-de-reparler-d-une-europe-de-la-defense-pour-jean-arthuis-75142", 
+                "indices": [
+                  90, 
+                  113
+                ], 
+                "url": "https://t.co/cOe3SbC8R7"
+              }
+            ], 
+            "user_mentions": [
+              {
+                "id": 110191018, 
+                "id_str": "110191018", 
+                "indices": [
+                  63, 
+                  75
+                ], 
+                "name": "Jean Arthuis", 
+                "screen_name": "JeanArthuis"
+              }
+            ]
+          }, 
+          "favorite_count": 20, 
+          "favorited": false, 
+          "geo": null, 
+          "id": 877934271146508288, 
+          "id_str": "877934271146508288", 
+          "in_reply_to_screen_name": null, 
+          "in_reply_to_status_id": null, 
+          "in_reply_to_status_id_str": null, 
+          "in_reply_to_user_id": null, 
+          "in_reply_to_user_id_str": null, 
+          "is_quote_status": false, 
+          "lang": "fr", 
+          "place": null, 
+          "possibly_sensitive": false, 
+          "retweet_count": 17, 
+          "retweeted": false, 
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+          "text": "Il \u00e9tait temps de reparler d\u2019une \u00ab Europe de la d\u00e9fense \u00bb pour @JeanArthuis #Politique360 https://t.co/cOe3SbC8R7", 
+          "truncated": false
+        }, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "Le gouvernement est nomm\u00e9. La majorit\u00e9 LREM s'installe \u00e0 l'Assembl\u00e9e N. Les conditions sont r\u00e9unies pour r\u00e9ussir le projet d'@EmmanuelMacron", 
+        "text": "RT @publicsenat: Il \u00e9tait temps de reparler d\u2019une \u00ab Europe de la d\u00e9fense \u00bb pour @JeanArthuis #Politique360 https://t.co/cOe3SbC8R7", 
         "truncated": false
       }, 
-      "statuses_count": 3549, 
+      "statuses_count": 3555, 
       "time_zone": "Amsterdam", 
       "translator_type": "none", 
       "url": "https://t.co/YhICpAOeW0", 
@@ -887,14 +975,14 @@
       "verified": true
     }, 
     "twitter_description": "D\u00e9put\u00e9 europ\u00e9en, Pdt de la com. #BUDG fondateur de l'Alliance centriste #EnMarche, ancien ministre de l'\u00e9conomie et des finances https://t.co/fhOVDCyFu0", 
-    "twitter_favourites": 1243, 
-    "twitter_followers": 19955, 
+    "twitter_favourites": 1254, 
+    "twitter_followers": 19982, 
     "twitter_following": 1680, 
     "twitter_id": 110191018, 
     "twitter_listed": 680, 
     "twitter_name": "Jean Arthuis", 
     "twitter_protected": false, 
-    "twitter_tweets": 3549, 
+    "twitter_tweets": 3555, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/arthuis_jean83011j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-arthuis", 
@@ -1138,7 +1226,7 @@
           "urls": []
         }
       }, 
-      "favourites_count": 9, 
+      "favourites_count": 10, 
       "follow_request_sent": false, 
       "followers_count": 178, 
       "following": false, 
@@ -1171,34 +1259,27 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Wed Jun 21 14:52:29 +0000 2017", 
+        "created_at": "Thu Jun 22 14:01:59 +0000 2017", 
         "entities": {
           "hashtags": [
             {
               "indices": [
-                17, 
-                36
+                32, 
+                51
               ], 
               "text": "M\u00e9zidonVall\u00e9edAuge"
-            }, 
-            {
-              "indices": [
-                52, 
-                59
-              ], 
-              "text": "Enedis"
             }
           ], 
           "symbols": [], 
           "urls": [
             {
-              "display_url": "fb.me/8fzSJmuzB", 
-              "expanded_url": "http://fb.me/8fzSJmuzB", 
+              "display_url": "fb.me/1YiJrRVKR", 
+              "expanded_url": "http://fb.me/1YiJrRVKR", 
               "indices": [
                 111, 
                 134
               ], 
-              "url": "https://t.co/lPApkOwHk6"
+              "url": "https://t.co/t0BlL58paU"
             }
           ], 
           "user_mentions": []
@@ -1206,8 +1287,8 @@
         "favorite_count": 1, 
         "favorited": false, 
         "geo": null, 
-        "id": 877539727532052480, 
-        "id_str": "877539727532052480", 
+        "id": 877889404223737856, 
+        "id_str": "877889404223737856", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -1220,10 +1301,10 @@
         "retweet_count": 0, 
         "retweeted": false, 
         "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>", 
-        "text": "Cet apr\u00e8s-midi \u00e0 #M\u00e9zidonVall\u00e9edAuge, \u00e9changes avec #Enedis et l'association Bac Environnement autour de la... https://t.co/lPApkOwHk6", 
+        "text": "Tr\u00e8s bonne ambiance hier soir \u00e0 #M\u00e9zidonVall\u00e9edAuge pour la F\u00eate de la Musique \u00e0 la Loco. \ud83c\udfb8\ud83c\udfbc\ud83c\udfb8 \n\nBeaucoup de... https://t.co/t0BlL58paU", 
         "truncated": false
       }, 
-      "statuses_count": 65, 
+      "statuses_count": 66, 
       "time_zone": null, 
       "translator_type": "none", 
       "url": null, 
@@ -1231,14 +1312,14 @@
       "verified": false
     }, 
     "twitter_description": "Maire de MEZIDON VALL\u00c9E D'AUGE. Pr\u00e9sident de l'Agglomeration LISIEUX NORMANDIE", 
-    "twitter_favourites": 9, 
+    "twitter_favourites": 10, 
     "twitter_followers": 178, 
     "twitter_following": 143, 
     "twitter_id": 2976706774, 
     "twitter_listed": 10, 
     "twitter_name": "Fran\u00e7ois Aubey", 
     "twitter_protected": false, 
-    "twitter_tweets": 65, 
+    "twitter_tweets": 66, 
     "twitter_verified": false, 
     "url_institution": "http://www.senat.fr/senateur/aubey_francois14137p.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/francois-aubey", 
@@ -1934,7 +2015,7 @@
       "created_at": "Tue Sep 29 21:33:25 +0000 2009", 
       "default_profile": false, 
       "default_profile_image": false, 
-      "description": "Jean BESSON, S\u00e9nateur Honoraire, Pr\u00e9sident d'@energiesded, Vice Pr\u00e9sident de la @fnccr, #Progressiste @enmarchefr", 
+      "description": "Jean BESSON, S\u00e9nateur Honoraire, Pr\u00e9sident d'@energiesded, Vice Pr\u00e9sident de la @fnccr, #Progressiste", 
       "entities": {
         "description": {
           "urls": []
@@ -1948,16 +2029,16 @@
                 0, 
                 23
               ], 
-              "url": "https://t.co/cFrea9booe"
+              "url": "https://t.co/cFrea9sZfM"
             }
           ]
         }
       }, 
-      "favourites_count": 1877, 
+      "favourites_count": 1881, 
       "follow_request_sent": false, 
       "followers_count": 1362, 
       "following": false, 
-      "friends_count": 341, 
+      "friends_count": 340, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 78422142, 
@@ -2028,7 +2109,7 @@
         "possibly_sensitive": false, 
         "quoted_status_id": 877613437886513156, 
         "quoted_status_id_str": "877613437886513156", 
-        "retweet_count": 2, 
+        "retweet_count": 3, 
         "retweeted": false, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
         "text": "7 ministres de gauche, dont la Ministre #FlorenceParly qui nous avait impressionn\u00e9 au S\u00e9nat comme Ministre du Budge\u2026 https://t.co/NTgCdyLHqG", 
@@ -2037,14 +2118,14 @@
       "statuses_count": 1482, 
       "time_zone": "Paris", 
       "translator_type": "none", 
-      "url": "https://t.co/cFrea9booe", 
+      "url": "https://t.co/cFrea9sZfM", 
       "utc_offset": 7200, 
       "verified": false
     }, 
-    "twitter_description": "Jean BESSON, S\u00e9nateur Honoraire, Pr\u00e9sident d'@energiesded, Vice Pr\u00e9sident de la @fnccr, #Progressiste @enmarchefr", 
-    "twitter_favourites": 1877, 
+    "twitter_description": "Jean BESSON, S\u00e9nateur Honoraire, Pr\u00e9sident d'@energiesded, Vice Pr\u00e9sident de la @fnccr, #Progressiste", 
+    "twitter_favourites": 1881, 
     "twitter_followers": 1362, 
-    "twitter_following": 341, 
+    "twitter_following": 340, 
     "twitter_id": 78422142, 
     "twitter_listed": 84, 
     "twitter_name": "Jean BESSON", 
@@ -3191,7 +3272,7 @@
       }, 
       "favourites_count": 228, 
       "follow_request_sent": false, 
-      "followers_count": 4391, 
+      "followers_count": 4390, 
       "following": false, 
       "friends_count": 1067, 
       "geo_enabled": true, 
@@ -3201,7 +3282,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 166, 
+      "listed_count": 165, 
       "location": "Calais, France", 
       "name": "Natacha BOUCHART", 
       "notifications": false, 
@@ -3223,28 +3304,26 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Wed Jun 21 22:07:06 +0000 2017", 
+        "created_at": "Thu Jun 22 14:46:48 +0000 2017", 
         "entities": {
-          "hashtags": [], 
-          "symbols": [], 
-          "urls": [
+          "hashtags": [
             {
-              "display_url": "twitter.com/i/web/status/8\u2026", 
-              "expanded_url": "https://twitter.com/i/web/status/877649102821052416", 
               "indices": [
-                117, 
-                140
+                104, 
+                111
               ], 
-              "url": "https://t.co/Sq4Z3O1zDe"
+              "text": "Calais"
             }
           ], 
+          "symbols": [], 
+          "urls": [], 
           "user_mentions": []
         }, 
-        "favorite_count": 0, 
+        "favorite_count": 2, 
         "favorited": false, 
         "geo": null, 
-        "id": 877649102821052416, 
-        "id_str": "877649102821052416", 
+        "id": 877900683260837888, 
+        "id_str": "877900683260837888", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -3286,14 +3365,13 @@
           "place_type": "city", 
           "url": "https://api.twitter.com/1.1/geo/id/72e43a057cec3602.json"
         }, 
-        "possibly_sensitive": false, 
-        "retweet_count": 2, 
+        "retweet_count": 3, 
         "retweeted": false, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "Merci \u00e9galement aux restaurateurs et cafetiers pour avoir permis \u00e0 ces groupes de se produire pr notre plus grand p\u2026 https://t.co/Sq4Z3O1zDe", 
-        "truncated": true
+        "text": "Nous souhaitons aussi augmenter les capacit\u00e9s de nos ports de plaisance et suivre l'avanc\u00e9e du chantier #Calais Port 2015.", 
+        "truncated": false
       }, 
-      "statuses_count": 5937, 
+      "statuses_count": 5942, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": null, 
@@ -3302,13 +3380,13 @@
     }, 
     "twitter_description": "Vice-Pr\u00e9sidente de la R\u00e9gion Hauts-de-France. Maire de #Calais, Pr\u00e9sidente de Grand Calais Terres & Mers", 
     "twitter_favourites": 228, 
-    "twitter_followers": 4391, 
+    "twitter_followers": 4390, 
     "twitter_following": 1067, 
     "twitter_id": 551342517, 
-    "twitter_listed": 166, 
+    "twitter_listed": 165, 
     "twitter_name": "Natacha BOUCHART", 
     "twitter_protected": false, 
-    "twitter_tweets": 5937, 
+    "twitter_tweets": 5942, 
     "twitter_verified": false, 
     "url_institution": "http://www.senat.fr/senateur/bouchart_natacha11060j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/natacha-bouchart", 
@@ -5718,7 +5796,7 @@
       }, 
       "favourites_count": 154, 
       "follow_request_sent": false, 
-      "followers_count": 61911, 
+      "followers_count": 61913, 
       "following": false, 
       "friends_count": 691, 
       "geo_enabled": true, 
@@ -5818,7 +5896,7 @@
     }, 
     "twitter_description": "Ancien ministre. Pdt du club R\u00e9publique Moderne (@RepubliqueMod) et de la Fondation Res Publica (@fondarespublica).", 
     "twitter_favourites": 154, 
-    "twitter_followers": 61911, 
+    "twitter_followers": 61913, 
     "twitter_following": 691, 
     "twitter_id": 57116930, 
     "twitter_listed": 1235, 
@@ -13039,7 +13117,7 @@
       }, 
       "favourites_count": 12, 
       "follow_request_sent": false, 
-      "followers_count": 883, 
+      "followers_count": 884, 
       "following": false, 
       "friends_count": 285, 
       "geo_enabled": false, 
@@ -13049,7 +13127,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 40, 
+      "listed_count": 41, 
       "location": "", 
       "name": "Pierre Jarlier", 
       "notifications": false, 
@@ -13117,10 +13195,10 @@
     }, 
     "twitter_description": "Maire de Saint-Flour, Pr\u00e9sident des Maires du #Cantal, Comit\u00e9 des #Finances locales - #Collectivit\u00e9s territoriales #Urbanisme #Logement #D\u00e9veloppement durable", 
     "twitter_favourites": 12, 
-    "twitter_followers": 883, 
+    "twitter_followers": 884, 
     "twitter_following": 285, 
     "twitter_id": 2328417882, 
-    "twitter_listed": 40, 
+    "twitter_listed": 41, 
     "twitter_name": "Pierre Jarlier", 
     "twitter_protected": false, 
     "twitter_tweets": 131, 
@@ -16655,9 +16733,9 @@
       }, 
       "favourites_count": 5, 
       "follow_request_sent": false, 
-      "followers_count": 3798, 
+      "followers_count": 3795, 
       "following": false, 
-      "friends_count": 2352, 
+      "friends_count": 2351, 
       "geo_enabled": false, 
       "has_extended_profile": false, 
       "id": 1534099902, 
@@ -16721,8 +16799,8 @@
     }, 
     "twitter_description": "S\u00e9nateur honoraire-maire de Compi\u00e8gne , Pr\u00e9sident de l'agglom\u00e9ration de la r\u00e9gion de Compi\u00e8gne, Pr\u00e9sident de la commission des finances du S\u00e9nat.", 
     "twitter_favourites": 5, 
-    "twitter_followers": 3798, 
-    "twitter_following": 2352, 
+    "twitter_followers": 3795, 
+    "twitter_following": 2351, 
     "twitter_id": 1534099902, 
     "twitter_listed": 131, 
     "twitter_name": "Philippe Marini", 
@@ -19185,9 +19263,9 @@
       }, 
       "favourites_count": 1802, 
       "follow_request_sent": false, 
-      "followers_count": 93562, 
+      "followers_count": 93574, 
       "following": false, 
-      "friends_count": 2428, 
+      "friends_count": 2427, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 219361536, 
@@ -19466,7 +19544,7 @@
               }
             ]
           }, 
-          "favorite_count": 30, 
+          "favorite_count": 31, 
           "favorited": false, 
           "geo": null, 
           "id": 877084376084959232, 
@@ -19499,8 +19577,8 @@
     }, 
     "twitter_description": "Ancien Ministre. S\u00e9nateur de l'Essonne. Conseiller r\u00e9gional d'\u00cele de France. Pr\u00e9sident de l' @UDE_FR", 
     "twitter_favourites": 1802, 
-    "twitter_followers": 93562, 
-    "twitter_following": 2428, 
+    "twitter_followers": 93574, 
+    "twitter_following": 2427, 
     "twitter_id": 219361536, 
     "twitter_listed": 1012, 
     "twitter_name": "Jean-Vincent Plac\u00e9", 
@@ -19566,7 +19644,7 @@
       }, 
       "favourites_count": 0, 
       "follow_request_sent": false, 
-      "followers_count": 868, 
+      "followers_count": 867, 
       "following": false, 
       "friends_count": 965, 
       "geo_enabled": true, 
@@ -19644,7 +19722,7 @@
     }, 
     "twitter_description": "Senateur honoraire .", 
     "twitter_favourites": 0, 
-    "twitter_followers": 868, 
+    "twitter_followers": 867, 
     "twitter_following": 965, 
     "twitter_id": 270919379, 
     "twitter_listed": 87, 
@@ -20958,9 +21036,9 @@
       }, 
       "favourites_count": 74, 
       "follow_request_sent": false, 
-      "followers_count": 5498, 
+      "followers_count": 5499, 
       "following": false, 
-      "friends_count": 462, 
+      "friends_count": 463, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 281438650, 
@@ -20968,7 +21046,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 247, 
+      "listed_count": 246, 
       "location": "Strasbourg, France", 
       "name": "Roland Ries", 
       "notifications": false, 
@@ -20990,57 +21068,48 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Wed Jun 21 21:56:34 +0000 2017", 
+        "created_at": "Thu Jun 22 06:42:05 +0000 2017", 
         "entities": {
-          "hashtags": [], 
-          "symbols": [], 
-          "urls": [
+          "hashtags": [
             {
-              "display_url": "twitter.com/i/web/status/8\u2026", 
-              "expanded_url": "https://twitter.com/i/web/status/877646451479859200", 
               "indices": [
-                117, 
-                140
+                67, 
+                71
               ], 
-              "url": "https://t.co/gr12GLYLyc"
+              "text": "ENA"
+            }, 
+            {
+              "indices": [
+                124, 
+                131
+              ], 
+              "text": "Europe"
             }
           ], 
-          "user_mentions": [
-            {
-              "id": 14260960, 
-              "id_str": "14260960", 
-              "indices": [
-                30, 
-                44
-              ], 
-              "name": "Justin Trudeau", 
-              "screen_name": "JustinTrudeau"
-            }
-          ]
+          "symbols": [], 
+          "urls": [], 
+          "user_mentions": []
         }, 
-        "favorite_count": 0, 
+        "favorite_count": 4, 
         "favorited": false, 
         "geo": null, 
-        "id": 877646451479859200, 
-        "id_str": "877646451479859200", 
+        "id": 877778699873001472, 
+        "id_str": "877778699873001472", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
         "in_reply_to_user_id": null, 
         "in_reply_to_user_id_str": null, 
-        "is_quote_status": true, 
+        "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "possibly_sensitive": false, 
-        "quoted_status_id": 877353659184685056, 
-        "quoted_status_id_str": "877353659184685056", 
         "retweet_count": 0, 
         "retweeted": false, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "Le Premier ministre canadien, @JustinTrudeau est convaincu de l'importance du r\u00f4le des maires pour l'avenir de la p\u2026 https://t.co/gr12GLYLyc", 
-        "truncated": true
+        "text": "Je me r\u00e9jouis de la nomination de#NathalieLoiseau, directrice de l'#ENA et strasbourgeoise d'adoption, comme \"ministre de l'#Europe\"", 
+        "truncated": false
       }, 
-      "statuses_count": 606, 
+      "statuses_count": 613, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": null, 
@@ -21049,13 +21118,13 @@
     }, 
     "twitter_description": "Maire de Strasbourg", 
     "twitter_favourites": 74, 
-    "twitter_followers": 5498, 
-    "twitter_following": 462, 
+    "twitter_followers": 5499, 
+    "twitter_following": 463, 
     "twitter_id": 281438650, 
-    "twitter_listed": 247, 
+    "twitter_listed": 246, 
     "twitter_name": "Roland Ries", 
     "twitter_protected": false, 
-    "twitter_tweets": 606, 
+    "twitter_tweets": 613, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/ries_roland04065k.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/roland-ries", 
