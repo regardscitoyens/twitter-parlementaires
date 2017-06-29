@@ -810,9 +810,9 @@
       }, 
       "favourites_count": 1257, 
       "follow_request_sent": false, 
-      "followers_count": 20044, 
+      "followers_count": 20052, 
       "following": false, 
-      "friends_count": 1681, 
+      "friends_count": 1683, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 110191018, 
@@ -842,54 +842,88 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Tue Jun 27 18:30:08 +0000 2017", 
+        "created_at": "Wed Jun 28 17:43:44 +0000 2017", 
         "entities": {
           "hashtags": [], 
           "symbols": [], 
-          "urls": [], 
+          "urls": [
+            {
+              "display_url": "twitter.com/i/web/status/8\u2026", 
+              "expanded_url": "https://twitter.com/i/web/status/880119537152270340", 
+              "indices": [
+                116, 
+                139
+              ], 
+              "url": "https://t.co/PvWUBfGp5o"
+            }
+          ], 
           "user_mentions": [
             {
-              "id": 1387151082, 
-              "id_str": "1387151082", 
+              "id": 869894239, 
+              "id_str": "869894239", 
               "indices": [
-                0, 
-                12
+                17, 
+                30
               ], 
-              "name": "Eddard Omeka", 
-              "screen_name": "eddardomeka"
-            }, 
-            {
-              "id": 1976143068, 
-              "id_str": "1976143068", 
-              "indices": [
-                48, 
-                63
-              ], 
-              "name": "Emmanuel Macron", 
-              "screen_name": "EmmanuelMacron"
+              "name": "G\u00fcnther H. Oettinger", 
+              "screen_name": "GOettingerEU"
             }
           ]
         }, 
-        "favorite_count": 1, 
+        "favorite_count": 6, 
         "favorited": false, 
         "geo": null, 
-        "id": 879768828498071553, 
-        "id_str": "879768828498071553", 
-        "in_reply_to_screen_name": "eddardomeka", 
-        "in_reply_to_status_id": 879734839712374784, 
-        "in_reply_to_status_id_str": "879734839712374784", 
-        "in_reply_to_user_id": 1387151082, 
-        "in_reply_to_user_id_str": "1387151082", 
+        "id": 880119537152270340, 
+        "id_str": "880119537152270340", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
         "is_quote_status": false, 
         "lang": "fr", 
-        "place": null, 
-        "retweet_count": 0, 
+        "place": {
+          "attributes": {}, 
+          "bounding_box": {
+            "coordinates": [
+              [
+                [
+                  4.3139889, 
+                  50.796328199999998
+                ], 
+                [
+                  4.4369471999999996, 
+                  50.796328199999998
+                ], 
+                [
+                  4.4369471999999996, 
+                  50.913706400000002
+                ], 
+                [
+                  4.3139889, 
+                  50.913706400000002
+                ]
+              ]
+            ], 
+            "type": "Polygon"
+          }, 
+          "contained_within": [], 
+          "country": "Belgique", 
+          "country_code": "BE", 
+          "full_name": "Bruxelles, Belgique", 
+          "id": "0653bb913c88c1ea", 
+          "name": "Bruxelles", 
+          "place_type": "city", 
+          "url": "https://api.twitter.com/1.1/geo/id/0653bb913c88c1ea.json"
+        }, 
+        "possibly_sensitive": false, 
+        "retweet_count": 3, 
         "retweeted": false, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "@eddardomeka Je n'ai pas attendu pour rejoindre @EmmanuelMacron", 
-        "truncated": false
+        "text": "Pr\u00e9sentation par @GOettingerEU de sa r\u00e9flexion sur l'avenir des finances de l'UE. Autrement dit: \"quel budget pour\u2026 https://t.co/PvWUBfGp5o", 
+        "truncated": true
       }, 
-      "statuses_count": 3563, 
+      "statuses_count": 3564, 
       "time_zone": "Amsterdam", 
       "translator_type": "none", 
       "url": "https://t.co/YhICpAOeW0", 
@@ -898,13 +932,13 @@
     }, 
     "twitter_description": "D\u00e9put\u00e9 europ\u00e9en, Pdt de la com. #BUDG fondateur de l'Alliance centriste #EnMarche, ancien ministre de l'\u00e9conomie et des finances https://t.co/fhOVDCyFu0", 
     "twitter_favourites": 1257, 
-    "twitter_followers": 20044, 
-    "twitter_following": 1681, 
+    "twitter_followers": 20052, 
+    "twitter_following": 1683, 
     "twitter_id": 110191018, 
     "twitter_listed": 675, 
     "twitter_name": "Jean Arthuis", 
     "twitter_protected": false, 
-    "twitter_tweets": 3563, 
+    "twitter_tweets": 3564, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/arthuis_jean83011j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-arthuis", 
@@ -1181,36 +1215,36 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Tue Jun 27 19:15:31 +0000 2017", 
+        "created_at": "Wed Jun 28 14:29:29 +0000 2017", 
         "entities": {
           "hashtags": [
             {
               "indices": [
-                29, 
-                48
+                44, 
+                63
               ], 
-              "text": "MezidonValleedAuge"
+              "text": "M\u00e9zidonValleedAuge"
             }
           ], 
           "symbols": [], 
           "urls": [
             {
-              "display_url": "fb.me/22rDzpu4w", 
-              "expanded_url": "http://fb.me/22rDzpu4w", 
+              "display_url": "fb.me/4N9qMdJYE", 
+              "expanded_url": "http://fb.me/4N9qMdJYE", 
               "indices": [
-                109, 
-                132
+                110, 
+                133
               ], 
-              "url": "https://t.co/V9cHuKlZHF"
+              "url": "https://t.co/WXjjIGeu4i"
             }
           ], 
           "user_mentions": []
         }, 
-        "favorite_count": 1, 
+        "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 879780248036012040, 
-        "id_str": "879780248036012040", 
+        "id": 880070653063421952, 
+        "id_str": "880070653063421952", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -1223,10 +1257,10 @@
         "retweet_count": 0, 
         "retweeted": false, 
         "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>", 
-        "text": "Conseil municipal ce soir de #MezidonValleedAuge. 24 points \u00e0 l'important ordre du jour avec notamment la... https://t.co/V9cHuKlZHF", 
+        "text": "Depuis hier, le parc du ch\u00e2teau du Breuil \u00e0 #M\u00e9zidonValleedAuge est bien plus anim\u00e9 qu'\u00e0 l'accoutum\u00e9e avec... https://t.co/WXjjIGeu4i", 
         "truncated": false
       }, 
-      "statuses_count": 72, 
+      "statuses_count": 74, 
       "time_zone": null, 
       "translator_type": "none", 
       "url": null, 
@@ -1241,7 +1275,7 @@
     "twitter_listed": 9, 
     "twitter_name": "Fran\u00e7ois Aubey", 
     "twitter_protected": false, 
-    "twitter_tweets": 72, 
+    "twitter_tweets": 74, 
     "twitter_verified": false, 
     "url_institution": "http://www.senat.fr/senateur/aubey_francois14137p.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/francois-aubey", 
@@ -1956,9 +1990,9 @@
           ]
         }
       }, 
-      "favourites_count": 1902, 
+      "favourites_count": 1903, 
       "follow_request_sent": false, 
-      "followers_count": 1362, 
+      "followers_count": 1363, 
       "following": false, 
       "friends_count": 347, 
       "geo_enabled": true, 
@@ -2084,7 +2118,7 @@
               }
             ]
           }, 
-          "favorite_count": 0, 
+          "favorite_count": 1, 
           "favorited": false, 
           "geo": null, 
           "id": 879760131814289409, 
@@ -2116,8 +2150,8 @@
       "verified": false
     }, 
     "twitter_description": "Jean BESSON, S\u00e9nateur Honoraire, Pr\u00e9sident d'@energiesded, Vice Pr\u00e9sident de la @fnccr, #Progressiste", 
-    "twitter_favourites": 1902, 
-    "twitter_followers": 1362, 
+    "twitter_favourites": 1903, 
+    "twitter_followers": 1363, 
     "twitter_following": 347, 
     "twitter_id": 78422142, 
     "twitter_listed": 84, 
@@ -3265,7 +3299,7 @@
       }, 
       "favourites_count": 230, 
       "follow_request_sent": false, 
-      "followers_count": 4426, 
+      "followers_count": 4427, 
       "following": false, 
       "friends_count": 1066, 
       "geo_enabled": true, 
@@ -3297,238 +3331,74 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Tue Jun 27 19:00:23 +0000 2017", 
+        "created_at": "Wed Jun 28 10:35:40 +0000 2017", 
         "entities": {
-          "hashtags": [], 
+          "hashtags": [
+            {
+              "indices": [
+                133, 
+                140
+              ], 
+              "text": "Calais"
+            }
+          ], 
           "symbols": [], 
           "urls": [], 
-          "user_mentions": [
-            {
-              "id": 17172319, 
-              "id_str": "17172319", 
-              "indices": [
-                3, 
-                18
-              ], 
-              "name": "Xavier Bertrand", 
-              "screen_name": "xavierbertrand"
-            }, 
-            {
-              "id": 15004908, 
-              "id_str": "15004908", 
-              "indices": [
-                20, 
-                34
-              ], 
-              "name": "Hauts-de-France", 
-              "screen_name": "hautsdefrance"
-            }, 
-            {
-              "id": 1341404988, 
-              "id_str": "1341404988", 
-              "indices": [
-                35, 
-                46
-              ], 
-              "name": "Andr\u00e9-Paul Leclercq", 
-              "screen_name": "ApLeclercq"
-            }, 
-            {
-              "id": 551342517, 
-              "id_str": "551342517", 
-              "indices": [
-                47, 
-                63
-              ], 
-              "name": "Natacha BOUCHART", 
-              "screen_name": "NatachaBouchart"
-            }, 
-            {
-              "id": 2897775437, 
-              "id_str": "2897775437", 
-              "indices": [
-                64, 
-                78
-              ], 
-              "name": "Karine Charbonnier", 
-              "screen_name": "KCharbonnier_"
-            }, 
-            {
-              "id": 320826619, 
-              "id_str": "320826619", 
-              "indices": [
-                79, 
-                93
-              ], 
-              "name": "French Embassy UK", 
-              "screen_name": "FranceintheUK"
-            }, 
-            {
-              "id": 54515428, 
-              "id_str": "54515428", 
-              "indices": [
-                109, 
-                125
-              ], 
-              "name": "Charlie Elphicke", 
-              "screen_name": "CharlieElphicke"
-            }
-          ]
+          "user_mentions": []
         }, 
-        "favorite_count": 0, 
+        "favorite_count": 4, 
         "favorited": false, 
         "geo": null, 
-        "id": 879776442338467840, 
-        "id_str": "879776442338467840", 
+        "id": 880011811826880512, 
+        "id_str": "880011811826880512", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
         "in_reply_to_user_id": null, 
         "in_reply_to_user_id_str": null, 
         "is_quote_status": false, 
-        "lang": "en", 
-        "place": null, 
-        "retweet_count": 22, 
-        "retweeted": false, 
-        "retweeted_status": {
-          "contributors": null, 
-          "coordinates": null, 
-          "created_at": "Tue Jun 27 18:25:19 +0000 2017", 
-          "entities": {
-            "hashtags": [], 
-            "symbols": [], 
-            "urls": [
-              {
-                "display_url": "twitter.com/i/web/status/8\u2026", 
-                "expanded_url": "https://twitter.com/i/web/status/879767616604262400", 
-                "indices": [
-                  116, 
-                  139
-                ], 
-                "url": "https://t.co/Xw6ZNa4qmb"
-              }
-            ], 
-            "user_mentions": [
-              {
-                "id": 15004908, 
-                "id_str": "15004908", 
-                "indices": [
-                  0, 
-                  14
-                ], 
-                "name": "Hauts-de-France", 
-                "screen_name": "hautsdefrance"
-              }, 
-              {
-                "id": 1341404988, 
-                "id_str": "1341404988", 
-                "indices": [
-                  15, 
-                  26
-                ], 
-                "name": "Andr\u00e9-Paul Leclercq", 
-                "screen_name": "ApLeclercq"
-              }, 
-              {
-                "id": 551342517, 
-                "id_str": "551342517", 
-                "indices": [
-                  27, 
-                  43
-                ], 
-                "name": "Natacha BOUCHART", 
-                "screen_name": "NatachaBouchart"
-              }, 
-              {
-                "id": 2897775437, 
-                "id_str": "2897775437", 
-                "indices": [
-                  44, 
-                  58
-                ], 
-                "name": "Karine Charbonnier", 
-                "screen_name": "KCharbonnier_"
-              }, 
-              {
-                "id": 320826619, 
-                "id_str": "320826619", 
-                "indices": [
-                  59, 
-                  73
-                ], 
-                "name": "French Embassy UK", 
-                "screen_name": "FranceintheUK"
-              }, 
-              {
-                "id": 54515428, 
-                "id_str": "54515428", 
-                "indices": [
-                  89, 
-                  105
-                ], 
-                "name": "Charlie Elphicke", 
-                "screen_name": "CharlieElphicke"
-              }
-            ]
-          }, 
-          "favorite_count": 18, 
-          "favorited": false, 
-          "geo": null, 
-          "id": 879767616604262400, 
-          "id_str": "879767616604262400", 
-          "in_reply_to_screen_name": "xavierbertrand", 
-          "in_reply_to_status_id": 879766142931415040, 
-          "in_reply_to_status_id_str": "879766142931415040", 
-          "in_reply_to_user_id": 17172319, 
-          "in_reply_to_user_id_str": "17172319", 
-          "is_quote_status": false, 
-          "lang": "en", 
-          "place": {
-            "attributes": {}, 
-            "bounding_box": {
-              "coordinates": [
+        "lang": "fr", 
+        "place": {
+          "attributes": {}, 
+          "bounding_box": {
+            "coordinates": [
+              [
                 [
-                  [
-                    -0.18789400000000001, 
-                    51.483718000000003
-                  ], 
-                  [
-                    -0.10997800000000001, 
-                    51.483718000000003
-                  ], 
-                  [
-                    -0.10997800000000001, 
-                    51.516465500000002
-                  ], 
-                  [
-                    -0.18789400000000001, 
-                    51.516465500000002
-                  ]
+                  1.8057791000000001, 
+                  50.922145100000002
+                ], 
+                [
+                  1.9319451999999999, 
+                  50.922145100000002
+                ], 
+                [
+                  1.9319451999999999, 
+                  50.983351599999999
+                ], 
+                [
+                  1.8057791000000001, 
+                  50.983351599999999
                 ]
-              ], 
-              "type": "Polygon"
-            }, 
-            "contained_within": [], 
-            "country": "Royaume-Uni", 
-            "country_code": "GB", 
-            "full_name": "London, England", 
-            "id": "457b4814b4240d87", 
-            "name": "London", 
-            "place_type": "city", 
-            "url": "https://api.twitter.com/1.1/geo/id/457b4814b4240d87.json"
+              ]
+            ], 
+            "type": "Polygon"
           }, 
-          "possibly_sensitive": false, 
-          "retweet_count": 22, 
-          "retweeted": false, 
-          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-          "text": "@hautsdefrance @ApLeclercq @NatachaBouchart @KCharbonnier_ @FranceintheUK With my friend @CharlieElphicke, we want\u2026 https://t.co/Xw6ZNa4qmb", 
-          "truncated": true
+          "contained_within": [], 
+          "country": "France", 
+          "country_code": "FR", 
+          "full_name": "Calais, France", 
+          "id": "72e43a057cec3602", 
+          "name": "Calais", 
+          "place_type": "city", 
+          "url": "https://api.twitter.com/1.1/geo/id/72e43a057cec3602.json"
         }, 
+        "retweet_count": 2, 
+        "retweeted": false, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "RT @xavierbertrand: @hautsdefrance @ApLeclercq @NatachaBouchart @KCharbonnier_ @FranceintheUK With my friend @CharlieElphicke, we want a Wi\u2026", 
+        "text": "Cette nouvelle implantation s'inscrit dans la strat\u00e9gie de d\u00e9veloppement \u00e9conomique que je mets en \u0153uvre avec mon \u00e9quipe depuis 2008 #Calais", 
         "truncated": false
       }, 
-      "statuses_count": 5984, 
+      "statuses_count": 5990, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": null, 
@@ -3537,13 +3407,13 @@
     }, 
     "twitter_description": "Vice-Pr\u00e9sidente de la R\u00e9gion Hauts-de-France. Maire de #Calais, Pr\u00e9sidente de Grand Calais Terres & Mers", 
     "twitter_favourites": 230, 
-    "twitter_followers": 4426, 
+    "twitter_followers": 4427, 
     "twitter_following": 1066, 
     "twitter_id": 551342517, 
     "twitter_listed": 161, 
     "twitter_name": "Natacha BOUCHART", 
     "twitter_protected": false, 
-    "twitter_tweets": 5984, 
+    "twitter_tweets": 5990, 
     "twitter_verified": false, 
     "url_institution": "http://www.senat.fr/senateur/bouchart_natacha11060j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/natacha-bouchart", 
@@ -5953,7 +5823,7 @@
       }, 
       "favourites_count": 154, 
       "follow_request_sent": false, 
-      "followers_count": 61921, 
+      "followers_count": 61926, 
       "following": false, 
       "friends_count": 692, 
       "geo_enabled": true, 
@@ -6081,7 +5951,7 @@
             }
           ]
         }, 
-        "favorite_count": 16, 
+        "favorite_count": 24, 
         "favorited": false, 
         "geo": null, 
         "id": 879732276006924288, 
@@ -6095,7 +5965,7 @@
         "lang": "fr", 
         "place": null, 
         "possibly_sensitive": false, 
-        "retweet_count": 14, 
+        "retweet_count": 16, 
         "retweeted": false, 
         "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
         "text": "Sur mon blog, les vid\u00e9os de mes d\u00e9bats avec Michel Onfray et R\u00e9gis Debray https://t.co/rZup7Iq30T", 
@@ -6110,7 +5980,7 @@
     }, 
     "twitter_description": "Ancien ministre. Pdt du club R\u00e9publique Moderne (@RepubliqueMod) et de la Fondation Res Publica (@fondarespublica).", 
     "twitter_favourites": 154, 
-    "twitter_followers": 61921, 
+    "twitter_followers": 61926, 
     "twitter_following": 692, 
     "twitter_id": 57116930, 
     "twitter_listed": 1234, 
@@ -18146,7 +18016,7 @@
       }, 
       "favourites_count": 103, 
       "follow_request_sent": false, 
-      "followers_count": 272, 
+      "followers_count": 273, 
       "following": false, 
       "friends_count": 157, 
       "geo_enabled": false, 
@@ -18178,39 +18048,36 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Wed Jun 21 08:33:24 +0000 2017", 
+        "created_at": "Wed Jun 28 08:03:12 +0000 2017", 
         "entities": {
-          "hashtags": [], 
-          "symbols": [], 
-          "urls": [], 
-          "user_mentions": [
+          "hashtags": [
             {
-              "id": 1358830140, 
-              "id_str": "1358830140", 
               "indices": [
-                3, 
-                11
+                0, 
+                6
               ], 
-              "name": "Elisabeth LAMURE", 
-              "screen_name": "LamureE"
-            }, 
-            {
-              "id": 155948847, 
-              "id_str": "155948847", 
-              "indices": [
-                131, 
-                137
-              ], 
-              "name": "S\u00e9nat", 
-              "screen_name": "Senat"
+              "text": "Senat"
             }
-          ]
+          ], 
+          "symbols": [], 
+          "urls": [
+            {
+              "display_url": "twitter.com/i/web/status/8\u2026", 
+              "expanded_url": "https://twitter.com/i/web/status/879973441851592704", 
+              "indices": [
+                117, 
+                140
+              ], 
+              "url": "https://t.co/CgOhJKfcKB"
+            }
+          ], 
+          "user_mentions": []
         }, 
         "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 877444328158875648, 
-        "id_str": "877444328158875648", 
+        "id": 879973441851592704, 
+        "id_str": "879973441851592704", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -18219,53 +18086,14 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 6, 
+        "possibly_sensitive": true, 
+        "retweet_count": 1, 
         "retweeted": false, 
-        "retweeted_status": {
-          "contributors": null, 
-          "coordinates": null, 
-          "created_at": "Tue Jun 20 18:16:49 +0000 2017", 
-          "entities": {
-            "hashtags": [], 
-            "symbols": [], 
-            "urls": [
-              {
-                "display_url": "twitter.com/i/web/status/8\u2026", 
-                "expanded_url": "https://twitter.com/i/web/status/877228763251126272", 
-                "indices": [
-                  117, 
-                  140
-                ], 
-                "url": "https://t.co/84TwtCi7UN"
-              }
-            ], 
-            "user_mentions": []
-          }, 
-          "favorite_count": 16, 
-          "favorited": false, 
-          "geo": null, 
-          "id": 877228763251126272, 
-          "id_str": "877228763251126272", 
-          "in_reply_to_screen_name": null, 
-          "in_reply_to_status_id": null, 
-          "in_reply_to_status_id_str": null, 
-          "in_reply_to_user_id": null, 
-          "in_reply_to_user_id_str": null, 
-          "is_quote_status": false, 
-          "lang": "fr", 
-          "place": null, 
-          "possibly_sensitive": false, 
-          "retweet_count": 6, 
-          "retweeted": false, 
-          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-          "text": "Salon Le Bourget avec D\u00e9l\u00e9gation aux Entreprises Fiert\u00e9 des technologies fran\u00e7aises port\u00e9es par de belles Entrepris\u2026 https://t.co/84TwtCi7UN", 
-          "truncated": true
-        }, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "RT @LamureE: Salon Le Bourget avec D\u00e9l\u00e9gation aux Entreprises Fiert\u00e9 des technologies fran\u00e7aises port\u00e9es par de belles Entreprises @Senat #\u2026", 
-        "truncated": false
+        "text": "#Senat Com aff sociales. Antoine Durrleman, Pr\u00e9sidt de la 6e Cour des comptes: Certif. des comptes R\u00e9gime G\u00e9n\u00e9ral d\u2026 https://t.co/CgOhJKfcKB", 
+        "truncated": true
       }, 
-      "statuses_count": 67, 
+      "statuses_count": 68, 
       "time_zone": "Pacific Time (US & Canada)", 
       "translator_type": "none", 
       "url": "http://t.co/T56z5maj35", 
@@ -18274,13 +18102,13 @@
     }, 
     "twitter_description": "S\u00e9natrice Les R\u00e9publicains des Hautes-Alpes", 
     "twitter_favourites": 103, 
-    "twitter_followers": 272, 
+    "twitter_followers": 273, 
     "twitter_following": 157, 
     "twitter_id": 3189823869, 
     "twitter_listed": 11, 
     "twitter_name": "P. Morhet-Richaud", 
     "twitter_protected": false, 
-    "twitter_tweets": 67, 
+    "twitter_tweets": 68, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/morhet_richaud_patricia14265w.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/patricia-morhet-richaud", 
@@ -19477,7 +19305,7 @@
       }, 
       "favourites_count": 1802, 
       "follow_request_sent": false, 
-      "followers_count": 93672, 
+      "followers_count": 93691, 
       "following": false, 
       "friends_count": 2428, 
       "geo_enabled": true, 
@@ -19509,39 +19337,39 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Tue Jun 27 15:15:57 +0000 2017", 
+        "created_at": "Wed Jun 28 09:41:31 +0000 2017", 
         "entities": {
           "hashtags": [], 
           "symbols": [], 
           "urls": [
             {
-              "display_url": "twitter.com/i/web/status/8\u2026", 
-              "expanded_url": "https://twitter.com/i/web/status/879719961320673281", 
+              "display_url": "twitter.com/France_EXPO201\u2026", 
+              "expanded_url": "https://twitter.com/France_EXPO2017/status/879218094425681925", 
               "indices": [
-                117, 
-                140
+                94, 
+                117
               ], 
-              "url": "https://t.co/X0hnC4A72q"
+              "url": "https://t.co/Ec0ZH8o2U9"
             }
           ], 
           "user_mentions": [
             {
-              "id": 455806353, 
-              "id_str": "455806353", 
+              "id": 208447752, 
+              "id_str": "208447752", 
               "indices": [
-                16, 
-                24
+                3, 
+                16
               ], 
-              "name": "Fran\u00e7ois de Rugy", 
-              "screen_name": "FdeRugy"
+              "name": "Institut Choiseul", 
+              "screen_name": "instchoiseul"
             }
           ]
         }, 
-        "favorite_count": 16, 
+        "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 879719961320673281, 
-        "id_str": "879719961320673281", 
+        "id": 879998183660810240, 
+        "id_str": "879998183660810240", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -19551,15 +19379,57 @@
         "lang": "fr", 
         "place": null, 
         "possibly_sensitive": false, 
-        "quoted_status_id": 879715178765594624, 
-        "quoted_status_id_str": "879715178765594624", 
-        "retweet_count": 3, 
+        "quoted_status_id": 879218094425681925, 
+        "quoted_status_id_str": "879218094425681925", 
+        "retweet_count": 2, 
         "retweeted": false, 
+        "retweeted_status": {
+          "contributors": null, 
+          "coordinates": null, 
+          "created_at": "Wed Jun 28 09:40:21 +0000 2017", 
+          "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [
+              {
+                "display_url": "twitter.com/France_EXPO201\u2026", 
+                "expanded_url": "https://twitter.com/France_EXPO2017/status/879218094425681925", 
+                "indices": [
+                  76, 
+                  99
+                ], 
+                "url": "https://t.co/Ec0ZH8o2U9"
+              }
+            ], 
+            "user_mentions": []
+          }, 
+          "favorite_count": 0, 
+          "favorited": false, 
+          "geo": null, 
+          "id": 879997889837236224, 
+          "id_str": "879997889837236224", 
+          "in_reply_to_screen_name": null, 
+          "in_reply_to_status_id": null, 
+          "in_reply_to_status_id_str": null, 
+          "in_reply_to_user_id": null, 
+          "in_reply_to_user_id_str": null, 
+          "is_quote_status": true, 
+          "lang": "fr", 
+          "place": null, 
+          "possibly_sensitive": false, 
+          "quoted_status_id": 879218094425681925, 
+          "quoted_status_id_str": "879218094425681925", 
+          "retweet_count": 2, 
+          "retweeted": false, 
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+          "text": "Le pavillon fran\u00e7ais, un incontournable de l'exposition internationale 2017 https://t.co/Ec0ZH8o2U9", 
+          "truncated": false
+        }, 
         "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
-        "text": "f\u00e9licitations \u00e0 @FdeRugy pour cette brillante \u00e9lection. Un \u00e9cologiste moderne ayant une vision de l'avenir de l'Eur\u2026 https://t.co/X0hnC4A72q", 
-        "truncated": true
+        "text": "RT @instchoiseul: Le pavillon fran\u00e7ais, un incontournable de l'exposition internationale 2017 https://t.co/Ec0ZH8o2U9", 
+        "truncated": false
       }, 
-      "statuses_count": 8331, 
+      "statuses_count": 8332, 
       "time_zone": null, 
       "translator_type": "none", 
       "url": null, 
@@ -19568,13 +19438,13 @@
     }, 
     "twitter_description": "Ancien Ministre. S\u00e9nateur de l'Essonne. Conseiller r\u00e9gional d'\u00cele de France. Pr\u00e9sident de l' @UDE_FR", 
     "twitter_favourites": 1802, 
-    "twitter_followers": 93672, 
+    "twitter_followers": 93691, 
     "twitter_following": 2428, 
     "twitter_id": 219361536, 
     "twitter_listed": 1007, 
     "twitter_name": "Jean-Vincent Plac\u00e9", 
     "twitter_protected": false, 
-    "twitter_tweets": 8331, 
+    "twitter_tweets": 8332, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/place_jean_vincent11069t.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-vincent-place", 
@@ -21027,7 +20897,7 @@
       }, 
       "favourites_count": 74, 
       "follow_request_sent": false, 
-      "followers_count": 5515, 
+      "followers_count": 5519, 
       "following": false, 
       "friends_count": 465, 
       "geo_enabled": true, 
@@ -21108,7 +20978,7 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 5, 
+        "retweet_count": 6, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
@@ -21141,7 +21011,7 @@
               }
             ]
           }, 
-          "favorite_count": 4, 
+          "favorite_count": 6, 
           "favorited": false, 
           "geo": null, 
           "id": 879609417364365313, 
@@ -21155,7 +21025,7 @@
           "lang": "fr", 
           "place": null, 
           "possibly_sensitive": false, 
-          "retweet_count": 5, 
+          "retweet_count": 6, 
           "retweeted": false, 
           "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
           "text": "\"Le temps n'est plus \u00e0 l'indignation. Nous avons le devoir de passer \u00e0 l'action!\" @Roland_Ries ouvrant\u2026 https://t.co/bEJqBuwHkR", 
@@ -21174,7 +21044,7 @@
     }, 
     "twitter_description": "Maire de Strasbourg", 
     "twitter_favourites": 74, 
-    "twitter_followers": 5515, 
+    "twitter_followers": 5519, 
     "twitter_following": 465, 
     "twitter_id": 281438650, 
     "twitter_listed": 244, 
