@@ -38,7 +38,7 @@ doublons = ["teambouillon", "fdebeauce", "vignal2012", "deputecvautrin", "clerge
 dead = ["Guy_Delcourt", "ConchitaLacuey", "MichelVERGNIER", "bernardroman59", "AndrSaint", "LucetteLousteau", "CathLEMORTON", "EPhilippe_LH", # 2012-2017
 "celiadeputee2017", "davidlorion", "PascalBois2017", "DipompeoChris", "Vincent.Ledoux59", "valeriebeauvais2017", "Josso2017", "ColasRoy2017", "Marc_Delatte", "EricDiardDepute", "bernarddeflesselles", "sttrompille", "pgoulet58", "GCHICHE2017", "obono2017"  # 2017-2022
 ]
-badlinks = ["http://www.facebook.fr/pascalbois2017", "https://fr-fr.facebook.com/GuillaumePeltier", "https://www.facebook.com/valerie.boyer.56", "https://www.facebook.com/Marguerite-Deprez-Audebert-2017-420349688340872", "https://fr-fr.facebook.com/colas.roy.2017", "https://m.facebook.com/ThomasRudigoz2017", "https://www.facebook.com/BSmedoc", "https://fr-fr.facebook.com/sandramarsaudlarepubliquenmarche"]
+badlinks = ["http://www.facebook.fr/pascalbois2017", "https://fr-fr.facebook.com/GuillaumePeltier", "https://www.facebook.com/valerie.boyer.56", "https://www.facebook.com/Marguerite-Deprez-Audebert-2017-420349688340872", "https://fr-fr.facebook.com/colas.roy.2017", "https://m.facebook.com/ThomasRudigoz2017", "https://www.facebook.com/BSmedoc", "https://fr-fr.facebook.com/sandramarsaudlarepubliquenmarche", "https://fr-fr.facebook.com/profile.php"]
 
 excludes = [t.lower() for t in notparls + groupes + doublons + dead]
 for e in excludes:
@@ -84,7 +84,7 @@ re_clean_url = re.compile(r"^((?:https?://)?(?:(?:www2?|m|fr|fr-fr|deputation)\.
 check_url = lambda x: re_clean_url.sub(r"\2", x.strip().lower())
 clean_url = lambda x: re_clean_url.sub(r"\1\2", x.strip())
 
-re_clean_facebook = re.compile(r"(facebook.com/.*?/?)(\?.*|#.*|/photos/.*)*$", re.I)
+re_clean_facebook = re.compile(r"(facebook.com/.*?/?(\?id=.*?)?)([?&].*|#.*|/photos/.*)*$", re.I)
 re_clean_facebook2 = re.compile(r"(facebook.com/)www.facebook.com/", re.I)
 clean_facebook = lambda x: re_clean_facebook.sub(r"\1", re_clean_facebook2.sub(r"\1", x.replace("%C3%A9", u"é")))
 
