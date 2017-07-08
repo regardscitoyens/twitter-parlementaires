@@ -36,8 +36,9 @@ groupes = ["crcsenat", "udiuc", "ecolosenat", "senateursps", "senateursump", "le
 doublons = ["teambouillon", "fdebeauce", "vignal2012", "deputecvautrin", "clergeau2012", "isabellebruneau", "roussetalain", "elubondy", "FLefebvre_UMP", "Gabouty2012", "moniquerabin", "PascalAllizard", "pascalegruny", "sergiocoronado", "audeluquet", # 2012-2017
 "Darrieussecq", "MireilleRobert", "tamarelle_marie", "Fdumas2017", "stelladupont2", "karamanli72", "micheldelpon"] # 2017-2022
 dead = ["Guy_Delcourt", "ConchitaLacuey", "MichelVERGNIER", "bernardroman59", "AndrSaint", "LucetteLousteau", "CathLEMORTON", "EPhilippe_LH", # 2012-2017
-"celiadeputee2017", "davidlorion", "PascalBois2017", "DipompeoChris", "Vincent.Ledoux59", "valeriebeauvais2017", "Josso2017", "ColasRoy2017", "Marc_Delatte", "EricDiardDepute", "bernarddeflesselles", "sttrompille", "pgoulet58"  # 2017-2022
+"celiadeputee2017", "davidlorion", "PascalBois2017", "DipompeoChris", "Vincent.Ledoux59", "valeriebeauvais2017", "Josso2017", "ColasRoy2017", "Marc_Delatte", "EricDiardDepute", "bernarddeflesselles", "sttrompille", "pgoulet58", "GCHICHE2017", "obono2017"  # 2017-2022
 ]
+badlinks = ["http://www.facebook.fr/pascalbois2017", "https://fr-fr.facebook.com/GuillaumePeltier.fr", "https://www.facebook.com/valerie.boyer.56", "https://www.facebook.com/Marguerite-Deprez-Audebert-2017-420349688340872", "https://fr-fr.facebook.com/colas.roy.2017", "https://m.facebook.com/ThomasRudigoz2017", "https://www.facebook.com/BSmedoc", "https://fr-fr.facebook.com/sandramarsaudlarepubliquenmarche"]
 
 excludes = [t.lower() for t in notparls + groupes + doublons + dead]
 for e in excludes:
@@ -79,9 +80,13 @@ clean_desc = lambda x: re_clean_desc.sub(" ", x)
 re_clean_twiturl = re.compile(r"^.*twitter.com/(?:#!/)*([^/]+).*$", re.I)
 clean_twiturl = lambda x: re_clean_twiturl.sub(r"\1", x).strip()
 
-re_clean_url = re.compile(r"^((?:https?://)?(?:(?:www2?|deputation)\.)?)(.*?)/?$", re.I)
-check_url = lambda x: re_clean_url.sub(r"\2", x.strip())
+re_clean_url = re.compile(r"^((?:https?://)?(?:(?:www2?|m|fr|fr-fr|deputation)\.)?)(.*?)/?$", re.I)
+check_url = lambda x: re_clean_url.sub(r"\2", x.strip().lower())
 clean_url = lambda x: re_clean_url.sub(r"\1\2", x.strip())
+
+re_clean_facebook = re.compile(r"(facebook.com/.*?/?)(\?.*|#.*|/photos/.*)*$", re.I)
+re_clean_facebook2 = re.compile(r"(facebook.com/)www.facebook.com/", re.I)
+clean_facebook = lambda x: re_clean_facebook.sub(r"\1", re_clean_facebook2.sub(r"\1", x.replace("%C3%A9", u"é")))
 
 re_clean_initiales = re.compile(r"^([A-Z]{1,2}[\. ]+)+(d('|[eus]+ (la )?))?")
 clean_initiales = lambda x: nospaces(clean(re_clean_initiales.sub("", x.strip())))
@@ -221,10 +226,11 @@ with open(os.path.join("data", "%s.csv" % typeparls), "w") as f:
         parl["twitter_protected"] = tw["protected"]
         sites_web = set([clean_url(u) for u in [s["site"] for s in parl["sites_web"] if s] + [u for u in urlentities(tw) if u and "senat.fr" not in u and "assemblee-nationale.fr" not in u]])
         clean_sites = []
-        done_sites = []
+        done_sites = [check_url(u) for u in badlinks]
         for site in sorted(sites_web, key=lambda x: len(x)):
             if not site.startswith("http"):
                 site = "http://" + site.lstrip("/")
+            site = clean_facebook(site)
             cleaned = check_url(site)
             if cleaned not in done_sites:
                 clean_sites.append(site)
