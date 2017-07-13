@@ -810,7 +810,7 @@
       }, 
       "favourites_count": 1274, 
       "follow_request_sent": false, 
-      "followers_count": 20193, 
+      "followers_count": 20199, 
       "following": false, 
       "friends_count": 1688, 
       "geo_enabled": true, 
@@ -842,18 +842,29 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Sat Jul 08 12:55:05 +0000 2017", 
+        "created_at": "Thu Jul 13 14:25:23 +0000 2017", 
         "entities": {
           "hashtags": [], 
           "symbols": [], 
           "urls": [], 
-          "user_mentions": []
+          "user_mentions": [
+            {
+              "id": 1976143068, 
+              "id_str": "1976143068", 
+              "indices": [
+                3, 
+                18
+              ], 
+              "name": "Emmanuel Macron", 
+              "screen_name": "EmmanuelMacron"
+            }
+          ]
         }, 
-        "favorite_count": 58, 
+        "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 883670777542914048, 
-        "id_str": "883670777542914048", 
+        "id": 885505439307354113, 
+        "id_str": "885505439307354113", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -861,47 +872,122 @@
         "in_reply_to_user_id_str": null, 
         "is_quote_status": false, 
         "lang": "fr", 
-        "place": {
-          "attributes": {}, 
-          "bounding_box": {
-            "coordinates": [
-              [
-                [
-                  1.123022, 
-                  48.089195599999996
-                ], 
-                [
-                  1.2313978000000001, 
-                  48.089195599999996
-                ], 
-                [
-                  1.2313978000000001, 
-                  48.155464500000001
-                ], 
-                [
-                  1.123022, 
-                  48.155464500000001
-                ]
-              ]
-            ], 
-            "type": "Polygon"
-          }, 
-          "contained_within": [], 
-          "country": "France", 
-          "country_code": "FR", 
-          "full_name": "Ch\u00e2tillon-en-Dunois, France", 
-          "id": "6dd5859e3aff2998", 
-          "name": "Ch\u00e2tillon-en-Dunois", 
-          "place_type": "city", 
-          "url": "https://api.twitter.com/1.1/geo/id/6dd5859e3aff2998.json"
-        }, 
-        "retweet_count": 36, 
+        "place": null, 
+        "retweet_count": 224, 
         "retweeted": false, 
+        "retweeted_status": {
+          "contributors": null, 
+          "coordinates": null, 
+          "created_at": "Thu Jul 13 14:07:08 +0000 2017", 
+          "entities": {
+            "hashtags": [], 
+            "media": [
+              {
+                "display_url": "pic.twitter.com/yPgmAOJwo6", 
+                "expanded_url": "https://twitter.com/EmmanuelMacron/status/885500848993951744/photo/1", 
+                "id": 885496609248817152, 
+                "id_str": "885496609248817152", 
+                "indices": [
+                  101, 
+                  124
+                ], 
+                "media_url": "http://pbs.twimg.com/media/DEnqeXwWsAAPMp0.jpg", 
+                "media_url_https": "https://pbs.twimg.com/media/DEnqeXwWsAAPMp0.jpg", 
+                "sizes": {
+                  "large": {
+                    "h": 854, 
+                    "resize": "fit", 
+                    "w": 1280
+                  }, 
+                  "medium": {
+                    "h": 801, 
+                    "resize": "fit", 
+                    "w": 1200
+                  }, 
+                  "small": {
+                    "h": 454, 
+                    "resize": "fit", 
+                    "w": 680
+                  }, 
+                  "thumb": {
+                    "h": 150, 
+                    "resize": "crop", 
+                    "w": 150
+                  }
+                }, 
+                "type": "photo", 
+                "url": "https://t.co/yPgmAOJwo6"
+              }
+            ], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": []
+          }, 
+          "extended_entities": {
+            "media": [
+              {
+                "display_url": "pic.twitter.com/yPgmAOJwo6", 
+                "expanded_url": "https://twitter.com/EmmanuelMacron/status/885500848993951744/photo/1", 
+                "id": 885496609248817152, 
+                "id_str": "885496609248817152", 
+                "indices": [
+                  101, 
+                  124
+                ], 
+                "media_url": "http://pbs.twimg.com/media/DEnqeXwWsAAPMp0.jpg", 
+                "media_url_https": "https://pbs.twimg.com/media/DEnqeXwWsAAPMp0.jpg", 
+                "sizes": {
+                  "large": {
+                    "h": 854, 
+                    "resize": "fit", 
+                    "w": 1280
+                  }, 
+                  "medium": {
+                    "h": 801, 
+                    "resize": "fit", 
+                    "w": 1200
+                  }, 
+                  "small": {
+                    "h": 454, 
+                    "resize": "fit", 
+                    "w": 680
+                  }, 
+                  "thumb": {
+                    "h": 150, 
+                    "resize": "crop", 
+                    "w": 150
+                  }
+                }, 
+                "type": "photo", 
+                "url": "https://t.co/yPgmAOJwo6"
+              }
+            ]
+          }, 
+          "favorite_count": 689, 
+          "favorited": false, 
+          "geo": null, 
+          "id": 885500848993951744, 
+          "id_str": "885500848993951744", 
+          "in_reply_to_screen_name": null, 
+          "in_reply_to_status_id": null, 
+          "in_reply_to_status_id_str": null, 
+          "in_reply_to_user_id": null, 
+          "in_reply_to_user_id_str": null, 
+          "is_quote_status": false, 
+          "lang": "fr", 
+          "place": null, 
+          "possibly_sensitive": false, 
+          "retweet_count": 224, 
+          "retweeted": false, 
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+          "text": "L'Allemagne et la France sont au c\u0153ur d'une Europe qui prot\u00e8ge et qui avance. Une Europe d'ambition. https://t.co/yPgmAOJwo6", 
+          "truncated": false
+        }, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "L'Alliance centriste entend rester parti politique de LREM. Elle a vocation \u00e0 rassembler, au sein de la majorit\u00e9, les centristes en marche.", 
+        "text": "RT @EmmanuelMacron: L'Allemagne et la France sont au c\u0153ur d'une Europe qui prot\u00e8ge et qui avance. Une Europe d'ambition. https://t.co/yPgmA\u2026", 
         "truncated": false
       }, 
-      "statuses_count": 3588, 
+      "statuses_count": 3591, 
       "time_zone": "Amsterdam", 
       "translator_type": "none", 
       "url": "https://t.co/YhICpAOeW0", 
@@ -910,13 +996,13 @@
     }, 
     "twitter_description": "D\u00e9put\u00e9 europ\u00e9en, Pdt de la com. #BUDG fondateur de l'Alliance centriste #EnMarche, ancien ministre de l'\u00e9conomie et des finances https://t.co/fhOVDCyFu0", 
     "twitter_favourites": 1274, 
-    "twitter_followers": 20193, 
+    "twitter_followers": 20199, 
     "twitter_following": 1688, 
     "twitter_id": 110191018, 
     "twitter_listed": 674, 
     "twitter_name": "Jean Arthuis", 
     "twitter_protected": false, 
-    "twitter_tweets": 3588, 
+    "twitter_tweets": 3591, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/arthuis_jean83011j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-arthuis", 
@@ -1955,7 +2041,7 @@
                 0, 
                 23
               ], 
-              "url": "https://t.co/cFrea9sZfM"
+              "url": "https://t.co/cFrea9booe"
             }
           ]
         }
@@ -1980,7 +2066,7 @@
       "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif", 
       "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif", 
       "profile_background_tile": false, 
-      "profile_banner_url": "https://pbs.twimg.com/profile_banners/78422142/1441094182", 
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/78422142/1499933730", 
       "profile_image_url": "http://pbs.twimg.com/profile_images/667323856605085696/CmgTFRVG_normal.jpg", 
       "profile_image_url_https": "https://pbs.twimg.com/profile_images/667323856605085696/CmgTFRVG_normal.jpg", 
       "profile_link_color": "CC3366", 
@@ -2053,7 +2139,7 @@
       "statuses_count": 1505, 
       "time_zone": "Paris", 
       "translator_type": "none", 
-      "url": "https://t.co/cFrea9sZfM", 
+      "url": "https://t.co/cFrea9booe", 
       "utc_offset": 7200, 
       "verified": false
     }, 
@@ -3219,7 +3305,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 161, 
+      "listed_count": 150, 
       "location": "Calais, France", 
       "name": "Natacha BOUCHART", 
       "notifications": false, 
@@ -3241,63 +3327,34 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Wed Jul 12 05:59:24 +0000 2017", 
+        "created_at": "Thu Jul 13 08:52:40 +0000 2017", 
         "entities": {
-          "hashtags": [
-            {
-              "indices": [
-                23, 
-                37
-              ], 
-              "text": "hautsdefrance"
-            }, 
-            {
-              "indices": [
-                75, 
-                83
-              ], 
-              "text": "welcome"
-            }, 
-            {
-              "indices": [
-                84, 
-                91
-              ], 
-              "text": "london"
-            }, 
-            {
-              "indices": [
-                92, 
-                100
-              ], 
-              "text": "Dunkirk"
-            }
-          ], 
+          "hashtags": [], 
           "media": [
             {
-              "display_url": "pic.twitter.com/sAh3AK89PO", 
-              "expanded_url": "https://twitter.com/hautsdefrance/status/884719566907219968/photo/1", 
-              "id": 884719562905837568, 
-              "id_str": "884719562905837568", 
+              "display_url": "pic.twitter.com/xb2JEkaiPd", 
+              "expanded_url": "https://twitter.com/NatachaBouchart/status/885421707984547841/photo/1", 
+              "id": 885421696496304128, 
+              "id_str": "885421696496304128", 
               "indices": [
-                101, 
-                124
+                100, 
+                123
               ], 
-              "media_url": "http://pbs.twimg.com/media/DEcnwUjXYAAblr8.jpg", 
-              "media_url_https": "https://pbs.twimg.com/media/DEcnwUjXYAAblr8.jpg", 
+              "media_url": "http://pbs.twimg.com/media/DEmmV4AWAAAPOos.jpg", 
+              "media_url_https": "https://pbs.twimg.com/media/DEmmV4AWAAAPOos.jpg", 
               "sizes": {
                 "large": {
-                  "h": 1367, 
+                  "h": 1536, 
                   "resize": "fit", 
                   "w": 2048
                 }, 
                 "medium": {
-                  "h": 801, 
+                  "h": 900, 
                   "resize": "fit", 
                   "w": 1200
                 }, 
                 "small": {
-                  "h": 454, 
+                  "h": 510, 
                   "resize": "fit", 
                   "w": 680
                 }, 
@@ -3307,12 +3364,8 @@
                   "w": 150
                 }
               }, 
-              "source_status_id": 884719566907219968, 
-              "source_status_id_str": "884719566907219968", 
-              "source_user_id": 15004908, 
-              "source_user_id_str": "15004908", 
               "type": "photo", 
-              "url": "https://t.co/sAh3AK89PO"
+              "url": "https://t.co/xb2JEkaiPd"
             }
           ], 
           "symbols": [], 
@@ -3322,8 +3375,8 @@
               "id": 15004908, 
               "id_str": "15004908", 
               "indices": [
-                3, 
-                17
+                58, 
+                72
               ], 
               "name": "Hauts-de-France", 
               "screen_name": "hautsdefrance"
@@ -3333,29 +3386,29 @@
         "extended_entities": {
           "media": [
             {
-              "display_url": "pic.twitter.com/sAh3AK89PO", 
-              "expanded_url": "https://twitter.com/hautsdefrance/status/884719566907219968/photo/1", 
-              "id": 884719562905837568, 
-              "id_str": "884719562905837568", 
+              "display_url": "pic.twitter.com/xb2JEkaiPd", 
+              "expanded_url": "https://twitter.com/NatachaBouchart/status/885421707984547841/photo/1", 
+              "id": 885421696496304128, 
+              "id_str": "885421696496304128", 
               "indices": [
-                101, 
-                124
+                100, 
+                123
               ], 
-              "media_url": "http://pbs.twimg.com/media/DEcnwUjXYAAblr8.jpg", 
-              "media_url_https": "https://pbs.twimg.com/media/DEcnwUjXYAAblr8.jpg", 
+              "media_url": "http://pbs.twimg.com/media/DEmmV4AWAAAPOos.jpg", 
+              "media_url_https": "https://pbs.twimg.com/media/DEmmV4AWAAAPOos.jpg", 
               "sizes": {
                 "large": {
-                  "h": 1367, 
+                  "h": 1536, 
                   "resize": "fit", 
                   "w": 2048
                 }, 
                 "medium": {
-                  "h": 801, 
+                  "h": 900, 
                   "resize": "fit", 
                   "w": 1200
                 }, 
                 "small": {
-                  "h": 454, 
+                  "h": 510, 
                   "resize": "fit", 
                   "w": 680
                 }, 
@@ -3365,20 +3418,52 @@
                   "w": 150
                 }
               }, 
-              "source_status_id": 884719566907219968, 
-              "source_status_id_str": "884719566907219968", 
-              "source_user_id": 15004908, 
-              "source_user_id_str": "15004908", 
               "type": "photo", 
-              "url": "https://t.co/sAh3AK89PO"
+              "url": "https://t.co/xb2JEkaiPd"
+            }, 
+            {
+              "display_url": "pic.twitter.com/xb2JEkaiPd", 
+              "expanded_url": "https://twitter.com/NatachaBouchart/status/885421707984547841/photo/1", 
+              "id": 885421696781615104, 
+              "id_str": "885421696781615104", 
+              "indices": [
+                100, 
+                123
+              ], 
+              "media_url": "http://pbs.twimg.com/media/DEmmV5EXgAAxcmM.jpg", 
+              "media_url_https": "https://pbs.twimg.com/media/DEmmV5EXgAAxcmM.jpg", 
+              "sizes": {
+                "large": {
+                  "h": 1536, 
+                  "resize": "fit", 
+                  "w": 2048
+                }, 
+                "medium": {
+                  "h": 900, 
+                  "resize": "fit", 
+                  "w": 1200
+                }, 
+                "small": {
+                  "h": 510, 
+                  "resize": "fit", 
+                  "w": 680
+                }, 
+                "thumb": {
+                  "h": 150, 
+                  "resize": "crop", 
+                  "w": 150
+                }
+              }, 
+              "type": "photo", 
+              "url": "https://t.co/xb2JEkaiPd"
             }
           ]
         }, 
-        "favorite_count": 0, 
+        "favorite_count": 5, 
         "favorited": false, 
         "geo": null, 
-        "id": 885015716809912323, 
-        "id_str": "885015716809912323", 
+        "id": 885421707984547841, 
+        "id_str": "885421707984547841", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -3388,150 +3473,13 @@
         "lang": "fr", 
         "place": null, 
         "possibly_sensitive": false, 
-        "retweet_count": 33, 
+        "retweet_count": 2, 
         "retweeted": false, 
-        "retweeted_status": {
-          "contributors": null, 
-          "coordinates": null, 
-          "created_at": "Tue Jul 11 10:22:36 +0000 2017", 
-          "entities": {
-            "hashtags": [
-              {
-                "indices": [
-                  4, 
-                  18
-                ], 
-                "text": "hautsdefrance"
-              }, 
-              {
-                "indices": [
-                  56, 
-                  64
-                ], 
-                "text": "welcome"
-              }, 
-              {
-                "indices": [
-                  65, 
-                  72
-                ], 
-                "text": "london"
-              }, 
-              {
-                "indices": [
-                  73, 
-                  81
-                ], 
-                "text": "Dunkirk"
-              }
-            ], 
-            "media": [
-              {
-                "display_url": "pic.twitter.com/sAh3AK89PO", 
-                "expanded_url": "https://twitter.com/hautsdefrance/status/884719566907219968/photo/1", 
-                "id": 884719562905837568, 
-                "id_str": "884719562905837568", 
-                "indices": [
-                  82, 
-                  105
-                ], 
-                "media_url": "http://pbs.twimg.com/media/DEcnwUjXYAAblr8.jpg", 
-                "media_url_https": "https://pbs.twimg.com/media/DEcnwUjXYAAblr8.jpg", 
-                "sizes": {
-                  "large": {
-                    "h": 1367, 
-                    "resize": "fit", 
-                    "w": 2048
-                  }, 
-                  "medium": {
-                    "h": 801, 
-                    "resize": "fit", 
-                    "w": 1200
-                  }, 
-                  "small": {
-                    "h": 454, 
-                    "resize": "fit", 
-                    "w": 680
-                  }, 
-                  "thumb": {
-                    "h": 150, 
-                    "resize": "crop", 
-                    "w": 150
-                  }
-                }, 
-                "type": "photo", 
-                "url": "https://t.co/sAh3AK89PO"
-              }
-            ], 
-            "symbols": [], 
-            "urls": [], 
-            "user_mentions": []
-          }, 
-          "extended_entities": {
-            "media": [
-              {
-                "display_url": "pic.twitter.com/sAh3AK89PO", 
-                "expanded_url": "https://twitter.com/hautsdefrance/status/884719566907219968/photo/1", 
-                "id": 884719562905837568, 
-                "id_str": "884719562905837568", 
-                "indices": [
-                  82, 
-                  105
-                ], 
-                "media_url": "http://pbs.twimg.com/media/DEcnwUjXYAAblr8.jpg", 
-                "media_url_https": "https://pbs.twimg.com/media/DEcnwUjXYAAblr8.jpg", 
-                "sizes": {
-                  "large": {
-                    "h": 1367, 
-                    "resize": "fit", 
-                    "w": 2048
-                  }, 
-                  "medium": {
-                    "h": 801, 
-                    "resize": "fit", 
-                    "w": 1200
-                  }, 
-                  "small": {
-                    "h": 454, 
-                    "resize": "fit", 
-                    "w": 680
-                  }, 
-                  "thumb": {
-                    "h": 150, 
-                    "resize": "crop", 
-                    "w": 150
-                  }
-                }, 
-                "type": "photo", 
-                "url": "https://t.co/sAh3AK89PO"
-              }
-            ]
-          }, 
-          "favorite_count": 63, 
-          "favorited": false, 
-          "geo": null, 
-          "id": 884719566907219968, 
-          "id_str": "884719566907219968", 
-          "in_reply_to_screen_name": null, 
-          "in_reply_to_status_id": null, 
-          "in_reply_to_status_id_str": null, 
-          "in_reply_to_user_id": null, 
-          "in_reply_to_user_id_str": null, 
-          "is_quote_status": false, 
-          "lang": "fr", 
-          "place": null, 
-          "possibly_sensitive": false, 
-          "retweet_count": 33, 
-          "retweeted": false, 
-          "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>", 
-          "text": "Les #hautsdefrance s'invitent dans le m\u00e9tro londonien ! #welcome #london #Dunkirk https://t.co/sAh3AK89PO", 
-          "truncated": false
-        }, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "RT @hautsdefrance: Les #hautsdefrance s'invitent dans le m\u00e9tro londonien ! #welcome #london #Dunkirk https://t.co/sAh3AK89PO", 
+        "text": "L'occasion d'\u00e9voquer les enjeux autour du BREXIT dans les @hautsdefrance et l'avenir de la fili\u00e8re. https://t.co/xb2JEkaiPd", 
         "truncated": false
       }, 
-      "statuses_count": 6007, 
+      "statuses_count": 6009, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": null, 
@@ -3543,10 +3491,10 @@
     "twitter_followers": 4442, 
     "twitter_following": 1065, 
     "twitter_id": 551342517, 
-    "twitter_listed": 161, 
+    "twitter_listed": 150, 
     "twitter_name": "Natacha BOUCHART", 
     "twitter_protected": false, 
-    "twitter_tweets": 6007, 
+    "twitter_tweets": 6009, 
     "twitter_verified": false, 
     "url_institution": "http://www.senat.fr/senateur/bouchart_natacha11060j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/natacha-bouchart", 
@@ -5956,7 +5904,7 @@
       }, 
       "favourites_count": 155, 
       "follow_request_sent": false, 
-      "followers_count": 61924, 
+      "followers_count": 61922, 
       "following": false, 
       "friends_count": 693, 
       "geo_enabled": true, 
@@ -5966,7 +5914,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 1227, 
+      "listed_count": 1228, 
       "location": "Paris, France", 
       "name": "J-P. Chev\u00e8nement", 
       "notifications": false, 
@@ -6096,10 +6044,10 @@
     }, 
     "twitter_description": "Ancien ministre. Pdt du club R\u00e9publique Moderne (@RepubliqueMod), de la Fondation Res Publica (@fondarespublica) et de la Fondation de l'Islam de France.", 
     "twitter_favourites": 155, 
-    "twitter_followers": 61924, 
+    "twitter_followers": 61922, 
     "twitter_following": 693, 
     "twitter_id": 57116930, 
-    "twitter_listed": 1227, 
+    "twitter_listed": 1228, 
     "twitter_name": "J-P. Chev\u00e8nement", 
     "twitter_protected": false, 
     "twitter_tweets": 4431, 
@@ -19502,7 +19450,7 @@
       }, 
       "favourites_count": 1800, 
       "follow_request_sent": false, 
-      "followers_count": 94005, 
+      "followers_count": 94015, 
       "following": false, 
       "friends_count": 2432, 
       "geo_enabled": true, 
@@ -19739,7 +19687,7 @@
     }, 
     "twitter_description": "Ancien Ministre. S\u00e9nateur de l'Essonne. Conseiller r\u00e9gional d'\u00cele de France. Pr\u00e9sident de l' @UDE_FR", 
     "twitter_favourites": 1800, 
-    "twitter_followers": 94005, 
+    "twitter_followers": 94015, 
     "twitter_following": 2432, 
     "twitter_id": 219361536, 
     "twitter_listed": 1006, 
