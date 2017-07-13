@@ -36,7 +36,7 @@ groupes = ["crcsenat", "udiuc", "ecolosenat", "senateursps", "senateursump", "le
 doublons = ["teambouillon", "fdebeauce", "vignal2012", "deputecvautrin", "clergeau2012", "isabellebruneau", "roussetalain", "elubondy", "FLefebvre_UMP", "Gabouty2012", "moniquerabin", "PascalAllizard", "pascalegruny", "sergiocoronado", "audeluquet", # 2012-2017
 "Darrieussecq", "MireilleRobert", "tamarelle_marie", "Fdumas2017", "stelladupont2", "karamanli72", "micheldelpon"] # 2017-2022
 dead = ["Guy_Delcourt", "ConchitaLacuey", "MichelVERGNIER", "bernardroman59", "AndrSaint", "LucetteLousteau", "CathLEMORTON", "EPhilippe_LH", # 2012-2017
-"celiadeputee2017", "davidlorion", "PascalBois2017", "DipompeoChris", "Vincent.Ledoux59", "valeriebeauvais2017", "Josso2017", "ColasRoy2017", "Marc_Delatte", "EricDiardDepute", "bernarddeflesselles", "sttrompille", "pgoulet58", "GCHICHE2017", "obono2017"  # 2017-2022
+"celiadeputee2017", "davidlorion", "PascalBois2017", "DipompeoChris", "Vincent.Ledoux59", "valeriebeauvais2017", "Josso2017", "ColasRoy2017", "Marc_Delatte", "EricDiardDepute", "bernarddeflesselles", "sttrompille", "pgoulet58", "GCHICHE2017", "obono2017", "Sempastous2017"  # 2017-2022
 ]
 badlinks = ["http://www.facebook.fr/pascalbois2017", "https://fr-fr.facebook.com/GuillaumePeltier", "https://www.facebook.com/valerie.boyer.56", "https://www.facebook.com/Marguerite-Deprez-Audebert-2017-420349688340872", "https://fr-fr.facebook.com/colas.roy.2017", "https://m.facebook.com/ThomasRudigoz2017", "https://www.facebook.com/BSmedoc", "https://fr-fr.facebook.com/sandramarsaudlarepubliquenmarche", "https://fr-fr.facebook.com/profile.php"]
 
