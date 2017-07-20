@@ -810,7 +810,7 @@
       }, 
       "favourites_count": 1277, 
       "follow_request_sent": false, 
-      "followers_count": 20227, 
+      "followers_count": 20232, 
       "following": false, 
       "friends_count": 1688, 
       "geo_enabled": true, 
@@ -842,23 +842,54 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Mon Jul 17 16:02:30 +0000 2017", 
+        "created_at": "Wed Jul 19 17:00:06 +0000 2017", 
         "entities": {
           "hashtags": [], 
           "symbols": [], 
-          "urls": [], 
-          "user_mentions": []
+          "urls": [
+            {
+              "display_url": "twitter.com/i/web/status/8\u2026", 
+              "expanded_url": "https://twitter.com/i/web/status/887718701746843648", 
+              "indices": [
+                117, 
+                140
+              ], 
+              "url": "https://t.co/uZfRhzYHm2"
+            }
+          ], 
+          "user_mentions": [
+            {
+              "id": 2552775600, 
+              "id_str": "2552775600", 
+              "indices": [
+                0, 
+                10
+              ], 
+              "name": "Brieuc Lhuillier", 
+              "screen_name": "VonChaosB"
+            }, 
+            {
+              "id": 386591964, 
+              "id_str": "386591964", 
+              "indices": [
+                11, 
+                24
+              ], 
+              "name": "V\u00e9roniqueGuillermard", 
+              "screen_name": "vguillermard"
+            }
+          ]
         }, 
-        "favorite_count": 158, 
+        "favorite_count": 1, 
         "favorited": false, 
         "geo": null, 
-        "id": 886979433084669957, 
-        "id_str": "886979433084669957", 
-        "in_reply_to_screen_name": null, 
-        "in_reply_to_status_id": null, 
-        "in_reply_to_status_id_str": null, 
-        "in_reply_to_user_id": null, 
-        "in_reply_to_user_id_str": null, 
+        "id": 887718701746843648, 
+        "id_str": "887718701746843648", 
+        "in_reply_to_screen_name": "VonChaosB", 
+        "in_reply_to_status_id": 887652603735232512, 
+        "in_reply_to_status_id_str": "887652603735232512", 
+        "in_reply_to_user_id": 2552775600, 
+        "in_reply_to_user_id_str": "2552775600", 
         "is_quote_status": false, 
         "lang": "fr", 
         "place": {
@@ -895,13 +926,13 @@
           "place_type": "city", 
           "url": "https://api.twitter.com/1.1/geo/id/61aaf18ddd5a0627.json"
         }, 
-        "retweet_count": 134, 
+        "retweet_count": 0, 
         "retweeted": false, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "87000 bacheliers en qu\u00eate d'universit\u00e9. Pr\u00e9s d'un jeune Fran\u00e7ais sur 4 \u00e0 la recherche d'emploi. Il est urgent de revaloriser l'apprentissage", 
-        "truncated": false
+        "text": "@VonChaosB @vguillermard Nous les r\u00e9\u00e9valuerons d\u00e9s la remise en ordre de la maison Fce,eu le courage de conduire le\u2026 https://t.co/uZfRhzYHm2", 
+        "truncated": true
       }, 
-      "statuses_count": 3592, 
+      "statuses_count": 3596, 
       "time_zone": "Amsterdam", 
       "translator_type": "none", 
       "url": "https://t.co/YhICpAOeW0", 
@@ -910,13 +941,13 @@
     }, 
     "twitter_description": "D\u00e9put\u00e9 europ\u00e9en, Pdt de la com. #BUDG fondateur de l'Alliance centriste #EnMarche, ancien ministre de l'\u00e9conomie et des finances https://t.co/fhOVDCyFu0", 
     "twitter_favourites": 1277, 
-    "twitter_followers": 20227, 
+    "twitter_followers": 20232, 
     "twitter_following": 1688, 
     "twitter_id": 110191018, 
     "twitter_listed": 675, 
     "twitter_name": "Jean Arthuis", 
     "twitter_protected": false, 
-    "twitter_tweets": 3592, 
+    "twitter_tweets": 3596, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/arthuis_jean83011j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-arthuis", 
@@ -1210,7 +1241,7 @@
           ], 
           "user_mentions": []
         }, 
-        "favorite_count": 0, 
+        "favorite_count": 1, 
         "favorited": false, 
         "geo": null, 
         "id": 887347845162045440, 
@@ -1960,11 +1991,11 @@
           ]
         }
       }, 
-      "favourites_count": 1968, 
+      "favourites_count": 1969, 
       "follow_request_sent": false, 
       "followers_count": 1370, 
       "following": false, 
-      "friends_count": 363, 
+      "friends_count": 364, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 78422142, 
@@ -1994,69 +2025,47 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Tue Jul 18 11:55:30 +0000 2017", 
+        "created_at": "Wed Jul 19 09:10:20 +0000 2017", 
         "entities": {
-          "hashtags": [], 
+          "hashtags": [
+            {
+              "indices": [
+                15, 
+                22
+              ], 
+              "text": "Rediff"
+            }
+          ], 
           "symbols": [], 
-          "urls": [], 
+          "urls": [
+            {
+              "display_url": "bit.ly/2u6jcku", 
+              "expanded_url": "http://bit.ly/2u6jcku", 
+              "indices": [
+                91, 
+                114
+              ], 
+              "url": "https://t.co/jnZDjjEPBZ"
+            }
+          ], 
           "user_mentions": [
             {
-              "id": 105177639, 
-              "id_str": "105177639", 
+              "id": 8350912, 
+              "id_str": "8350912", 
               "indices": [
                 3, 
-                15
+                13
               ], 
-              "name": "SDED", 
-              "screen_name": "energiesded"
-            }, 
-            {
-              "id": 78422142, 
-              "id_str": "78422142", 
-              "indices": [
-                17, 
-                28
-              ], 
-              "name": "Jean BESSON", 
-              "screen_name": "bessonjean"
-            }, 
-            {
-              "id": 510382623, 
-              "id_str": "510382623", 
-              "indices": [
-                29, 
-                35
-              ], 
-              "name": "FNCCR", 
-              "screen_name": "fnccr"
-            }, 
-            {
-              "id": 2221363616, 
-              "id_str": "2221363616", 
-              "indices": [
-                36, 
-                48
-              ], 
-              "name": "Enedis SillRhodanien", 
-              "screen_name": "enedis_rhod"
-            }, 
-            {
-              "id": 938793344, 
-              "id_str": "938793344", 
-              "indices": [
-                75, 
-                87
-              ], 
-              "name": "Sao\u00fb Chante Mozart", 
-              "screen_name": "Mozart_Saou"
+              "name": "Le Figaro", 
+              "screen_name": "Le_Figaro"
             }
           ]
         }, 
         "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 887279661444730880, 
-        "id_str": "887279661444730880", 
+        "id": 887600482990141440, 
+        "id_str": "887600482990141440", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -2065,94 +2074,62 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 3, 
+        "possibly_sensitive": false, 
+        "retweet_count": 79, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
           "coordinates": null, 
-          "created_at": "Tue Jul 18 10:52:39 +0000 2017", 
+          "created_at": "Wed Jul 19 04:04:13 +0000 2017", 
           "entities": {
-            "hashtags": [], 
+            "hashtags": [
+              {
+                "indices": [
+                  0, 
+                  7
+                ], 
+                "text": "Rediff"
+              }
+            ], 
             "symbols": [], 
             "urls": [
               {
-                "display_url": "twitter.com/i/web/status/8\u2026", 
-                "expanded_url": "https://twitter.com/i/web/status/887263844619386880", 
+                "display_url": "bit.ly/2u6jcku", 
+                "expanded_url": "http://bit.ly/2u6jcku", 
                 "indices": [
-                  117, 
-                  140
+                  76, 
+                  99
                 ], 
-                "url": "https://t.co/Bu2Tv6MkCp"
+                "url": "https://t.co/jnZDjjEPBZ"
               }
             ], 
-            "user_mentions": [
-              {
-                "id": 78422142, 
-                "id_str": "78422142", 
-                "indices": [
-                  0, 
-                  11
-                ], 
-                "name": "Jean BESSON", 
-                "screen_name": "bessonjean"
-              }, 
-              {
-                "id": 510382623, 
-                "id_str": "510382623", 
-                "indices": [
-                  12, 
-                  18
-                ], 
-                "name": "FNCCR", 
-                "screen_name": "fnccr"
-              }, 
-              {
-                "id": 2221363616, 
-                "id_str": "2221363616", 
-                "indices": [
-                  19, 
-                  31
-                ], 
-                "name": "Enedis SillRhodanien", 
-                "screen_name": "enedis_rhod"
-              }, 
-              {
-                "id": 938793344, 
-                "id_str": "938793344", 
-                "indices": [
-                  58, 
-                  70
-                ], 
-                "name": "Sao\u00fb Chante Mozart", 
-                "screen_name": "Mozart_Saou"
-              }
-            ]
+            "user_mentions": []
           }, 
-          "favorite_count": 2, 
+          "favorite_count": 108, 
           "favorited": false, 
           "geo": null, 
-          "id": 887263844619386880, 
-          "id_str": "887263844619386880", 
-          "in_reply_to_screen_name": "bessonjean", 
+          "id": 887523444354625537, 
+          "id_str": "887523444354625537", 
+          "in_reply_to_screen_name": null, 
           "in_reply_to_status_id": null, 
           "in_reply_to_status_id_str": null, 
-          "in_reply_to_user_id": 78422142, 
-          "in_reply_to_user_id_str": "78422142", 
+          "in_reply_to_user_id": null, 
+          "in_reply_to_user_id_str": null, 
           "is_quote_status": false, 
           "lang": "fr", 
           "place": null, 
           "possibly_sensitive": false, 
-          "retweet_count": 3, 
+          "retweet_count": 79, 
           "retweeted": false, 
-          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-          "text": "@bessonjean @fnccr @enedis_rhod Super concert soir\u00e9e SDED @Mozart_Saou \u00e9glise de Nyons heureux de soutenir ce festi\u2026 https://t.co/Bu2Tv6MkCp", 
-          "truncated": true
+          "source": "<a href=\"https://secure.echoboxapp.com\" rel=\"nofollow\">Echobox Social</a>", 
+          "text": "#Rediff Soft Power : la France devient la nation la plus influente du monde https://t.co/jnZDjjEPBZ", 
+          "truncated": false
         }, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "RT @energiesded: @bessonjean @fnccr @enedis_rhod Super concert soir\u00e9e SDED @Mozart_Saou \u00e9glise de Nyons heureux de soutenir ce festival pas\u2026", 
+        "text": "RT @Le_Figaro: #Rediff Soft Power : la France devient la nation la plus influente du monde https://t.co/jnZDjjEPBZ", 
         "truncated": false
       }, 
-      "statuses_count": 1513, 
+      "statuses_count": 1514, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": "https://t.co/cFrea9booe", 
@@ -2160,14 +2137,14 @@
       "verified": false
     }, 
     "twitter_description": "Jean BESSON, S\u00e9nateur Honoraire, Pr\u00e9sident d'@energiesded, Vice Pr\u00e9sident de la @fnccr, #Progressiste", 
-    "twitter_favourites": 1968, 
+    "twitter_favourites": 1969, 
     "twitter_followers": 1370, 
-    "twitter_following": 363, 
+    "twitter_following": 364, 
     "twitter_id": 78422142, 
     "twitter_listed": 84, 
     "twitter_name": "Jean BESSON", 
     "twitter_protected": false, 
-    "twitter_tweets": 1513, 
+    "twitter_tweets": 1514, 
     "twitter_verified": false, 
     "url_institution": "http://www.senat.fr/senateur/besson_jean89015p.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-besson", 
@@ -3311,7 +3288,7 @@
       }, 
       "favourites_count": 230, 
       "follow_request_sent": false, 
-      "followers_count": 4448, 
+      "followers_count": 4451, 
       "following": false, 
       "friends_count": 1065, 
       "geo_enabled": true, 
@@ -3399,7 +3376,7 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 24, 
+        "retweet_count": 26, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
@@ -3529,7 +3506,7 @@
           "lang": "fr", 
           "place": null, 
           "possibly_sensitive": false, 
-          "retweet_count": 24, 
+          "retweet_count": 26, 
           "retweeted": false, 
           "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
           "text": "Mon courrier \u00e0 @michaelgove : nos p\u00eacheurs ne doivent pas \u00eatre les victimes collat\u00e9rales du #Brexit. #p\u00eache https://t.co/q6eThQPmUe", 
@@ -3548,7 +3525,7 @@
     }, 
     "twitter_description": "Vice-Pr\u00e9sidente de la R\u00e9gion Hauts-de-France. Maire de #Calais, Pr\u00e9sidente de Grand Calais Terres & Mers", 
     "twitter_favourites": 230, 
-    "twitter_followers": 4448, 
+    "twitter_followers": 4451, 
     "twitter_following": 1065, 
     "twitter_id": 551342517, 
     "twitter_listed": 150, 
@@ -5964,7 +5941,7 @@
       }, 
       "favourites_count": 155, 
       "follow_request_sent": false, 
-      "followers_count": 61943, 
+      "followers_count": 61948, 
       "following": false, 
       "friends_count": 693, 
       "geo_enabled": true, 
@@ -5974,7 +5951,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 1227, 
+      "listed_count": 1226, 
       "location": "Paris, France", 
       "name": "J-P. Chev\u00e8nement", 
       "notifications": false, 
@@ -6007,69 +5984,28 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Mon Jul 17 18:35:12 +0000 2017", 
+        "created_at": "Wed Jul 19 21:00:23 +0000 2017", 
         "entities": {
           "hashtags": [], 
           "symbols": [], 
           "urls": [
             {
-              "display_url": "bit.ly/2uBzRzh", 
-              "expanded_url": "http://bit.ly/2uBzRzh", 
+              "display_url": "xfru.it/cvg9e6", 
+              "expanded_url": "http://xfru.it/cvg9e6", 
               "indices": [
-                62, 
-                85
+                117, 
+                140
               ], 
-              "url": "https://t.co/RLKlj7tSxZ"
+              "url": "https://t.co/gcFr2UfBlS"
             }
           ], 
-          "user_mentions": [
-            {
-              "id": 85286475, 
-              "id_str": "85286475", 
-              "indices": [
-                5, 
-                21
-              ], 
-              "name": "L'Est R\u00e9publicain", 
-              "screen_name": "lestrepublicain"
-            }, 
-            {
-              "id": 273404740, 
-              "id_str": "273404740", 
-              "indices": [
-                89, 
-                99
-              ], 
-              "name": "Jean-Pierre Tenoux\u2712", 
-              "screen_name": "MenezUhel"
-            }, 
-            {
-              "id": 66992760, 
-              "id_str": "66992760", 
-              "indices": [
-                100, 
-                114
-              ], 
-              "name": "IsabelleLopez", 
-              "screen_name": "LopezIsabelle"
-            }, 
-            {
-              "id": 869726354, 
-              "id_str": "869726354", 
-              "indices": [
-                115, 
-                130
-              ], 
-              "name": "L'Est Rep Belfort", 
-              "screen_name": "LEstRepBelfort"
-            }
-          ]
+          "user_mentions": []
         }, 
-        "favorite_count": 11, 
+        "favorite_count": 74, 
         "favorited": false, 
         "geo": null, 
-        "id": 887017862069723136, 
-        "id_str": "887017862069723136", 
+        "id": 887779171870625792, 
+        "id_str": "887779171870625792", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -6079,13 +6015,13 @@
         "lang": "fr", 
         "place": null, 
         "possibly_sensitive": false, 
-        "retweet_count": 8, 
+        "retweet_count": 54, 
         "retweeted": false, 
         "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-        "text": "Dans @lestrepublicain: Les livres du \u00ab Che \u00bb \u00e0 port\u00e9e de tous https://t.co/RLKlj7tSxZ cc @MenezUhel @LopezIsabelle @LEstRepBelfort", 
+        "text": "Max Gallo \u00e9tait pr moi un fr\u00e8re dt la disparition me d\u00e9chire.Sa grande voix manquera ms son combat ne s\u2019\u00e9teindra pas https://t.co/gcFr2UfBlS", 
         "truncated": false
       }, 
-      "statuses_count": 4433, 
+      "statuses_count": 4434, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": "http://t.co/uxgBAwrQat", 
@@ -6094,13 +6030,13 @@
     }, 
     "twitter_description": "Ancien ministre. Pdt du club R\u00e9publique Moderne (@RepubliqueMod), de la Fondation Res Publica (@fondarespublica) et de la Fondation de l'Islam de France.", 
     "twitter_favourites": 155, 
-    "twitter_followers": 61943, 
+    "twitter_followers": 61948, 
     "twitter_following": 693, 
     "twitter_id": 57116930, 
-    "twitter_listed": 1227, 
+    "twitter_listed": 1226, 
     "twitter_name": "J-P. Chev\u00e8nement", 
     "twitter_protected": false, 
-    "twitter_tweets": 4433, 
+    "twitter_tweets": 4434, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/chevenement_jean_pierre02053w.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-pierre-chevenement", 
@@ -6873,7 +6809,7 @@
       }, 
       "favourites_count": 2, 
       "follow_request_sent": false, 
-      "followers_count": 778, 
+      "followers_count": 779, 
       "following": false, 
       "friends_count": 40, 
       "geo_enabled": false, 
@@ -6939,7 +6875,7 @@
     }, 
     "twitter_description": "", 
     "twitter_favourites": 2, 
-    "twitter_followers": 778, 
+    "twitter_followers": 779, 
     "twitter_following": 40, 
     "twitter_id": 84071417, 
     "twitter_listed": 81, 
@@ -13321,7 +13257,7 @@
       }, 
       "favourites_count": 12, 
       "follow_request_sent": false, 
-      "followers_count": 891, 
+      "followers_count": 892, 
       "following": false, 
       "friends_count": 287, 
       "geo_enabled": false, 
@@ -13399,7 +13335,7 @@
     }, 
     "twitter_description": "Maire de Saint-Flour, Pr\u00e9sident des Maires du #Cantal, Comit\u00e9 des #Finances locales - #Collectivit\u00e9s territoriales #Urbanisme #Logement #D\u00e9veloppement durable", 
     "twitter_favourites": 12, 
-    "twitter_followers": 891, 
+    "twitter_followers": 892, 
     "twitter_following": 287, 
     "twitter_id": 2328417882, 
     "twitter_listed": 39, 
@@ -16937,7 +16873,7 @@
       }, 
       "favourites_count": 5, 
       "follow_request_sent": false, 
-      "followers_count": 3797, 
+      "followers_count": 3796, 
       "following": false, 
       "friends_count": 2347, 
       "geo_enabled": false, 
@@ -17003,7 +16939,7 @@
     }, 
     "twitter_description": "S\u00e9nateur honoraire-maire de Compi\u00e8gne , Pr\u00e9sident de l'agglom\u00e9ration de la r\u00e9gion de Compi\u00e8gne, Pr\u00e9sident de la commission des finances du S\u00e9nat.", 
     "twitter_favourites": 5, 
-    "twitter_followers": 3797, 
+    "twitter_followers": 3796, 
     "twitter_following": 2347, 
     "twitter_id": 1534099902, 
     "twitter_listed": 127, 
@@ -18239,7 +18175,7 @@
         "lang": "fr", 
         "place": null, 
         "possibly_sensitive": true, 
-        "retweet_count": 14, 
+        "retweet_count": 15, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
@@ -18290,7 +18226,7 @@
             ], 
             "user_mentions": []
           }, 
-          "favorite_count": 10, 
+          "favorite_count": 13, 
           "favorited": false, 
           "geo": null, 
           "id": 887258716797579264, 
@@ -18304,7 +18240,7 @@
           "lang": "fr", 
           "place": null, 
           "possibly_sensitive": false, 
-          "retweet_count": 14, 
+          "retweet_count": 15, 
           "retweeted": false, 
           "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
           "text": "Apr\u00e8s la #CNT, retrouvez le rapport du #S\u00e9nat \"Laisser respirer les #territoires\" #CollTerr \u27a1\ufe0f\u2026 https://t.co/h75l9dFyEx", 
@@ -19526,7 +19462,7 @@
       }, 
       "favourites_count": 1800, 
       "follow_request_sent": false, 
-      "followers_count": 94108, 
+      "followers_count": 94123, 
       "following": false, 
       "friends_count": 2432, 
       "geo_enabled": true, 
@@ -19558,54 +19494,26 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Thu Jul 06 10:06:47 +0000 2017", 
+        "created_at": "Wed Jul 19 16:36:51 +0000 2017", 
         "entities": {
           "hashtags": [
             {
               "indices": [
-                34, 
-                40
+                110, 
+                119
               ], 
-              "text": "RCDEC"
-            }, 
-            {
-              "indices": [
-                73, 
-                84
-              ], 
-              "text": "SimoneVeil"
+              "text": "MaxGallo"
             }
           ], 
           "symbols": [], 
           "urls": [], 
-          "user_mentions": [
-            {
-              "id": 4557301816, 
-              "id_str": "4557301816", 
-              "indices": [
-                3, 
-                13
-              ], 
-              "name": "RCDEC Ile-de-France", 
-              "screen_name": "RCDEC_IDF"
-            }, 
-            {
-              "id": 40848062, 
-              "id_str": "40848062", 
-              "indices": [
-                105, 
-                117
-              ], 
-              "name": "R\u00e9gion \u00cele-de-France", 
-              "screen_name": "iledefrance"
-            }
-          ]
+          "user_mentions": []
         }, 
-        "favorite_count": 0, 
+        "favorite_count": 21, 
         "favorited": false, 
         "geo": null, 
-        "id": 882903648065507328, 
-        "id_str": "882903648065507328", 
+        "id": 887712853049913344, 
+        "id_str": "887712853049913344", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -19614,147 +19522,13 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 13, 
+        "retweet_count": 9, 
         "retweeted": false, 
-        "retweeted_status": {
-          "contributors": null, 
-          "coordinates": null, 
-          "created_at": "Thu Jul 06 07:46:52 +0000 2017", 
-          "entities": {
-            "hashtags": [
-              {
-                "indices": [
-                  19, 
-                  25
-                ], 
-                "text": "RCDEC"
-              }, 
-              {
-                "indices": [
-                  58, 
-                  69
-                ], 
-                "text": "SimoneVeil"
-              }
-            ], 
-            "media": [
-              {
-                "display_url": "pic.twitter.com/lgaQO3R1x9", 
-                "expanded_url": "https://twitter.com/RCDEC_IDF/status/882868437034336256/photo/1", 
-                "id": 882868018920947713, 
-                "id_str": "882868018920947713", 
-                "indices": [
-                  104, 
-                  127
-                ], 
-                "media_url": "http://pbs.twimg.com/media/DECTyRtWAAEwNUQ.jpg", 
-                "media_url_https": "https://pbs.twimg.com/media/DECTyRtWAAEwNUQ.jpg", 
-                "sizes": {
-                  "large": {
-                    "h": 943, 
-                    "resize": "fit", 
-                    "w": 1257
-                  }, 
-                  "medium": {
-                    "h": 900, 
-                    "resize": "fit", 
-                    "w": 1200
-                  }, 
-                  "small": {
-                    "h": 510, 
-                    "resize": "fit", 
-                    "w": 680
-                  }, 
-                  "thumb": {
-                    "h": 150, 
-                    "resize": "crop", 
-                    "w": 150
-                  }
-                }, 
-                "type": "photo", 
-                "url": "https://t.co/lgaQO3R1x9"
-              }
-            ], 
-            "symbols": [], 
-            "urls": [], 
-            "user_mentions": [
-              {
-                "id": 40848062, 
-                "id_str": "40848062", 
-                "indices": [
-                  90, 
-                  102
-                ], 
-                "name": "R\u00e9gion \u00cele-de-France", 
-                "screen_name": "iledefrance"
-              }
-            ]
-          }, 
-          "extended_entities": {
-            "media": [
-              {
-                "display_url": "pic.twitter.com/lgaQO3R1x9", 
-                "expanded_url": "https://twitter.com/RCDEC_IDF/status/882868437034336256/photo/1", 
-                "id": 882868018920947713, 
-                "id_str": "882868018920947713", 
-                "indices": [
-                  104, 
-                  127
-                ], 
-                "media_url": "http://pbs.twimg.com/media/DECTyRtWAAEwNUQ.jpg", 
-                "media_url_https": "https://pbs.twimg.com/media/DECTyRtWAAEwNUQ.jpg", 
-                "sizes": {
-                  "large": {
-                    "h": 943, 
-                    "resize": "fit", 
-                    "w": 1257
-                  }, 
-                  "medium": {
-                    "h": 900, 
-                    "resize": "fit", 
-                    "w": 1200
-                  }, 
-                  "small": {
-                    "h": 510, 
-                    "resize": "fit", 
-                    "w": 680
-                  }, 
-                  "thumb": {
-                    "h": 150, 
-                    "resize": "crop", 
-                    "w": 150
-                  }
-                }, 
-                "type": "photo", 
-                "url": "https://t.co/lgaQO3R1x9"
-              }
-            ]
-          }, 
-          "favorite_count": 19, 
-          "favorited": false, 
-          "geo": null, 
-          "id": 882868437034336256, 
-          "id_str": "882868437034336256", 
-          "in_reply_to_screen_name": null, 
-          "in_reply_to_status_id": null, 
-          "in_reply_to_status_id_str": null, 
-          "in_reply_to_user_id": null, 
-          "in_reply_to_user_id_str": null, 
-          "is_quote_status": false, 
-          "lang": "fr", 
-          "place": null, 
-          "possibly_sensitive": false, 
-          "retweet_count": 13, 
-          "retweeted": false, 
-          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-          "text": "Les \u00e9lus du Groupe #RCDEC s'associent \u00e0 l'hommage rendu \u00e0 #SimoneVeil au Conseil r\u00e9gional @iledefrance. https://t.co/lgaQO3R1x9", 
-          "truncated": false
-        }, 
-        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
-        "text": "RT @RCDEC_IDF: Les \u00e9lus du Groupe #RCDEC s'associent \u00e0 l'hommage rendu \u00e0 #SimoneVeil au Conseil r\u00e9gional @iledefrance. https://t.co/lgaQO3R\u2026", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "Ses r\u00e9cits historiques ont nourri mes r\u00eaves d'enfance. Ses biographies ont forg\u00e9 ma culture g\u00e9n\u00e9rale. Hommage #MaxGallo\"", 
         "truncated": false
       }, 
-      "statuses_count": 8325, 
+      "statuses_count": 8326, 
       "time_zone": null, 
       "translator_type": "none", 
       "url": null, 
@@ -19763,13 +19537,13 @@
     }, 
     "twitter_description": "Ancien Ministre. S\u00e9nateur de l'Essonne. Conseiller r\u00e9gional d'\u00cele de France. Pr\u00e9sident de l' @UDE_FR", 
     "twitter_favourites": 1800, 
-    "twitter_followers": 94108, 
+    "twitter_followers": 94123, 
     "twitter_following": 2432, 
     "twitter_id": 219361536, 
     "twitter_listed": 1006, 
     "twitter_name": "Jean-Vincent Plac\u00e9", 
     "twitter_protected": false, 
-    "twitter_tweets": 8325, 
+    "twitter_tweets": 8326, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/place_jean_vincent11069t.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-vincent-place", 
@@ -21222,7 +20996,7 @@
       }, 
       "favourites_count": 76, 
       "follow_request_sent": false, 
-      "followers_count": 5588, 
+      "followers_count": 5590, 
       "following": false, 
       "friends_count": 469, 
       "geo_enabled": true, 
@@ -21279,7 +21053,7 @@
           ], 
           "user_mentions": []
         }, 
-        "favorite_count": 6, 
+        "favorite_count": 7, 
         "favorited": false, 
         "geo": null, 
         "id": 886183130574487552, 
@@ -21308,7 +21082,7 @@
     }, 
     "twitter_description": "Maire de Strasbourg", 
     "twitter_favourites": 76, 
-    "twitter_followers": 5588, 
+    "twitter_followers": 5590, 
     "twitter_following": 469, 
     "twitter_id": 281438650, 
     "twitter_listed": 244, 
