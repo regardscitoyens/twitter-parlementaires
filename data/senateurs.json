@@ -810,9 +810,9 @@
       }, 
       "favourites_count": 1281, 
       "follow_request_sent": false, 
-      "followers_count": 20373, 
+      "followers_count": 20399, 
       "following": false, 
-      "friends_count": 1739, 
+      "friends_count": 1740, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 110191018, 
@@ -842,44 +842,167 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Mon Jul 31 07:39:25 +0000 2017", 
+        "created_at": "Tue Aug 01 16:08:37 +0000 2017", 
         "entities": {
           "hashtags": [], 
           "symbols": [], 
           "urls": [
             {
               "display_url": "twitter.com/i/web/status/8\u2026", 
-              "expanded_url": "https://twitter.com/i/web/status/891926258820493312", 
+              "expanded_url": "https://twitter.com/i/web/status/892416789400997888", 
               "indices": [
-                117, 
-                140
+                107, 
+                130
               ], 
-              "url": "https://t.co/Pfsct96SNm"
+              "url": "https://t.co/lKF8mIgJwi"
             }
           ], 
-          "user_mentions": []
+          "user_mentions": [
+            {
+              "id": 318492642, 
+              "id_str": "318492642", 
+              "indices": [
+                0, 
+                11
+              ], 
+              "name": "Nathalie Goulet", 
+              "screen_name": "senateur61"
+            }, 
+            {
+              "id": 382747703, 
+              "id_str": "382747703", 
+              "indices": [
+                12, 
+                22
+              ], 
+              "name": "STEPHANE TRAVERT", 
+              "screen_name": "StTRAVERT"
+            }, 
+            {
+              "id": 94083068, 
+              "id_str": "94083068", 
+              "indices": [
+                23, 
+                35
+              ], 
+              "name": "France Galop", 
+              "screen_name": "francegalop"
+            }, 
+            {
+              "id": 33473627, 
+              "id_str": "33473627", 
+              "indices": [
+                36, 
+                43
+              ], 
+              "name": "LeTROT", 
+              "screen_name": "LeTrot"
+            }, 
+            {
+              "id": 1570263090, 
+              "id_str": "1570263090", 
+              "indices": [
+                44, 
+                57
+              ], 
+              "name": "FF Equitation", 
+              "screen_name": "FFEquitation"
+            }, 
+            {
+              "id": 236341169, 
+              "id_str": "236341169", 
+              "indices": [
+                58, 
+                66
+              ], 
+              "name": "Equidia", 
+              "screen_name": "equidia"
+            }, 
+            {
+              "id": 773527911022399488, 
+              "id_str": "773527911022399488", 
+              "indices": [
+                67, 
+                79
+              ], 
+              "name": "EQUISTRATIS", 
+              "screen_name": "Equistratis"
+            }, 
+            {
+              "id": 839601523562786816, 
+              "id_str": "839601523562786816", 
+              "indices": [
+                80, 
+                90
+              ], 
+              "name": "@JPFCheval \ud83d\udc34", 
+              "screen_name": "JPFCheval"
+            }, 
+            {
+              "id": 833628272646840321, 
+              "id_str": "833628272646840321", 
+              "indices": [
+                91, 
+                105
+              ], 
+              "name": "Lechevalvamal", 
+              "screen_name": "lechevalvamal"
+            }
+          ]
         }, 
-        "favorite_count": 115, 
+        "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 891926258820493312, 
-        "id_str": "891926258820493312", 
-        "in_reply_to_screen_name": null, 
-        "in_reply_to_status_id": null, 
-        "in_reply_to_status_id_str": null, 
-        "in_reply_to_user_id": null, 
-        "in_reply_to_user_id_str": null, 
+        "id": 892416789400997888, 
+        "id_str": "892416789400997888", 
+        "in_reply_to_screen_name": "senateur61", 
+        "in_reply_to_status_id": 892412969828708352, 
+        "in_reply_to_status_id_str": "892412969828708352", 
+        "in_reply_to_user_id": 318492642, 
+        "in_reply_to_user_id_str": "318492642", 
         "is_quote_status": false, 
         "lang": "fr", 
-        "place": null, 
-        "possibly_sensitive": false, 
-        "retweet_count": 120, 
+        "place": {
+          "attributes": {}, 
+          "bounding_box": {
+            "coordinates": [
+              [
+                [
+                  2.2241005999999999, 
+                  48.815521400000002
+                ], 
+                [
+                  2.4699053000000002, 
+                  48.815521400000002
+                ], 
+                [
+                  2.4699053000000002, 
+                  48.902146100000003
+                ], 
+                [
+                  2.2241005999999999, 
+                  48.902146100000003
+                ]
+              ]
+            ], 
+            "type": "Polygon"
+          }, 
+          "contained_within": [], 
+          "country": "France", 
+          "country_code": "FR", 
+          "full_name": "Paris, France", 
+          "id": "09f6a7707f18e0b1", 
+          "name": "Paris", 
+          "place_type": "city", 
+          "url": "https://api.twitter.com/1.1/geo/id/09f6a7707f18e0b1.json"
+        }, 
+        "retweet_count": 0, 
         "retweeted": false, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "L'Europe, L'Allemagne et la France se mobilisent pour d\u00e9velopper la mobilit\u00e9 longue des apprentis gr\u00e2ce \u00e0 Erasmus P\u2026 https://t.co/Pfsct96SNm", 
+        "text": "@senateur61 @StTRAVERT @francegalop @LeTrot @FFEquitation @equidia @Equistratis @JPFCheval @lechevalvamal\u2026 https://t.co/lKF8mIgJwi", 
         "truncated": true
       }, 
-      "statuses_count": 3613, 
+      "statuses_count": 3617, 
       "time_zone": "Amsterdam", 
       "translator_type": "none", 
       "url": "https://t.co/YhICpAOeW0", 
@@ -888,13 +1011,13 @@
     }, 
     "twitter_description": "D\u00e9put\u00e9 europ\u00e9en, Pdt de la com. #BUDG fondateur de l'Alliance centriste #EnMarche, ancien ministre de l'\u00e9conomie et des finances https://t.co/fhOVDCyFu0", 
     "twitter_favourites": 1281, 
-    "twitter_followers": 20373, 
-    "twitter_following": 1739, 
+    "twitter_followers": 20399, 
+    "twitter_following": 1740, 
     "twitter_id": 110191018, 
     "twitter_listed": 676, 
     "twitter_name": "Jean Arthuis", 
     "twitter_protected": false, 
-    "twitter_tweets": 3613, 
+    "twitter_tweets": 3617, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/arthuis_jean83011j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-arthuis", 
@@ -1940,7 +2063,7 @@
       }, 
       "favourites_count": 1987, 
       "follow_request_sent": false, 
-      "followers_count": 1374, 
+      "followers_count": 1373, 
       "following": false, 
       "friends_count": 366, 
       "geo_enabled": true, 
@@ -2013,7 +2136,7 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 1818, 
+        "retweet_count": 1851, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
@@ -2036,7 +2159,7 @@
               }
             ]
           }, 
-          "favorite_count": 5599, 
+          "favorite_count": 5760, 
           "favorited": false, 
           "geo": null, 
           "id": 891666009744080896, 
@@ -2049,7 +2172,7 @@
           "is_quote_status": false, 
           "lang": "fr", 
           "place": null, 
-          "retweet_count": 1818, 
+          "retweet_count": 1851, 
           "retweeted": false, 
           "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
           "text": "Tout mon soutien \u00e0 @lauriannerossi, agress\u00e9e parce qu'elle d\u00e9fendait ses convictions. Respecter les \u00e9lus, c'est respecter la R\u00e9publique.", 
@@ -2068,7 +2191,7 @@
     }, 
     "twitter_description": "Jean BESSON, S\u00e9nateur Honoraire, Pr\u00e9sident d'@energiesded, Vice Pr\u00e9sident de la @fnccr, #Progressiste", 
     "twitter_favourites": 1987, 
-    "twitter_followers": 1374, 
+    "twitter_followers": 1373, 
     "twitter_following": 366, 
     "twitter_id": 78422142, 
     "twitter_listed": 84, 
@@ -3218,7 +3341,7 @@
       }, 
       "favourites_count": 230, 
       "follow_request_sent": false, 
-      "followers_count": 4486, 
+      "followers_count": 4511, 
       "following": false, 
       "friends_count": 1064, 
       "geo_enabled": true, 
@@ -3228,7 +3351,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 153, 
+      "listed_count": 155, 
       "location": "Calais, France", 
       "name": "Natacha BOUCHART", 
       "notifications": false, 
@@ -3309,7 +3432,7 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 4, 
+        "retweet_count": 5, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
@@ -3350,7 +3473,7 @@
               }
             ]
           }, 
-          "favorite_count": 0, 
+          "favorite_count": 1, 
           "favorited": false, 
           "geo": null, 
           "id": 890899641839083522, 
@@ -3363,7 +3486,7 @@
           "is_quote_status": false, 
           "lang": "fr", 
           "place": null, 
-          "retweet_count": 4, 
+          "retweet_count": 5, 
           "retweeted": false, 
           "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
           "text": "@NatachaBouchart \"Il y a encore 500 migrants dispers\u00e9s \u00e0 Calais\" @NatachaBouchart #RadioBrunet", 
@@ -3382,10 +3505,10 @@
     }, 
     "twitter_description": "Vice-Pr\u00e9sidente de la R\u00e9gion Hauts-de-France. Maire de #Calais, Pr\u00e9sidente de Grand Calais Terres & Mers", 
     "twitter_favourites": 230, 
-    "twitter_followers": 4486, 
+    "twitter_followers": 4511, 
     "twitter_following": 1064, 
     "twitter_id": 551342517, 
-    "twitter_listed": 153, 
+    "twitter_listed": 155, 
     "twitter_name": "Natacha BOUCHART", 
     "twitter_protected": false, 
     "twitter_tweets": 6023, 
@@ -5798,7 +5921,7 @@
       }, 
       "favourites_count": 155, 
       "follow_request_sent": false, 
-      "followers_count": 62002, 
+      "followers_count": 62005, 
       "following": false, 
       "friends_count": 695, 
       "geo_enabled": true, 
@@ -5907,7 +6030,7 @@
     }, 
     "twitter_description": "Ancien ministre. Pdt du club R\u00e9publique Moderne (@RepubliqueMod), de la Fondation Res Publica (@fondarespublica) et de la Fondation de l'Islam de France.", 
     "twitter_favourites": 155, 
-    "twitter_followers": 62002, 
+    "twitter_followers": 62005, 
     "twitter_following": 695, 
     "twitter_id": 57116930, 
     "twitter_listed": 1222, 
@@ -13136,7 +13259,7 @@
       }, 
       "favourites_count": 13, 
       "follow_request_sent": false, 
-      "followers_count": 900, 
+      "followers_count": 899, 
       "following": false, 
       "friends_count": 287, 
       "geo_enabled": false, 
@@ -13297,7 +13420,7 @@
     }, 
     "twitter_description": "Maire de Saint-Flour, Pr\u00e9sident des Maires du #Cantal, Comit\u00e9 des #Finances locales - #Collectivit\u00e9s territoriales #Urbanisme #Logement #D\u00e9veloppement durable", 
     "twitter_favourites": 13, 
-    "twitter_followers": 900, 
+    "twitter_followers": 899, 
     "twitter_following": 287, 
     "twitter_id": 2328417882, 
     "twitter_listed": 39, 
@@ -16837,7 +16960,7 @@
       }, 
       "favourites_count": 5, 
       "follow_request_sent": false, 
-      "followers_count": 3797, 
+      "followers_count": 3798, 
       "following": false, 
       "friends_count": 2347, 
       "geo_enabled": false, 
@@ -16903,7 +17026,7 @@
     }, 
     "twitter_description": "S\u00e9nateur honoraire-maire de Compi\u00e8gne , Pr\u00e9sident de l'agglom\u00e9ration de la r\u00e9gion de Compi\u00e8gne, Pr\u00e9sident de la commission des finances du S\u00e9nat.", 
     "twitter_favourites": 5, 
-    "twitter_followers": 3797, 
+    "twitter_followers": 3798, 
     "twitter_following": 2347, 
     "twitter_id": 1534099902, 
     "twitter_listed": 128, 
@@ -18034,7 +18157,7 @@
           ]
         }
       }, 
-      "favourites_count": 126, 
+      "favourites_count": 130, 
       "follow_request_sent": false, 
       "followers_count": 280, 
       "following": false, 
@@ -18196,7 +18319,7 @@
       "verified": true
     }, 
     "twitter_description": "S\u00e9natrice Les R\u00e9publicains des Hautes-Alpes", 
-    "twitter_favourites": 126, 
+    "twitter_favourites": 130, 
     "twitter_followers": 280, 
     "twitter_following": 159, 
     "twitter_id": 3189823869, 
@@ -19400,7 +19523,7 @@
       }, 
       "favourites_count": 1800, 
       "follow_request_sent": false, 
-      "followers_count": 94316, 
+      "followers_count": 94330, 
       "following": false, 
       "friends_count": 2431, 
       "geo_enabled": true, 
@@ -19447,7 +19570,7 @@
           "urls": [], 
           "user_mentions": []
         }, 
-        "favorite_count": 7, 
+        "favorite_count": 8, 
         "favorited": false, 
         "geo": null, 
         "id": 891981577244299266, 
@@ -19475,7 +19598,7 @@
     }, 
     "twitter_description": "Ancien Ministre. S\u00e9nateur de l'Essonne. Conseiller r\u00e9gional d'\u00cele de France. Pr\u00e9sident de l' @UDE_FR", 
     "twitter_favourites": 1800, 
-    "twitter_followers": 94316, 
+    "twitter_followers": 94330, 
     "twitter_following": 2431, 
     "twitter_id": 219361536, 
     "twitter_listed": 1005, 
@@ -20934,7 +21057,7 @@
       }, 
       "favourites_count": 76, 
       "follow_request_sent": false, 
-      "followers_count": 5617, 
+      "followers_count": 5614, 
       "following": false, 
       "friends_count": 471, 
       "geo_enabled": true, 
@@ -21012,7 +21135,7 @@
     }, 
     "twitter_description": "Maire de Strasbourg", 
     "twitter_favourites": 76, 
-    "twitter_followers": 5617, 
+    "twitter_followers": 5614, 
     "twitter_following": 471, 
     "twitter_id": 281438650, 
     "twitter_listed": 246, 
