@@ -34,7 +34,7 @@ with open(sys.argv[2]) as f:
 notparls = ["bayrou", "ABachelay"]
 groupes = ["crcsenat", "udiuc", "ecolosenat", "senateursps", "senateursump", "lesrep_senat"]
 doublons = ["teambouillon", "fdebeauce", "vignal2012", "deputecvautrin", "clergeau2012", "isabellebruneau", "roussetalain", "elubondy", "FLefebvre_UMP", "Gabouty2012", "moniquerabin", "PascalAllizard", "pascalegruny", "sergiocoronado", "audeluquet", # 2012-2017
-"Darrieussecq", "MireilleRobert", "tamarelle_marie", "Fdumas2017", "stelladupont2", "karamanli72", "micheldelpon"] # 2017-2022
+"Darrieussecq", "MireilleRobert", "tamarelle_marie", "Fdumas2017", "stelladupont2", "karamanli72", "micheldelpon", "8306lrem"] # 2017-2022
 dead = ["Guy_Delcourt", "ConchitaLacuey", "MichelVERGNIER", "bernardroman59", "AndrSaint", "LucetteLousteau", "CathLEMORTON", "EPhilippe_LH", # 2012-2017
 "celiadeputee2017", "davidlorion", "PascalBois2017", "DipompeoChris", "Vincent.Ledoux59", "valeriebeauvais2017", "Josso2017", "ColasRoy2017", "Marc_Delatte", "EricDiardDepute", "bernarddeflesselles", "sttrompille", "pgoulet58", "GCHICHE2017", "obono2017", "Sempastous2017"  # 2017-2022
 ]
