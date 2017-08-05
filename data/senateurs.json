@@ -810,9 +810,9 @@
       }, 
       "favourites_count": 1281, 
       "follow_request_sent": false, 
-      "followers_count": 20434, 
+      "followers_count": 20438, 
       "following": false, 
-      "friends_count": 1741, 
+      "friends_count": 1742, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 110191018, 
@@ -820,7 +820,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 675, 
+      "listed_count": 674, 
       "location": "Ch-Gontier/Bruxelles/Strasbrg", 
       "name": "Jean Arthuis", 
       "notifications": false, 
@@ -842,39 +842,54 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Fri Aug 04 18:27:37 +0000 2017", 
+        "created_at": "Sat Aug 05 09:57:11 +0000 2017", 
         "entities": {
-          "hashtags": [], 
+          "hashtags": [
+            {
+              "indices": [
+                20, 
+                24
+              ], 
+              "text": "J01"
+            }, 
+            {
+              "indices": [
+                25, 
+                34
+              ], 
+              "text": "USCLAVAL"
+            }
+          ], 
           "symbols": [], 
           "urls": [], 
           "user_mentions": [
             {
-              "id": 282119887, 
-              "id_str": "282119887", 
+              "id": 114192650, 
+              "id_str": "114192650", 
               "indices": [
                 3, 
-                19
+                18
               ], 
-              "name": "Sylvain Maillard", 
-              "screen_name": "SylvainMaillard"
+              "name": "Stade Lavallois", 
+              "screen_name": "stadelavallois"
             }, 
             {
-              "id": 93644596, 
-              "id_str": "93644596", 
+              "id": 578837250, 
+              "id_str": "578837250", 
               "indices": [
-                44, 
-                52
+                88, 
+                101
               ], 
-              "name": "Minist\u00e8res de Bercy", 
-              "screen_name": "_Bercy_"
+              "name": "US Concarneau", 
+              "screen_name": "USConcarneau"
             }
           ]
         }, 
         "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 893538935099478017, 
-        "id_str": "893538935099478017", 
+        "id": 893772865769803776, 
+        "id_str": "893772865769803776", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -883,44 +898,49 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 32, 
+        "retweet_count": 36, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
           "coordinates": null, 
-          "created_at": "Fri Aug 04 10:54:17 +0000 2017", 
+          "created_at": "Fri Aug 04 19:51:43 +0000 2017", 
           "entities": {
-            "hashtags": [], 
-            "symbols": [], 
-            "urls": [
+            "hashtags": [
               {
-                "display_url": "twitter.com/i/web/status/8\u2026", 
-                "expanded_url": "https://twitter.com/i/web/status/893424849841999872", 
                 "indices": [
-                  117, 
-                  140
+                  0, 
+                  4
                 ], 
-                "url": "https://t.co/ufppYiePCL"
+                "text": "J01"
+              }, 
+              {
+                "indices": [
+                  5, 
+                  14
+                ], 
+                "text": "USCLAVAL"
               }
             ], 
+            "symbols": [], 
+            "urls": [], 
             "user_mentions": [
               {
-                "id": 93644596, 
-                "id_str": "93644596", 
+                "id": 578837250, 
+                "id_str": "578837250", 
                 "indices": [
-                  23, 
-                  31
+                  68, 
+                  81
                 ], 
-                "name": "Minist\u00e8res de Bercy", 
-                "screen_name": "_Bercy_"
+                "name": "US Concarneau", 
+                "screen_name": "USConcarneau"
               }
             ]
           }, 
-          "favorite_count": 72, 
+          "favorite_count": 57, 
           "favorited": false, 
           "geo": null, 
-          "id": 893424849841999872, 
-          "id_str": "893424849841999872", 
+          "id": 893560096969588737, 
+          "id_str": "893560096969588737", 
           "in_reply_to_screen_name": null, 
           "in_reply_to_status_id": null, 
           "in_reply_to_status_id_str": null, 
@@ -928,52 +948,18 @@
           "in_reply_to_user_id_str": null, 
           "is_quote_status": false, 
           "lang": "fr", 
-          "place": {
-            "attributes": {}, 
-            "bounding_box": {
-              "coordinates": [
-                [
-                  [
-                    2.2241005999999999, 
-                    48.815521400000002
-                  ], 
-                  [
-                    2.4699053000000002, 
-                    48.815521400000002
-                  ], 
-                  [
-                    2.4699053000000002, 
-                    48.902146100000003
-                  ], 
-                  [
-                    2.2241005999999999, 
-                    48.902146100000003
-                  ]
-                ]
-              ], 
-              "type": "Polygon"
-            }, 
-            "contained_within": [], 
-            "country": "France", 
-            "country_code": "FR", 
-            "full_name": "Paris, France", 
-            "id": "09f6a7707f18e0b1", 
-            "name": "Paris", 
-            "place_type": "city", 
-            "url": "https://api.twitter.com/1.1/geo/id/09f6a7707f18e0b1.json"
-          }, 
-          "possibly_sensitive": false, 
-          "retweet_count": 32, 
+          "place": null, 
+          "retweet_count": 36, 
           "retweeted": false, 
-          "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
-          "text": "H\u00f4tel des Ministres de @_Bercy_ , extrait subjectif de 2 portraits de la galerie des Ministres...aux sources de mes\u2026 https://t.co/ufppYiePCL", 
-          "truncated": true
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+          "text": "#J01 #USCLAVAL C'est fini !! Les Tango s'imposent sur le terrain de @USConcarneau sur ce score de 1 but \u00e0 0 ! \ud83d\udd36\u26ab\ufe0f", 
+          "truncated": false
         }, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "RT @SylvainMaillard: H\u00f4tel des Ministres de @_Bercy_ , extrait subjectif de 2 portraits de la galerie des Ministres...aux sources de mes en\u2026", 
+        "text": "RT @stadelavallois: #J01 #USCLAVAL C'est fini !! Les Tango s'imposent sur le terrain de @USConcarneau sur ce score de 1 but \u00e0 0 ! \ud83d\udd36\u26ab\ufe0f", 
         "truncated": false
       }, 
-      "statuses_count": 3622, 
+      "statuses_count": 3623, 
       "time_zone": "Amsterdam", 
       "translator_type": "none", 
       "url": "https://t.co/YhICpAOeW0", 
@@ -982,13 +968,13 @@
     }, 
     "twitter_description": "D\u00e9put\u00e9 europ\u00e9en, Pdt de la com. #BUDG fondateur de l'Alliance centriste #EnMarche, ancien ministre de l'\u00e9conomie et des finances https://t.co/fhOVDCyFu0", 
     "twitter_favourites": 1281, 
-    "twitter_followers": 20434, 
-    "twitter_following": 1741, 
+    "twitter_followers": 20438, 
+    "twitter_following": 1742, 
     "twitter_id": 110191018, 
-    "twitter_listed": 675, 
+    "twitter_listed": 674, 
     "twitter_name": "Jean Arthuis", 
     "twitter_protected": false, 
-    "twitter_tweets": 3622, 
+    "twitter_tweets": 3623, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/arthuis_jean83011j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-arthuis", 
@@ -2032,7 +2018,7 @@
           ]
         }
       }, 
-      "favourites_count": 1992, 
+      "favourites_count": 1993, 
       "follow_request_sent": false, 
       "followers_count": 1374, 
       "following": false, 
@@ -2181,7 +2167,7 @@
       "verified": false
     }, 
     "twitter_description": "Jean BESSON, S\u00e9nateur Honoraire, Pr\u00e9sident d'@energiesded, Vice Pr\u00e9sident de la @fnccr, #Progressiste", 
-    "twitter_favourites": 1992, 
+    "twitter_favourites": 1993, 
     "twitter_followers": 1374, 
     "twitter_following": 366, 
     "twitter_id": 78422142, 
@@ -3342,7 +3328,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 155, 
+      "listed_count": 154, 
       "location": "Calais, France", 
       "name": "Natacha BOUCHART", 
       "notifications": false, 
@@ -3499,7 +3485,7 @@
     "twitter_followers": 4523, 
     "twitter_following": 1064, 
     "twitter_id": 551342517, 
-    "twitter_listed": 155, 
+    "twitter_listed": 154, 
     "twitter_name": "Natacha BOUCHART", 
     "twitter_protected": false, 
     "twitter_tweets": 6023, 
@@ -5914,7 +5900,7 @@
       }, 
       "favourites_count": 155, 
       "follow_request_sent": false, 
-      "followers_count": 62014, 
+      "followers_count": 62007, 
       "following": false, 
       "friends_count": 695, 
       "geo_enabled": true, 
@@ -6023,7 +6009,7 @@
     }, 
     "twitter_description": "Ancien ministre. Pdt du club R\u00e9publique Moderne (@RepubliqueMod), de la Fondation Res Publica (@fondarespublica) et de la Fondation de l'Islam de France.", 
     "twitter_favourites": 155, 
-    "twitter_followers": 62014, 
+    "twitter_followers": 62007, 
     "twitter_following": 695, 
     "twitter_id": 57116930, 
     "twitter_listed": 1220, 
@@ -6802,7 +6788,7 @@
       }, 
       "favourites_count": 2, 
       "follow_request_sent": false, 
-      "followers_count": 778, 
+      "followers_count": 777, 
       "following": false, 
       "friends_count": 40, 
       "geo_enabled": false, 
@@ -6868,7 +6854,7 @@
     }, 
     "twitter_description": "", 
     "twitter_favourites": 2, 
-    "twitter_followers": 778, 
+    "twitter_followers": 777, 
     "twitter_following": 40, 
     "twitter_id": 84071417, 
     "twitter_listed": 81, 
@@ -6934,7 +6920,7 @@
       }, 
       "favourites_count": 9, 
       "follow_request_sent": false, 
-      "followers_count": 475, 
+      "followers_count": 476, 
       "following": false, 
       "friends_count": 13, 
       "geo_enabled": false, 
@@ -7089,7 +7075,7 @@
     }, 
     "twitter_description": "Maire de @villedemacon pr\u00e9sident de la @_MBAgglo", 
     "twitter_favourites": 9, 
-    "twitter_followers": 475, 
+    "twitter_followers": 476, 
     "twitter_following": 13, 
     "twitter_id": 1479161936, 
     "twitter_listed": 36, 
@@ -13252,7 +13238,7 @@
       }, 
       "favourites_count": 15, 
       "follow_request_sent": false, 
-      "followers_count": 900, 
+      "followers_count": 899, 
       "following": false, 
       "friends_count": 288, 
       "geo_enabled": false, 
@@ -13603,7 +13589,7 @@
     }, 
     "twitter_description": "Maire de Saint-Flour, Pr\u00e9sident des Maires du #Cantal, Comit\u00e9 des #Finances locales - #Collectivit\u00e9s territoriales #Urbanisme #Logement #D\u00e9veloppement durable", 
     "twitter_favourites": 15, 
-    "twitter_followers": 900, 
+    "twitter_followers": 899, 
     "twitter_following": 288, 
     "twitter_id": 2328417882, 
     "twitter_listed": 39, 
@@ -18405,7 +18391,7 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 251, 
+        "retweet_count": 255, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
@@ -18417,7 +18403,7 @@
             "urls": [], 
             "user_mentions": []
           }, 
-          "favorite_count": 191, 
+          "favorite_count": 196, 
           "favorited": false, 
           "geo": null, 
           "id": 892774693014564870, 
@@ -18430,7 +18416,7 @@
           "is_quote_status": false, 
           "lang": "fr", 
           "place": null, 
-          "retweet_count": 251, 
+          "retweet_count": 255, 
           "retweeted": false, 
           "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
           "text": "2 jours apr\u00e8s CNT, le Gvt d\u00e9cide d'annuler 300M de cr\u00e9dits pour les coll terr.Une brutalit\u00e9 qui fragilise quartiers et territoires ruraux.", 
@@ -19652,7 +19638,7 @@
       }, 
       "favourites_count": 1800, 
       "follow_request_sent": false, 
-      "followers_count": 94378, 
+      "followers_count": 94391, 
       "following": false, 
       "friends_count": 2430, 
       "geo_enabled": true, 
@@ -19727,7 +19713,7 @@
     }, 
     "twitter_description": "Ancien Ministre. S\u00e9nateur de l'Essonne. Conseiller r\u00e9gional d'\u00cele de France. Pr\u00e9sident de l' @UDE_FR", 
     "twitter_favourites": 1800, 
-    "twitter_followers": 94378, 
+    "twitter_followers": 94391, 
     "twitter_following": 2430, 
     "twitter_id": 219361536, 
     "twitter_listed": 1004, 
@@ -21186,7 +21172,7 @@
       }, 
       "favourites_count": 76, 
       "follow_request_sent": false, 
-      "followers_count": 5616, 
+      "followers_count": 5618, 
       "following": false, 
       "friends_count": 471, 
       "geo_enabled": true, 
@@ -21264,7 +21250,7 @@
     }, 
     "twitter_description": "Maire de Strasbourg", 
     "twitter_favourites": 76, 
-    "twitter_followers": 5616, 
+    "twitter_followers": 5618, 
     "twitter_following": 471, 
     "twitter_id": 281438650, 
     "twitter_listed": 246, 
