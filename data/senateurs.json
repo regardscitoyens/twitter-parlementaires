@@ -810,9 +810,9 @@
       }, 
       "favourites_count": 1281, 
       "follow_request_sent": false, 
-      "followers_count": 20510, 
+      "followers_count": 20516, 
       "following": false, 
-      "friends_count": 1745, 
+      "friends_count": 1746, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 110191018, 
@@ -860,7 +860,7 @@
             }
           ]
         }, 
-        "favorite_count": 23, 
+        "favorite_count": 29, 
         "favorited": false, 
         "geo": null, 
         "id": 896820544825327617, 
@@ -906,7 +906,7 @@
           "place_type": "city", 
           "url": "https://api.twitter.com/1.1/geo/id/61aaf18ddd5a0627.json"
         }, 
-        "retweet_count": 2, 
+        "retweet_count": 3, 
         "retweeted": false, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
         "text": "@lerefuge Je vous suis, par estime et reconnaissance de votre action.", 
@@ -921,8 +921,8 @@
     }, 
     "twitter_description": "D\u00e9put\u00e9 europ\u00e9en, Pdt de la com. #BUDG fondateur de l'Alliance centriste #EnMarche, ancien ministre de l'\u00e9conomie et des finances https://t.co/fhOVDCyFu0", 
     "twitter_favourites": 1281, 
-    "twitter_followers": 20510, 
-    "twitter_following": 1745, 
+    "twitter_followers": 20516, 
+    "twitter_following": 1746, 
     "twitter_id": 110191018, 
     "twitter_listed": 677, 
     "twitter_name": "Jean Arthuis", 
@@ -1952,7 +1952,7 @@
       "created_at": "Tue Sep 29 21:33:25 +0000 2009", 
       "default_profile": false, 
       "default_profile_image": false, 
-      "description": "Jean BESSON, S\u00e9nateur Honoraire, Pr\u00e9sident d'@energiesded, Vice Pr\u00e9sident de la @fnccr, #Progressiste", 
+      "description": "Jean BESSON, S\u00e9nateur Honoraire, Pr\u00e9sident d'@energiesded, Vice Pr\u00e9sident de la @fnccr, #Progressiste #Europ\u00e9iste", 
       "entities": {
         "description": {
           "urls": []
@@ -1971,9 +1971,9 @@
           ]
         }
       }, 
-      "favourites_count": 2014, 
+      "favourites_count": 2015, 
       "follow_request_sent": false, 
-      "followers_count": 1379, 
+      "followers_count": 1380, 
       "following": false, 
       "friends_count": 368, 
       "geo_enabled": true, 
@@ -2005,15 +2005,57 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Sun Aug 13 13:58:28 +0000 2017", 
+        "created_at": "Mon Aug 14 16:15:43 +0000 2017", 
         "entities": {
           "hashtags": [
             {
               "indices": [
-                74, 
-                81
+                20, 
+                27
               ], 
-              "text": "Europe"
+              "text": "Brexit"
+            }
+          ], 
+          "media": [
+            {
+              "display_url": "pic.twitter.com/xYLfe3bvvJ", 
+              "expanded_url": "https://twitter.com/Antonio_Duarte/status/896710191907000320/photo/1", 
+              "id": 896710186542526468, 
+              "id_str": "896710186542526468", 
+              "indices": [
+                41, 
+                64
+              ], 
+              "media_url": "http://pbs.twimg.com/media/DHHBKedXcAQZ1CN.jpg", 
+              "media_url_https": "https://pbs.twimg.com/media/DHHBKedXcAQZ1CN.jpg", 
+              "sizes": {
+                "large": {
+                  "h": 616, 
+                  "resize": "fit", 
+                  "w": 512
+                }, 
+                "medium": {
+                  "h": 616, 
+                  "resize": "fit", 
+                  "w": 512
+                }, 
+                "small": {
+                  "h": 616, 
+                  "resize": "fit", 
+                  "w": 512
+                }, 
+                "thumb": {
+                  "h": 150, 
+                  "resize": "crop", 
+                  "w": 150
+                }
+              }, 
+              "source_status_id": 896710191907000320, 
+              "source_status_id_str": "896710191907000320", 
+              "source_user_id": 45343260, 
+              "source_user_id_str": "45343260", 
+              "type": "photo", 
+              "url": "https://t.co/xYLfe3bvvJ"
             }
           ], 
           "symbols": [], 
@@ -2031,93 +2073,202 @@
             }
           ]
         }, 
+        "extended_entities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/xYLfe3bvvJ", 
+              "expanded_url": "https://twitter.com/Antonio_Duarte/status/896710191907000320/photo/1", 
+              "id": 896710186542526468, 
+              "id_str": "896710186542526468", 
+              "indices": [
+                41, 
+                64
+              ], 
+              "media_url": "http://pbs.twimg.com/media/DHHBKedXcAQZ1CN.jpg", 
+              "media_url_https": "https://pbs.twimg.com/media/DHHBKedXcAQZ1CN.jpg", 
+              "sizes": {
+                "large": {
+                  "h": 616, 
+                  "resize": "fit", 
+                  "w": 512
+                }, 
+                "medium": {
+                  "h": 616, 
+                  "resize": "fit", 
+                  "w": 512
+                }, 
+                "small": {
+                  "h": 616, 
+                  "resize": "fit", 
+                  "w": 512
+                }, 
+                "thumb": {
+                  "h": 150, 
+                  "resize": "crop", 
+                  "w": 150
+                }
+              }, 
+              "source_status_id": 896710191907000320, 
+              "source_status_id_str": "896710191907000320", 
+              "source_user_id": 45343260, 
+              "source_user_id_str": "45343260", 
+              "type": "photo", 
+              "url": "https://t.co/xYLfe3bvvJ"
+            }
+          ]
+        }, 
         "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 896732690434732032, 
-        "id_str": "896732690434732032", 
+        "id": 897129619039637504, 
+        "id_str": "897129619039637504", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
         "in_reply_to_user_id": null, 
         "in_reply_to_user_id_str": null, 
-        "is_quote_status": true, 
+        "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "quoted_status_id": 896043135738032135, 
-        "quoted_status_id_str": "896043135738032135", 
-        "retweet_count": 3, 
+        "possibly_sensitive": false, 
+        "retweet_count": 12, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
           "coordinates": null, 
-          "created_at": "Sun Aug 13 09:29:57 +0000 2017", 
+          "created_at": "Sun Aug 13 12:29:04 +0000 2017", 
           "entities": {
             "hashtags": [
               {
                 "indices": [
-                  54, 
-                  61
+                  0, 
+                  7
                 ], 
-                "text": "Europe"
+                "text": "Brexit"
+              }
+            ], 
+            "media": [
+              {
+                "display_url": "pic.twitter.com/xYLfe3bvvJ", 
+                "expanded_url": "https://twitter.com/Antonio_Duarte/status/896710191907000320/photo/1", 
+                "id": 896710186542526468, 
+                "id_str": "896710186542526468", 
+                "indices": [
+                  21, 
+                  44
+                ], 
+                "media_url": "http://pbs.twimg.com/media/DHHBKedXcAQZ1CN.jpg", 
+                "media_url_https": "https://pbs.twimg.com/media/DHHBKedXcAQZ1CN.jpg", 
+                "sizes": {
+                  "large": {
+                    "h": 616, 
+                    "resize": "fit", 
+                    "w": 512
+                  }, 
+                  "medium": {
+                    "h": 616, 
+                    "resize": "fit", 
+                    "w": 512
+                  }, 
+                  "small": {
+                    "h": 616, 
+                    "resize": "fit", 
+                    "w": 512
+                  }, 
+                  "thumb": {
+                    "h": 150, 
+                    "resize": "crop", 
+                    "w": 150
+                  }
+                }, 
+                "type": "photo", 
+                "url": "https://t.co/xYLfe3bvvJ"
               }
             ], 
             "symbols": [], 
-            "urls": [
-              {
-                "display_url": "twitter.com/i/web/status/8\u2026", 
-                "expanded_url": "https://twitter.com/i/web/status/896665116875395072", 
-                "indices": [
-                  116, 
-                  139
-                ], 
-                "url": "https://t.co/eNnxc66oCn"
-              }
-            ], 
+            "urls": [], 
             "user_mentions": []
           }, 
-          "favorite_count": 4, 
+          "extended_entities": {
+            "media": [
+              {
+                "display_url": "pic.twitter.com/xYLfe3bvvJ", 
+                "expanded_url": "https://twitter.com/Antonio_Duarte/status/896710191907000320/photo/1", 
+                "id": 896710186542526468, 
+                "id_str": "896710186542526468", 
+                "indices": [
+                  21, 
+                  44
+                ], 
+                "media_url": "http://pbs.twimg.com/media/DHHBKedXcAQZ1CN.jpg", 
+                "media_url_https": "https://pbs.twimg.com/media/DHHBKedXcAQZ1CN.jpg", 
+                "sizes": {
+                  "large": {
+                    "h": 616, 
+                    "resize": "fit", 
+                    "w": 512
+                  }, 
+                  "medium": {
+                    "h": 616, 
+                    "resize": "fit", 
+                    "w": 512
+                  }, 
+                  "small": {
+                    "h": 616, 
+                    "resize": "fit", 
+                    "w": 512
+                  }, 
+                  "thumb": {
+                    "h": 150, 
+                    "resize": "crop", 
+                    "w": 150
+                  }
+                }, 
+                "type": "photo", 
+                "url": "https://t.co/xYLfe3bvvJ"
+              }
+            ]
+          }, 
+          "favorite_count": 9, 
           "favorited": false, 
           "geo": null, 
-          "id": 896665116875395072, 
-          "id_str": "896665116875395072", 
+          "id": 896710191907000320, 
+          "id_str": "896710191907000320", 
           "in_reply_to_screen_name": null, 
           "in_reply_to_status_id": null, 
           "in_reply_to_status_id_str": null, 
           "in_reply_to_user_id": null, 
           "in_reply_to_user_id_str": null, 
-          "is_quote_status": true, 
+          "is_quote_status": false, 
           "lang": "fr", 
           "place": null, 
           "possibly_sensitive": false, 
-          "quoted_status_id": 896043135738032135, 
-          "quoted_status_id_str": "896043135738032135", 
-          "retweet_count": 3, 
+          "retweet_count": 12, 
           "retweeted": false, 
           "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-          "text": "Salue le discours \u00e9clair\u00e9 de ce D\u00e9put\u00e9 Europ\u00e9en sur l'#Europe a construire entre les tanks de Poutine et le mur de\u2026 https://t.co/eNnxc66oCn", 
-          "truncated": true
+          "text": "#Brexit by Herg\u00e9 ;-) https://t.co/xYLfe3bvvJ", 
+          "truncated": false
         }, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "RT @Antonio_Duarte: Salue le discours \u00e9clair\u00e9 de ce D\u00e9put\u00e9 Europ\u00e9en sur l'#Europe a construire entre les tanks de Poutine et le mur de Trum\u2026", 
+        "text": "RT @Antonio_Duarte: #Brexit by Herg\u00e9 ;-) https://t.co/xYLfe3bvvJ", 
         "truncated": false
       }, 
-      "statuses_count": 1525, 
+      "statuses_count": 1526, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": "https://t.co/cFrea9booe", 
       "utc_offset": 7200, 
       "verified": false
     }, 
-    "twitter_description": "Jean BESSON, S\u00e9nateur Honoraire, Pr\u00e9sident d'@energiesded, Vice Pr\u00e9sident de la @fnccr, #Progressiste", 
-    "twitter_favourites": 2014, 
-    "twitter_followers": 1379, 
+    "twitter_description": "Jean BESSON, S\u00e9nateur Honoraire, Pr\u00e9sident d'@energiesded, Vice Pr\u00e9sident de la @fnccr, #Progressiste #Europ\u00e9iste", 
+    "twitter_favourites": 2015, 
+    "twitter_followers": 1380, 
     "twitter_following": 368, 
     "twitter_id": 78422142, 
     "twitter_listed": 84, 
     "twitter_name": "Jean BESSON", 
     "twitter_protected": false, 
-    "twitter_tweets": 1525, 
+    "twitter_tweets": 1526, 
     "twitter_verified": false, 
     "url_institution": "http://www.senat.fr/senateur/besson_jean89015p.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-besson", 
@@ -3332,7 +3483,7 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 193, 
+        "retweet_count": 194, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
@@ -3359,7 +3510,7 @@
             "urls": [], 
             "user_mentions": []
           }, 
-          "favorite_count": 403, 
+          "favorite_count": 404, 
           "favorited": false, 
           "geo": null, 
           "id": 895186338093387777, 
@@ -3372,7 +3523,7 @@
           "is_quote_status": false, 
           "lang": "fr", 
           "place": null, 
-          "retweet_count": 193, 
+          "retweet_count": 194, 
           "retweeted": false, 
           "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
           "text": "Respect et reconnaissance aux militaires de l'op\u00e9ration #Sentinelle qui risquent leur vie au quotidien pour nous prot\u00e9ger. #LevalloisPerret", 
@@ -5811,7 +5962,7 @@
       }, 
       "favourites_count": 155, 
       "follow_request_sent": false, 
-      "followers_count": 62023, 
+      "followers_count": 62021, 
       "following": false, 
       "friends_count": 695, 
       "geo_enabled": true, 
@@ -5900,7 +6051,7 @@
     }, 
     "twitter_description": "Ancien ministre. Pdt du club R\u00e9publique Moderne (@RepubliqueMod), de la Fondation Res Publica (@fondarespublica) et de la Fondation de l'Islam de France.", 
     "twitter_favourites": 155, 
-    "twitter_followers": 62023, 
+    "twitter_followers": 62021, 
     "twitter_following": 695, 
     "twitter_id": 57116930, 
     "twitter_listed": 1220, 
@@ -6679,7 +6830,7 @@
       }, 
       "favourites_count": 2, 
       "follow_request_sent": false, 
-      "followers_count": 777, 
+      "followers_count": 776, 
       "following": false, 
       "friends_count": 40, 
       "geo_enabled": false, 
@@ -6745,7 +6896,7 @@
     }, 
     "twitter_description": "", 
     "twitter_favourites": 2, 
-    "twitter_followers": 777, 
+    "twitter_followers": 776, 
     "twitter_following": 40, 
     "twitter_id": 84071417, 
     "twitter_listed": 80, 
@@ -6811,7 +6962,7 @@
       }, 
       "favourites_count": 9, 
       "follow_request_sent": false, 
-      "followers_count": 477, 
+      "followers_count": 478, 
       "following": false, 
       "friends_count": 13, 
       "geo_enabled": false, 
@@ -6966,7 +7117,7 @@
     }, 
     "twitter_description": "Maire de @villedemacon pr\u00e9sident de la @_MBAgglo", 
     "twitter_favourites": 9, 
-    "twitter_followers": 477, 
+    "twitter_followers": 478, 
     "twitter_following": 13, 
     "twitter_id": 1479161936, 
     "twitter_listed": 36, 
@@ -13129,7 +13280,7 @@
       }, 
       "favourites_count": 15, 
       "follow_request_sent": false, 
-      "followers_count": 902, 
+      "followers_count": 904, 
       "following": false, 
       "friends_count": 288, 
       "geo_enabled": false, 
@@ -13480,7 +13631,7 @@
     }, 
     "twitter_description": "Maire de Saint-Flour, Pr\u00e9sident des Maires du #Cantal, Comit\u00e9 des #Finances locales - #Collectivit\u00e9s territoriales #Urbanisme #Logement #D\u00e9veloppement durable", 
     "twitter_favourites": 15, 
-    "twitter_followers": 902, 
+    "twitter_followers": 904, 
     "twitter_following": 288, 
     "twitter_id": 2328417882, 
     "twitter_listed": 39, 
@@ -17020,7 +17171,7 @@
       }, 
       "favourites_count": 5, 
       "follow_request_sent": false, 
-      "followers_count": 3796, 
+      "followers_count": 3797, 
       "following": false, 
       "friends_count": 2348, 
       "geo_enabled": false, 
@@ -17086,7 +17237,7 @@
     }, 
     "twitter_description": "S\u00e9nateur honoraire-maire de Compi\u00e8gne , Pr\u00e9sident de l'agglom\u00e9ration de la r\u00e9gion de Compi\u00e8gne, Pr\u00e9sident de la commission des finances du S\u00e9nat.", 
     "twitter_favourites": 5, 
-    "twitter_followers": 3796, 
+    "twitter_followers": 3797, 
     "twitter_following": 2348, 
     "twitter_id": 1534099902, 
     "twitter_listed": 127, 
@@ -18229,7 +18380,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 0, 
+      "listed_count": 11, 
       "location": "Lazer", 
       "name": "P. Morhet-Richaud", 
       "notifications": false, 
@@ -18294,7 +18445,7 @@
             "urls": [], 
             "user_mentions": []
           }, 
-          "favorite_count": 207, 
+          "favorite_count": 208, 
           "favorited": false, 
           "geo": null, 
           "id": 892774693014564870, 
@@ -18329,7 +18480,7 @@
     "twitter_followers": 282, 
     "twitter_following": 160, 
     "twitter_id": 3189823869, 
-    "twitter_listed": 0, 
+    "twitter_listed": 11, 
     "twitter_name": "P. Morhet-Richaud", 
     "twitter_protected": false, 
     "twitter_tweets": 87, 
@@ -19529,7 +19680,7 @@
       }, 
       "favourites_count": 1800, 
       "follow_request_sent": false, 
-      "followers_count": 94503, 
+      "followers_count": 94525, 
       "following": false, 
       "friends_count": 2430, 
       "geo_enabled": true, 
@@ -19611,7 +19762,7 @@
     }, 
     "twitter_description": "Ancien Ministre. S\u00e9nateur de l'Essonne. Conseiller r\u00e9gional d'\u00cele de France. Pr\u00e9sident de l' @UDE_FR", 
     "twitter_favourites": 1800, 
-    "twitter_followers": 94503, 
+    "twitter_followers": 94525, 
     "twitter_following": 2430, 
     "twitter_id": 219361536, 
     "twitter_listed": 1003, 
@@ -21070,7 +21221,7 @@
       }, 
       "favourites_count": 76, 
       "follow_request_sent": false, 
-      "followers_count": 5634, 
+      "followers_count": 5637, 
       "following": false, 
       "friends_count": 470, 
       "geo_enabled": true, 
@@ -21080,7 +21231,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 245, 
+      "listed_count": 246, 
       "location": "Strasbourg, France", 
       "name": "Roland Ries", 
       "notifications": false, 
@@ -21220,7 +21371,7 @@
             }
           ]
         }, 
-        "favorite_count": 14, 
+        "favorite_count": 18, 
         "favorited": false, 
         "geo": null, 
         "id": 896747731494031360, 
@@ -21249,10 +21400,10 @@
     }, 
     "twitter_description": "Maire de Strasbourg", 
     "twitter_favourites": 76, 
-    "twitter_followers": 5634, 
+    "twitter_followers": 5637, 
     "twitter_following": 470, 
     "twitter_id": 281438650, 
-    "twitter_listed": 245, 
+    "twitter_listed": 246, 
     "twitter_name": "Roland Ries", 
     "twitter_protected": false, 
     "twitter_tweets": 662, 
