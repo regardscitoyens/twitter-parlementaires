@@ -810,9 +810,9 @@
       }, 
       "favourites_count": 1281, 
       "follow_request_sent": false, 
-      "followers_count": 20527, 
+      "followers_count": 20534, 
       "following": false, 
-      "friends_count": 1751, 
+      "friends_count": 1752, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 110191018, 
@@ -842,18 +842,37 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Fri Aug 18 19:26:32 +0000 2017", 
+        "created_at": "Sat Aug 19 16:26:22 +0000 2017", 
         "entities": {
-          "hashtags": [], 
+          "hashtags": [
+            {
+              "indices": [
+                40, 
+                46
+              ], 
+              "text": "Saint"
+            }
+          ], 
           "symbols": [], 
           "urls": [], 
-          "user_mentions": []
+          "user_mentions": [
+            {
+              "id": 2865750927, 
+              "id_str": "2865750927", 
+              "indices": [
+                3, 
+                19
+              ], 
+              "name": "Ch\u00e2teau-Gontier", 
+              "screen_name": "chateau_gontier"
+            }
+          ]
         }, 
-        "favorite_count": 74, 
+        "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 898627189838454785, 
-        "id_str": "898627189838454785", 
+        "id": 898944235751129089, 
+        "id_str": "898944235751129089", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -861,47 +880,130 @@
         "in_reply_to_user_id_str": null, 
         "is_quote_status": false, 
         "lang": "fr", 
-        "place": {
-          "attributes": {}, 
-          "bounding_box": {
-            "coordinates": [
-              [
-                [
-                  -0.7829585, 
-                  47.795988899999998
-                ], 
-                [
-                  -0.68886130000000001, 
-                  47.795988899999998
-                ], 
-                [
-                  -0.68886130000000001, 
-                  47.856612900000002
-                ], 
-                [
-                  -0.7829585, 
-                  47.856612900000002
-                ]
-              ]
-            ], 
-            "type": "Polygon"
-          }, 
-          "contained_within": [], 
-          "country": "France", 
-          "country_code": "FR", 
-          "full_name": "Ch\u00e2teau-Gontier, France", 
-          "id": "61aaf18ddd5a0627", 
-          "name": "Ch\u00e2teau-Gontier", 
-          "place_type": "city", 
-          "url": "https://api.twitter.com/1.1/geo/id/61aaf18ddd5a0627.json"
-        }, 
-        "retweet_count": 55, 
+        "place": null, 
+        "retweet_count": 10, 
         "retweeted": false, 
+        "retweeted_status": {
+          "contributors": null, 
+          "coordinates": null, 
+          "created_at": "Sat Aug 19 09:15:09 +0000 2017", 
+          "entities": {
+            "hashtags": [
+              {
+                "indices": [
+                  19, 
+                  25
+                ], 
+                "text": "Saint"
+              }
+            ], 
+            "media": [
+              {
+                "display_url": "pic.twitter.com/7VZsncqQUB", 
+                "expanded_url": "https://twitter.com/chateau_gontier/status/898835717127897089/photo/1", 
+                "id": 898835693794996224, 
+                "id_str": "898835693794996224", 
+                "indices": [
+                  97, 
+                  120
+                ], 
+                "media_url": "http://pbs.twimg.com/media/DHlOTSAXsAAGTIC.jpg", 
+                "media_url_https": "https://pbs.twimg.com/media/DHlOTSAXsAAGTIC.jpg", 
+                "sizes": {
+                  "large": {
+                    "h": 1152, 
+                    "resize": "fit", 
+                    "w": 2048
+                  }, 
+                  "medium": {
+                    "h": 675, 
+                    "resize": "fit", 
+                    "w": 1200
+                  }, 
+                  "small": {
+                    "h": 383, 
+                    "resize": "fit", 
+                    "w": 680
+                  }, 
+                  "thumb": {
+                    "h": 150, 
+                    "resize": "crop", 
+                    "w": 150
+                  }
+                }, 
+                "type": "photo", 
+                "url": "https://t.co/7VZsncqQUB"
+              }
+            ], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": []
+          }, 
+          "extended_entities": {
+            "media": [
+              {
+                "display_url": "pic.twitter.com/7VZsncqQUB", 
+                "expanded_url": "https://twitter.com/chateau_gontier/status/898835717127897089/photo/1", 
+                "id": 898835693794996224, 
+                "id_str": "898835693794996224", 
+                "indices": [
+                  97, 
+                  120
+                ], 
+                "media_url": "http://pbs.twimg.com/media/DHlOTSAXsAAGTIC.jpg", 
+                "media_url_https": "https://pbs.twimg.com/media/DHlOTSAXsAAGTIC.jpg", 
+                "sizes": {
+                  "large": {
+                    "h": 1152, 
+                    "resize": "fit", 
+                    "w": 2048
+                  }, 
+                  "medium": {
+                    "h": 675, 
+                    "resize": "fit", 
+                    "w": 1200
+                  }, 
+                  "small": {
+                    "h": 383, 
+                    "resize": "fit", 
+                    "w": 680
+                  }, 
+                  "thumb": {
+                    "h": 150, 
+                    "resize": "crop", 
+                    "w": 150
+                  }
+                }, 
+                "type": "photo", 
+                "url": "https://t.co/7VZsncqQUB"
+              }
+            ]
+          }, 
+          "favorite_count": 7, 
+          "favorited": false, 
+          "geo": null, 
+          "id": 898835717127897089, 
+          "id_str": "898835717127897089", 
+          "in_reply_to_screen_name": null, 
+          "in_reply_to_status_id": null, 
+          "in_reply_to_status_id_str": null, 
+          "in_reply_to_user_id": null, 
+          "in_reply_to_user_id_str": null, 
+          "is_quote_status": false, 
+          "lang": "fr", 
+          "place": null, 
+          "possibly_sensitive": false, 
+          "retweet_count": 10, 
+          "retweeted": false, 
+          "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+          "text": "Inauguration de la #Saint Fiacre. Demain concours percherons et tuning. Et toujours les maneges! https://t.co/7VZsncqQUB", 
+          "truncated": false
+        }, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "Barcelone,Londres,Berlin, Paris, Nice,l'Europe est le cible des terroristes. Au del\u00e0 des \u00c9tats membres, c'est l'Europe qui doit se mobiliser", 
+        "text": "RT @chateau_gontier: Inauguration de la #Saint Fiacre. Demain concours percherons et tuning. Et toujours les maneges! https://t.co/7VZsncqQ\u2026", 
         "truncated": false
       }, 
-      "statuses_count": 3631, 
+      "statuses_count": 3632, 
       "time_zone": "Amsterdam", 
       "translator_type": "none", 
       "url": "https://t.co/YhICpAOeW0", 
@@ -910,13 +1012,13 @@
     }, 
     "twitter_description": "D\u00e9put\u00e9 europ\u00e9en, Pdt de la com. #BUDG fondateur de l'Alliance centriste #EnMarche, ancien ministre de l'\u00e9conomie et des finances https://t.co/fhOVDCyFu0", 
     "twitter_favourites": 1281, 
-    "twitter_followers": 20527, 
-    "twitter_following": 1751, 
+    "twitter_followers": 20534, 
+    "twitter_following": 1752, 
     "twitter_id": 110191018, 
     "twitter_listed": 677, 
     "twitter_name": "Jean Arthuis", 
     "twitter_protected": false, 
-    "twitter_tweets": 3631, 
+    "twitter_tweets": 3632, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/arthuis_jean83011j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-arthuis", 
@@ -1960,7 +2062,7 @@
           ]
         }
       }, 
-      "favourites_count": 2017, 
+      "favourites_count": 2018, 
       "follow_request_sent": false, 
       "followers_count": 1378, 
       "following": false, 
@@ -1972,7 +2074,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 0, 
+      "listed_count": 84, 
       "location": "Valence, France, Europe", 
       "name": "Jean BESSON", 
       "notifications": false, 
@@ -2033,7 +2135,7 @@
         "is_quote_status": false, 
         "lang": "es", 
         "place": null, 
-        "retweet_count": 23231, 
+        "retweet_count": 23579, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
@@ -2053,7 +2155,7 @@
             "urls": [], 
             "user_mentions": []
           }, 
-          "favorite_count": 59869, 
+          "favorite_count": 61154, 
           "favorited": false, 
           "geo": null, 
           "id": 898247731642159104, 
@@ -2066,7 +2168,7 @@
           "is_quote_status": false, 
           "lang": "es", 
           "place": null, 
-          "retweet_count": 23231, 
+          "retweet_count": 23579, 
           "retweeted": false, 
           "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
           "text": "Solidaridad con #Barcelona. Estamos a su lado. \ud83c\uddeb\ud83c\uddf7\ud83c\uddea\ud83c\uddf8", 
@@ -2076,7 +2178,7 @@
         "text": "RT @EmmanuelMacron: Solidaridad con #Barcelona. Estamos a su lado. \ud83c\uddeb\ud83c\uddf7\ud83c\uddea\ud83c\uddf8", 
         "truncated": false
       }, 
-      "statuses_count": 1527, 
+      "statuses_count": 1526, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": "https://t.co/cFrea9booe", 
@@ -2084,14 +2186,14 @@
       "verified": false
     }, 
     "twitter_description": "Jean BESSON, S\u00e9nateur Honoraire, Pr\u00e9sident d'@energiesded, Vice Pr\u00e9sident de la @fnccr, #Progressiste #Europ\u00e9iste", 
-    "twitter_favourites": 2017, 
+    "twitter_favourites": 2018, 
     "twitter_followers": 1378, 
     "twitter_following": 368, 
     "twitter_id": 78422142, 
-    "twitter_listed": 0, 
+    "twitter_listed": 84, 
     "twitter_name": "Jean BESSON", 
     "twitter_protected": false, 
-    "twitter_tweets": 1527, 
+    "twitter_tweets": 1526, 
     "twitter_verified": false, 
     "url_institution": "http://www.senat.fr/senateur/besson_jean89015p.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-besson", 
@@ -3235,7 +3337,7 @@
       }, 
       "favourites_count": 231, 
       "follow_request_sent": false, 
-      "followers_count": 4535, 
+      "followers_count": 4539, 
       "following": false, 
       "friends_count": 1065, 
       "geo_enabled": true, 
@@ -3334,7 +3436,7 @@
         "text": "Solidarit\u00e9 avec nos amis espagnols \ud83c\uddea\ud83c\uddf8 #Barcelone", 
         "truncated": false
       }, 
-      "statuses_count": 6026, 
+      "statuses_count": 6025, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": null, 
@@ -3343,13 +3445,13 @@
     }, 
     "twitter_description": "Vice-Pr\u00e9sidente de la R\u00e9gion Hauts-de-France. Maire de #Calais, Pr\u00e9sidente de Grand Calais Terres & Mers", 
     "twitter_favourites": 231, 
-    "twitter_followers": 4535, 
+    "twitter_followers": 4539, 
     "twitter_following": 1065, 
     "twitter_id": 551342517, 
     "twitter_listed": 154, 
     "twitter_name": "Natacha BOUCHART", 
     "twitter_protected": false, 
-    "twitter_tweets": 6026, 
+    "twitter_tweets": 6025, 
     "twitter_verified": false, 
     "url_institution": "http://www.senat.fr/senateur/bouchart_natacha11060j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/natacha-bouchart", 
@@ -5763,7 +5865,7 @@
       }, 
       "favourites_count": 155, 
       "follow_request_sent": false, 
-      "followers_count": 62037, 
+      "followers_count": 62034, 
       "following": false, 
       "friends_count": 695, 
       "geo_enabled": true, 
@@ -5852,7 +5954,7 @@
     }, 
     "twitter_description": "Ancien ministre. Pdt du club R\u00e9publique Moderne (@RepubliqueMod), de la Fondation Res Publica (@fondarespublica) et de la Fondation de l'Islam de France.", 
     "twitter_favourites": 155, 
-    "twitter_followers": 62037, 
+    "twitter_followers": 62034, 
     "twitter_following": 695, 
     "twitter_id": 57116930, 
     "twitter_listed": 1220, 
@@ -6631,7 +6733,7 @@
       }, 
       "favourites_count": 2, 
       "follow_request_sent": false, 
-      "followers_count": 776, 
+      "followers_count": 775, 
       "following": false, 
       "friends_count": 40, 
       "geo_enabled": false, 
@@ -6697,7 +6799,7 @@
     }, 
     "twitter_description": "", 
     "twitter_favourites": 2, 
-    "twitter_followers": 776, 
+    "twitter_followers": 775, 
     "twitter_following": 40, 
     "twitter_id": 84071417, 
     "twitter_listed": 80, 
@@ -6773,7 +6875,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 0, 
+      "listed_count": 36, 
       "location": "M\u00e2con", 
       "name": "J-P COURTOIS", 
       "notifications": false, 
@@ -6921,7 +7023,7 @@
     "twitter_followers": 480, 
     "twitter_following": 13, 
     "twitter_id": 1479161936, 
-    "twitter_listed": 0, 
+    "twitter_listed": 36, 
     "twitter_name": "J-P COURTOIS", 
     "twitter_protected": false, 
     "twitter_tweets": 27, 
@@ -13081,7 +13183,7 @@
       }, 
       "favourites_count": 15, 
       "follow_request_sent": false, 
-      "followers_count": 911, 
+      "followers_count": 912, 
       "following": false, 
       "friends_count": 288, 
       "geo_enabled": false, 
@@ -13432,7 +13534,7 @@
     }, 
     "twitter_description": "Maire de Saint-Flour, Pr\u00e9sident des Maires du #Cantal, Comit\u00e9 des #Finances locales - #Collectivit\u00e9s territoriales #Urbanisme #Logement #D\u00e9veloppement durable", 
     "twitter_favourites": 15, 
-    "twitter_followers": 911, 
+    "twitter_followers": 912, 
     "twitter_following": 288, 
     "twitter_id": 2328417882, 
     "twitter_listed": 40, 
@@ -16972,7 +17074,7 @@
       }, 
       "favourites_count": 5, 
       "follow_request_sent": false, 
-      "followers_count": 3793, 
+      "followers_count": 3794, 
       "following": false, 
       "friends_count": 2348, 
       "geo_enabled": false, 
@@ -17038,7 +17140,7 @@
     }, 
     "twitter_description": "S\u00e9nateur honoraire-maire de Compi\u00e8gne , Pr\u00e9sident de l'agglom\u00e9ration de la r\u00e9gion de Compi\u00e8gne, Pr\u00e9sident de la commission des finances du S\u00e9nat.", 
     "twitter_favourites": 5, 
-    "twitter_followers": 3793, 
+    "twitter_followers": 3794, 
     "twitter_following": 2348, 
     "twitter_id": 1534099902, 
     "twitter_listed": 127, 
@@ -18171,7 +18273,7 @@
       }, 
       "favourites_count": 136, 
       "follow_request_sent": false, 
-      "followers_count": 286, 
+      "followers_count": 287, 
       "following": false, 
       "friends_count": 160, 
       "geo_enabled": false, 
@@ -18246,7 +18348,7 @@
     }, 
     "twitter_description": "S\u00e9natrice Les R\u00e9publicains des Hautes-Alpes", 
     "twitter_favourites": 136, 
-    "twitter_followers": 286, 
+    "twitter_followers": 287, 
     "twitter_following": 160, 
     "twitter_id": 3189823869, 
     "twitter_listed": 11, 
@@ -19449,9 +19551,9 @@
       }, 
       "favourites_count": 1797, 
       "follow_request_sent": false, 
-      "followers_count": 94598, 
+      "followers_count": 94618, 
       "following": false, 
-      "friends_count": 2433, 
+      "friends_count": 2432, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 219361536, 
@@ -19496,7 +19598,7 @@
           "urls": [], 
           "user_mentions": []
         }, 
-        "favorite_count": 35, 
+        "favorite_count": 38, 
         "favorited": false, 
         "geo": null, 
         "id": 898279262876311554, 
@@ -19524,8 +19626,8 @@
     }, 
     "twitter_description": "Ancien Ministre. S\u00e9nateur de l'Essonne. Conseiller r\u00e9gional d'\u00cele de France. Pr\u00e9sident de l' @UDE_FR", 
     "twitter_favourites": 1797, 
-    "twitter_followers": 94598, 
-    "twitter_following": 2433, 
+    "twitter_followers": 94618, 
+    "twitter_following": 2432, 
     "twitter_id": 219361536, 
     "twitter_listed": 1002, 
     "twitter_name": "Jean-Vincent Plac\u00e9", 
@@ -19591,7 +19693,7 @@
       }, 
       "favourites_count": 0, 
       "follow_request_sent": false, 
-      "followers_count": 862, 
+      "followers_count": 861, 
       "following": false, 
       "friends_count": 965, 
       "geo_enabled": true, 
@@ -19669,7 +19771,7 @@
     }, 
     "twitter_description": "Senateur honoraire .", 
     "twitter_favourites": 0, 
-    "twitter_followers": 862, 
+    "twitter_followers": 861, 
     "twitter_following": 965, 
     "twitter_id": 270919379, 
     "twitter_listed": 86, 
@@ -20983,7 +21085,7 @@
       }, 
       "favourites_count": 76, 
       "follow_request_sent": false, 
-      "followers_count": 5640, 
+      "followers_count": 5644, 
       "following": false, 
       "friends_count": 470, 
       "geo_enabled": true, 
@@ -21044,7 +21146,7 @@
           "urls": [], 
           "user_mentions": []
         }, 
-        "favorite_count": 15, 
+        "favorite_count": 17, 
         "favorited": false, 
         "geo": null, 
         "id": 898253497006686208, 
@@ -21105,7 +21207,7 @@
     }, 
     "twitter_description": "Maire de Strasbourg", 
     "twitter_favourites": 76, 
-    "twitter_followers": 5640, 
+    "twitter_followers": 5644, 
     "twitter_following": 470, 
     "twitter_id": 281438650, 
     "twitter_listed": 246, 
