@@ -810,9 +810,9 @@
       }, 
       "favourites_count": 1281, 
       "follow_request_sent": false, 
-      "followers_count": 20541, 
+      "followers_count": 20545, 
       "following": false, 
-      "friends_count": 1765, 
+      "friends_count": 1766, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 110191018, 
@@ -842,37 +842,18 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Sat Aug 19 16:26:22 +0000 2017", 
+        "created_at": "Mon Aug 21 16:37:17 +0000 2017", 
         "entities": {
-          "hashtags": [
-            {
-              "indices": [
-                40, 
-                46
-              ], 
-              "text": "Saint"
-            }
-          ], 
+          "hashtags": [], 
           "symbols": [], 
           "urls": [], 
-          "user_mentions": [
-            {
-              "id": 2865750927, 
-              "id_str": "2865750927", 
-              "indices": [
-                3, 
-                19
-              ], 
-              "name": "Ch\u00e2teau-Gontier", 
-              "screen_name": "chateau_gontier"
-            }
-          ]
+          "user_mentions": []
         }, 
-        "favorite_count": 0, 
+        "favorite_count": 81, 
         "favorited": false, 
         "geo": null, 
-        "id": 898944235751129089, 
-        "id_str": "898944235751129089", 
+        "id": 899671758940372992, 
+        "id_str": "899671758940372992", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -880,130 +861,47 @@
         "in_reply_to_user_id_str": null, 
         "is_quote_status": false, 
         "lang": "fr", 
-        "place": null, 
-        "retweet_count": 11, 
-        "retweeted": false, 
-        "retweeted_status": {
-          "contributors": null, 
-          "coordinates": null, 
-          "created_at": "Sat Aug 19 09:15:09 +0000 2017", 
-          "entities": {
-            "hashtags": [
-              {
-                "indices": [
-                  19, 
-                  25
+        "place": {
+          "attributes": {}, 
+          "bounding_box": {
+            "coordinates": [
+              [
+                [
+                  -0.7829585, 
+                  47.795988899999998
                 ], 
-                "text": "Saint"
-              }
+                [
+                  -0.68886130000000001, 
+                  47.795988899999998
+                ], 
+                [
+                  -0.68886130000000001, 
+                  47.856612900000002
+                ], 
+                [
+                  -0.7829585, 
+                  47.856612900000002
+                ]
+              ]
             ], 
-            "media": [
-              {
-                "display_url": "pic.twitter.com/7VZsncqQUB", 
-                "expanded_url": "https://twitter.com/chateau_gontier/status/898835717127897089/photo/1", 
-                "id": 898835693794996224, 
-                "id_str": "898835693794996224", 
-                "indices": [
-                  97, 
-                  120
-                ], 
-                "media_url": "http://pbs.twimg.com/media/DHlOTSAXsAAGTIC.jpg", 
-                "media_url_https": "https://pbs.twimg.com/media/DHlOTSAXsAAGTIC.jpg", 
-                "sizes": {
-                  "large": {
-                    "h": 1152, 
-                    "resize": "fit", 
-                    "w": 2048
-                  }, 
-                  "medium": {
-                    "h": 675, 
-                    "resize": "fit", 
-                    "w": 1200
-                  }, 
-                  "small": {
-                    "h": 383, 
-                    "resize": "fit", 
-                    "w": 680
-                  }, 
-                  "thumb": {
-                    "h": 150, 
-                    "resize": "crop", 
-                    "w": 150
-                  }
-                }, 
-                "type": "photo", 
-                "url": "https://t.co/7VZsncqQUB"
-              }
-            ], 
-            "symbols": [], 
-            "urls": [], 
-            "user_mentions": []
+            "type": "Polygon"
           }, 
-          "extended_entities": {
-            "media": [
-              {
-                "display_url": "pic.twitter.com/7VZsncqQUB", 
-                "expanded_url": "https://twitter.com/chateau_gontier/status/898835717127897089/photo/1", 
-                "id": 898835693794996224, 
-                "id_str": "898835693794996224", 
-                "indices": [
-                  97, 
-                  120
-                ], 
-                "media_url": "http://pbs.twimg.com/media/DHlOTSAXsAAGTIC.jpg", 
-                "media_url_https": "https://pbs.twimg.com/media/DHlOTSAXsAAGTIC.jpg", 
-                "sizes": {
-                  "large": {
-                    "h": 1152, 
-                    "resize": "fit", 
-                    "w": 2048
-                  }, 
-                  "medium": {
-                    "h": 675, 
-                    "resize": "fit", 
-                    "w": 1200
-                  }, 
-                  "small": {
-                    "h": 383, 
-                    "resize": "fit", 
-                    "w": 680
-                  }, 
-                  "thumb": {
-                    "h": 150, 
-                    "resize": "crop", 
-                    "w": 150
-                  }
-                }, 
-                "type": "photo", 
-                "url": "https://t.co/7VZsncqQUB"
-              }
-            ]
-          }, 
-          "favorite_count": 9, 
-          "favorited": false, 
-          "geo": null, 
-          "id": 898835717127897089, 
-          "id_str": "898835717127897089", 
-          "in_reply_to_screen_name": null, 
-          "in_reply_to_status_id": null, 
-          "in_reply_to_status_id_str": null, 
-          "in_reply_to_user_id": null, 
-          "in_reply_to_user_id_str": null, 
-          "is_quote_status": false, 
-          "lang": "fr", 
-          "place": null, 
-          "possibly_sensitive": false, 
-          "retweet_count": 11, 
-          "retweeted": false, 
-          "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
-          "text": "Inauguration de la #Saint Fiacre. Demain concours percherons et tuning. Et toujours les maneges! https://t.co/7VZsncqQUB", 
-          "truncated": false
+          "contained_within": [], 
+          "country": "France", 
+          "country_code": "FR", 
+          "full_name": "Ch\u00e2teau-Gontier, France", 
+          "id": "61aaf18ddd5a0627", 
+          "name": "Ch\u00e2teau-Gontier", 
+          "place_type": "city", 
+          "url": "https://api.twitter.com/1.1/geo/id/61aaf18ddd5a0627.json"
         }, 
+        "retweet_count": 54, 
+        "retweeted": false, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "RT @chateau_gontier: Inauguration de la #Saint Fiacre. Demain concours percherons et tuning. Et toujours les maneges! https://t.co/7VZsncqQ\u2026", 
+        "text": "La rentr\u00e9e se profile. Les indicateurs \u00e9conomiques sont positifs et confortent l'optimisme. Moment idoine pr engager hardiment les r\u00e9formes", 
         "truncated": false
       }, 
-      "statuses_count": 3632, 
+      "statuses_count": 3633, 
       "time_zone": "Amsterdam", 
       "translator_type": "none", 
       "url": "https://t.co/YhICpAOeW0", 
@@ -1012,13 +910,13 @@
     }, 
     "twitter_description": "D\u00e9put\u00e9 europ\u00e9en, Pdt de la com. #BUDG fondateur de l'Alliance centriste #EnMarche, ancien ministre de l'\u00e9conomie et des finances https://t.co/fhOVDCyFu0", 
     "twitter_favourites": 1281, 
-    "twitter_followers": 20541, 
-    "twitter_following": 1765, 
+    "twitter_followers": 20545, 
+    "twitter_following": 1766, 
     "twitter_id": 110191018, 
     "twitter_listed": 677, 
     "twitter_name": "Jean Arthuis", 
     "twitter_protected": false, 
-    "twitter_tweets": 3632, 
+    "twitter_tweets": 3633, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/arthuis_jean83011j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-arthuis", 
@@ -1295,19 +1193,19 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Thu Aug 17 21:10:46 +0000 2017", 
+        "created_at": "Mon Aug 21 08:49:30 +0000 2017", 
         "entities": {
           "hashtags": [], 
           "symbols": [], 
           "urls": [
             {
-              "display_url": "fb.me/2jotiMZ5o", 
-              "expanded_url": "http://fb.me/2jotiMZ5o", 
+              "display_url": "fb.me/DDpOPMRW", 
+              "expanded_url": "http://fb.me/DDpOPMRW", 
               "indices": [
-                112, 
-                135
+                34, 
+                57
               ], 
-              "url": "https://t.co/LqzfhL1ezT"
+              "url": "https://t.co/JpchjnwR4T"
             }
           ], 
           "user_mentions": []
@@ -1315,8 +1213,8 @@
         "favorite_count": 1, 
         "favorited": false, 
         "geo": null, 
-        "id": 898291033548529664, 
-        "id_str": "898291033548529664", 
+        "id": 899554038647320576, 
+        "id_str": "899554038647320576", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -1326,13 +1224,13 @@
         "lang": "fr", 
         "place": null, 
         "possibly_sensitive": false, 
-        "retweet_count": 1, 
+        "retweet_count": 0, 
         "retweeted": false, 
         "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>", 
-        "text": "Une nouvelle fois, la stupidit\u00e9, l'horreur viennent de frapper des innocents en plein c\u0153ur de Barcelone, les... https://t.co/LqzfhL1ezT", 
+        "text": "Journ\u00e9e Europ\u00e9ennes du Patrimoine https://t.co/JpchjnwR4T", 
         "truncated": false
       }, 
-      "statuses_count": 95, 
+      "statuses_count": 96, 
       "time_zone": null, 
       "translator_type": "none", 
       "url": null, 
@@ -1347,7 +1245,7 @@
     "twitter_listed": 9, 
     "twitter_name": "Fran\u00e7ois Aubey", 
     "twitter_protected": false, 
-    "twitter_tweets": 95, 
+    "twitter_tweets": 96, 
     "twitter_verified": false, 
     "url_institution": "http://www.senat.fr/senateur/aubey_francois14137p.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/francois-aubey", 
@@ -2129,7 +2027,7 @@
             }
           ]
         }, 
-        "favorite_count": 0, 
+        "favorite_count": 1, 
         "favorited": false, 
         "geo": null, 
         "id": 899272189563854848, 
@@ -2142,7 +2040,7 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 0, 
+        "retweet_count": 1, 
         "retweeted": false, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
         "text": "@leJDD Effet #Macron certainement mais n'oublions pas les mesures du Gvt #Hollande, dixit Patrick Artus", 
@@ -3339,26 +3237,49 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Thu Aug 17 20:40:39 +0000 2017", 
+        "created_at": "Mon Aug 21 16:58:25 +0000 2017", 
         "entities": {
-          "hashtags": [
-            {
-              "indices": [
-                38, 
-                48
-              ], 
-              "text": "Barcelone"
-            }
-          ], 
+          "hashtags": [], 
           "symbols": [], 
           "urls": [], 
-          "user_mentions": []
+          "user_mentions": [
+            {
+              "id": 887305990563131393, 
+              "id_str": "887305990563131393", 
+              "indices": [
+                3, 
+                15
+              ], 
+              "name": "EcoleMaritime Calais", 
+              "screen_name": "EcoleCalais"
+            }, 
+            {
+              "id": 887305990563131393, 
+              "id_str": "887305990563131393", 
+              "indices": [
+                79, 
+                91
+              ], 
+              "name": "EcoleMaritime Calais", 
+              "screen_name": "EcoleCalais"
+            }, 
+            {
+              "id": 551342517, 
+              "id_str": "551342517", 
+              "indices": [
+                101, 
+                117
+              ], 
+              "name": "Natacha BOUCHART", 
+              "screen_name": "NatachaBouchart"
+            }
+          ]
         }, 
-        "favorite_count": 11, 
+        "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 898283454017789952, 
-        "id_str": "898283454017789952", 
+        "id": 899677077745655808, 
+        "id_str": "899677077745655808", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -3366,47 +3287,75 @@
         "in_reply_to_user_id_str": null, 
         "is_quote_status": false, 
         "lang": "fr", 
-        "place": {
-          "attributes": {}, 
-          "bounding_box": {
-            "coordinates": [
-              [
-                [
-                  1.8057791000000001, 
-                  50.922145100000002
-                ], 
-                [
-                  1.9319451999999999, 
-                  50.922145100000002
-                ], 
-                [
-                  1.9319451999999999, 
-                  50.983351599999999
-                ], 
-                [
-                  1.8057791000000001, 
-                  50.983351599999999
-                ]
-              ]
-            ], 
-            "type": "Polygon"
-          }, 
-          "contained_within": [], 
-          "country": "France", 
-          "country_code": "FR", 
-          "full_name": "Calais, France", 
-          "id": "72e43a057cec3602", 
-          "name": "Calais", 
-          "place_type": "city", 
-          "url": "https://api.twitter.com/1.1/geo/id/72e43a057cec3602.json"
-        }, 
+        "place": null, 
         "retweet_count": 3, 
         "retweeted": false, 
+        "retweeted_status": {
+          "contributors": null, 
+          "coordinates": null, 
+          "created_at": "Mon Aug 21 10:51:49 +0000 2017", 
+          "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [
+              {
+                "display_url": "twitter.com/i/web/status/8\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/899584822292750336", 
+                "indices": [
+                  116, 
+                  139
+                ], 
+                "url": "https://t.co/7gk9j6Dng0"
+              }
+            ], 
+            "user_mentions": [
+              {
+                "id": 887305990563131393, 
+                "id_str": "887305990563131393", 
+                "indices": [
+                  62, 
+                  74
+                ], 
+                "name": "EcoleMaritime Calais", 
+                "screen_name": "EcoleCalais"
+              }, 
+              {
+                "id": 551342517, 
+                "id_str": "551342517", 
+                "indices": [
+                  84, 
+                  100
+                ], 
+                "name": "Natacha BOUCHART", 
+                "screen_name": "NatachaBouchart"
+              }
+            ]
+          }, 
+          "favorite_count": 2, 
+          "favorited": false, 
+          "geo": null, 
+          "id": 899584822292750336, 
+          "id_str": "899584822292750336", 
+          "in_reply_to_screen_name": null, 
+          "in_reply_to_status_id": null, 
+          "in_reply_to_status_id_str": null, 
+          "in_reply_to_user_id": null, 
+          "in_reply_to_user_id_str": null, 
+          "is_quote_status": false, 
+          "lang": "fr", 
+          "place": null, 
+          "possibly_sensitive": false, 
+          "retweet_count": 3, 
+          "retweeted": false, 
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+          "text": "Techniques Individuelles de Survie avec le Commandant Tarabay @EcoleCalais \nMerci \u00e0 @NatachaBouchart pour son aide\u2026 https://t.co/7gk9j6Dng0", 
+          "truncated": true
+        }, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "Solidarit\u00e9 avec nos amis espagnols \ud83c\uddea\ud83c\uddf8 #Barcelone", 
+        "text": "RT @EcoleCalais: Techniques Individuelles de Survie avec le Commandant Tarabay @EcoleCalais \nMerci \u00e0 @NatachaBouchart pour son aide pr\u00e9cieu\u2026", 
         "truncated": false
       }, 
-      "statuses_count": 6025, 
+      "statuses_count": 6026, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": null, 
@@ -3421,7 +3370,7 @@
     "twitter_listed": 154, 
     "twitter_name": "Natacha BOUCHART", 
     "twitter_protected": false, 
-    "twitter_tweets": 6025, 
+    "twitter_tweets": 6026, 
     "twitter_verified": false, 
     "url_institution": "http://www.senat.fr/senateur/bouchart_natacha11060j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/natacha-bouchart", 
@@ -5835,7 +5784,7 @@
       }, 
       "favourites_count": 155, 
       "follow_request_sent": false, 
-      "followers_count": 62038, 
+      "followers_count": 62043, 
       "following": false, 
       "friends_count": 695, 
       "geo_enabled": true, 
@@ -5924,7 +5873,7 @@
     }, 
     "twitter_description": "Ancien ministre. Pdt du club R\u00e9publique Moderne (@RepubliqueMod), de la Fondation Res Publica (@fondarespublica) et de la Fondation de l'Islam de France.", 
     "twitter_favourites": 155, 
-    "twitter_followers": 62038, 
+    "twitter_followers": 62043, 
     "twitter_following": 695, 
     "twitter_id": 57116930, 
     "twitter_listed": 1216, 
@@ -6835,7 +6784,7 @@
       }, 
       "favourites_count": 9, 
       "follow_request_sent": false, 
-      "followers_count": 482, 
+      "followers_count": 481, 
       "following": false, 
       "friends_count": 13, 
       "geo_enabled": false, 
@@ -6990,7 +6939,7 @@
     }, 
     "twitter_description": "Maire de @villedemacon pr\u00e9sident de la @_MBAgglo", 
     "twitter_favourites": 9, 
-    "twitter_followers": 482, 
+    "twitter_followers": 481, 
     "twitter_following": 13, 
     "twitter_id": 1479161936, 
     "twitter_listed": 36, 
@@ -13153,7 +13102,7 @@
       }, 
       "favourites_count": 15, 
       "follow_request_sent": false, 
-      "followers_count": 913, 
+      "followers_count": 912, 
       "following": false, 
       "friends_count": 288, 
       "geo_enabled": false, 
@@ -13342,7 +13291,7 @@
         "lang": "fr", 
         "place": null, 
         "possibly_sensitive": false, 
-        "retweet_count": 146, 
+        "retweet_count": 147, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
@@ -13485,7 +13434,7 @@
           "lang": "fr", 
           "place": null, 
           "possibly_sensitive": false, 
-          "retweet_count": 146, 
+          "retweet_count": 147, 
           "retweeted": false, 
           "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>", 
           "text": "Les ressources terrestres annuelles bient\u00f4t \u00e9puis\u00e9es \ud83d\ude1e\nhttps://t.co/ezN5PjImy8 https://t.co/Sl0i9NTw8s", 
@@ -13504,7 +13453,7 @@
     }, 
     "twitter_description": "Maire de Saint-Flour, Pr\u00e9sident des Maires du #Cantal, Comit\u00e9 des #Finances locales - #Collectivit\u00e9s territoriales #Urbanisme #Logement #D\u00e9veloppement durable", 
     "twitter_favourites": 15, 
-    "twitter_followers": 913, 
+    "twitter_followers": 912, 
     "twitter_following": 288, 
     "twitter_id": 2328417882, 
     "twitter_listed": 40, 
@@ -19521,9 +19470,9 @@
       }, 
       "favourites_count": 1797, 
       "follow_request_sent": false, 
-      "followers_count": 94635, 
+      "followers_count": 94659, 
       "following": false, 
-      "friends_count": 2432, 
+      "friends_count": 2433, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 219361536, 
@@ -19568,7 +19517,7 @@
           "urls": [], 
           "user_mentions": []
         }, 
-        "favorite_count": 40, 
+        "favorite_count": 42, 
         "favorited": false, 
         "geo": null, 
         "id": 898279262876311554, 
@@ -19596,8 +19545,8 @@
     }, 
     "twitter_description": "Ancien Ministre. S\u00e9nateur de l'Essonne. Conseiller r\u00e9gional d'\u00cele de France. Pr\u00e9sident de l' @UDE_FR", 
     "twitter_favourites": 1797, 
-    "twitter_followers": 94635, 
-    "twitter_following": 2432, 
+    "twitter_followers": 94659, 
+    "twitter_following": 2433, 
     "twitter_id": 219361536, 
     "twitter_listed": 1000, 
     "twitter_name": "Jean-Vincent Plac\u00e9", 
@@ -19663,7 +19612,7 @@
       }, 
       "favourites_count": 0, 
       "follow_request_sent": false, 
-      "followers_count": 861, 
+      "followers_count": 862, 
       "following": false, 
       "friends_count": 965, 
       "geo_enabled": true, 
@@ -19741,7 +19690,7 @@
     }, 
     "twitter_description": "Senateur honoraire .", 
     "twitter_favourites": 0, 
-    "twitter_followers": 861, 
+    "twitter_followers": 862, 
     "twitter_following": 965, 
     "twitter_id": 270919379, 
     "twitter_listed": 86, 
@@ -21055,7 +21004,7 @@
       }, 
       "favourites_count": 76, 
       "follow_request_sent": false, 
-      "followers_count": 5650, 
+      "followers_count": 5655, 
       "following": false, 
       "friends_count": 470, 
       "geo_enabled": true, 
@@ -21116,7 +21065,7 @@
           "urls": [], 
           "user_mentions": []
         }, 
-        "favorite_count": 17, 
+        "favorite_count": 18, 
         "favorited": false, 
         "geo": null, 
         "id": 898253497006686208, 
@@ -21177,7 +21126,7 @@
     }, 
     "twitter_description": "Maire de Strasbourg", 
     "twitter_favourites": 76, 
-    "twitter_followers": 5650, 
+    "twitter_followers": 5655, 
     "twitter_following": 470, 
     "twitter_id": 281438650, 
     "twitter_listed": 246, 
