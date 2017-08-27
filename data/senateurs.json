@@ -810,9 +810,9 @@
       }, 
       "favourites_count": 1283, 
       "follow_request_sent": false, 
-      "followers_count": 20608, 
+      "followers_count": 20614, 
       "following": false, 
-      "friends_count": 1791, 
+      "friends_count": 1792, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 110191018, 
@@ -842,54 +842,121 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Fri Aug 25 19:52:52 +0000 2017", 
+        "created_at": "Sat Aug 26 16:11:39 +0000 2017", 
         "entities": {
-          "hashtags": [], 
-          "symbols": [], 
-          "urls": [
+          "hashtags": [
             {
-              "display_url": "twitter.com/i/web/status/9\u2026", 
-              "expanded_url": "https://twitter.com/i/web/status/901170533294903298", 
               "indices": [
-                117, 
-                140
+                42, 
+                50
               ], 
-              "url": "https://t.co/WTEVLSQzpc"
+              "text": "formpro"
             }
           ], 
+          "symbols": [], 
+          "urls": [], 
           "user_mentions": [
             {
-              "id": 329793346, 
-              "id_str": "329793346", 
+              "id": 594691828, 
+              "id_str": "594691828", 
               "indices": [
-                0, 
-                14
+                3, 
+                18
               ], 
-              "name": "Calvin", 
-              "screen_name": "calvinWhoElse"
+              "name": "Muriel P\u00e9nicaud", 
+              "screen_name": "murielpenicaud"
+            }, 
+            {
+              "id": 24744541, 
+              "id_str": "24744541", 
+              "indices": [
+                122, 
+                132
+              ], 
+              "name": "Le Monde", 
+              "screen_name": "lemondefr"
             }
           ]
         }, 
-        "favorite_count": 2, 
+        "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 901170533294903298, 
-        "id_str": "901170533294903298", 
-        "in_reply_to_screen_name": "calvinWhoElse", 
-        "in_reply_to_status_id": 901169201188147200, 
-        "in_reply_to_status_id_str": "901169201188147200", 
-        "in_reply_to_user_id": 329793346, 
-        "in_reply_to_user_id_str": "329793346", 
+        "id": 901477247877558272, 
+        "id_str": "901477247877558272", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 1, 
+        "retweet_count": 152, 
         "retweeted": false, 
+        "retweeted_status": {
+          "contributors": null, 
+          "coordinates": null, 
+          "created_at": "Sat Aug 26 09:33:22 +0000 2017", 
+          "entities": {
+            "hashtags": [
+              {
+                "indices": [
+                  22, 
+                  30
+                ], 
+                "text": "formpro"
+              }
+            ], 
+            "symbols": [], 
+            "urls": [
+              {
+                "display_url": "mobile.lemonde.fr/politique/arti\u2026", 
+                "expanded_url": "http://mobile.lemonde.fr/politique/article/2017/08/26/muriel-penicaud-il-n-y-aura-pas-de-casse-sociale_5176860_823448.html", 
+                "indices": [
+                  114, 
+                  137
+                ], 
+                "url": "https://t.co/5ttn905l1c"
+              }
+            ], 
+            "user_mentions": [
+              {
+                "id": 24744541, 
+                "id_str": "24744541", 
+                "indices": [
+                  102, 
+                  112
+                ], 
+                "name": "Le Monde", 
+                "screen_name": "lemondefr"
+              }
+            ]
+          }, 
+          "favorite_count": 142, 
+          "favorited": false, 
+          "geo": null, 
+          "id": 901377017068826624, 
+          "id_str": "901377017068826624", 
+          "in_reply_to_screen_name": null, 
+          "in_reply_to_status_id": null, 
+          "in_reply_to_status_id_str": null, 
+          "in_reply_to_user_id": null, 
+          "in_reply_to_user_id_str": null, 
+          "is_quote_status": false, 
+          "lang": "fr", 
+          "place": null, 
+          "possibly_sensitive": false, 
+          "retweet_count": 152, 
+          "retweeted": false, 
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+          "text": "Avec la r\u00e9forme de la #formpro, favorisons l'insertion durable sur le march\u00e9 du travail. Mon ITW dans @lemondefr \nhttps://t.co/5ttn905l1c?", 
+          "truncated": false
+        }, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "@calvinWhoElse Les trait\u00e9s maintiennent l'Europe dans l'impuissance et la r\u00e9duisent \u00e0 n'\u00eatre qu'une addition d'\u00e9go\u00ef\u2026 https://t.co/WTEVLSQzpc", 
-        "truncated": true
+        "text": "RT @murielpenicaud: Avec la r\u00e9forme de la #formpro, favorisons l'insertion durable sur le march\u00e9 du travail. Mon ITW dans @lemondefr \nhttps\u2026", 
+        "truncated": false
       }, 
-      "statuses_count": 3644, 
+      "statuses_count": 3646, 
       "time_zone": "Amsterdam", 
       "translator_type": "none", 
       "url": "https://t.co/YhICpAOeW0", 
@@ -898,13 +965,13 @@
     }, 
     "twitter_description": "D\u00e9put\u00e9 europ\u00e9en, Pdt de la com. #BUDG fondateur de l'Alliance centriste #EnMarche, ancien ministre de l'\u00e9conomie et des finances https://t.co/fhOVDCyFu0", 
     "twitter_favourites": 1283, 
-    "twitter_followers": 20608, 
-    "twitter_following": 1791, 
+    "twitter_followers": 20614, 
+    "twitter_following": 1792, 
     "twitter_id": 110191018, 
     "twitter_listed": 677, 
     "twitter_name": "Jean Arthuis", 
     "twitter_protected": false, 
-    "twitter_tweets": 3644, 
+    "twitter_tweets": 3646, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/arthuis_jean83011j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-arthuis", 
@@ -1948,11 +2015,11 @@
           ]
         }
       }, 
-      "favourites_count": 2020, 
+      "favourites_count": 2024, 
       "follow_request_sent": false, 
-      "followers_count": 1378, 
+      "followers_count": 1379, 
       "following": false, 
-      "friends_count": 368, 
+      "friends_count": 370, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 78422142, 
@@ -1960,7 +2027,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 84, 
+      "listed_count": 0, 
       "location": "Valence, France, Europe", 
       "name": "Jean BESSON", 
       "notifications": false, 
@@ -2021,7 +2088,7 @@
         "is_quote_status": false, 
         "lang": "es", 
         "place": null, 
-        "retweet_count": 23690, 
+        "retweet_count": 23685, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
@@ -2041,7 +2108,7 @@
             "urls": [], 
             "user_mentions": []
           }, 
-          "favorite_count": 61941, 
+          "favorite_count": 61951, 
           "favorited": false, 
           "geo": null, 
           "id": 898247731642159104, 
@@ -2054,7 +2121,7 @@
           "is_quote_status": false, 
           "lang": "es", 
           "place": null, 
-          "retweet_count": 23690, 
+          "retweet_count": 23685, 
           "retweeted": false, 
           "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
           "text": "Solidaridad con #Barcelona. Estamos a su lado. \ud83c\uddeb\ud83c\uddf7\ud83c\uddea\ud83c\uddf8", 
@@ -2072,11 +2139,11 @@
       "verified": false
     }, 
     "twitter_description": "Jean BESSON, S\u00e9nateur Honoraire, Pr\u00e9sident d'@energiesded, Vice Pr\u00e9sident de la @fnccr, #Progressiste #Europ\u00e9iste", 
-    "twitter_favourites": 2020, 
-    "twitter_followers": 1378, 
-    "twitter_following": 368, 
+    "twitter_favourites": 2024, 
+    "twitter_followers": 1379, 
+    "twitter_following": 370, 
     "twitter_id": 78422142, 
-    "twitter_listed": 84, 
+    "twitter_listed": 0, 
     "twitter_name": "Jean BESSON", 
     "twitter_protected": false, 
     "twitter_tweets": 1526, 
@@ -3223,7 +3290,7 @@
       }, 
       "favourites_count": 231, 
       "follow_request_sent": false, 
-      "followers_count": 4535, 
+      "followers_count": 4539, 
       "following": false, 
       "friends_count": 1065, 
       "geo_enabled": true, 
@@ -3342,7 +3409,7 @@
               }
             ]
           }, 
-          "favorite_count": 1, 
+          "favorite_count": 2, 
           "favorited": false, 
           "geo": null, 
           "id": 901125372602978304, 
@@ -3377,7 +3444,7 @@
     }, 
     "twitter_description": "Vice-Pr\u00e9sidente de la R\u00e9gion Hauts-de-France. Maire de #Calais, Pr\u00e9sidente de Grand Calais Terres & Mers", 
     "twitter_favourites": 231, 
-    "twitter_followers": 4535, 
+    "twitter_followers": 4539, 
     "twitter_following": 1065, 
     "twitter_id": 551342517, 
     "twitter_listed": 154, 
@@ -5797,7 +5864,7 @@
       }, 
       "favourites_count": 155, 
       "follow_request_sent": false, 
-      "followers_count": 62059, 
+      "followers_count": 62062, 
       "following": false, 
       "friends_count": 695, 
       "geo_enabled": true, 
@@ -5807,7 +5874,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 1214, 
+      "listed_count": 1215, 
       "location": "Paris, France", 
       "name": "J-P. Chev\u00e8nement", 
       "notifications": false, 
@@ -5840,28 +5907,57 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Tue Aug 08 19:40:04 +0000 2017", 
+        "created_at": "Sat Aug 26 15:14:50 +0000 2017", 
         "entities": {
-          "hashtags": [], 
-          "symbols": [], 
-          "urls": [
+          "hashtags": [
             {
-              "display_url": "chevenement.fr/Les-lettres-fr\u2026", 
-              "expanded_url": "http://www.chevenement.fr/Les-lettres-francaises-perdent-un-ecrivain-talentueux_a1934.html", 
               "indices": [
-                115, 
-                138
+                121, 
+                125
               ], 
-              "url": "https://t.co/Vy2yNlNA3H"
+              "text": "LCP"
             }
           ], 
-          "user_mentions": []
+          "symbols": [], 
+          "urls": [], 
+          "user_mentions": [
+            {
+              "id": 893454169385906176, 
+              "id_str": "893454169385906176", 
+              "indices": [
+                3, 
+                17
+              ], 
+              "name": "Guerre Fantome", 
+              "screen_name": "GuerreFantome"
+            }, 
+            {
+              "id": 57116930, 
+              "id_str": "57116930", 
+              "indices": [
+                29, 
+                41
+              ], 
+              "name": "J-P. Chev\u00e8nement", 
+              "screen_name": "chevenement"
+            }, 
+            {
+              "id": 893454169385906176, 
+              "id_str": "893454169385906176", 
+              "indices": [
+                47, 
+                61
+              ], 
+              "name": "Guerre Fantome", 
+              "screen_name": "GuerreFantome"
+            }
+          ]
         }, 
-        "favorite_count": 45, 
+        "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 895006716978503684, 
-        "id_str": "895006716978503684", 
+        "id": 901462949109391361, 
+        "id_str": "901462949109391361", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -5870,14 +5966,82 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "possibly_sensitive": false, 
-        "retweet_count": 21, 
+        "retweet_count": 11, 
         "retweeted": false, 
+        "retweeted_status": {
+          "contributors": null, 
+          "coordinates": null, 
+          "created_at": "Fri Aug 25 12:06:11 +0000 2017", 
+          "entities": {
+            "hashtags": [
+              {
+                "indices": [
+                  102, 
+                  106
+                ], 
+                "text": "LCP"
+              }
+            ], 
+            "symbols": [], 
+            "urls": [
+              {
+                "display_url": "twitter.com/i/web/status/9\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/901053085845508097", 
+                "indices": [
+                  108, 
+                  131
+                ], 
+                "url": "https://t.co/x0foyQu4rm"
+              }
+            ], 
+            "user_mentions": [
+              {
+                "id": 57116930, 
+                "id_str": "57116930", 
+                "indices": [
+                  10, 
+                  22
+                ], 
+                "name": "J-P. Chev\u00e8nement", 
+                "screen_name": "chevenement"
+              }, 
+              {
+                "id": 893454169385906176, 
+                "id_str": "893454169385906176", 
+                "indices": [
+                  28, 
+                  42
+                ], 
+                "name": "Guerre Fantome", 
+                "screen_name": "GuerreFantome"
+              }
+            ]
+          }, 
+          "favorite_count": 15, 
+          "favorited": false, 
+          "geo": null, 
+          "id": 901053085845508097, 
+          "id_str": "901053085845508097", 
+          "in_reply_to_screen_name": null, 
+          "in_reply_to_status_id": null, 
+          "in_reply_to_status_id_str": null, 
+          "in_reply_to_user_id": null, 
+          "in_reply_to_user_id_str": null, 
+          "is_quote_status": false, 
+          "lang": "fr", 
+          "place": null, 
+          "possibly_sensitive": false, 
+          "retweet_count": 11, 
+          "retweeted": false, 
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+          "text": "Retrouvez @chevenement dans @GuerreFantome : la vente d'Alstom \u00e0 General Electric le 25 septembre sur #LCP\u2026 https://t.co/x0foyQu4rm", 
+          "truncated": true
+        }, 
         "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
-        "text": "Avec la mort de Gonzague Saint Bris, la France perd un ecrivain talentueux et infatiguable animateur de la culture https://t.co/Vy2yNlNA3H", 
+        "text": "RT @GuerreFantome: Retrouvez @chevenement dans @GuerreFantome : la vente d'Alstom \u00e0 General Electric le 25 septembre sur #LCP @fondarespubl\u2026", 
         "truncated": false
       }, 
-      "statuses_count": 4438, 
+      "statuses_count": 4439, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": "http://t.co/uxgBAwrQat", 
@@ -5886,13 +6050,13 @@
     }, 
     "twitter_description": "Ancien ministre. Pdt du club R\u00e9publique Moderne (@RepubliqueMod), de la Fondation Res Publica (@fondarespublica) et de la Fondation de l'Islam de France.", 
     "twitter_favourites": 155, 
-    "twitter_followers": 62059, 
+    "twitter_followers": 62062, 
     "twitter_following": 695, 
     "twitter_id": 57116930, 
-    "twitter_listed": 1214, 
+    "twitter_listed": 1215, 
     "twitter_name": "J-P. Chev\u00e8nement", 
     "twitter_protected": false, 
-    "twitter_tweets": 4438, 
+    "twitter_tweets": 4439, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/chevenement_jean_pierre02053w.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-pierre-chevenement", 
@@ -6807,7 +6971,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 36, 
+      "listed_count": 0, 
       "location": "M\u00e2con", 
       "name": "J-P COURTOIS", 
       "notifications": false, 
@@ -6955,7 +7119,7 @@
     "twitter_followers": 482, 
     "twitter_following": 13, 
     "twitter_id": 1479161936, 
-    "twitter_listed": 36, 
+    "twitter_listed": 0, 
     "twitter_name": "J-P COURTOIS", 
     "twitter_protected": false, 
     "twitter_tweets": 27, 
@@ -16809,7 +16973,7 @@
       }, 
       "favourites_count": 5, 
       "follow_request_sent": false, 
-      "followers_count": 3790, 
+      "followers_count": 3789, 
       "following": false, 
       "friends_count": 2347, 
       "geo_enabled": false, 
@@ -16875,7 +17039,7 @@
     }, 
     "twitter_description": "S\u00e9nateur honoraire-maire de Compi\u00e8gne , Pr\u00e9sident de l'agglom\u00e9ration de la r\u00e9gion de Compi\u00e8gne, Pr\u00e9sident de la commission des finances du S\u00e9nat.", 
     "twitter_favourites": 5, 
-    "twitter_followers": 3790, 
+    "twitter_followers": 3789, 
     "twitter_following": 2347, 
     "twitter_id": 1534099902, 
     "twitter_listed": 127, 
@@ -18008,7 +18172,7 @@
       }, 
       "favourites_count": 136, 
       "follow_request_sent": false, 
-      "followers_count": 288, 
+      "followers_count": 289, 
       "following": false, 
       "friends_count": 160, 
       "geo_enabled": false, 
@@ -18083,7 +18247,7 @@
     }, 
     "twitter_description": "S\u00e9natrice Les R\u00e9publicains des Hautes-Alpes", 
     "twitter_favourites": 136, 
-    "twitter_followers": 288, 
+    "twitter_followers": 289, 
     "twitter_following": 160, 
     "twitter_id": 3189823869, 
     "twitter_listed": 11, 
@@ -19286,7 +19450,7 @@
       }, 
       "favourites_count": 1797, 
       "follow_request_sent": false, 
-      "followers_count": 94777, 
+      "followers_count": 94797, 
       "following": false, 
       "friends_count": 2433, 
       "geo_enabled": true, 
@@ -19361,7 +19525,7 @@
     }, 
     "twitter_description": "Ancien Ministre. S\u00e9nateur de l'Essonne. Conseiller r\u00e9gional d'\u00cele de France. Pr\u00e9sident de l' @UDE_FR", 
     "twitter_favourites": 1797, 
-    "twitter_followers": 94777, 
+    "twitter_followers": 94797, 
     "twitter_following": 2433, 
     "twitter_id": 219361536, 
     "twitter_listed": 1001, 
@@ -20820,7 +20984,7 @@
       }, 
       "favourites_count": 76, 
       "follow_request_sent": false, 
-      "followers_count": 5653, 
+      "followers_count": 5654, 
       "following": false, 
       "friends_count": 470, 
       "geo_enabled": true, 
@@ -20889,7 +21053,7 @@
             }
           ]
         }, 
-        "favorite_count": 2, 
+        "favorite_count": 3, 
         "favorited": false, 
         "geo": null, 
         "id": 901114931013136384, 
@@ -20903,7 +21067,7 @@
         "lang": "fr", 
         "place": null, 
         "possibly_sensitive": false, 
-        "retweet_count": 1, 
+        "retweet_count": 3, 
         "retweeted": false, 
         "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
         "text": "Je vous invite \u00e0 voter et faire voter pour que le @RCSA soit le club de coeur des Fran\u00e7ais https://t.co/kiWXyuACm3\u2026 https://t.co/cengULNOE1", 
@@ -20918,7 +21082,7 @@
     }, 
     "twitter_description": "Maire de Strasbourg", 
     "twitter_favourites": 76, 
-    "twitter_followers": 5653, 
+    "twitter_followers": 5654, 
     "twitter_following": 470, 
     "twitter_id": 281438650, 
     "twitter_listed": 246, 
