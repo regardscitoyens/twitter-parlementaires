@@ -810,9 +810,9 @@
       }, 
       "favourites_count": 1283, 
       "follow_request_sent": false, 
-      "followers_count": 20658, 
+      "followers_count": 20667, 
       "following": false, 
-      "friends_count": 1822, 
+      "friends_count": 1824, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 110191018, 
@@ -820,7 +820,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 677, 
+      "listed_count": 678, 
       "location": "Ch-Gontier/Bruxelles/Strasbrg", 
       "name": "Jean Arthuis", 
       "notifications": false, 
@@ -842,18 +842,29 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Fri Sep 01 10:18:38 +0000 2017", 
+        "created_at": "Sat Sep 02 17:51:24 +0000 2017", 
         "entities": {
           "hashtags": [], 
           "symbols": [], 
           "urls": [], 
-          "user_mentions": []
+          "user_mentions": [
+            {
+              "id": 84922844, 
+              "id_str": "84922844", 
+              "indices": [
+                3, 
+                17
+              ], 
+              "name": "Samia Soultani", 
+              "screen_name": "samiasoultani"
+            }
+          ]
         }, 
-        "favorite_count": 74, 
+        "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 903562735836946432, 
-        "id_str": "903562735836946432", 
+        "id": 904039065833627649, 
+        "id_str": "904039065833627649", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -862,13 +873,157 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 53, 
+        "retweet_count": 7, 
         "retweeted": false, 
+        "retweeted_status": {
+          "contributors": null, 
+          "coordinates": null, 
+          "created_at": "Sat Sep 02 17:48:15 +0000 2017", 
+          "entities": {
+            "hashtags": [], 
+            "media": [
+              {
+                "display_url": "pic.twitter.com/xpzrU7svOy", 
+                "expanded_url": "https://twitter.com/samiasoultani/status/904038274557149185/photo/1", 
+                "id": 904038234765832192, 
+                "id_str": "904038234765832192", 
+                "indices": [
+                  117, 
+                  140
+                ], 
+                "media_url": "http://pbs.twimg.com/media/DIvJ_BaWsAAlSLi.jpg", 
+                "media_url_https": "https://pbs.twimg.com/media/DIvJ_BaWsAAlSLi.jpg", 
+                "sizes": {
+                  "large": {
+                    "h": 1536, 
+                    "resize": "fit", 
+                    "w": 2048
+                  }, 
+                  "medium": {
+                    "h": 900, 
+                    "resize": "fit", 
+                    "w": 1200
+                  }, 
+                  "small": {
+                    "h": 510, 
+                    "resize": "fit", 
+                    "w": 680
+                  }, 
+                  "thumb": {
+                    "h": 150, 
+                    "resize": "crop", 
+                    "w": 150
+                  }
+                }, 
+                "type": "photo", 
+                "url": "https://t.co/xpzrU7svOy"
+              }
+            ], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": []
+          }, 
+          "extended_entities": {
+            "media": [
+              {
+                "display_url": "pic.twitter.com/xpzrU7svOy", 
+                "expanded_url": "https://twitter.com/samiasoultani/status/904038274557149185/photo/1", 
+                "id": 904038234765832192, 
+                "id_str": "904038234765832192", 
+                "indices": [
+                  117, 
+                  140
+                ], 
+                "media_url": "http://pbs.twimg.com/media/DIvJ_BaWsAAlSLi.jpg", 
+                "media_url_https": "https://pbs.twimg.com/media/DIvJ_BaWsAAlSLi.jpg", 
+                "sizes": {
+                  "large": {
+                    "h": 1536, 
+                    "resize": "fit", 
+                    "w": 2048
+                  }, 
+                  "medium": {
+                    "h": 900, 
+                    "resize": "fit", 
+                    "w": 1200
+                  }, 
+                  "small": {
+                    "h": 510, 
+                    "resize": "fit", 
+                    "w": 680
+                  }, 
+                  "thumb": {
+                    "h": 150, 
+                    "resize": "crop", 
+                    "w": 150
+                  }
+                }, 
+                "type": "photo", 
+                "url": "https://t.co/xpzrU7svOy"
+              }, 
+              {
+                "display_url": "pic.twitter.com/xpzrU7svOy", 
+                "expanded_url": "https://twitter.com/samiasoultani/status/904038274557149185/photo/1", 
+                "id": 904038234791038977, 
+                "id_str": "904038234791038977", 
+                "indices": [
+                  117, 
+                  140
+                ], 
+                "media_url": "http://pbs.twimg.com/media/DIvJ_BgXUAE6TJ7.jpg", 
+                "media_url_https": "https://pbs.twimg.com/media/DIvJ_BgXUAE6TJ7.jpg", 
+                "sizes": {
+                  "large": {
+                    "h": 1170, 
+                    "resize": "fit", 
+                    "w": 2048
+                  }, 
+                  "medium": {
+                    "h": 686, 
+                    "resize": "fit", 
+                    "w": 1200
+                  }, 
+                  "small": {
+                    "h": 388, 
+                    "resize": "fit", 
+                    "w": 680
+                  }, 
+                  "thumb": {
+                    "h": 150, 
+                    "resize": "crop", 
+                    "w": 150
+                  }
+                }, 
+                "type": "photo", 
+                "url": "https://t.co/xpzrU7svOy"
+              }
+            ]
+          }, 
+          "favorite_count": 9, 
+          "favorited": false, 
+          "geo": null, 
+          "id": 904038274557149185, 
+          "id_str": "904038274557149185", 
+          "in_reply_to_screen_name": null, 
+          "in_reply_to_status_id": null, 
+          "in_reply_to_status_id_str": null, 
+          "in_reply_to_user_id": null, 
+          "in_reply_to_user_id_str": null, 
+          "is_quote_status": false, 
+          "lang": "fr", 
+          "place": null, 
+          "possibly_sensitive": false, 
+          "retweet_count": 7, 
+          "retweeted": false, 
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+          "text": "Inauguration et b\u00e9n\u00e9diction de l'h\u00f4tellerie de l'Abbaye Notre Dame du port du Salut par Monseigneur Thierry Scherrer https://t.co/xpzrU7svOy", 
+          "truncated": false
+        }, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "Face aux r\u00e9formes, les champions de la contestation tentent de garder leurs parts de march\u00e9, campent sur leurs illusions, pr\u00e9emptent la rue.", 
+        "text": "RT @samiasoultani: Inauguration et b\u00e9n\u00e9diction de l'h\u00f4tellerie de l'Abbaye Notre Dame du port du Salut par Monseigneur Thierry Scherrer htt\u2026", 
         "truncated": false
       }, 
-      "statuses_count": 3658, 
+      "statuses_count": 3661, 
       "time_zone": "Amsterdam", 
       "translator_type": "none", 
       "url": "https://t.co/YhICpAOeW0", 
@@ -877,13 +1032,13 @@
     }, 
     "twitter_description": "D\u00e9put\u00e9 europ\u00e9en, Pdt de la com. #BUDG fondateur de l'Alliance centriste #EnMarche, ancien ministre de l'\u00e9conomie et des finances https://t.co/fhOVDCyFu0", 
     "twitter_favourites": 1283, 
-    "twitter_followers": 20658, 
-    "twitter_following": 1822, 
+    "twitter_followers": 20667, 
+    "twitter_following": 1824, 
     "twitter_id": 110191018, 
-    "twitter_listed": 677, 
+    "twitter_listed": 678, 
     "twitter_name": "Jean Arthuis", 
     "twitter_protected": false, 
-    "twitter_tweets": 3658, 
+    "twitter_tweets": 3661, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/arthuis_jean83011j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-arthuis", 
@@ -3269,7 +3424,7 @@
       }, 
       "favourites_count": 233, 
       "follow_request_sent": false, 
-      "followers_count": 4563, 
+      "followers_count": 4564, 
       "following": false, 
       "friends_count": 1064, 
       "geo_enabled": true, 
@@ -3413,7 +3568,7 @@
     }, 
     "twitter_description": "Vice-Pr\u00e9sidente de la R\u00e9gion Hauts-de-France. Maire de #Calais, Pr\u00e9sidente de Grand Calais Terres & Mers", 
     "twitter_favourites": 233, 
-    "twitter_followers": 4563, 
+    "twitter_followers": 4564, 
     "twitter_following": 1064, 
     "twitter_id": 551342517, 
     "twitter_listed": 154, 
@@ -5833,7 +5988,7 @@
       }, 
       "favourites_count": 155, 
       "follow_request_sent": false, 
-      "followers_count": 62072, 
+      "followers_count": 62065, 
       "following": false, 
       "friends_count": 695, 
       "geo_enabled": true, 
@@ -5876,57 +6031,63 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Sat Aug 26 15:14:50 +0000 2017", 
+        "created_at": "Sat Sep 02 14:06:26 +0000 2017", 
         "entities": {
           "hashtags": [
             {
               "indices": [
-                121, 
-                125
+                89, 
+                95
               ], 
-              "text": "LCP"
+              "text": "chine"
+            }, 
+            {
+              "indices": [
+                96, 
+                106
+              ], 
+              "text": "etatsunis"
             }
           ], 
           "symbols": [], 
-          "urls": [], 
+          "urls": [
+            {
+              "display_url": "xfru.it/UbOq61", 
+              "expanded_url": "http://xfru.it/UbOq61", 
+              "indices": [
+                45, 
+                68
+              ], 
+              "url": "https://t.co/GYLhEpFLBV"
+            }, 
+            {
+              "display_url": "twitter.com/i/web/status/9\u2026", 
+              "expanded_url": "https://twitter.com/i/web/status/903982453383102466", 
+              "indices": [
+                108, 
+                131
+              ], 
+              "url": "https://t.co/0J8dWjYapm"
+            }
+          ], 
           "user_mentions": [
             {
-              "id": 893454169385906176, 
-              "id_str": "893454169385906176", 
+              "id": 71232198, 
+              "id_str": "71232198", 
               "indices": [
-                3, 
-                17
+                72, 
+                88
               ], 
-              "name": "Guerre Fantome", 
-              "screen_name": "GuerreFantome"
-            }, 
-            {
-              "id": 57116930, 
-              "id_str": "57116930", 
-              "indices": [
-                29, 
-                41
-              ], 
-              "name": "J-P. Chev\u00e8nement", 
-              "screen_name": "chevenement"
-            }, 
-            {
-              "id": 893454169385906176, 
-              "id_str": "893454169385906176", 
-              "indices": [
-                47, 
-                61
-              ], 
-              "name": "Guerre Fantome", 
-              "screen_name": "GuerreFantome"
+              "name": "Fondation ResPublica", 
+              "screen_name": "fondarespublica"
             }
           ]
         }, 
-        "favorite_count": 0, 
+        "favorite_count": 15, 
         "favorited": false, 
         "geo": null, 
-        "id": 901462949109391361, 
-        "id_str": "901462949109391361", 
+        "id": 903982453383102466, 
+        "id_str": "903982453383102466", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -5935,82 +6096,14 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 24, 
+        "possibly_sensitive": false, 
+        "retweet_count": 11, 
         "retweeted": false, 
-        "retweeted_status": {
-          "contributors": null, 
-          "coordinates": null, 
-          "created_at": "Fri Aug 25 12:06:11 +0000 2017", 
-          "entities": {
-            "hashtags": [
-              {
-                "indices": [
-                  102, 
-                  106
-                ], 
-                "text": "LCP"
-              }
-            ], 
-            "symbols": [], 
-            "urls": [
-              {
-                "display_url": "twitter.com/i/web/status/9\u2026", 
-                "expanded_url": "https://twitter.com/i/web/status/901053085845508097", 
-                "indices": [
-                  108, 
-                  131
-                ], 
-                "url": "https://t.co/x0foyQu4rm"
-              }
-            ], 
-            "user_mentions": [
-              {
-                "id": 57116930, 
-                "id_str": "57116930", 
-                "indices": [
-                  10, 
-                  22
-                ], 
-                "name": "J-P. Chev\u00e8nement", 
-                "screen_name": "chevenement"
-              }, 
-              {
-                "id": 893454169385906176, 
-                "id_str": "893454169385906176", 
-                "indices": [
-                  28, 
-                  42
-                ], 
-                "name": "Guerre Fantome", 
-                "screen_name": "GuerreFantome"
-              }
-            ]
-          }, 
-          "favorite_count": 23, 
-          "favorited": false, 
-          "geo": null, 
-          "id": 901053085845508097, 
-          "id_str": "901053085845508097", 
-          "in_reply_to_screen_name": null, 
-          "in_reply_to_status_id": null, 
-          "in_reply_to_status_id_str": null, 
-          "in_reply_to_user_id": null, 
-          "in_reply_to_user_id_str": null, 
-          "is_quote_status": false, 
-          "lang": "fr", 
-          "place": null, 
-          "possibly_sensitive": false, 
-          "retweet_count": 24, 
-          "retweeted": false, 
-          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-          "text": "Retrouvez @chevenement dans @GuerreFantome : la vente d'Alstom \u00e0 General Electric le 25 septembre sur #LCP\u2026 https://t.co/x0foyQu4rm", 
-          "truncated": true
-        }, 
-        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
-        "text": "RT @GuerreFantome: Retrouvez @chevenement dans @GuerreFantome : la vente d'Alstom \u00e0 General Electric le 25 septembre sur #LCP @fondarespubl\u2026", 
-        "truncated": false
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "L\u2019Europe face aux relations sino-am\u00e9ricaines https://t.co/GYLhEpFLBV cc @fondarespublica #chine #etatsunis\u2026 https://t.co/0J8dWjYapm", 
+        "truncated": true
       }, 
-      "statuses_count": 4438, 
+      "statuses_count": 4439, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": "http://t.co/uxgBAwrQat", 
@@ -6019,13 +6112,13 @@
     }, 
     "twitter_description": "Ancien ministre. Pdt du club R\u00e9publique Moderne (@RepubliqueMod), de la Fondation Res Publica (@fondarespublica) et de la Fondation de l'Islam de France.", 
     "twitter_favourites": 155, 
-    "twitter_followers": 62072, 
+    "twitter_followers": 62065, 
     "twitter_following": 695, 
     "twitter_id": 57116930, 
     "twitter_listed": 1215, 
     "twitter_name": "J-P. Chev\u00e8nement", 
     "twitter_protected": false, 
-    "twitter_tweets": 4438, 
+    "twitter_tweets": 4439, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/chevenement_jean_pierre02053w.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-pierre-chevenement", 
@@ -6930,7 +7023,7 @@
       }, 
       "favourites_count": 9, 
       "follow_request_sent": false, 
-      "followers_count": 483, 
+      "followers_count": 482, 
       "following": false, 
       "friends_count": 13, 
       "geo_enabled": false, 
@@ -7085,7 +7178,7 @@
     }, 
     "twitter_description": "Maire de @villedemacon pr\u00e9sident de la @_MBAgglo", 
     "twitter_favourites": 9, 
-    "twitter_followers": 483, 
+    "twitter_followers": 482, 
     "twitter_following": 13, 
     "twitter_id": 1479161936, 
     "twitter_listed": 36, 
@@ -13248,7 +13341,7 @@
       }, 
       "favourites_count": 16, 
       "follow_request_sent": false, 
-      "followers_count": 913, 
+      "followers_count": 912, 
       "following": false, 
       "friends_count": 303, 
       "geo_enabled": false, 
@@ -13280,47 +13373,37 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Wed Aug 23 03:46:39 +0000 2017", 
+        "created_at": "Sat Sep 02 07:31:19 +0000 2017", 
         "entities": {
           "hashtags": [
             {
               "indices": [
-                34, 
-                47
+                11, 
+                25
               ], 
-              "text": "emploisAides"
+              "text": "ContratsAid\u00e9s"
             }
           ], 
           "symbols": [], 
-          "urls": [
-            {
-              "display_url": "bit.ly/2wAe3nQ", 
-              "expanded_url": "http://bit.ly/2wAe3nQ", 
-              "indices": [
-                108, 
-                131
-              ], 
-              "url": "https://t.co/I0WiOy54xH"
-            }
-          ], 
+          "urls": [], 
           "user_mentions": [
             {
-              "id": 507131778, 
-              "id_str": "507131778", 
+              "id": 1181759336, 
+              "id_str": "1181759336", 
               "indices": [
                 3, 
-                17
+                9
               ], 
-              "name": "APVF", 
-              "screen_name": "PetitesVilles"
+              "name": "AMF", 
+              "screen_name": "l_amf"
             }
           ]
         }, 
         "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 900202600208924676, 
-        "id_str": "900202600208924676", 
+        "id": 903883019668377601, 
+        "id_str": "903883019668377601", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -13329,51 +13412,41 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "possibly_sensitive": false, 
-        "retweet_count": 30, 
+        "retweet_count": 35, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
           "coordinates": null, 
-          "created_at": "Tue Aug 22 10:36:13 +0000 2017", 
+          "created_at": "Tue Aug 29 08:32:02 +0000 2017", 
           "entities": {
             "hashtags": [
               {
                 "indices": [
-                  15, 
-                  28
+                  0, 
+                  14
                 ], 
-                "text": "emploisAides"
+                "text": "ContratsAid\u00e9s"
               }
             ], 
             "symbols": [], 
             "urls": [
               {
-                "display_url": "bit.ly/2wAe3nQ", 
-                "expanded_url": "http://bit.ly/2wAe3nQ", 
+                "display_url": "twitter.com/i/web/status/9\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/902448745966694401", 
                 "indices": [
-                  89, 
-                  112
+                  117, 
+                  140
                 ], 
-                "url": "https://t.co/I0WiOy54xH"
-              }, 
-              {
-                "display_url": "twitter.com/i/web/status/8\u2026", 
-                "expanded_url": "https://twitter.com/i/web/status/899943282763063296", 
-                "indices": [
-                  114, 
-                  137
-                ], 
-                "url": "https://t.co/Dx1FkSkPtA"
+                "url": "https://t.co/eYZSwxFdSD"
               }
             ], 
             "user_mentions": []
           }, 
-          "favorite_count": 14, 
+          "favorite_count": 18, 
           "favorited": false, 
           "geo": null, 
-          "id": 899943282763063296, 
-          "id_str": "899943282763063296", 
+          "id": 902448745966694401, 
+          "id_str": "902448745966694401", 
           "in_reply_to_screen_name": null, 
           "in_reply_to_status_id": null, 
           "in_reply_to_status_id_str": null, 
@@ -13383,17 +13456,17 @@
           "lang": "fr", 
           "place": null, 
           "possibly_sensitive": false, 
-          "retweet_count": 30, 
+          "retweet_count": 35, 
           "retweeted": false, 
           "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-          "text": "Diminution des #emploisAides : Pour l\u2019APVF, une d\u00e9cision aux cons\u00e9quences pr\u00e9judiciables https://t.co/I0WiOy54xH\u2026 https://t.co/Dx1FkSkPtA", 
+          "text": "#ContratsAid\u00e9s l'AMF demande au Gvt de prendre les mesures ad\u00e9quates pour le bon d\u00e9roulement de la rentr\u00e9e scolaire\u2026 https://t.co/eYZSwxFdSD", 
           "truncated": true
         }, 
         "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>", 
-        "text": "RT @PetitesVilles: Diminution des #emploisAides : Pour l\u2019APVF, une d\u00e9cision aux cons\u00e9quences pr\u00e9judiciables https://t.co/I0WiOy54xH #colter\u2026", 
+        "text": "RT @l_amf: #ContratsAid\u00e9s l'AMF demande au Gvt de prendre les mesures ad\u00e9quates pour le bon d\u00e9roulement de la rentr\u00e9e scolaire https://t.co\u2026", 
         "truncated": false
       }, 
-      "statuses_count": 136, 
+      "statuses_count": 137, 
       "time_zone": "Pacific Time (US & Canada)", 
       "translator_type": "none", 
       "url": "http://t.co/iroBsMSUFP", 
@@ -13402,13 +13475,13 @@
     }, 
     "twitter_description": "Maire de Saint-Flour, Pr\u00e9sident des Maires du #Cantal, Comit\u00e9 des #Finances locales - #Collectivit\u00e9s territoriales #Urbanisme #Logement #D\u00e9veloppement durable", 
     "twitter_favourites": 16, 
-    "twitter_followers": 913, 
+    "twitter_followers": 912, 
     "twitter_following": 303, 
     "twitter_id": 2328417882, 
     "twitter_listed": 40, 
     "twitter_name": "Pierre Jarlier", 
     "twitter_protected": false, 
-    "twitter_tweets": 136, 
+    "twitter_tweets": 137, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/jarlier_pierre98027u.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/pierre-jarlier", 
@@ -18151,7 +18224,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 0, 
+      "listed_count": 11, 
       "location": "Lazer", 
       "name": "P. Morhet-Richaud", 
       "notifications": false, 
@@ -18219,7 +18292,7 @@
     "twitter_followers": 292, 
     "twitter_following": 160, 
     "twitter_id": 3189823869, 
-    "twitter_listed": 0, 
+    "twitter_listed": 11, 
     "twitter_name": "P. Morhet-Richaud", 
     "twitter_protected": false, 
     "twitter_tweets": 88, 
@@ -19419,7 +19492,7 @@
       }, 
       "favourites_count": 1797, 
       "follow_request_sent": false, 
-      "followers_count": 94963, 
+      "followers_count": 94989, 
       "following": false, 
       "friends_count": 2434, 
       "geo_enabled": true, 
@@ -19494,7 +19567,7 @@
     }, 
     "twitter_description": "Ancien Ministre. S\u00e9nateur de l'Essonne. Conseiller r\u00e9gional d'\u00cele de France. Pr\u00e9sident de l' @UDE_FR", 
     "twitter_favourites": 1797, 
-    "twitter_followers": 94963, 
+    "twitter_followers": 94989, 
     "twitter_following": 2434, 
     "twitter_id": 219361536, 
     "twitter_listed": 1000, 
@@ -20953,7 +21026,7 @@
       }, 
       "favourites_count": 76, 
       "follow_request_sent": false, 
-      "followers_count": 5673, 
+      "followers_count": 5677, 
       "following": false, 
       "friends_count": 470, 
       "geo_enabled": true, 
@@ -21090,7 +21163,7 @@
     }, 
     "twitter_description": "Maire de Strasbourg", 
     "twitter_favourites": 76, 
-    "twitter_followers": 5673, 
+    "twitter_followers": 5677, 
     "twitter_following": 470, 
     "twitter_id": 281438650, 
     "twitter_listed": 246, 
