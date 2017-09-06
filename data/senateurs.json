@@ -808,11 +808,11 @@
           ]
         }
       }, 
-      "favourites_count": 1283, 
+      "favourites_count": 1285, 
       "follow_request_sent": false, 
-      "followers_count": 20681, 
+      "followers_count": 20688, 
       "following": false, 
-      "friends_count": 1837, 
+      "friends_count": 1839, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 110191018, 
@@ -820,7 +820,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 677, 
+      "listed_count": 678, 
       "location": "Ch-Gontier/Bruxelles/Strasbrg", 
       "name": "Jean Arthuis", 
       "notifications": false, 
@@ -842,18 +842,39 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Mon Sep 04 12:25:52 +0000 2017", 
+        "created_at": "Tue Sep 05 09:34:20 +0000 2017", 
         "entities": {
           "hashtags": [], 
           "symbols": [], 
-          "urls": [], 
-          "user_mentions": []
+          "urls": [
+            {
+              "display_url": "twitter.com/i/web/status/9\u2026", 
+              "expanded_url": "https://twitter.com/i/web/status/905001140294692864", 
+              "indices": [
+                117, 
+                140
+              ], 
+              "url": "https://t.co/XbKZtH33Vt"
+            }
+          ], 
+          "user_mentions": [
+            {
+              "id": 2220009464, 
+              "id_str": "2220009464", 
+              "indices": [
+                6, 
+                22
+              ], 
+              "name": "Marianne Thyssen", 
+              "screen_name": "mariannethyssen"
+            }
+          ]
         }, 
-        "favorite_count": 19, 
+        "favorite_count": 26, 
         "favorited": false, 
         "geo": null, 
-        "id": 904681918565888000, 
-        "id_str": "904681918565888000", 
+        "id": 905001140294692864, 
+        "id_str": "905001140294692864", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -861,47 +882,15 @@
         "in_reply_to_user_id_str": null, 
         "is_quote_status": false, 
         "lang": "fr", 
-        "place": {
-          "attributes": {}, 
-          "bounding_box": {
-            "coordinates": [
-              [
-                [
-                  2.2241005999999999, 
-                  48.815521400000002
-                ], 
-                [
-                  2.4699053000000002, 
-                  48.815521400000002
-                ], 
-                [
-                  2.4699053000000002, 
-                  48.902146100000003
-                ], 
-                [
-                  2.2241005999999999, 
-                  48.902146100000003
-                ]
-              ]
-            ], 
-            "type": "Polygon"
-          }, 
-          "contained_within": [], 
-          "country": "France", 
-          "country_code": "FR", 
-          "full_name": "Paris, France", 
-          "id": "09f6a7707f18e0b1", 
-          "name": "Paris", 
-          "place_type": "city", 
-          "url": "https://api.twitter.com/1.1/geo/id/09f6a7707f18e0b1.json"
-        }, 
-        "retweet_count": 19, 
+        "place": null, 
+        "possibly_sensitive": false, 
+        "retweet_count": 18, 
         "retweeted": false, 
-        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "La privatisation de FDJ n'est pas justifiable: c'est un monopole et le Tr\u00e9sor Public fixe le r\u00e9sultat en fonction de ses besoins(3milliards)", 
-        "truncated": false
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "Merci @mariannethyssen pr votre engagement en faveur d'ErasmusPro consacrant le projet que ns portons au PE dps 201\u2026 https://t.co/XbKZtH33Vt", 
+        "truncated": true
       }, 
-      "statuses_count": 3666, 
+      "statuses_count": 3667, 
       "time_zone": "Amsterdam", 
       "translator_type": "none", 
       "url": "https://t.co/YhICpAOeW0", 
@@ -909,14 +898,14 @@
       "verified": true
     }, 
     "twitter_description": "D\u00e9put\u00e9 europ\u00e9en, Pdt de la com. #BUDG fondateur de l'Alliance centriste #EnMarche, ancien ministre de l'\u00e9conomie et des finances https://t.co/fhOVDCyFu0", 
-    "twitter_favourites": 1283, 
-    "twitter_followers": 20681, 
-    "twitter_following": 1837, 
+    "twitter_favourites": 1285, 
+    "twitter_followers": 20688, 
+    "twitter_following": 1839, 
     "twitter_id": 110191018, 
-    "twitter_listed": 677, 
+    "twitter_listed": 678, 
     "twitter_name": "Jean Arthuis", 
     "twitter_protected": false, 
-    "twitter_tweets": 3666, 
+    "twitter_tweets": 3667, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/arthuis_jean83011j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-arthuis", 
@@ -1962,7 +1951,7 @@
       }, 
       "favourites_count": 2023, 
       "follow_request_sent": false, 
-      "followers_count": 1381, 
+      "followers_count": 1382, 
       "following": false, 
       "friends_count": 369, 
       "geo_enabled": true, 
@@ -2094,7 +2083,7 @@
             }
           ]
         }, 
-        "favorite_count": 0, 
+        "favorite_count": 2, 
         "favorited": false, 
         "geo": null, 
         "id": 904754242682048512, 
@@ -2108,7 +2097,7 @@
         "lang": "fr", 
         "place": null, 
         "possibly_sensitive": false, 
-        "retweet_count": 0, 
+        "retweet_count": 1, 
         "retweeted": false, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
         "text": "Bienvenue \u00e0 #ChristineBonnard nouvelle Sous-Pr\u00e9f\u00e8te de #Nyons https://t.co/sadnOANI66", 
@@ -2123,7 +2112,7 @@
     }, 
     "twitter_description": "Jean BESSON, S\u00e9nateur Honoraire, Pr\u00e9sident d'@energiesded, Vice Pr\u00e9sident de la @fnccr, #Progressiste #Europhile", 
     "twitter_favourites": 2023, 
-    "twitter_followers": 1381, 
+    "twitter_followers": 1382, 
     "twitter_following": 369, 
     "twitter_id": 78422142, 
     "twitter_listed": 83, 
@@ -3271,9 +3260,9 @@
           "urls": []
         }
       }, 
-      "favourites_count": 237, 
+      "favourites_count": 238, 
       "follow_request_sent": false, 
-      "followers_count": 4566, 
+      "followers_count": 4567, 
       "following": false, 
       "friends_count": 1064, 
       "geo_enabled": true, 
@@ -3543,8 +3532,8 @@
       "verified": false
     }, 
     "twitter_description": "Vice-Pr\u00e9sidente de la R\u00e9gion Hauts-de-France. Maire de #Calais, Pr\u00e9sidente de Grand Calais Terres & Mers", 
-    "twitter_favourites": 237, 
-    "twitter_followers": 4566, 
+    "twitter_favourites": 238, 
+    "twitter_followers": 4567, 
     "twitter_following": 1064, 
     "twitter_id": 551342517, 
     "twitter_listed": 154, 
@@ -5964,9 +5953,9 @@
       }, 
       "favourites_count": 155, 
       "follow_request_sent": false, 
-      "followers_count": 62072, 
+      "followers_count": 62103, 
       "following": false, 
-      "friends_count": 696, 
+      "friends_count": 697, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 57116930, 
@@ -5974,7 +5963,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 1215, 
+      "listed_count": 1214, 
       "location": "Paris, France", 
       "name": "J-P. Chev\u00e8nement", 
       "notifications": false, 
@@ -6024,7 +6013,7 @@
           ], 
           "user_mentions": []
         }, 
-        "favorite_count": 131, 
+        "favorite_count": 302, 
         "favorited": false, 
         "geo": null, 
         "id": 904613594851094528, 
@@ -6038,7 +6027,7 @@
         "lang": "fr", 
         "place": null, 
         "possibly_sensitive": false, 
-        "retweet_count": 119, 
+        "retweet_count": 214, 
         "retweeted": false, 
         "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
         "text": "Pour la premi\u00e8re fois depuis longtemps, je vois les chances d'un redressement de l'\u00e9cole publique\u2026 https://t.co/uuacEOXpBJ", 
@@ -6053,10 +6042,10 @@
     }, 
     "twitter_description": "Ancien ministre. Pdt du club R\u00e9publique Moderne (@RepubliqueMod), de la Fondation Res Publica (@fondarespublica) et de la Fondation de l'Islam de France.", 
     "twitter_favourites": 155, 
-    "twitter_followers": 62072, 
-    "twitter_following": 696, 
+    "twitter_followers": 62103, 
+    "twitter_following": 697, 
     "twitter_id": 57116930, 
-    "twitter_listed": 1215, 
+    "twitter_listed": 1214, 
     "twitter_name": "J-P. Chev\u00e8nement", 
     "twitter_protected": false, 
     "twitter_tweets": 4453, 
@@ -6964,7 +6953,7 @@
       }, 
       "favourites_count": 10, 
       "follow_request_sent": false, 
-      "followers_count": 484, 
+      "followers_count": 485, 
       "following": false, 
       "friends_count": 13, 
       "geo_enabled": false, 
@@ -7053,7 +7042,7 @@
     }, 
     "twitter_description": "Maire de @villedemacon pr\u00e9sident de la @_MBAgglo", 
     "twitter_favourites": 10, 
-    "twitter_followers": 484, 
+    "twitter_followers": 485, 
     "twitter_following": 13, 
     "twitter_id": 1479161936, 
     "twitter_listed": 36, 
@@ -13216,7 +13205,7 @@
       }, 
       "favourites_count": 16, 
       "follow_request_sent": false, 
-      "followers_count": 911, 
+      "followers_count": 912, 
       "following": false, 
       "friends_count": 303, 
       "geo_enabled": false, 
@@ -13350,7 +13339,7 @@
     }, 
     "twitter_description": "Maire de Saint-Flour, Pr\u00e9sident des Maires du #Cantal, Comit\u00e9 des #Finances locales - #Collectivit\u00e9s territoriales #Urbanisme #Logement #D\u00e9veloppement durable", 
     "twitter_favourites": 16, 
-    "twitter_followers": 911, 
+    "twitter_followers": 912, 
     "twitter_following": 303, 
     "twitter_id": 2328417882, 
     "twitter_listed": 40, 
@@ -16890,7 +16879,7 @@
       }, 
       "favourites_count": 5, 
       "follow_request_sent": false, 
-      "followers_count": 3790, 
+      "followers_count": 3791, 
       "following": false, 
       "friends_count": 2348, 
       "geo_enabled": false, 
@@ -16956,7 +16945,7 @@
     }, 
     "twitter_description": "S\u00e9nateur honoraire-maire de Compi\u00e8gne , Pr\u00e9sident de l'agglom\u00e9ration de la r\u00e9gion de Compi\u00e8gne, Pr\u00e9sident de la commission des finances du S\u00e9nat.", 
     "twitter_favourites": 5, 
-    "twitter_followers": 3790, 
+    "twitter_followers": 3791, 
     "twitter_following": 2348, 
     "twitter_id": 1534099902, 
     "twitter_listed": 127, 
@@ -19367,9 +19356,9 @@
       }, 
       "favourites_count": 1798, 
       "follow_request_sent": false, 
-      "followers_count": 95040, 
+      "followers_count": 95093, 
       "following": false, 
-      "friends_count": 2434, 
+      "friends_count": 2436, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 219361536, 
@@ -19377,7 +19366,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 999, 
+      "listed_count": 998, 
       "location": "Paris, France", 
       "name": "Jean-Vincent Plac\u00e9", 
       "notifications": false, 
@@ -19399,26 +19388,18 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Thu Aug 17 20:24:00 +0000 2017", 
+        "created_at": "Tue Sep 05 22:33:24 +0000 2017", 
         "entities": {
-          "hashtags": [
-            {
-              "indices": [
-                57, 
-                67
-              ], 
-              "text": "Barcelone"
-            }
-          ], 
+          "hashtags": [], 
           "symbols": [], 
           "urls": [], 
           "user_mentions": []
         }, 
-        "favorite_count": 43, 
+        "favorite_count": 15, 
         "favorited": false, 
         "geo": null, 
-        "id": 898279262876311554, 
-        "id_str": "898279262876311554", 
+        "id": 905197200178909185, 
+        "id_str": "905197200178909185", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -19427,13 +19408,13 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 15, 
+        "retweet_count": 9, 
         "retweeted": false, 
-        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "Ne pas s'habituer. Ne pas c\u00e9der. Jamais. Solidarit\u00e9 avec #Barcelone", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "merci aux pharmaciens et aux m\u00e9decins et ...ma dentiste. C'est une chance de vivre en France m\u00eame quand on subit cette violence si brutale", 
         "truncated": false
       }, 
-      "statuses_count": 8306, 
+      "statuses_count": 8309, 
       "time_zone": null, 
       "translator_type": "none", 
       "url": null, 
@@ -19442,13 +19423,13 @@
     }, 
     "twitter_description": "Ancien Ministre. S\u00e9nateur de l'Essonne. Conseiller r\u00e9gional d'\u00cele de France. Pr\u00e9sident de l' @UDE_FR", 
     "twitter_favourites": 1798, 
-    "twitter_followers": 95040, 
-    "twitter_following": 2434, 
+    "twitter_followers": 95093, 
+    "twitter_following": 2436, 
     "twitter_id": 219361536, 
-    "twitter_listed": 999, 
+    "twitter_listed": 998, 
     "twitter_name": "Jean-Vincent Plac\u00e9", 
     "twitter_protected": false, 
-    "twitter_tweets": 8306, 
+    "twitter_tweets": 8309, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/place_jean_vincent11069t.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-vincent-place", 
@@ -20899,9 +20880,9 @@
           "urls": []
         }
       }, 
-      "favourites_count": 76, 
+      "favourites_count": 77, 
       "follow_request_sent": false, 
-      "followers_count": 5679, 
+      "followers_count": 5680, 
       "following": false, 
       "friends_count": 470, 
       "geo_enabled": true, 
@@ -20978,8 +20959,8 @@
       "verified": true
     }, 
     "twitter_description": "Maire de Strasbourg", 
-    "twitter_favourites": 76, 
-    "twitter_followers": 5679, 
+    "twitter_favourites": 77, 
+    "twitter_followers": 5680, 
     "twitter_following": 470, 
     "twitter_id": 281438650, 
     "twitter_listed": 246, 
