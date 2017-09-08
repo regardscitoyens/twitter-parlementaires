@@ -808,11 +808,11 @@
           ]
         }
       }, 
-      "favourites_count": 1285, 
+      "favourites_count": 1286, 
       "follow_request_sent": false, 
-      "followers_count": 20685, 
+      "followers_count": 20704, 
       "following": false, 
-      "friends_count": 1852, 
+      "friends_count": 1861, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 110191018, 
@@ -842,18 +842,39 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Wed Sep 06 18:38:27 +0000 2017", 
+        "created_at": "Thu Sep 07 12:08:27 +0000 2017", 
         "entities": {
           "hashtags": [], 
           "symbols": [], 
-          "urls": [], 
-          "user_mentions": []
+          "urls": [
+            {
+              "display_url": "leparisien.fr/societe/format\u2026", 
+              "expanded_url": "http://www.leparisien.fr/societe/formation-erasmus-s-ouvre-a-l-apprentissage-20-07-2017-7145307.php", 
+              "indices": [
+                116, 
+                139
+              ], 
+              "url": "https://t.co/wMKnb8GtV7"
+            }
+          ], 
+          "user_mentions": [
+            {
+              "id": 594691828, 
+              "id_str": "594691828", 
+              "indices": [
+                3, 
+                18
+              ], 
+              "name": "Muriel P\u00e9nicaud", 
+              "screen_name": "murielpenicaud"
+            }
+          ]
         }, 
-        "favorite_count": 41, 
+        "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 905500459087130626, 
-        "id_str": "905500459087130626", 
+        "id": 905764700834717696, 
+        "id_str": "905764700834717696", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -861,47 +882,63 @@
         "in_reply_to_user_id_str": null, 
         "is_quote_status": false, 
         "lang": "fr", 
-        "place": {
-          "attributes": {}, 
-          "bounding_box": {
-            "coordinates": [
-              [
-                [
-                  2.2241005999999999, 
-                  48.815521400000002
-                ], 
-                [
-                  2.4699053000000002, 
-                  48.815521400000002
-                ], 
-                [
-                  2.4699053000000002, 
-                  48.902146100000003
-                ], 
-                [
-                  2.2241005999999999, 
-                  48.902146100000003
-                ]
-              ]
-            ], 
-            "type": "Polygon"
-          }, 
-          "contained_within": [], 
-          "country": "France", 
-          "country_code": "FR", 
-          "full_name": "Paris, France", 
-          "id": "09f6a7707f18e0b1", 
-          "name": "Paris", 
-          "place_type": "city", 
-          "url": "https://api.twitter.com/1.1/geo/id/09f6a7707f18e0b1.json"
-        }, 
-        "retweet_count": 59, 
+        "place": null, 
+        "possibly_sensitive": false, 
+        "retweet_count": 88, 
         "retweeted": false, 
+        "retweeted_status": {
+          "contributors": null, 
+          "coordinates": null, 
+          "created_at": "Thu Sep 07 12:03:52 +0000 2017", 
+          "entities": {
+            "hashtags": [
+              {
+                "indices": [
+                  121, 
+                  135
+                ], 
+                "text": "apprentissage"
+              }
+            ], 
+            "symbols": [], 
+            "urls": [
+              {
+                "display_url": "leparisien.fr/societe/format\u2026", 
+                "expanded_url": "http://www.leparisien.fr/societe/formation-erasmus-s-ouvre-a-l-apprentissage-20-07-2017-7145307.php", 
+                "indices": [
+                  96, 
+                  119
+                ], 
+                "url": "https://t.co/wMKnb8GtV7"
+              }
+            ], 
+            "user_mentions": []
+          }, 
+          "favorite_count": 114, 
+          "favorited": false, 
+          "geo": null, 
+          "id": 905763546834903040, 
+          "id_str": "905763546834903040", 
+          "in_reply_to_screen_name": null, 
+          "in_reply_to_status_id": null, 
+          "in_reply_to_status_id_str": null, 
+          "in_reply_to_user_id": null, 
+          "in_reply_to_user_id_str": null, 
+          "is_quote_status": false, 
+          "lang": "fr", 
+          "place": null, 
+          "possibly_sensitive": false, 
+          "retweet_count": 88, 
+          "retweeted": false, 
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+          "text": "D'ici 2022, notre ambition est que 15 000 apprentis partent en Erasmus contre 6 800 aujourd'hui https://t.co/wMKnb8GtV7  #apprentissage", 
+          "truncated": false
+        }, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "L'UE verse chaque ann\u00e9e \u00e0 la Turquie 650 millions\u20ac au titre de sa pr\u00e9-adh\u00e9sion. D\u00e9s le budget 2018, l'enveloppe doit d\u00e9cro\u00eetre sensiblement", 
+        "text": "RT @murielpenicaud: D'ici 2022, notre ambition est que 15 000 apprentis partent en Erasmus contre 6 800 aujourd'hui https://t.co/wMKnb8GtV7\u2026", 
         "truncated": false
       }, 
-      "statuses_count": 3668, 
+      "statuses_count": 3669, 
       "time_zone": "Amsterdam", 
       "translator_type": "none", 
       "url": "https://t.co/YhICpAOeW0", 
@@ -909,14 +946,14 @@
       "verified": true
     }, 
     "twitter_description": "D\u00e9put\u00e9 europ\u00e9en, Pdt de la com. #BUDG fondateur de l'Alliance centriste #EnMarche, ancien ministre de l'\u00e9conomie et des finances https://t.co/fhOVDCyFu0", 
-    "twitter_favourites": 1285, 
-    "twitter_followers": 20685, 
-    "twitter_following": 1852, 
+    "twitter_favourites": 1286, 
+    "twitter_followers": 20704, 
+    "twitter_following": 1861, 
     "twitter_id": 110191018, 
     "twitter_listed": 677, 
     "twitter_name": "Jean Arthuis", 
     "twitter_protected": false, 
-    "twitter_tweets": 3668, 
+    "twitter_tweets": 3669, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/arthuis_jean83011j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-arthuis", 
@@ -1210,7 +1247,7 @@
           ], 
           "user_mentions": []
         }, 
-        "favorite_count": 0, 
+        "favorite_count": 1, 
         "favorited": false, 
         "geo": null, 
         "id": 905334021588180992, 
@@ -1960,9 +1997,9 @@
           ]
         }
       }, 
-      "favourites_count": 2027, 
+      "favourites_count": 2032, 
       "follow_request_sent": false, 
-      "followers_count": 1384, 
+      "followers_count": 1383, 
       "following": false, 
       "friends_count": 369, 
       "geo_enabled": true, 
@@ -1972,7 +2009,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 83, 
+      "listed_count": 0, 
       "location": "Valence, France, Europe", 
       "name": "Jean BESSON", 
       "notifications": false, 
@@ -2122,11 +2159,11 @@
       "verified": false
     }, 
     "twitter_description": "Jean BESSON, S\u00e9nateur Honoraire, Pr\u00e9sident d'@energiesded, Vice Pr\u00e9sident de la @fnccr, #Progressiste #Europhile", 
-    "twitter_favourites": 2027, 
-    "twitter_followers": 1384, 
+    "twitter_favourites": 2032, 
+    "twitter_followers": 1383, 
     "twitter_following": 369, 
     "twitter_id": 78422142, 
-    "twitter_listed": 83, 
+    "twitter_listed": 0, 
     "twitter_name": "Jean BESSON", 
     "twitter_protected": false, 
     "twitter_tweets": 1527, 
@@ -3273,7 +3310,7 @@
       }, 
       "favourites_count": 240, 
       "follow_request_sent": false, 
-      "followers_count": 4570, 
+      "followers_count": 4574, 
       "following": false, 
       "friends_count": 1064, 
       "geo_enabled": true, 
@@ -3378,7 +3415,7 @@
             "urls": [], 
             "user_mentions": []
           }, 
-          "favorite_count": 2, 
+          "favorite_count": 4, 
           "favorited": false, 
           "geo": null, 
           "id": 905453056220856322, 
@@ -3410,7 +3447,7 @@
     }, 
     "twitter_description": "Vice-Pr\u00e9sidente de la R\u00e9gion Hauts-de-France. Maire de #Calais, Pr\u00e9sidente de Grand Calais Terres & Mers", 
     "twitter_favourites": 240, 
-    "twitter_followers": 4570, 
+    "twitter_followers": 4574, 
     "twitter_following": 1064, 
     "twitter_id": 551342517, 
     "twitter_listed": 154, 
@@ -5830,9 +5867,9 @@
       }, 
       "favourites_count": 155, 
       "follow_request_sent": false, 
-      "followers_count": 62110, 
+      "followers_count": 62109, 
       "following": false, 
-      "friends_count": 697, 
+      "friends_count": 698, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 57116930, 
@@ -5840,7 +5877,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 1214, 
+      "listed_count": 1215, 
       "location": "Paris, France", 
       "name": "J-P. Chev\u00e8nement", 
       "notifications": false, 
@@ -5873,28 +5910,59 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Mon Sep 04 07:54:22 +0000 2017", 
+        "created_at": "Thu Sep 07 09:27:35 +0000 2017", 
         "entities": {
           "hashtags": [], 
           "symbols": [], 
-          "urls": [
+          "urls": [], 
+          "user_mentions": [
             {
-              "display_url": "twitter.com/i/web/status/9\u2026", 
-              "expanded_url": "https://twitter.com/i/web/status/904613594851094528", 
+              "id": 905020749240561664, 
+              "id_str": "905020749240561664", 
               "indices": [
-                99, 
-                122
+                3, 
+                15
               ], 
-              "url": "https://t.co/uuacEOXpBJ"
+              "name": "FIF", 
+              "screen_name": "FondIslamFR"
+            }, 
+            {
+              "id": 783214, 
+              "id_str": "783214", 
+              "indices": [
+                59, 
+                67
+              ], 
+              "name": "Twitter", 
+              "screen_name": "Twitter"
+            }, 
+            {
+              "id": 596397227, 
+              "id_str": "596397227", 
+              "indices": [
+                117, 
+                125
+              ], 
+              "name": "Institut monde arabe", 
+              "screen_name": "imarabe"
+            }, 
+            {
+              "id": 57116930, 
+              "id_str": "57116930", 
+              "indices": [
+                126, 
+                138
+              ], 
+              "name": "J-P. Chev\u00e8nement", 
+              "screen_name": "chevenement"
             }
-          ], 
-          "user_mentions": []
+          ]
         }, 
-        "favorite_count": 335, 
+        "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 904613594851094528, 
-        "id_str": "904613594851094528", 
+        "id": 905724214883299332, 
+        "id_str": "905724214883299332", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -5903,14 +5971,93 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "possibly_sensitive": false, 
-        "retweet_count": 240, 
+        "retweet_count": 5, 
         "retweeted": false, 
-        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-        "text": "Pour la premi\u00e8re fois depuis longtemps, je vois les chances d'un redressement de l'\u00e9cole publique\u2026 https://t.co/uuacEOXpBJ", 
-        "truncated": true
+        "retweeted_status": {
+          "contributors": null, 
+          "coordinates": null, 
+          "created_at": "Wed Sep 06 15:52:29 +0000 2017", 
+          "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": [
+              {
+                "id": 783214, 
+                "id_str": "783214", 
+                "indices": [
+                  42, 
+                  50
+                ], 
+                "name": "Twitter", 
+                "screen_name": "Twitter"
+              }, 
+              {
+                "id": 596397227, 
+                "id_str": "596397227", 
+                "indices": [
+                  100, 
+                  108
+                ], 
+                "name": "Institut monde arabe", 
+                "screen_name": "imarabe"
+              }, 
+              {
+                "id": 57116930, 
+                "id_str": "57116930", 
+                "indices": [
+                  109, 
+                  121
+                ], 
+                "name": "J-P. Chev\u00e8nement", 
+                "screen_name": "chevenement"
+              }, 
+              {
+                "id": 315339776, 
+                "id_str": "315339776", 
+                "indices": [
+                  122, 
+                  128
+                ], 
+                "name": "Mucem", 
+                "screen_name": "Mucem"
+              }, 
+              {
+                "id": 315762847, 
+                "id_str": "315762847", 
+                "indices": [
+                  129, 
+                  144
+                ], 
+                "name": "Inst. Cultures Islam", 
+                "screen_name": "culturesdislam"
+              }
+            ]
+          }, 
+          "favorite_count": 0, 
+          "favorited": false, 
+          "geo": null, 
+          "id": 905458691398410240, 
+          "id_str": "905458691398410240", 
+          "in_reply_to_screen_name": null, 
+          "in_reply_to_status_id": null, 
+          "in_reply_to_status_id_str": null, 
+          "in_reply_to_user_id": null, 
+          "in_reply_to_user_id_str": null, 
+          "is_quote_status": false, 
+          "lang": "fr", 
+          "place": null, 
+          "retweet_count": 5, 
+          "retweeted": false, 
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+          "text": "La Fondation de l'Islam de France est sur @Twitter, n'h\u00e9sitez pas \u00e0 aimer et &amp; RT nos contenus.\n@imarabe @chevenement @Mucem @culturesdislam", 
+          "truncated": false
+        }, 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @FondIslamFR: La Fondation de l'Islam de France est sur @Twitter, n'h\u00e9sitez pas \u00e0 aimer et &amp; RT nos contenus.\n@imarabe @chevenement @Muc\u2026", 
+        "truncated": false
       }, 
-      "statuses_count": 4453, 
+      "statuses_count": 4454, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": "http://t.co/uxgBAwrQat", 
@@ -5919,13 +6066,13 @@
     }, 
     "twitter_description": "Ancien ministre. Pdt du club R\u00e9publique Moderne (@RepubliqueMod), de la Fondation Res Publica (@fondarespublica) et de la Fondation de l'Islam de France.", 
     "twitter_favourites": 155, 
-    "twitter_followers": 62110, 
-    "twitter_following": 697, 
+    "twitter_followers": 62109, 
+    "twitter_following": 698, 
     "twitter_id": 57116930, 
-    "twitter_listed": 1214, 
+    "twitter_listed": 1215, 
     "twitter_name": "J-P. Chev\u00e8nement", 
     "twitter_protected": false, 
-    "twitter_tweets": 4453, 
+    "twitter_tweets": 4454, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/chevenement_jean_pierre02053w.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-pierre-chevenement", 
@@ -6830,7 +6977,7 @@
       }, 
       "favourites_count": 10, 
       "follow_request_sent": false, 
-      "followers_count": 486, 
+      "followers_count": 487, 
       "following": false, 
       "friends_count": 13, 
       "geo_enabled": false, 
@@ -6919,7 +7066,7 @@
     }, 
     "twitter_description": "Maire de @villedemacon pr\u00e9sident de la @_MBAgglo", 
     "twitter_favourites": 10, 
-    "twitter_followers": 486, 
+    "twitter_followers": 487, 
     "twitter_following": 13, 
     "twitter_id": 1479161936, 
     "twitter_listed": 36, 
@@ -13082,7 +13229,7 @@
       }, 
       "favourites_count": 16, 
       "follow_request_sent": false, 
-      "followers_count": 913, 
+      "followers_count": 914, 
       "following": false, 
       "friends_count": 303, 
       "geo_enabled": false, 
@@ -13241,7 +13388,7 @@
     }, 
     "twitter_description": "Maire de Saint-Flour, Pr\u00e9sident des Maires du #Cantal, Comit\u00e9 des #Finances locales - #Collectivit\u00e9s territoriales #Urbanisme #Logement #D\u00e9veloppement durable", 
     "twitter_favourites": 16, 
-    "twitter_followers": 913, 
+    "twitter_followers": 914, 
     "twitter_following": 303, 
     "twitter_id": 2328417882, 
     "twitter_listed": 40, 
@@ -19256,9 +19403,9 @@
           "urls": []
         }
       }, 
-      "favourites_count": 1801, 
+      "favourites_count": 1803, 
       "follow_request_sent": false, 
-      "followers_count": 95141, 
+      "followers_count": 95184, 
       "following": false, 
       "friends_count": 2436, 
       "geo_enabled": true, 
@@ -19297,7 +19444,7 @@
           "urls": [], 
           "user_mentions": []
         }, 
-        "favorite_count": 177, 
+        "favorite_count": 209, 
         "favorited": false, 
         "geo": null, 
         "id": 905197200178909185, 
@@ -19310,7 +19457,7 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 78, 
+        "retweet_count": 100, 
         "retweeted": false, 
         "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
         "text": "merci aux pharmaciens et aux m\u00e9decins et ...ma dentiste. C'est une chance de vivre en France m\u00eame quand on subit cette violence si brutale", 
@@ -19324,8 +19471,8 @@
       "verified": true
     }, 
     "twitter_description": "Ancien Ministre. S\u00e9nateur de l'Essonne. Conseiller r\u00e9gional d'\u00cele de France. Pr\u00e9sident de l' @UDE_FR", 
-    "twitter_favourites": 1801, 
-    "twitter_followers": 95141, 
+    "twitter_favourites": 1803, 
+    "twitter_followers": 95184, 
     "twitter_following": 2436, 
     "twitter_id": 219361536, 
     "twitter_listed": 998, 
@@ -20784,7 +20931,7 @@
       }, 
       "favourites_count": 77, 
       "follow_request_sent": false, 
-      "followers_count": 5680, 
+      "followers_count": 5683, 
       "following": false, 
       "friends_count": 470, 
       "geo_enabled": true, 
@@ -20862,7 +21009,7 @@
     }, 
     "twitter_description": "Maire de Strasbourg", 
     "twitter_favourites": 77, 
-    "twitter_followers": 5680, 
+    "twitter_followers": 5683, 
     "twitter_following": 470, 
     "twitter_id": 281438650, 
     "twitter_listed": 247, 
