@@ -810,9 +810,9 @@
       }, 
       "favourites_count": 1285, 
       "follow_request_sent": false, 
-      "followers_count": 20726, 
+      "followers_count": 20730, 
       "following": false, 
-      "friends_count": 1861, 
+      "friends_count": 1862, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 110191018, 
@@ -820,7 +820,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 679, 
+      "listed_count": 680, 
       "location": "Ch-Gontier/Bruxelles/Strasbrg", 
       "name": "Jean Arthuis", 
       "notifications": false, 
@@ -842,47 +842,28 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Sat Sep 09 16:16:50 +0000 2017", 
+        "created_at": "Mon Sep 11 19:39:01 +0000 2017", 
         "entities": {
-          "hashtags": [
+          "hashtags": [], 
+          "symbols": [], 
+          "urls": [
             {
+              "display_url": "twitter.com/i/web/status/9\u2026", 
+              "expanded_url": "https://twitter.com/i/web/status/907327641186914305", 
               "indices": [
-                15, 
-                26
+                117, 
+                140
               ], 
-              "text": "DecaNation"
+              "url": "https://t.co/5csMGVMxHR"
             }
           ], 
-          "symbols": [], 
-          "urls": [], 
-          "user_mentions": [
-            {
-              "id": 84308835, 
-              "id_str": "84308835", 
-              "indices": [
-                28, 
-                35
-              ], 
-              "name": "Ville d'Angers", 
-              "screen_name": "Angers"
-            }, 
-            {
-              "id": 39473013, 
-              "id_str": "39473013", 
-              "indices": [
-                116, 
-                131
-              ], 
-              "name": "Jeux Olympiques", 
-              "screen_name": "jeuxolympiques"
-            }
-          ]
+          "user_mentions": []
         }, 
-        "favorite_count": 19, 
+        "favorite_count": 17, 
         "favorited": false, 
         "geo": null, 
-        "id": 906551983884177409, 
-        "id_str": "906551983884177409", 
+        "id": 907327641186914305, 
+        "id_str": "907327641186914305", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -890,14 +871,48 @@
         "in_reply_to_user_id_str": null, 
         "is_quote_status": false, 
         "lang": "fr", 
-        "place": null, 
+        "place": {
+          "attributes": {}, 
+          "bounding_box": {
+            "coordinates": [
+              [
+                [
+                  7.6881601000000002, 
+                  48.492421299999997
+                ], 
+                [
+                  7.8362559999999997, 
+                  48.492421299999997
+                ], 
+                [
+                  7.8362559999999997, 
+                  48.6461915
+                ], 
+                [
+                  7.6881601000000002, 
+                  48.6461915
+                ]
+              ]
+            ], 
+            "type": "Polygon"
+          }, 
+          "contained_within": [], 
+          "country": "France", 
+          "country_code": "FR", 
+          "full_name": "Strasbourg, France", 
+          "id": "0701e94ee168b555", 
+          "name": "Strasbourg", 
+          "place_type": "city", 
+          "url": "https://api.twitter.com/1.1/geo/id/0701e94ee168b555.json"
+        }, 
+        "possibly_sensitive": false, 
         "retweet_count": 11, 
         "retweeted": false, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "En accueillant #DecaNation, @Angers d\u00e9montre sa capacit\u00e9 \u00e0 recevoir les \u00e9quipes d'athl\u00e8tes du monde entier pour les @jeuxolympiques 2024", 
-        "truncated": false
+        "text": "D\u00eener \u00e0 Strasbourg avec Bernard Stalter, Pr\u00e9sident de l'APCMA. Nous avions mis au menu la mobilit\u00e9 longue des appre\u2026 https://t.co/5csMGVMxHR", 
+        "truncated": true
       }, 
-      "statuses_count": 3679, 
+      "statuses_count": 3683, 
       "time_zone": "Amsterdam", 
       "translator_type": "none", 
       "url": "https://t.co/YhICpAOeW0", 
@@ -906,13 +921,13 @@
     }, 
     "twitter_description": "D\u00e9put\u00e9 europ\u00e9en, Pdt de la com. #BUDG fondateur de l'Alliance centriste #EnMarche, ancien ministre de l'\u00e9conomie et des finances https://t.co/fhOVDCyFu0", 
     "twitter_favourites": 1285, 
-    "twitter_followers": 20726, 
-    "twitter_following": 1861, 
+    "twitter_followers": 20730, 
+    "twitter_following": 1862, 
     "twitter_id": 110191018, 
-    "twitter_listed": 679, 
+    "twitter_listed": 680, 
     "twitter_name": "Jean Arthuis", 
     "twitter_protected": false, 
-    "twitter_tweets": 3679, 
+    "twitter_tweets": 3683, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/arthuis_jean83011j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-arthuis", 
@@ -1189,44 +1204,44 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Fri Sep 08 08:03:43 +0000 2017", 
+        "created_at": "Mon Sep 11 16:54:13 +0000 2017", 
         "entities": {
           "hashtags": [], 
           "symbols": [], 
           "urls": [
             {
-              "display_url": "fb.me/zhAo3Tbc", 
-              "expanded_url": "http://fb.me/zhAo3Tbc", 
+              "display_url": "fb.me/8YSuCyrRC", 
+              "expanded_url": "http://fb.me/8YSuCyrRC", 
               "indices": [
-                0, 
-                23
+                116, 
+                139
               ], 
-              "url": "https://t.co/z4clEJ6Fea"
+              "url": "https://t.co/Ai9xNGeUjw"
             }
           ], 
           "user_mentions": []
         }, 
-        "favorite_count": 1, 
+        "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 906065498554687488, 
-        "id_str": "906065498554687488", 
+        "id": 907286168462602240, 
+        "id_str": "907286168462602240", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
         "in_reply_to_user_id": null, 
         "in_reply_to_user_id_str": null, 
         "is_quote_status": false, 
-        "lang": "und", 
+        "lang": "fr", 
         "place": null, 
         "possibly_sensitive": false, 
         "retweet_count": 0, 
         "retweeted": false, 
         "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>", 
-        "text": "https://t.co/z4clEJ6Fea", 
+        "text": "l CULTURE l\nPoint presse, cet apr\u00e8s-midi, pour pr\u00e9senter la rentr\u00e9e culturelle de la Communaut\u00e9 d'Agglom\u00e9ration,... https://t.co/Ai9xNGeUjw", 
         "truncated": false
       }, 
-      "statuses_count": 108, 
+      "statuses_count": 110, 
       "time_zone": null, 
       "translator_type": "none", 
       "url": null, 
@@ -1241,7 +1256,7 @@
     "twitter_listed": 8, 
     "twitter_name": "Fran\u00e7ois Aubey", 
     "twitter_protected": false, 
-    "twitter_tweets": 108, 
+    "twitter_tweets": 110, 
     "twitter_verified": false, 
     "url_institution": "http://www.senat.fr/senateur/aubey_francois14137p.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/francois-aubey", 
@@ -1956,9 +1971,9 @@
           ]
         }
       }, 
-      "favourites_count": 2036, 
+      "favourites_count": 2037, 
       "follow_request_sent": false, 
-      "followers_count": 1383, 
+      "followers_count": 1384, 
       "following": false, 
       "friends_count": 369, 
       "geo_enabled": true, 
@@ -2086,8 +2101,8 @@
       "verified": false
     }, 
     "twitter_description": "Jean BESSON, S\u00e9nateur Honoraire, Pr\u00e9sident d'@energiesded, Vice Pr\u00e9sident de la @fnccr, #Progressiste #Europhile", 
-    "twitter_favourites": 2036, 
-    "twitter_followers": 1383, 
+    "twitter_favourites": 2037, 
+    "twitter_followers": 1384, 
     "twitter_following": 369, 
     "twitter_id": 78422142, 
     "twitter_listed": 83, 
@@ -3237,7 +3252,7 @@
       }, 
       "favourites_count": 240, 
       "follow_request_sent": false, 
-      "followers_count": 4575, 
+      "followers_count": 4573, 
       "following": false, 
       "friends_count": 1064, 
       "geo_enabled": true, 
@@ -3317,7 +3332,7 @@
             }
           ]
         }, 
-        "favorite_count": 5, 
+        "favorite_count": 6, 
         "favorited": false, 
         "geo": null, 
         "id": 906841029181149185, 
@@ -3364,7 +3379,7 @@
           "url": "https://api.twitter.com/1.1/geo/id/0e24602822af9659.json"
         }, 
         "possibly_sensitive": false, 
-        "retweet_count": 3, 
+        "retweet_count": 4, 
         "retweeted": false, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
         "text": "Avec @MontbrialAvocat @Fpechenard @ericmestrallet &amp; Malika Sorel pour apporter des r\u00e9ponses efficaces aux menaces d\u2026 https://t.co/SV4BA7LxK7", 
@@ -3379,7 +3394,7 @@
     }, 
     "twitter_description": "Vice-Pr\u00e9sidente de la R\u00e9gion Hauts-de-France. Maire de #Calais, Pr\u00e9sidente de Grand Calais Terres & Mers", 
     "twitter_favourites": 240, 
-    "twitter_followers": 4575, 
+    "twitter_followers": 4573, 
     "twitter_following": 1064, 
     "twitter_id": 551342517, 
     "twitter_listed": 154, 
@@ -5799,7 +5814,7 @@
       }, 
       "favourites_count": 155, 
       "follow_request_sent": false, 
-      "followers_count": 62114, 
+      "followers_count": 62119, 
       "following": false, 
       "friends_count": 698, 
       "geo_enabled": true, 
@@ -5809,7 +5824,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 1215, 
+      "listed_count": 1216, 
       "location": "Paris, France", 
       "name": "J-P. Chev\u00e8nement", 
       "notifications": false, 
@@ -5998,10 +6013,10 @@
     }, 
     "twitter_description": "Ancien ministre. Pdt du club R\u00e9publique Moderne (@RepubliqueMod), de la Fondation Res Publica (@fondarespublica) et de la Fondation de l'Islam de France.", 
     "twitter_favourites": 155, 
-    "twitter_followers": 62114, 
+    "twitter_followers": 62119, 
     "twitter_following": 698, 
     "twitter_id": 57116930, 
-    "twitter_listed": 1215, 
+    "twitter_listed": 1216, 
     "twitter_name": "J-P. Chev\u00e8nement", 
     "twitter_protected": false, 
     "twitter_tweets": 4454, 
@@ -13161,7 +13176,7 @@
       }, 
       "favourites_count": 16, 
       "follow_request_sent": false, 
-      "followers_count": 915, 
+      "followers_count": 916, 
       "following": false, 
       "friends_count": 303, 
       "geo_enabled": false, 
@@ -13320,7 +13335,7 @@
     }, 
     "twitter_description": "Maire de Saint-Flour, Pr\u00e9sident des Maires du #Cantal, Comit\u00e9 des #Finances locales - #Collectivit\u00e9s territoriales #Urbanisme #Logement #D\u00e9veloppement durable", 
     "twitter_favourites": 16, 
-    "twitter_followers": 915, 
+    "twitter_followers": 916, 
     "twitter_following": 303, 
     "twitter_id": 2328417882, 
     "twitter_listed": 40, 
@@ -16860,7 +16875,7 @@
       }, 
       "favourites_count": 5, 
       "follow_request_sent": false, 
-      "followers_count": 3794, 
+      "followers_count": 3792, 
       "following": false, 
       "friends_count": 2347, 
       "geo_enabled": false, 
@@ -16926,7 +16941,7 @@
     }, 
     "twitter_description": "S\u00e9nateur honoraire-maire de Compi\u00e8gne , Pr\u00e9sident de l'agglom\u00e9ration de la r\u00e9gion de Compi\u00e8gne, Pr\u00e9sident de la commission des finances du S\u00e9nat.", 
     "twitter_favourites": 5, 
-    "twitter_followers": 3794, 
+    "twitter_followers": 3792, 
     "twitter_following": 2347, 
     "twitter_id": 1534099902, 
     "twitter_listed": 127, 
@@ -19337,7 +19352,7 @@
       }, 
       "favourites_count": 1805, 
       "follow_request_sent": false, 
-      "followers_count": 95307, 
+      "followers_count": 95387, 
       "following": false, 
       "friends_count": 2436, 
       "geo_enabled": true, 
@@ -19482,7 +19497,7 @@
     }, 
     "twitter_description": "Ancien Ministre. S\u00e9nateur de l'Essonne. Conseiller r\u00e9gional d'\u00cele de France. Pr\u00e9sident de l' @UDE_FR", 
     "twitter_favourites": 1805, 
-    "twitter_followers": 95307, 
+    "twitter_followers": 95387, 
     "twitter_following": 2436, 
     "twitter_id": 219361536, 
     "twitter_listed": 1001, 
@@ -20941,7 +20956,7 @@
       }, 
       "favourites_count": 77, 
       "follow_request_sent": false, 
-      "followers_count": 5682, 
+      "followers_count": 5686, 
       "following": false, 
       "friends_count": 470, 
       "geo_enabled": true, 
@@ -20990,7 +21005,7 @@
           ], 
           "user_mentions": []
         }, 
-        "favorite_count": 5, 
+        "favorite_count": 9, 
         "favorited": false, 
         "geo": null, 
         "id": 906942803439218688, 
@@ -21004,7 +21019,7 @@
         "lang": "fr", 
         "place": null, 
         "possibly_sensitive": false, 
-        "retweet_count": 0, 
+        "retweet_count": 1, 
         "retweeted": false, 
         "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
         "text": "Lundi, le projet de transformation de l'ancienne manufacture des tabacs, structurant pour l'avenir du centre-ville,\u2026 https://t.co/T4E7XWyngM", 
@@ -21019,7 +21034,7 @@
     }, 
     "twitter_description": "Maire de Strasbourg", 
     "twitter_favourites": 77, 
-    "twitter_followers": 5682, 
+    "twitter_followers": 5686, 
     "twitter_following": 470, 
     "twitter_id": 281438650, 
     "twitter_listed": 249, 
