@@ -810,9 +810,9 @@
       }, 
       "favourites_count": 1286, 
       "follow_request_sent": false, 
-      "followers_count": 20734, 
+      "followers_count": 20749, 
       "following": false, 
-      "friends_count": 1863, 
+      "friends_count": 1871, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 110191018, 
@@ -820,7 +820,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 0, 
+      "listed_count": 679, 
       "location": "Ch-Gontier/Bruxelles/Strasbrg", 
       "name": "Jean Arthuis", 
       "notifications": false, 
@@ -842,26 +842,39 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Tue Sep 12 18:08:02 +0000 2017", 
+        "created_at": "Wed Sep 13 15:31:37 +0000 2017", 
         "entities": {
-          "hashtags": [
+          "hashtags": [], 
+          "symbols": [], 
+          "urls": [
             {
+              "display_url": "twitter.com/i/web/status/9\u2026", 
+              "expanded_url": "https://twitter.com/i/web/status/907990155985899520", 
               "indices": [
-                97, 
-                100
+                117, 
+                140
               ], 
-              "text": "UE"
+              "url": "https://t.co/967nNusVUj"
             }
           ], 
-          "symbols": [], 
-          "urls": [], 
-          "user_mentions": []
+          "user_mentions": [
+            {
+              "id": 21694393, 
+              "id_str": "21694393", 
+              "indices": [
+                23, 
+                39
+              ], 
+              "name": "Nathalie Loiseau", 
+              "screen_name": "NathalieLoiseau"
+            }
+          ]
         }, 
-        "favorite_count": 18, 
+        "favorite_count": 45, 
         "favorited": false, 
         "geo": null, 
-        "id": 907667130602213377, 
-        "id_str": "907667130602213377", 
+        "id": 907990155985899520, 
+        "id_str": "907990155985899520", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -903,13 +916,14 @@
           "place_type": "city", 
           "url": "https://api.twitter.com/1.1/geo/id/0701e94ee168b555.json"
         }, 
-        "retweet_count": 15, 
+        "possibly_sensitive": false, 
+        "retweet_count": 22, 
         "retweeted": false, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "Les poursuites contre l'ancien patron des statistiques grecques, sont une honte pr la Gr\u00e8ce et l'#UE . Il a dit la v\u00e9rit\u00e9, il sera ex\u00e9cut\u00e9!", 
-        "truncated": false
+        "text": "Rencontre \u00e0 Strasbourg @NathalieLoiseau Ministre charg\u00e9e des Affaires Eur. Budget et Erasmus Pro en faveur mobilit\u00e9\u2026 https://t.co/967nNusVUj", 
+        "truncated": true
       }, 
-      "statuses_count": 3685, 
+      "statuses_count": 3694, 
       "time_zone": "Amsterdam", 
       "translator_type": "none", 
       "url": "https://t.co/YhICpAOeW0", 
@@ -918,13 +932,13 @@
     }, 
     "twitter_description": "D\u00e9put\u00e9 europ\u00e9en, Pdt de la com. #BUDG fondateur de l'Alliance centriste #EnMarche, ancien ministre de l'\u00e9conomie et des finances https://t.co/fhOVDCyFu0", 
     "twitter_favourites": 1286, 
-    "twitter_followers": 20734, 
-    "twitter_following": 1863, 
+    "twitter_followers": 20749, 
+    "twitter_following": 1871, 
     "twitter_id": 110191018, 
-    "twitter_listed": 0, 
+    "twitter_listed": 679, 
     "twitter_name": "Jean Arthuis", 
     "twitter_protected": false, 
-    "twitter_tweets": 3685, 
+    "twitter_tweets": 3694, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/arthuis_jean83011j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-arthuis", 
@@ -3281,7 +3295,7 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Tue Sep 12 20:32:10 +0000 2017", 
+        "created_at": "Wed Sep 13 17:36:17 +0000 2017", 
         "entities": {
           "hashtags": [
             {
@@ -3310,8 +3324,8 @@
         "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 907703405459722241, 
-        "id_str": "907703405459722241", 
+        "id": 908021529618915328, 
+        "id_str": "908021529618915328", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -3320,12 +3334,12 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 1, 
+        "retweet_count": 3, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
           "coordinates": null, 
-          "created_at": "Tue Sep 12 18:37:26 +0000 2017", 
+          "created_at": "Wed Sep 13 17:28:08 +0000 2017", 
           "entities": {
             "hashtags": [
               {
@@ -3340,12 +3354,12 @@
             "urls": [
               {
                 "display_url": "twitter.com/i/web/status/9\u2026", 
-                "expanded_url": "https://twitter.com/i/web/status/907674530679808001", 
+                "expanded_url": "https://twitter.com/i/web/status/908019479996706816", 
                 "indices": [
                   117, 
                   140
                 ], 
-                "url": "https://t.co/dqGdCGDBOJ"
+                "url": "https://t.co/iyRB4O7v5C"
               }
             ], 
             "user_mentions": []
@@ -3353,8 +3367,8 @@
           "favorite_count": 3, 
           "favorited": false, 
           "geo": null, 
-          "id": 907674530679808001, 
-          "id_str": "907674530679808001", 
+          "id": 908019479996706816, 
+          "id_str": "908019479996706816", 
           "in_reply_to_screen_name": null, 
           "in_reply_to_status_id": null, 
           "in_reply_to_status_id_str": null, 
@@ -3364,17 +3378,17 @@
           "lang": "fr", 
           "place": null, 
           "possibly_sensitive": false, 
-          "retweet_count": 1, 
+          "retweet_count": 3, 
           "retweeted": false, 
           "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-          "text": "#senatoriales2017 : Nouveaux \u00e9changes avec les grands \u00e9lecteurs ce soir \u00e0 Wimereux. Nous d\u00e9fendons la compl\u00e9mentari\u2026 https://t.co/dqGdCGDBOJ", 
+          "text": "#senatoriales2017 : Nous continuons d'aller \u00e0 la rencontre des grands \u00e9lecteurs ! Ce soir, nous sommes \u00e0 Bellebrune\u2026 https://t.co/iyRB4O7v5C", 
           "truncated": true
         }, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "RT @RAPINJF: #senatoriales2017 : Nouveaux \u00e9changes avec les grands \u00e9lecteurs ce soir \u00e0 Wimereux. Nous d\u00e9fendons la compl\u00e9mentarit\u00e9 des terr\u2026", 
+        "text": "RT @RAPINJF: #senatoriales2017 : Nous continuons d'aller \u00e0 la rencontre des grands \u00e9lecteurs ! Ce soir, nous sommes \u00e0 Bellebrune, au c\u0153ur d\u2026", 
         "truncated": false
       }, 
-      "statuses_count": 6114, 
+      "statuses_count": 6116, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": null, 
@@ -3389,7 +3403,7 @@
     "twitter_listed": 154, 
     "twitter_name": "Natacha BOUCHART", 
     "twitter_protected": false, 
-    "twitter_tweets": 6114, 
+    "twitter_tweets": 6116, 
     "twitter_verified": false, 
     "url_institution": "http://www.senat.fr/senateur/bouchart_natacha11060j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/natacha-bouchart", 
@@ -5803,7 +5817,7 @@
       }, 
       "favourites_count": 155, 
       "follow_request_sent": false, 
-      "followers_count": 62121, 
+      "followers_count": 62126, 
       "following": false, 
       "friends_count": 698, 
       "geo_enabled": true, 
@@ -5813,7 +5827,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 1215, 
+      "listed_count": 1216, 
       "location": "Paris, France", 
       "name": "J-P. Chev\u00e8nement", 
       "notifications": false, 
@@ -5969,10 +5983,10 @@
     }, 
     "twitter_description": "Ancien ministre. Pdt du club R\u00e9publique Moderne (@RepubliqueMod), de la Fondation Res Publica (@fondarespublica) et de la Fondation de l'Islam de France.", 
     "twitter_favourites": 155, 
-    "twitter_followers": 62121, 
+    "twitter_followers": 62126, 
     "twitter_following": 698, 
     "twitter_id": 57116930, 
-    "twitter_listed": 1215, 
+    "twitter_listed": 1216, 
     "twitter_name": "J-P. Chev\u00e8nement", 
     "twitter_protected": false, 
     "twitter_tweets": 4455, 
@@ -13132,7 +13146,7 @@
       }, 
       "favourites_count": 16, 
       "follow_request_sent": false, 
-      "followers_count": 915, 
+      "followers_count": 916, 
       "following": false, 
       "friends_count": 304, 
       "geo_enabled": false, 
@@ -13142,7 +13156,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 40, 
+      "listed_count": 0, 
       "location": "", 
       "name": "Pierre Jarlier", 
       "notifications": false, 
@@ -13291,10 +13305,10 @@
     }, 
     "twitter_description": "Maire de Saint-Flour, Pr\u00e9sident des Maires du #Cantal, Comit\u00e9 des #Finances locales - #Collectivit\u00e9s territoriales #Urbanisme #Logement #D\u00e9veloppement durable", 
     "twitter_favourites": 16, 
-    "twitter_followers": 915, 
+    "twitter_followers": 916, 
     "twitter_following": 304, 
     "twitter_id": 2328417882, 
-    "twitter_listed": 40, 
+    "twitter_listed": 0, 
     "twitter_name": "Pierre Jarlier", 
     "twitter_protected": false, 
     "twitter_tweets": 138, 
@@ -16841,7 +16855,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 127, 
+      "listed_count": 128, 
       "location": "Compi\u00e8gne-Paris", 
       "name": "Philippe Marini", 
       "notifications": false, 
@@ -16900,7 +16914,7 @@
     "twitter_followers": 3792, 
     "twitter_following": 2346, 
     "twitter_id": 1534099902, 
-    "twitter_listed": 127, 
+    "twitter_listed": 128, 
     "twitter_name": "Philippe Marini", 
     "twitter_protected": false, 
     "twitter_tweets": 952, 
@@ -19308,7 +19322,7 @@
       }, 
       "favourites_count": 1807, 
       "follow_request_sent": false, 
-      "followers_count": 95444, 
+      "followers_count": 95500, 
       "following": false, 
       "friends_count": 2436, 
       "geo_enabled": true, 
@@ -19453,7 +19467,7 @@
     }, 
     "twitter_description": "Ancien Ministre. S\u00e9nateur de l'Essonne. Conseiller r\u00e9gional d'\u00cele de France. Pr\u00e9sident de l' @UDE_FR", 
     "twitter_favourites": 1807, 
-    "twitter_followers": 95444, 
+    "twitter_followers": 95500, 
     "twitter_following": 2436, 
     "twitter_id": 219361536, 
     "twitter_listed": 1000, 
@@ -20912,7 +20926,7 @@
       }, 
       "favourites_count": 77, 
       "follow_request_sent": false, 
-      "followers_count": 5686, 
+      "followers_count": 5685, 
       "following": false, 
       "friends_count": 470, 
       "geo_enabled": true, 
@@ -20944,28 +20958,40 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Sun Sep 10 18:09:49 +0000 2017", 
+        "created_at": "Wed Sep 13 21:05:43 +0000 2017", 
         "entities": {
-          "hashtags": [], 
-          "symbols": [], 
-          "urls": [
+          "hashtags": [
             {
-              "display_url": "twitter.com/i/web/status/9\u2026", 
-              "expanded_url": "https://twitter.com/i/web/status/906942803439218688", 
               "indices": [
-                117, 
-                140
+                20, 
+                27
               ], 
-              "url": "https://t.co/T4E7XWyngM"
+              "text": "France"
+            }, 
+            {
+              "indices": [
+                39, 
+                49
+              ], 
+              "text": "Paris2024"
+            }, 
+            {
+              "indices": [
+                106, 
+                119
+              ], 
+              "text": "ANousLesJeux"
             }
           ], 
+          "symbols": [], 
+          "urls": [], 
           "user_mentions": []
         }, 
         "favorite_count": 9, 
         "favorited": false, 
         "geo": null, 
-        "id": 906942803439218688, 
-        "id_str": "906942803439218688", 
+        "id": 908074234282483712, 
+        "id_str": "908074234282483712", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -20974,14 +21000,13 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "possibly_sensitive": false, 
         "retweet_count": 1, 
         "retweeted": false, 
-        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-        "text": "Lundi, le projet de transformation de l'ancienne manufacture des tabacs, structurant pour l'avenir du centre-ville,\u2026 https://t.co/T4E7XWyngM", 
-        "truncated": true
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "Tr\u00e8s heureux que la #France, \u00e0 travers #Paris2024, accueille les Jeux olympiques et paralympiques de 2024 #ANousLesJeux \ud83c\udf89", 
+        "truncated": false
       }, 
-      "statuses_count": 671, 
+      "statuses_count": 672, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": null, 
@@ -20990,13 +21015,13 @@
     }, 
     "twitter_description": "Maire de Strasbourg", 
     "twitter_favourites": 77, 
-    "twitter_followers": 5686, 
+    "twitter_followers": 5685, 
     "twitter_following": 470, 
     "twitter_id": 281438650, 
     "twitter_listed": 249, 
     "twitter_name": "Roland Ries", 
     "twitter_protected": false, 
-    "twitter_tweets": 671, 
+    "twitter_tweets": 672, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/ries_roland04065k.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/roland-ries", 
