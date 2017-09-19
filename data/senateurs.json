@@ -810,9 +810,9 @@
       }, 
       "favourites_count": 1288, 
       "follow_request_sent": false, 
-      "followers_count": 20759, 
+      "followers_count": 20768, 
       "following": false, 
-      "friends_count": 1887, 
+      "friends_count": 1890, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 110191018, 
@@ -820,7 +820,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 681, 
+      "listed_count": 680, 
       "location": "Ch-Gontier/Bruxelles/Strasbrg", 
       "name": "Jean Arthuis", 
       "notifications": false, 
@@ -842,54 +842,66 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Sun Sep 17 16:00:36 +0000 2017", 
+        "created_at": "Tue Sep 19 07:25:38 +0000 2017", 
         "entities": {
           "hashtags": [], 
           "symbols": [], 
           "urls": [], 
-          "user_mentions": [
-            {
-              "id": 477819108, 
-              "id_str": "477819108", 
-              "indices": [
-                0, 
-                6
-              ], 
-              "name": "Serr\u00e9", 
-              "screen_name": "serr4"
-            }, 
-            {
-              "id": 157981564, 
-              "id_str": "157981564", 
-              "indices": [
-                7, 
-                21
-              ], 
-              "name": "European Commission", 
-              "screen_name": "EU_Commission"
-            }
-          ]
+          "user_mentions": []
         }, 
-        "favorite_count": 1, 
+        "favorite_count": 34, 
         "favorited": false, 
         "geo": null, 
-        "id": 909446999996497920, 
-        "id_str": "909446999996497920", 
-        "in_reply_to_screen_name": "serr4", 
-        "in_reply_to_status_id": 909420871407816706, 
-        "in_reply_to_status_id_str": "909420871407816706", 
-        "in_reply_to_user_id": 477819108, 
-        "in_reply_to_user_id_str": "477819108", 
+        "id": 910042179757858816, 
+        "id_str": "910042179757858816", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
         "is_quote_status": false, 
         "lang": "fr", 
-        "place": null, 
-        "retweet_count": 0, 
+        "place": {
+          "attributes": {}, 
+          "bounding_box": {
+            "coordinates": [
+              [
+                [
+                  2.2241005999999999, 
+                  48.815521400000002
+                ], 
+                [
+                  2.4699053000000002, 
+                  48.815521400000002
+                ], 
+                [
+                  2.4699053000000002, 
+                  48.902146100000003
+                ], 
+                [
+                  2.2241005999999999, 
+                  48.902146100000003
+                ]
+              ]
+            ], 
+            "type": "Polygon"
+          }, 
+          "contained_within": [], 
+          "country": "France", 
+          "country_code": "FR", 
+          "full_name": "Paris, France", 
+          "id": "09f6a7707f18e0b1", 
+          "name": "Paris", 
+          "place_type": "city", 
+          "url": "https://api.twitter.com/1.1/geo/id/09f6a7707f18e0b1.json"
+        }, 
+        "retweet_count": 34, 
         "retweeted": false, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "@serr4 @EU_Commission Les seuls combats perdus sont ceux qu'on n'engage pas.", 
+        "text": "Les d\u00e9p. publ.doivent baisser. \u00c9trange attitude des journalistes qui glorifient les ministres dt les budgets augmentent &amp; bl\u00e2ment les autres", 
         "truncated": false
       }, 
-      "statuses_count": 3705, 
+      "statuses_count": 3709, 
       "time_zone": "Amsterdam", 
       "translator_type": "none", 
       "url": "https://t.co/YhICpAOeW0", 
@@ -898,13 +910,13 @@
     }, 
     "twitter_description": "D\u00e9put\u00e9 europ\u00e9en, Pdt de la com. #BUDG fondateur de l'Alliance centriste #EnMarche, ancien ministre de l'\u00e9conomie et des finances https://t.co/fhOVDCyFu0", 
     "twitter_favourites": 1288, 
-    "twitter_followers": 20759, 
-    "twitter_following": 1887, 
+    "twitter_followers": 20768, 
+    "twitter_following": 1890, 
     "twitter_id": 110191018, 
-    "twitter_listed": 681, 
+    "twitter_listed": 680, 
     "twitter_name": "Jean Arthuis", 
     "twitter_protected": false, 
-    "twitter_tweets": 3705, 
+    "twitter_tweets": 3709, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/arthuis_jean83011j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-arthuis", 
@@ -1150,7 +1162,7 @@
       }, 
       "favourites_count": 15, 
       "follow_request_sent": false, 
-      "followers_count": 194, 
+      "followers_count": 192, 
       "following": false, 
       "friends_count": 149, 
       "geo_enabled": true, 
@@ -1227,7 +1239,7 @@
     }, 
     "twitter_description": "Maire de MEZIDON VALL\u00c9E D'AUGE. Pr\u00e9sident de l'Agglomeration LISIEUX NORMANDIE", 
     "twitter_favourites": 15, 
-    "twitter_followers": 194, 
+    "twitter_followers": 192, 
     "twitter_following": 149, 
     "twitter_id": 2976706774, 
     "twitter_listed": 8, 
@@ -1950,7 +1962,7 @@
       }, 
       "favourites_count": 2039, 
       "follow_request_sent": false, 
-      "followers_count": 1387, 
+      "followers_count": 1386, 
       "following": false, 
       "friends_count": 370, 
       "geo_enabled": true, 
@@ -2028,7 +2040,7 @@
     }, 
     "twitter_description": "Jean BESSON, S\u00e9nateur Honoraire, Pr\u00e9sident d'@energiesded, Vice Pr\u00e9sident de la @fnccr, #Progressiste #Europhile", 
     "twitter_favourites": 2039, 
-    "twitter_followers": 1387, 
+    "twitter_followers": 1386, 
     "twitter_following": 370, 
     "twitter_id": 78422142, 
     "twitter_listed": 83, 
@@ -3176,11 +3188,11 @@
           "urls": []
         }
       }, 
-      "favourites_count": 241, 
+      "favourites_count": 242, 
       "follow_request_sent": false, 
-      "followers_count": 4578, 
+      "followers_count": 4576, 
       "following": false, 
-      "friends_count": 1063, 
+      "friends_count": 1062, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 551342517, 
@@ -3210,47 +3222,39 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Sun Sep 17 19:59:29 +0000 2017", 
+        "created_at": "Mon Sep 18 21:06:43 +0000 2017", 
         "entities": {
-          "hashtags": [
+          "hashtags": [], 
+          "symbols": [], 
+          "urls": [
             {
+              "display_url": "twitter.com/i/web/status/9\u2026", 
+              "expanded_url": "https://twitter.com/i/web/status/909886425172148226", 
               "indices": [
-                87, 
-                94
+                117, 
+                140
               ], 
-              "text": "chasse"
+              "url": "https://t.co/YGJ8Rx03SH"
             }
           ], 
-          "symbols": [], 
-          "urls": [], 
           "user_mentions": [
             {
-              "id": 17172319, 
-              "id_str": "17172319", 
+              "id": 835230594, 
+              "id_str": "835230594", 
               "indices": [
-                3, 
-                18
+                11, 
+                15
               ], 
-              "name": "Xavier Bertrand", 
-              "screen_name": "xavierbertrand"
-            }, 
-            {
-              "id": 15004908, 
-              "id_str": "15004908", 
-              "indices": [
-                45, 
-                59
-              ], 
-              "name": "Hauts-de-France", 
-              "screen_name": "hautsdefrance"
+              "name": "FFF", 
+              "screen_name": "FFF"
             }
           ]
         }, 
-        "favorite_count": 0, 
+        "favorite_count": 3, 
         "favorited": false, 
         "geo": null, 
-        "id": 909507118738415617, 
-        "id_str": "909507118738415617", 
+        "id": 909886425172148226, 
+        "id_str": "909886425172148226", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -3258,62 +3262,48 @@
         "in_reply_to_user_id_str": null, 
         "is_quote_status": false, 
         "lang": "fr", 
-        "place": null, 
-        "retweet_count": 37, 
-        "retweeted": false, 
-        "retweeted_status": {
-          "contributors": null, 
-          "coordinates": null, 
-          "created_at": "Sun Sep 17 09:33:28 +0000 2017", 
-          "entities": {
-            "hashtags": [
-              {
-                "indices": [
-                  67, 
-                  74
+        "place": {
+          "attributes": {}, 
+          "bounding_box": {
+            "coordinates": [
+              [
+                [
+                  1.8057791000000001, 
+                  50.922145100000002
                 ], 
-                "text": "chasse"
-              }
+                [
+                  1.9319451999999999, 
+                  50.922145100000002
+                ], 
+                [
+                  1.9319451999999999, 
+                  50.983351599999999
+                ], 
+                [
+                  1.8057791000000001, 
+                  50.983351599999999
+                ]
+              ]
             ], 
-            "symbols": [], 
-            "urls": [], 
-            "user_mentions": [
-              {
-                "id": 15004908, 
-                "id_str": "15004908", 
-                "indices": [
-                  25, 
-                  39
-                ], 
-                "name": "Hauts-de-France", 
-                "screen_name": "hautsdefrance"
-              }
-            ]
+            "type": "Polygon"
           }, 
-          "favorite_count": 80, 
-          "favorited": false, 
-          "geo": null, 
-          "id": 909349575152029697, 
-          "id_str": "909349575152029697", 
-          "in_reply_to_screen_name": null, 
-          "in_reply_to_status_id": null, 
-          "in_reply_to_status_id_str": null, 
-          "in_reply_to_user_id": null, 
-          "in_reply_to_user_id_str": null, 
-          "is_quote_status": false, 
-          "lang": "fr", 
-          "place": null, 
-          "retweet_count": 37, 
-          "retweeted": false, 
-          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-          "text": "\u00c0 tous les chasseurs des @hautsdefrance : bonne saison 2017-2018 ! #chasse", 
-          "truncated": false
+          "contained_within": [], 
+          "country": "France", 
+          "country_code": "FR", 
+          "full_name": "Calais, France", 
+          "id": "72e43a057cec3602", 
+          "name": "Calais", 
+          "place_type": "city", 
+          "url": "https://api.twitter.com/1.1/geo/id/72e43a057cec3602.json"
         }, 
+        "possibly_sensitive": false, 
+        "retweet_count": 2, 
+        "retweeted": false, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "RT @xavierbertrand: \u00c0 tous les chasseurs des @hautsdefrance : bonne saison 2017-2018 ! #chasse", 
-        "truncated": false
+        "text": "Merci \u00e0 la @FFF , au Pr\u00e9sident No\u00ebl Le Gra\u00ebt, au Grand Calais Football F\u00e9minin et au service des Sports de la Ville\u2026 https://t.co/YGJ8Rx03SH", 
+        "truncated": true
       }, 
-      "statuses_count": 6119, 
+      "statuses_count": 6124, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": null, 
@@ -3321,14 +3311,14 @@
       "verified": false
     }, 
     "twitter_description": "Vice-Pr\u00e9sidente de la R\u00e9gion Hauts-de-France. Maire de #Calais, Pr\u00e9sidente de Grand Calais Terres & Mers", 
-    "twitter_favourites": 241, 
-    "twitter_followers": 4578, 
-    "twitter_following": 1063, 
+    "twitter_favourites": 242, 
+    "twitter_followers": 4576, 
+    "twitter_following": 1062, 
     "twitter_id": 551342517, 
     "twitter_listed": 154, 
     "twitter_name": "Natacha BOUCHART", 
     "twitter_protected": false, 
-    "twitter_tweets": 6119, 
+    "twitter_tweets": 6124, 
     "twitter_verified": false, 
     "url_institution": "http://www.senat.fr/senateur/bouchart_natacha11060j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/natacha-bouchart", 
@@ -5742,7 +5732,7 @@
       }, 
       "favourites_count": 155, 
       "follow_request_sent": false, 
-      "followers_count": 62136, 
+      "followers_count": 62141, 
       "following": false, 
       "friends_count": 698, 
       "geo_enabled": true, 
@@ -5752,7 +5742,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 1214, 
+      "listed_count": 1213, 
       "location": "Paris, France", 
       "name": "J-P. Chev\u00e8nement", 
       "notifications": false, 
@@ -5882,10 +5872,10 @@
     }, 
     "twitter_description": "Ancien ministre. Pdt du club R\u00e9publique Moderne (@RepubliqueMod), de la Fondation Res Publica (@fondarespublica) et de la Fondation de l'Islam de France.", 
     "twitter_favourites": 155, 
-    "twitter_followers": 62136, 
+    "twitter_followers": 62141, 
     "twitter_following": 698, 
     "twitter_id": 57116930, 
-    "twitter_listed": 1214, 
+    "twitter_listed": 1213, 
     "twitter_name": "J-P. Chev\u00e8nement", 
     "twitter_protected": false, 
     "twitter_tweets": 4457, 
@@ -13045,7 +13035,7 @@
       }, 
       "favourites_count": 16, 
       "follow_request_sent": false, 
-      "followers_count": 919, 
+      "followers_count": 920, 
       "following": false, 
       "friends_count": 304, 
       "geo_enabled": false, 
@@ -13204,7 +13194,7 @@
     }, 
     "twitter_description": "Maire de Saint-Flour, Pr\u00e9sident des Maires du #Cantal, Comit\u00e9 des #Finances locales - #Collectivit\u00e9s territoriales #Urbanisme #Logement #D\u00e9veloppement durable", 
     "twitter_favourites": 16, 
-    "twitter_followers": 919, 
+    "twitter_followers": 920, 
     "twitter_following": 304, 
     "twitter_id": 2328417882, 
     "twitter_listed": 40, 
@@ -16744,7 +16734,7 @@
       }, 
       "favourites_count": 5, 
       "follow_request_sent": false, 
-      "followers_count": 3799, 
+      "followers_count": 3797, 
       "following": false, 
       "friends_count": 2346, 
       "geo_enabled": false, 
@@ -16782,7 +16772,7 @@
           "urls": [], 
           "user_mentions": []
         }, 
-        "favorite_count": 10, 
+        "favorite_count": 8, 
         "favorited": false, 
         "geo": null, 
         "id": 760747099411582984, 
@@ -16810,7 +16800,7 @@
     }, 
     "twitter_description": "S\u00e9nateur honoraire-maire de Compi\u00e8gne , Pr\u00e9sident de l'agglom\u00e9ration de la r\u00e9gion de Compi\u00e8gne, Pr\u00e9sident de la commission des finances du S\u00e9nat.", 
     "twitter_favourites": 5, 
-    "twitter_followers": 3799, 
+    "twitter_followers": 3797, 
     "twitter_following": 2346, 
     "twitter_id": 1534099902, 
     "twitter_listed": 128, 
@@ -19221,9 +19211,9 @@
       }, 
       "favourites_count": 1807, 
       "follow_request_sent": false, 
-      "followers_count": 95660, 
+      "followers_count": 95729, 
       "following": false, 
-      "friends_count": 2437, 
+      "friends_count": 2438, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 219361536, 
@@ -19253,28 +19243,145 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Sun Sep 17 20:14:37 +0000 2017", 
+        "created_at": "Fri Sep 15 10:21:27 +0000 2017", 
         "entities": {
           "hashtags": [], 
-          "symbols": [], 
-          "urls": [
+          "media": [
             {
-              "display_url": "society-magazine.fr/le-peuple-ca-n\u2026", 
-              "expanded_url": "http://www.society-magazine.fr/le-peuple-ca-nexiste-pas-cest-une-construction-politique/", 
+              "display_url": "pic.twitter.com/adFmNiRM1K", 
+              "expanded_url": "https://twitter.com/GroupeVicat/status/908635238502473728/photo/1", 
+              "id": 908635216008351744, 
+              "id_str": "908635216008351744", 
               "indices": [
-                57, 
-                80
+                90, 
+                113
               ], 
-              "url": "https://t.co/a0fVDmLtno"
+              "media_url": "http://pbs.twimg.com/media/DJwe6jCWkAAfmk_.jpg", 
+              "media_url_https": "https://pbs.twimg.com/media/DJwe6jCWkAAfmk_.jpg", 
+              "sizes": {
+                "large": {
+                  "h": 1536, 
+                  "resize": "fit", 
+                  "w": 2048
+                }, 
+                "medium": {
+                  "h": 900, 
+                  "resize": "fit", 
+                  "w": 1200
+                }, 
+                "small": {
+                  "h": 510, 
+                  "resize": "fit", 
+                  "w": 680
+                }, 
+                "thumb": {
+                  "h": 150, 
+                  "resize": "crop", 
+                  "w": 150
+                }
+              }, 
+              "source_status_id": 908635238502473728, 
+              "source_status_id_str": "908635238502473728", 
+              "source_user_id": 408324472, 
+              "source_user_id_str": "408324472", 
+              "type": "photo", 
+              "url": "https://t.co/adFmNiRM1K"
             }
           ], 
-          "user_mentions": []
+          "symbols": [], 
+          "urls": [], 
+          "user_mentions": [
+            {
+              "id": 408324472, 
+              "id_str": "408324472", 
+              "indices": [
+                3, 
+                15
+              ], 
+              "name": "Vicat", 
+              "screen_name": "GroupeVicat"
+            }, 
+            {
+              "id": 219361536, 
+              "id_str": "219361536", 
+              "indices": [
+                58, 
+                66
+              ], 
+              "name": "Jean-Vincent Plac\u00e9", 
+              "screen_name": "JVPlace"
+            }, 
+            {
+              "id": 279137479, 
+              "id_str": "279137479", 
+              "indices": [
+                67, 
+                76
+              ], 
+              "name": "Jean-Louis BORLOO", 
+              "screen_name": "JLBorloo"
+            }, 
+            {
+              "id": 883255068727934976, 
+              "id_str": "883255068727934976", 
+              "indices": [
+                77, 
+                89
+              ], 
+              "name": "Sophie Sidos", 
+              "screen_name": "SophieSidos"
+            }
+          ]
         }, 
-        "favorite_count": 10, 
+        "extended_entities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/adFmNiRM1K", 
+              "expanded_url": "https://twitter.com/GroupeVicat/status/908635238502473728/photo/1", 
+              "id": 908635216008351744, 
+              "id_str": "908635216008351744", 
+              "indices": [
+                90, 
+                113
+              ], 
+              "media_url": "http://pbs.twimg.com/media/DJwe6jCWkAAfmk_.jpg", 
+              "media_url_https": "https://pbs.twimg.com/media/DJwe6jCWkAAfmk_.jpg", 
+              "sizes": {
+                "large": {
+                  "h": 1536, 
+                  "resize": "fit", 
+                  "w": 2048
+                }, 
+                "medium": {
+                  "h": 900, 
+                  "resize": "fit", 
+                  "w": 1200
+                }, 
+                "small": {
+                  "h": 510, 
+                  "resize": "fit", 
+                  "w": 680
+                }, 
+                "thumb": {
+                  "h": 150, 
+                  "resize": "crop", 
+                  "w": 150
+                }
+              }, 
+              "source_status_id": 908635238502473728, 
+              "source_status_id_str": "908635238502473728", 
+              "source_user_id": 408324472, 
+              "source_user_id_str": "408324472", 
+              "type": "photo", 
+              "url": "https://t.co/adFmNiRM1K"
+            }
+          ]
+        }, 
+        "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 909510925178277888, 
-        "id_str": "909510925178277888", 
+        "id": 908636876067753985, 
+        "id_str": "908636876067753985", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -19284,13 +19391,152 @@
         "lang": "fr", 
         "place": null, 
         "possibly_sensitive": false, 
-        "retweet_count": 6, 
+        "retweet_count": 2, 
         "retweeted": false, 
-        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "Le populisme de gauche nouveau cat\u00e9chisme  des insoumis  https://t.co/a0fVDmLtno", 
+        "retweeted_status": {
+          "contributors": null, 
+          "coordinates": null, 
+          "created_at": "Fri Sep 15 10:14:57 +0000 2017", 
+          "entities": {
+            "hashtags": [], 
+            "media": [
+              {
+                "display_url": "pic.twitter.com/adFmNiRM1K", 
+                "expanded_url": "https://twitter.com/GroupeVicat/status/908635238502473728/photo/1", 
+                "id": 908635216008351744, 
+                "id_str": "908635216008351744", 
+                "indices": [
+                  73, 
+                  96
+                ], 
+                "media_url": "http://pbs.twimg.com/media/DJwe6jCWkAAfmk_.jpg", 
+                "media_url_https": "https://pbs.twimg.com/media/DJwe6jCWkAAfmk_.jpg", 
+                "sizes": {
+                  "large": {
+                    "h": 1536, 
+                    "resize": "fit", 
+                    "w": 2048
+                  }, 
+                  "medium": {
+                    "h": 900, 
+                    "resize": "fit", 
+                    "w": 1200
+                  }, 
+                  "small": {
+                    "h": 510, 
+                    "resize": "fit", 
+                    "w": 680
+                  }, 
+                  "thumb": {
+                    "h": 150, 
+                    "resize": "crop", 
+                    "w": 150
+                  }
+                }, 
+                "type": "photo", 
+                "url": "https://t.co/adFmNiRM1K"
+              }
+            ], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": [
+              {
+                "id": 219361536, 
+                "id_str": "219361536", 
+                "indices": [
+                  41, 
+                  49
+                ], 
+                "name": "Jean-Vincent Plac\u00e9", 
+                "screen_name": "JVPlace"
+              }, 
+              {
+                "id": 279137479, 
+                "id_str": "279137479", 
+                "indices": [
+                  50, 
+                  59
+                ], 
+                "name": "Jean-Louis BORLOO", 
+                "screen_name": "JLBorloo"
+              }, 
+              {
+                "id": 883255068727934976, 
+                "id_str": "883255068727934976", 
+                "indices": [
+                  60, 
+                  72
+                ], 
+                "name": "Sophie Sidos", 
+                "screen_name": "SophieSidos"
+              }
+            ]
+          }, 
+          "extended_entities": {
+            "media": [
+              {
+                "display_url": "pic.twitter.com/adFmNiRM1K", 
+                "expanded_url": "https://twitter.com/GroupeVicat/status/908635238502473728/photo/1", 
+                "id": 908635216008351744, 
+                "id_str": "908635216008351744", 
+                "indices": [
+                  73, 
+                  96
+                ], 
+                "media_url": "http://pbs.twimg.com/media/DJwe6jCWkAAfmk_.jpg", 
+                "media_url_https": "https://pbs.twimg.com/media/DJwe6jCWkAAfmk_.jpg", 
+                "sizes": {
+                  "large": {
+                    "h": 1536, 
+                    "resize": "fit", 
+                    "w": 2048
+                  }, 
+                  "medium": {
+                    "h": 900, 
+                    "resize": "fit", 
+                    "w": 1200
+                  }, 
+                  "small": {
+                    "h": 510, 
+                    "resize": "fit", 
+                    "w": 680
+                  }, 
+                  "thumb": {
+                    "h": 150, 
+                    "resize": "crop", 
+                    "w": 150
+                  }
+                }, 
+                "type": "photo", 
+                "url": "https://t.co/adFmNiRM1K"
+              }
+            ]
+          }, 
+          "favorite_count": 10, 
+          "favorited": false, 
+          "geo": null, 
+          "id": 908635238502473728, 
+          "id_str": "908635238502473728", 
+          "in_reply_to_screen_name": null, 
+          "in_reply_to_status_id": null, 
+          "in_reply_to_status_id_str": null, 
+          "in_reply_to_user_id": null, 
+          "in_reply_to_user_id_str": null, 
+          "is_quote_status": false, 
+          "lang": "fr", 
+          "place": null, 
+          "possibly_sensitive": false, 
+          "retweet_count": 2, 
+          "retweeted": false, 
+          "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+          "text": "Une belle photo digne d'une belle soir\u00e9e @JVPlace @JLBorloo @SophieSidos https://t.co/adFmNiRM1K", 
+          "truncated": false
+        }, 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @GroupeVicat: Une belle photo digne d'une belle soir\u00e9e @JVPlace @JLBorloo @SophieSidos https://t.co/adFmNiRM1K", 
         "truncated": false
       }, 
-      "statuses_count": 8315, 
+      "statuses_count": 8314, 
       "time_zone": null, 
       "translator_type": "none", 
       "url": null, 
@@ -19299,13 +19545,13 @@
     }, 
     "twitter_description": "Ancien Ministre. S\u00e9nateur de l'Essonne. Conseiller r\u00e9gional d'\u00cele de France. Pr\u00e9sident de l' @UDE_FR", 
     "twitter_favourites": 1807, 
-    "twitter_followers": 95660, 
-    "twitter_following": 2437, 
+    "twitter_followers": 95729, 
+    "twitter_following": 2438, 
     "twitter_id": 219361536, 
     "twitter_listed": 1000, 
     "twitter_name": "Jean-Vincent Plac\u00e9", 
     "twitter_protected": false, 
-    "twitter_tweets": 8315, 
+    "twitter_tweets": 8314, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/place_jean_vincent11069t.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-vincent-place", 
@@ -19366,7 +19612,7 @@
       }, 
       "favourites_count": 0, 
       "follow_request_sent": false, 
-      "followers_count": 858, 
+      "followers_count": 857, 
       "following": false, 
       "friends_count": 965, 
       "geo_enabled": true, 
@@ -19444,7 +19690,7 @@
     }, 
     "twitter_description": "Senateur honoraire .", 
     "twitter_favourites": 0, 
-    "twitter_followers": 858, 
+    "twitter_followers": 857, 
     "twitter_following": 965, 
     "twitter_id": 270919379, 
     "twitter_listed": 86, 
@@ -20758,7 +21004,7 @@
       }, 
       "favourites_count": 77, 
       "follow_request_sent": false, 
-      "followers_count": 5693, 
+      "followers_count": 5696, 
       "following": false, 
       "friends_count": 470, 
       "geo_enabled": true, 
@@ -20768,7 +21014,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 249, 
+      "listed_count": 248, 
       "location": "Strasbourg, France", 
       "name": "Roland Ries", 
       "notifications": false, 
@@ -20847,10 +21093,10 @@
     }, 
     "twitter_description": "Maire de Strasbourg", 
     "twitter_favourites": 77, 
-    "twitter_followers": 5693, 
+    "twitter_followers": 5696, 
     "twitter_following": 470, 
     "twitter_id": 281438650, 
-    "twitter_listed": 249, 
+    "twitter_listed": 248, 
     "twitter_name": "Roland Ries", 
     "twitter_protected": false, 
     "twitter_tweets": 672, 
