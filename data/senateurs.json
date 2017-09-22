@@ -810,9 +810,9 @@
       }, 
       "favourites_count": 1288, 
       "follow_request_sent": false, 
-      "followers_count": 20782, 
+      "followers_count": 20784, 
       "following": false, 
-      "friends_count": 1901, 
+      "friends_count": 1902, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 110191018, 
@@ -820,7 +820,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 684, 
+      "listed_count": 685, 
       "location": "Ch-Gontier/Bruxelles/Strasbrg", 
       "name": "Jean Arthuis", 
       "notifications": false, 
@@ -859,7 +859,7 @@
           ], 
           "user_mentions": []
         }, 
-        "favorite_count": 7, 
+        "favorite_count": 8, 
         "favorited": false, 
         "geo": null, 
         "id": 910901159342362624, 
@@ -888,10 +888,10 @@
     }, 
     "twitter_description": "D\u00e9put\u00e9 europ\u00e9en, Pdt de la com. #BUDG fondateur de l'Alliance centriste #EnMarche, ancien ministre de l'\u00e9conomie et des finances https://t.co/fhOVDCyFu0", 
     "twitter_favourites": 1288, 
-    "twitter_followers": 20782, 
-    "twitter_following": 1901, 
+    "twitter_followers": 20784, 
+    "twitter_following": 1902, 
     "twitter_id": 110191018, 
-    "twitter_listed": 684, 
+    "twitter_listed": 685, 
     "twitter_name": "Jean Arthuis", 
     "twitter_protected": false, 
     "twitter_tweets": 3714, 
@@ -3200,39 +3200,39 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Thu Sep 21 09:00:40 +0000 2017", 
+        "created_at": "Fri Sep 22 08:24:08 +0000 2017", 
         "entities": {
           "hashtags": [], 
           "symbols": [], 
           "urls": [], 
           "user_mentions": [
             {
-              "id": 490126636, 
-              "id_str": "490126636", 
+              "id": 17172319, 
+              "id_str": "17172319", 
               "indices": [
                 3, 
                 18
               ], 
-              "name": "Nicolas Sarkozy", 
-              "screen_name": "NicolasSarkozy"
+              "name": "Xavier Bertrand", 
+              "screen_name": "xavierbertrand"
             }, 
             {
-              "id": 284083080, 
-              "id_str": "284083080", 
+              "id": 2201623084, 
+              "id_str": "2201623084", 
               "indices": [
-                50, 
-                57
+                41, 
+                49
               ], 
-              "name": "M\u00e9xico", 
-              "screen_name": "mexico"
+              "name": "Jean-Fran\u00e7ois RAPIN", 
+              "screen_name": "RAPINJF"
             }
           ]
         }, 
         "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 910790874002591744, 
-        "id_str": "910790874002591744", 
+        "id": 911144067538542592, 
+        "id_str": "911144067538542592", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -3241,34 +3241,44 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 610, 
+        "retweet_count": 13, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
           "coordinates": null, 
-          "created_at": "Wed Sep 20 11:10:16 +0000 2017", 
+          "created_at": "Thu Sep 21 18:57:16 +0000 2017", 
           "entities": {
             "hashtags": [], 
             "symbols": [], 
-            "urls": [], 
+            "urls": [
+              {
+                "display_url": "twitter.com/i/web/status/9\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/910941014508146688", 
+                "indices": [
+                  117, 
+                  140
+                ], 
+                "url": "https://t.co/qaLGKuBVf7"
+              }
+            ], 
             "user_mentions": [
               {
-                "id": 284083080, 
-                "id_str": "284083080", 
+                "id": 2201623084, 
+                "id_str": "2201623084", 
                 "indices": [
-                  30, 
-                  37
+                  21, 
+                  29
                 ], 
-                "name": "M\u00e9xico", 
-                "screen_name": "mexico"
+                "name": "Jean-Fran\u00e7ois RAPIN", 
+                "screen_name": "RAPINJF"
               }
             ]
           }, 
-          "favorite_count": 1462, 
+          "favorite_count": 7, 
           "favorited": false, 
           "geo": null, 
-          "id": 910461101384589312, 
-          "id_str": "910461101384589312", 
+          "id": 910941014508146688, 
+          "id_str": "910941014508146688", 
           "in_reply_to_screen_name": null, 
           "in_reply_to_status_id": null, 
           "in_reply_to_status_id_str": null, 
@@ -3276,18 +3286,52 @@
           "in_reply_to_user_id_str": null, 
           "is_quote_status": false, 
           "lang": "fr", 
-          "place": null, 
-          "retweet_count": 610, 
+          "place": {
+            "attributes": {}, 
+            "bounding_box": {
+              "coordinates": [
+                [
+                  [
+                    2.0248748000000001, 
+                    50.362962099999997
+                  ], 
+                  [
+                    2.0638000000000001, 
+                    50.362962099999997
+                  ], 
+                  [
+                    2.0638000000000001, 
+                    50.380825199999997
+                  ], 
+                  [
+                    2.0248748000000001, 
+                    50.380825199999997
+                  ]
+                ]
+              ], 
+              "type": "Polygon"
+            }, 
+            "contained_within": [], 
+            "country": "France", 
+            "country_code": "FR", 
+            "full_name": "Marconne, France", 
+            "id": "523506686ec4a28a", 
+            "name": "Marconne", 
+            "place_type": "city", 
+            "url": "https://api.twitter.com/1.1/geo/id/523506686ec4a28a.json"
+          }, 
+          "possibly_sensitive": false, 
+          "retweet_count": 13, 
           "retweeted": false, 
           "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-          "text": "Il y a quelques jours encore, @Mexico m'avait fascin\u00e9e par son \u00e9nergie. Je pense \u00e0 cette belle ville face \u00e0 l'\u00e9preuve. \u00a1Fuerza M\u00e9xico! -NS", 
-          "truncated": false
+          "text": "R\u00e9union de soutien \u00e0 @RAPINJF et ses colistiers, pour que les communes et les \u00e9lus du Pas-de-Calais soient respect\u00e9\u2026 https://t.co/qaLGKuBVf7", 
+          "truncated": true
         }, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "RT @NicolasSarkozy: Il y a quelques jours encore, @Mexico m'avait fascin\u00e9e par son \u00e9nergie. Je pense \u00e0 cette belle ville face \u00e0 l'\u00e9preuve.\u2026", 
+        "text": "RT @xavierbertrand: R\u00e9union de soutien \u00e0 @RAPINJF et ses colistiers, pour que les communes et les \u00e9lus du Pas-de-Calais soient respect\u00e9s pa\u2026", 
         "truncated": false
       }, 
-      "statuses_count": 6131, 
+      "statuses_count": 6132, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": null, 
@@ -3302,7 +3346,7 @@
     "twitter_listed": 155, 
     "twitter_name": "Natacha BOUCHART", 
     "twitter_protected": false, 
-    "twitter_tweets": 6131, 
+    "twitter_tweets": 6132, 
     "twitter_verified": false, 
     "url_institution": "http://www.senat.fr/senateur/bouchart_natacha11060j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/natacha-bouchart", 
@@ -5800,7 +5844,7 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 14, 
+        "retweet_count": 15, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
@@ -5901,7 +5945,7 @@
               }
             ]
           }, 
-          "favorite_count": 42, 
+          "favorite_count": 45, 
           "favorited": false, 
           "geo": null, 
           "id": 910903145433354241, 
@@ -5915,7 +5959,7 @@
           "lang": "fr", 
           "place": null, 
           "possibly_sensitive": false, 
-          "retweet_count": 14, 
+          "retweet_count": 15, 
           "retweeted": false, 
           "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
           "text": "Entretien avec @chevenement sur les grands enjeux de notre pays et de notre R\u00e9publique.Eclairant et stimulant. https://t.co/7jwCe3wQlm", 
@@ -19273,7 +19317,7 @@
       }, 
       "favourites_count": 1806, 
       "follow_request_sent": false, 
-      "followers_count": 95840, 
+      "followers_count": 95846, 
       "following": false, 
       "friends_count": 2438, 
       "geo_enabled": true, 
@@ -19607,7 +19651,7 @@
     }, 
     "twitter_description": "Ancien Ministre. S\u00e9nateur de l'Essonne. Conseiller r\u00e9gional d'\u00cele de France. Pr\u00e9sident de l' @UDE_FR", 
     "twitter_favourites": 1806, 
-    "twitter_followers": 95840, 
+    "twitter_followers": 95846, 
     "twitter_following": 2438, 
     "twitter_id": 219361536, 
     "twitter_listed": 1002, 
@@ -21066,9 +21110,9 @@
       }, 
       "favourites_count": 78, 
       "follow_request_sent": false, 
-      "followers_count": 5712, 
+      "followers_count": 5713, 
       "following": false, 
-      "friends_count": 470, 
+      "friends_count": 471, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 281438650, 
@@ -21136,7 +21180,7 @@
             }
           ]
         }, 
-        "favorite_count": 19, 
+        "favorite_count": 28, 
         "favorited": false, 
         "geo": null, 
         "id": 910927837116469248, 
@@ -21183,7 +21227,7 @@
           "url": "https://api.twitter.com/1.1/geo/id/0701e94ee168b555.json"
         }, 
         "possibly_sensitive": false, 
-        "retweet_count": 4, 
+        "retweet_count": 7, 
         "retweeted": false, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
         "text": "Belle rencontre aujourd'hui avec @WilliamFriedkin, invit\u00e9 d'honneur du @FantasticStras qui se tient du 15 au 24 sep\u2026 https://t.co/MrvQ6dS65K", 
@@ -21198,8 +21242,8 @@
     }, 
     "twitter_description": "Maire de Strasbourg", 
     "twitter_favourites": 78, 
-    "twitter_followers": 5712, 
-    "twitter_following": 470, 
+    "twitter_followers": 5713, 
+    "twitter_following": 471, 
     "twitter_id": 281438650, 
     "twitter_listed": 248, 
     "twitter_name": "Roland Ries", 
