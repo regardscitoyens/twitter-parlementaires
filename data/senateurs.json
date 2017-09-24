@@ -808,11 +808,11 @@
           ]
         }
       }, 
-      "favourites_count": 1288, 
+      "favourites_count": 1289, 
       "follow_request_sent": false, 
-      "followers_count": 20788, 
+      "followers_count": 20789, 
       "following": false, 
-      "friends_count": 1903, 
+      "friends_count": 1904, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 110191018, 
@@ -842,18 +842,59 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Sat Sep 23 17:42:46 +0000 2017", 
+        "created_at": "Sun Sep 24 09:37:16 +0000 2017", 
         "entities": {
           "hashtags": [], 
           "symbols": [], 
           "urls": [], 
-          "user_mentions": []
+          "user_mentions": [
+            {
+              "id": 424264012, 
+              "id_str": "424264012", 
+              "indices": [
+                3, 
+                18
+              ], 
+              "name": "virginie charbonneau", 
+              "screen_name": "VCharbonneauF3"
+            }, 
+            {
+              "id": 960944538, 
+              "id_str": "960944538", 
+              "indices": [
+                20, 
+                33
+              ], 
+              "name": "DimancheEnPolitique", 
+              "screen_name": "DimPolitique"
+            }, 
+            {
+              "id": 110191018, 
+              "id_str": "110191018", 
+              "indices": [
+                74, 
+                86
+              ], 
+              "name": "Jean Arthuis", 
+              "screen_name": "JeanArthuis"
+            }, 
+            {
+              "id": 2433934684, 
+              "id_str": "2433934684", 
+              "indices": [
+                105, 
+                120
+              ], 
+              "name": "Leclerc arnauld", 
+              "screen_name": "LeclercArnauld"
+            }
+          ]
         }, 
-        "favorite_count": 15, 
+        "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 911647038064021504, 
-        "id_str": "911647038064021504", 
+        "id": 911887245921193985, 
+        "id_str": "911887245921193985", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -861,47 +902,117 @@
         "in_reply_to_user_id_str": null, 
         "is_quote_status": false, 
         "lang": "fr", 
-        "place": {
-          "attributes": {}, 
-          "bounding_box": {
-            "coordinates": [
-              [
-                [
-                  -2.0669783000000002, 
-                  48.442104999999998
-                ], 
-                [
-                  -2.0329069, 
-                  48.442104999999998
-                ], 
-                [
-                  -2.0329069, 
-                  48.46837
-                ], 
-                [
-                  -2.0669783000000002, 
-                  48.46837
-                ]
-              ]
-            ], 
-            "type": "Polygon"
-          }, 
-          "contained_within": [], 
-          "country": "France", 
-          "country_code": "FR", 
-          "full_name": "Dinan, France", 
-          "id": "4c2481eef541d56b", 
-          "name": "Dinan", 
-          "place_type": "city", 
-          "url": "https://api.twitter.com/1.1/geo/id/4c2481eef541d56b.json"
-        }, 
-        "retweet_count": 7, 
+        "place": null, 
+        "retweet_count": 1, 
         "retweeted": false, 
+        "retweeted_status": {
+          "contributors": null, 
+          "coordinates": null, 
+          "created_at": "Sun Sep 24 09:06:35 +0000 2017", 
+          "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": [
+              {
+                "id": 960944538, 
+                "id_str": "960944538", 
+                "indices": [
+                  0, 
+                  13
+                ], 
+                "name": "DimancheEnPolitique", 
+                "screen_name": "DimPolitique"
+              }, 
+              {
+                "id": 110191018, 
+                "id_str": "110191018", 
+                "indices": [
+                  54, 
+                  66
+                ], 
+                "name": "Jean Arthuis", 
+                "screen_name": "JeanArthuis"
+              }, 
+              {
+                "id": 2433934684, 
+                "id_str": "2433934684", 
+                "indices": [
+                  85, 
+                  100
+                ], 
+                "name": "Leclerc arnauld", 
+                "screen_name": "LeclercArnauld"
+              }, 
+              {
+                "id": 89471410, 
+                "id_str": "89471410", 
+                "indices": [
+                  105, 
+                  121
+                ], 
+                "name": "france3paysdelaloire", 
+                "screen_name": "F3PaysdelaLoire"
+              }
+            ]
+          }, 
+          "favorite_count": 2, 
+          "favorited": false, 
+          "geo": null, 
+          "id": 911879524144599040, 
+          "id_str": "911879524144599040", 
+          "in_reply_to_screen_name": "DimPolitique", 
+          "in_reply_to_status_id": null, 
+          "in_reply_to_status_id_str": null, 
+          "in_reply_to_user_id": 960944538, 
+          "in_reply_to_user_id_str": "960944538", 
+          "is_quote_status": false, 
+          "lang": "fr", 
+          "place": {
+            "attributes": {}, 
+            "bounding_box": {
+              "coordinates": [
+                [
+                  [
+                    -1.3826371, 
+                    47.122686000000002
+                  ], 
+                  [
+                    -1.3096547000000001, 
+                    47.122686000000002
+                  ], 
+                  [
+                    -1.3096547000000001, 
+                    47.162090800000001
+                  ], 
+                  [
+                    -1.3826371, 
+                    47.162090800000001
+                  ]
+                ]
+              ], 
+              "type": "Polygon"
+            }, 
+            "contained_within": [], 
+            "country": "France", 
+            "country_code": "FR", 
+            "full_name": "Le Pallet, France", 
+            "id": "5c2690c743342243", 
+            "name": "Le Pallet", 
+            "place_type": "city", 
+            "url": "https://api.twitter.com/1.1/geo/id/5c2690c743342243.json"
+          }, 
+          "retweet_count": 1, 
+          "retweeted": false, 
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+          "text": "@DimPolitique sur les s\u00e9natoriales c'est \u00e0 11h30 avec @JeanArthuis et le politologue @LeclercArnauld sur @F3PaysdelaLoire", 
+          "truncated": false
+        }, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "Serai demain 24 septembre, l'invit\u00e9 de Politique Dimanche,  \u00e0 11h. , F3PaysdelaLoire pour parler du r\u00f4le du Senat dans nos institutions.", 
+        "text": "RT @VCharbonneauF3: @DimPolitique sur les s\u00e9natoriales c'est \u00e0 11h30 avec @JeanArthuis et le politologue @LeclercArnauld sur @F3PaysdelaLoi\u2026", 
         "truncated": false
       }, 
-      "statuses_count": 3718, 
+      "statuses_count": 3720, 
       "time_zone": "Amsterdam", 
       "translator_type": "none", 
       "url": "https://t.co/YhICpAOeW0", 
@@ -909,14 +1020,14 @@
       "verified": true
     }, 
     "twitter_description": "D\u00e9put\u00e9 europ\u00e9en, Pdt de la com. #BUDG fondateur de l'Alliance centriste #EnMarche, ancien ministre de l'\u00e9conomie et des finances https://t.co/fhOVDCyFu0", 
-    "twitter_favourites": 1288, 
-    "twitter_followers": 20788, 
-    "twitter_following": 1903, 
+    "twitter_favourites": 1289, 
+    "twitter_followers": 20789, 
+    "twitter_following": 1904, 
     "twitter_id": 110191018, 
     "twitter_listed": 686, 
     "twitter_name": "Jean Arthuis", 
     "twitter_protected": false, 
-    "twitter_tweets": 3718, 
+    "twitter_tweets": 3720, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/arthuis_jean83011j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-arthuis", 
@@ -1162,7 +1273,7 @@
       }, 
       "favourites_count": 15, 
       "follow_request_sent": false, 
-      "followers_count": 195, 
+      "followers_count": 196, 
       "following": false, 
       "friends_count": 150, 
       "geo_enabled": true, 
@@ -1239,7 +1350,7 @@
     }, 
     "twitter_description": "Maire de MEZIDON VALL\u00c9E D'AUGE. Pr\u00e9sident de l'Agglomeration LISIEUX NORMANDIE", 
     "twitter_favourites": 15, 
-    "twitter_followers": 195, 
+    "twitter_followers": 196, 
     "twitter_following": 150, 
     "twitter_id": 2976706774, 
     "twitter_listed": 10, 
@@ -1962,7 +2073,7 @@
       }, 
       "favourites_count": 2039, 
       "follow_request_sent": false, 
-      "followers_count": 1388, 
+      "followers_count": 1387, 
       "following": false, 
       "friends_count": 370, 
       "geo_enabled": true, 
@@ -1994,115 +2105,39 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Fri Sep 22 17:29:08 +0000 2017", 
+        "created_at": "Sun Sep 24 09:11:19 +0000 2017", 
         "entities": {
-          "hashtags": [
-            {
-              "indices": [
-                11, 
-                20
-              ], 
-              "text": "Bordeaux"
-            }
-          ], 
-          "media": [
-            {
-              "display_url": "pic.twitter.com/SDqGoYKWlU", 
-              "expanded_url": "https://twitter.com/bessonjean/status/911281221333897216/photo/1", 
-              "id": 911281211561082881, 
-              "id_str": "911281211561082881", 
-              "indices": [
-                80, 
-                103
-              ], 
-              "media_url": "http://pbs.twimg.com/media/DKWFbwmWAAE8F3s.jpg", 
-              "media_url_https": "https://pbs.twimg.com/media/DKWFbwmWAAE8F3s.jpg", 
-              "sizes": {
-                "large": {
-                  "h": 1342, 
-                  "resize": "fit", 
-                  "w": 2048
-                }, 
-                "medium": {
-                  "h": 786, 
-                  "resize": "fit", 
-                  "w": 1200
-                }, 
-                "small": {
-                  "h": 446, 
-                  "resize": "fit", 
-                  "w": 680
-                }, 
-                "thumb": {
-                  "h": 150, 
-                  "resize": "crop", 
-                  "w": 150
-                }
-              }, 
-              "type": "photo", 
-              "url": "https://t.co/SDqGoYKWlU"
-            }
-          ], 
+          "hashtags": [], 
           "symbols": [], 
           "urls": [], 
           "user_mentions": [
             {
-              "id": 258345629, 
-              "id_str": "258345629", 
+              "id": 105177639, 
+              "id_str": "105177639", 
               "indices": [
-                26, 
-                37
+                3, 
+                15
               ], 
-              "name": "Alain Jupp\u00e9", 
-              "screen_name": "alainjuppe"
-            }
-          ]
-        }, 
-        "extended_entities": {
-          "media": [
+              "name": "SDED", 
+              "screen_name": "energiesded"
+            }, 
             {
-              "display_url": "pic.twitter.com/SDqGoYKWlU", 
-              "expanded_url": "https://twitter.com/bessonjean/status/911281221333897216/photo/1", 
-              "id": 911281211561082881, 
-              "id_str": "911281211561082881", 
+              "id": 78422142, 
+              "id_str": "78422142", 
               "indices": [
-                80, 
-                103
+                17, 
+                28
               ], 
-              "media_url": "http://pbs.twimg.com/media/DKWFbwmWAAE8F3s.jpg", 
-              "media_url_https": "https://pbs.twimg.com/media/DKWFbwmWAAE8F3s.jpg", 
-              "sizes": {
-                "large": {
-                  "h": 1342, 
-                  "resize": "fit", 
-                  "w": 2048
-                }, 
-                "medium": {
-                  "h": 786, 
-                  "resize": "fit", 
-                  "w": 1200
-                }, 
-                "small": {
-                  "h": 446, 
-                  "resize": "fit", 
-                  "w": 680
-                }, 
-                "thumb": {
-                  "h": 150, 
-                  "resize": "crop", 
-                  "w": 150
-                }
-              }, 
-              "type": "photo", 
-              "url": "https://t.co/SDqGoYKWlU"
+              "name": "Jean BESSON", 
+              "screen_name": "bessonjean"
             }
           ]
         }, 
-        "favorite_count": 2, 
+        "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 911281221333897216, 
-        "id_str": "911281221333897216", 
+        "id": 911880718338445313, 
+        "id_str": "911880718338445313", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -2111,14 +2146,64 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "possibly_sensitive": false, 
-        "retweet_count": 2, 
+        "retweet_count": 1, 
         "retweeted": false, 
+        "retweeted_status": {
+          "contributors": null, 
+          "coordinates": null, 
+          "created_at": "Sun Sep 24 09:09:30 +0000 2017", 
+          "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [
+              {
+                "display_url": "twitter.com/i/web/status/9\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/911880261192830976", 
+                "indices": [
+                  117, 
+                  140
+                ], 
+                "url": "https://t.co/rSaOF2uKjl"
+              }
+            ], 
+            "user_mentions": [
+              {
+                "id": 78422142, 
+                "id_str": "78422142", 
+                "indices": [
+                  0, 
+                  11
+                ], 
+                "name": "Jean BESSON", 
+                "screen_name": "bessonjean"
+              }
+            ]
+          }, 
+          "favorite_count": 0, 
+          "favorited": false, 
+          "geo": null, 
+          "id": 911880261192830976, 
+          "id_str": "911880261192830976", 
+          "in_reply_to_screen_name": "bessonjean", 
+          "in_reply_to_status_id": null, 
+          "in_reply_to_status_id_str": null, 
+          "in_reply_to_user_id": 78422142, 
+          "in_reply_to_user_id_str": "78422142", 
+          "is_quote_status": false, 
+          "lang": "fr", 
+          "place": null, 
+          "possibly_sensitive": false, 
+          "retweet_count": 1, 
+          "retweeted": false, 
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+          "text": "@bessonjean autre mode de mobilit\u00e9 vu pr\u00e8s de notre borne \u00e0 NYONS. Chacun son style, la voiture \u00e9lec c'est quand m\u00ea\u2026 https://t.co/rSaOF2uKjl", 
+          "truncated": true
+        }, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "D\u00e9jeuner \u00e0 #Bordeaux avec @alainjuppe, j'aurais volontiers voter pour lui si... https://t.co/SDqGoYKWlU", 
+        "text": "RT @energiesded: @bessonjean autre mode de mobilit\u00e9 vu pr\u00e8s de notre borne \u00e0 NYONS. Chacun son style, la voiture \u00e9lec c'est quand m\u00eame - fa\u2026", 
         "truncated": false
       }, 
-      "statuses_count": 1531, 
+      "statuses_count": 1532, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": "https://t.co/cFrea9booe", 
@@ -2127,13 +2212,13 @@
     }, 
     "twitter_description": "Jean BESSON, S\u00e9nateur Honoraire, Pr\u00e9sident d'@energiesded, Vice Pr\u00e9sident de la @fnccr, #Progressiste #Europhile", 
     "twitter_favourites": 2039, 
-    "twitter_followers": 1388, 
+    "twitter_followers": 1387, 
     "twitter_following": 370, 
     "twitter_id": 78422142, 
     "twitter_listed": 83, 
     "twitter_name": "Jean BESSON", 
     "twitter_protected": false, 
-    "twitter_tweets": 1531, 
+    "twitter_tweets": 1532, 
     "twitter_verified": false, 
     "url_institution": "http://www.senat.fr/senateur/besson_jean89015p.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-besson", 
@@ -3413,7 +3498,7 @@
             }
           ]
         }, 
-        "favorite_count": 8, 
+        "favorite_count": 9, 
         "favorited": false, 
         "geo": null, 
         "id": 911288272135081984, 
@@ -5895,7 +5980,7 @@
       }, 
       "favourites_count": 155, 
       "follow_request_sent": false, 
-      "followers_count": 62143, 
+      "followers_count": 62140, 
       "following": false, 
       "friends_count": 698, 
       "geo_enabled": true, 
@@ -5905,7 +5990,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 1215, 
+      "listed_count": 0, 
       "location": "Paris, France", 
       "name": "J-P. Chev\u00e8nement", 
       "notifications": false, 
@@ -5917,7 +6002,18 @@
       "profile_image_url": "http://pbs.twimg.com/profile_images/1695001329/twitter_icon_128x128_normal.jpg", 
       "profile_image_url_https": "https://pbs.twimg.com/profile_images/1695001329/twitter_icon_128x128_normal.jpg", 
       "profile_link_color": "990000", 
-      "profile_location": null, 
+      "profile_location": {
+        "attributes": {}, 
+        "bounding_box": null, 
+        "contained_within": [], 
+        "country": "", 
+        "country_code": "", 
+        "full_name": "Paris, France", 
+        "id": "09f6a7707f18e0b1", 
+        "name": "Paris, France", 
+        "place_type": "unknown", 
+        "url": "https://api.twitter.com/1.1/geo/id/09f6a7707f18e0b1.json"
+      }, 
       "profile_sidebar_border_color": "DFDFDF", 
       "profile_sidebar_fill_color": "F3F3F3", 
       "profile_text_color": "333333", 
@@ -6102,10 +6198,10 @@
     }, 
     "twitter_description": "Ancien ministre. Pdt du club R\u00e9publique Moderne (@RepubliqueMod), de la Fondation Res Publica (@fondarespublica) et de la Fondation de l'Islam de France.", 
     "twitter_favourites": 155, 
-    "twitter_followers": 62143, 
+    "twitter_followers": 62140, 
     "twitter_following": 698, 
     "twitter_id": 57116930, 
-    "twitter_listed": 1215, 
+    "twitter_listed": 0, 
     "twitter_name": "J-P. Chev\u00e8nement", 
     "twitter_protected": false, 
     "twitter_tweets": 4458, 
@@ -13387,7 +13483,7 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 895, 
+        "retweet_count": 919, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
@@ -13409,7 +13505,7 @@
             ], 
             "user_mentions": []
           }, 
-          "favorite_count": 909, 
+          "favorite_count": 943, 
           "favorited": false, 
           "geo": null, 
           "id": 911311649323196417, 
@@ -13423,7 +13519,7 @@
           "lang": "fr", 
           "place": null, 
           "possibly_sensitive": false, 
-          "retweet_count": 895, 
+          "retweet_count": 919, 
           "retweeted": false, 
           "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>", 
           "text": "La jeune Malala, prix Nobel de la paix, a recadr\u00e9 les dirigeants du monde entier \u00e0 l'assembl\u00e9e g\u00e9n\u00e9rale de l'ONU\u2026 https://t.co/jZcx5bORWW", 
@@ -19459,7 +19555,7 @@
       }, 
       "favourites_count": 1806, 
       "follow_request_sent": false, 
-      "followers_count": 95876, 
+      "followers_count": 95883, 
       "following": false, 
       "friends_count": 2438, 
       "geo_enabled": true, 
@@ -19793,7 +19889,7 @@
     }, 
     "twitter_description": "Ancien Ministre. S\u00e9nateur de l'Essonne. Conseiller r\u00e9gional d'\u00cele de France. Pr\u00e9sident de l' @UDE_FR", 
     "twitter_favourites": 1806, 
-    "twitter_followers": 95876, 
+    "twitter_followers": 95883, 
     "twitter_following": 2438, 
     "twitter_id": 219361536, 
     "twitter_listed": 1002, 
@@ -21252,7 +21348,7 @@
       }, 
       "favourites_count": 78, 
       "follow_request_sent": false, 
-      "followers_count": 5720, 
+      "followers_count": 5722, 
       "following": false, 
       "friends_count": 471, 
       "geo_enabled": true, 
@@ -21384,7 +21480,7 @@
     }, 
     "twitter_description": "Maire de Strasbourg", 
     "twitter_favourites": 78, 
-    "twitter_followers": 5720, 
+    "twitter_followers": 5722, 
     "twitter_following": 471, 
     "twitter_id": 281438650, 
     "twitter_listed": 248, 
