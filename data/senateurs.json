@@ -810,7 +810,7 @@
       }, 
       "favourites_count": 1289, 
       "follow_request_sent": false, 
-      "followers_count": 20789, 
+      "followers_count": 20795, 
       "following": false, 
       "friends_count": 1904, 
       "geo_enabled": true, 
@@ -820,7 +820,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 686, 
+      "listed_count": 685, 
       "location": "Ch-Gontier/Bruxelles/Strasbrg", 
       "name": "Jean Arthuis", 
       "notifications": false, 
@@ -842,59 +842,18 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Sun Sep 24 09:37:16 +0000 2017", 
+        "created_at": "Sun Sep 24 19:09:49 +0000 2017", 
         "entities": {
           "hashtags": [], 
           "symbols": [], 
           "urls": [], 
-          "user_mentions": [
-            {
-              "id": 424264012, 
-              "id_str": "424264012", 
-              "indices": [
-                3, 
-                18
-              ], 
-              "name": "virginie charbonneau", 
-              "screen_name": "VCharbonneauF3"
-            }, 
-            {
-              "id": 960944538, 
-              "id_str": "960944538", 
-              "indices": [
-                20, 
-                33
-              ], 
-              "name": "DimancheEnPolitique", 
-              "screen_name": "DimPolitique"
-            }, 
-            {
-              "id": 110191018, 
-              "id_str": "110191018", 
-              "indices": [
-                74, 
-                86
-              ], 
-              "name": "Jean Arthuis", 
-              "screen_name": "JeanArthuis"
-            }, 
-            {
-              "id": 2433934684, 
-              "id_str": "2433934684", 
-              "indices": [
-                105, 
-                120
-              ], 
-              "name": "Leclerc arnauld", 
-              "screen_name": "LeclercArnauld"
-            }
-          ]
+          "user_mentions": []
         }, 
-        "favorite_count": 0, 
+        "favorite_count": 17, 
         "favorited": false, 
         "geo": null, 
-        "id": 911887245921193985, 
-        "id_str": "911887245921193985", 
+        "id": 912031335061082112, 
+        "id_str": "912031335061082112", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -902,117 +861,47 @@
         "in_reply_to_user_id_str": null, 
         "is_quote_status": false, 
         "lang": "fr", 
-        "place": null, 
-        "retweet_count": 1, 
-        "retweeted": false, 
-        "retweeted_status": {
-          "contributors": null, 
-          "coordinates": null, 
-          "created_at": "Sun Sep 24 09:06:35 +0000 2017", 
-          "entities": {
-            "hashtags": [], 
-            "symbols": [], 
-            "urls": [], 
-            "user_mentions": [
-              {
-                "id": 960944538, 
-                "id_str": "960944538", 
-                "indices": [
-                  0, 
-                  13
-                ], 
-                "name": "DimancheEnPolitique", 
-                "screen_name": "DimPolitique"
-              }, 
-              {
-                "id": 110191018, 
-                "id_str": "110191018", 
-                "indices": [
-                  54, 
-                  66
-                ], 
-                "name": "Jean Arthuis", 
-                "screen_name": "JeanArthuis"
-              }, 
-              {
-                "id": 2433934684, 
-                "id_str": "2433934684", 
-                "indices": [
-                  85, 
-                  100
-                ], 
-                "name": "Leclerc arnauld", 
-                "screen_name": "LeclercArnauld"
-              }, 
-              {
-                "id": 89471410, 
-                "id_str": "89471410", 
-                "indices": [
-                  105, 
-                  121
-                ], 
-                "name": "france3paysdelaloire", 
-                "screen_name": "F3PaysdelaLoire"
-              }
-            ]
-          }, 
-          "favorite_count": 2, 
-          "favorited": false, 
-          "geo": null, 
-          "id": 911879524144599040, 
-          "id_str": "911879524144599040", 
-          "in_reply_to_screen_name": "DimPolitique", 
-          "in_reply_to_status_id": null, 
-          "in_reply_to_status_id_str": null, 
-          "in_reply_to_user_id": 960944538, 
-          "in_reply_to_user_id_str": "960944538", 
-          "is_quote_status": false, 
-          "lang": "fr", 
-          "place": {
-            "attributes": {}, 
-            "bounding_box": {
-              "coordinates": [
+        "place": {
+          "attributes": {}, 
+          "bounding_box": {
+            "coordinates": [
+              [
                 [
-                  [
-                    -1.3826371, 
-                    47.122686000000002
-                  ], 
-                  [
-                    -1.3096547000000001, 
-                    47.122686000000002
-                  ], 
-                  [
-                    -1.3096547000000001, 
-                    47.162090800000001
-                  ], 
-                  [
-                    -1.3826371, 
-                    47.162090800000001
-                  ]
+                  -0.7829585, 
+                  47.795988899999998
+                ], 
+                [
+                  -0.68886130000000001, 
+                  47.795988899999998
+                ], 
+                [
+                  -0.68886130000000001, 
+                  47.856612900000002
+                ], 
+                [
+                  -0.7829585, 
+                  47.856612900000002
                 ]
-              ], 
-              "type": "Polygon"
-            }, 
-            "contained_within": [], 
-            "country": "France", 
-            "country_code": "FR", 
-            "full_name": "Le Pallet, France", 
-            "id": "5c2690c743342243", 
-            "name": "Le Pallet", 
-            "place_type": "city", 
-            "url": "https://api.twitter.com/1.1/geo/id/5c2690c743342243.json"
+              ]
+            ], 
+            "type": "Polygon"
           }, 
-          "retweet_count": 1, 
-          "retweeted": false, 
-          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-          "text": "@DimPolitique sur les s\u00e9natoriales c'est \u00e0 11h30 avec @JeanArthuis et le politologue @LeclercArnauld sur @F3PaysdelaLoire", 
-          "truncated": false
+          "contained_within": [], 
+          "country": "France", 
+          "country_code": "FR", 
+          "full_name": "Ch\u00e2teau-Gontier, France", 
+          "id": "61aaf18ddd5a0627", 
+          "name": "Ch\u00e2teau-Gontier", 
+          "place_type": "city", 
+          "url": "https://api.twitter.com/1.1/geo/id/61aaf18ddd5a0627.json"
         }, 
+        "retweet_count": 18, 
+        "retweeted": false, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "RT @VCharbonneauF3: @DimPolitique sur les s\u00e9natoriales c'est \u00e0 11h30 avec @JeanArthuis et le politologue @LeclercArnauld sur @F3PaysdelaLoi\u2026", 
+        "text": "Les \u00e9lections RFA illustrent la n\u00e9cessit\u00e9 de relancer le projet d'une Europe qui nous prot\u00e8ge. Quelle coalition pour acc\u00e9l\u00e9rer le mouvement?", 
         "truncated": false
       }, 
-      "statuses_count": 3720, 
+      "statuses_count": 3724, 
       "time_zone": "Amsterdam", 
       "translator_type": "none", 
       "url": "https://t.co/YhICpAOeW0", 
@@ -1021,13 +910,13 @@
     }, 
     "twitter_description": "D\u00e9put\u00e9 europ\u00e9en, Pdt de la com. #BUDG fondateur de l'Alliance centriste #EnMarche, ancien ministre de l'\u00e9conomie et des finances https://t.co/fhOVDCyFu0", 
     "twitter_favourites": 1289, 
-    "twitter_followers": 20789, 
+    "twitter_followers": 20795, 
     "twitter_following": 1904, 
     "twitter_id": 110191018, 
-    "twitter_listed": 686, 
+    "twitter_listed": 685, 
     "twitter_name": "Jean Arthuis", 
     "twitter_protected": false, 
-    "twitter_tweets": 3720, 
+    "twitter_tweets": 3724, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/arthuis_jean83011j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-arthuis", 
@@ -1273,7 +1162,7 @@
       }, 
       "favourites_count": 15, 
       "follow_request_sent": false, 
-      "followers_count": 196, 
+      "followers_count": 197, 
       "following": false, 
       "friends_count": 150, 
       "geo_enabled": true, 
@@ -1350,7 +1239,7 @@
     }, 
     "twitter_description": "Maire de MEZIDON VALL\u00c9E D'AUGE. Pr\u00e9sident de l'Agglomeration LISIEUX NORMANDIE", 
     "twitter_favourites": 15, 
-    "twitter_followers": 196, 
+    "twitter_followers": 197, 
     "twitter_following": 150, 
     "twitter_id": 2976706774, 
     "twitter_listed": 10, 
@@ -2071,9 +1960,9 @@
           ]
         }
       }, 
-      "favourites_count": 2039, 
+      "favourites_count": 2045, 
       "follow_request_sent": false, 
-      "followers_count": 1387, 
+      "followers_count": 1388, 
       "following": false, 
       "friends_count": 370, 
       "geo_enabled": true, 
@@ -2105,39 +1994,37 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Sun Sep 24 09:11:19 +0000 2017", 
+        "created_at": "Sun Sep 24 21:01:04 +0000 2017", 
         "entities": {
-          "hashtags": [], 
+          "hashtags": [
+            {
+              "indices": [
+                67, 
+                84
+              ], 
+              "text": "Senatoriales2017"
+            }
+          ], 
           "symbols": [], 
           "urls": [], 
           "user_mentions": [
             {
-              "id": 105177639, 
-              "id_str": "105177639", 
+              "id": 305575260, 
+              "id_str": "305575260", 
               "indices": [
-                3, 
-                15
+                25, 
+                39
               ], 
-              "name": "SDED", 
-              "screen_name": "energiesded"
-            }, 
-            {
-              "id": 78422142, 
-              "id_str": "78422142", 
-              "indices": [
-                17, 
-                28
-              ], 
-              "name": "Jean BESSON", 
-              "screen_name": "bessonjean"
+              "name": "Helene Conway-Mouret", 
+              "screen_name": "HMouretConway"
             }
           ]
         }, 
         "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 911880718338445313, 
-        "id_str": "911880718338445313", 
+        "id": 912059329469190144, 
+        "id_str": "912059329469190144", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -2146,64 +2033,13 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 1, 
+        "retweet_count": 0, 
         "retweeted": false, 
-        "retweeted_status": {
-          "contributors": null, 
-          "coordinates": null, 
-          "created_at": "Sun Sep 24 09:09:30 +0000 2017", 
-          "entities": {
-            "hashtags": [], 
-            "symbols": [], 
-            "urls": [
-              {
-                "display_url": "twitter.com/i/web/status/9\u2026", 
-                "expanded_url": "https://twitter.com/i/web/status/911880261192830976", 
-                "indices": [
-                  117, 
-                  140
-                ], 
-                "url": "https://t.co/rSaOF2uKjl"
-              }
-            ], 
-            "user_mentions": [
-              {
-                "id": 78422142, 
-                "id_str": "78422142", 
-                "indices": [
-                  0, 
-                  11
-                ], 
-                "name": "Jean BESSON", 
-                "screen_name": "bessonjean"
-              }
-            ]
-          }, 
-          "favorite_count": 0, 
-          "favorited": false, 
-          "geo": null, 
-          "id": 911880261192830976, 
-          "id_str": "911880261192830976", 
-          "in_reply_to_screen_name": "bessonjean", 
-          "in_reply_to_status_id": null, 
-          "in_reply_to_status_id_str": null, 
-          "in_reply_to_user_id": 78422142, 
-          "in_reply_to_user_id_str": "78422142", 
-          "is_quote_status": false, 
-          "lang": "fr", 
-          "place": null, 
-          "possibly_sensitive": false, 
-          "retweet_count": 1, 
-          "retweeted": false, 
-          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-          "text": "@bessonjean autre mode de mobilit\u00e9 vu pr\u00e8s de notre borne \u00e0 NYONS. Chacun son style, la voiture \u00e9lec c'est quand m\u00ea\u2026 https://t.co/rSaOF2uKjl", 
-          "truncated": true
-        }, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "RT @energiesded: @bessonjean autre mode de mobilit\u00e9 vu pr\u00e8s de notre borne \u00e0 NYONS. Chacun son style, la voiture \u00e9lec c'est quand m\u00eame - fa\u2026", 
+        "text": "F\u00e9licitations \u00e0 mon amie @HMouretConway pour sa brillante \u00e9lection #Senatoriales2017", 
         "truncated": false
       }, 
-      "statuses_count": 1532, 
+      "statuses_count": 1534, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": "https://t.co/cFrea9booe", 
@@ -2211,14 +2047,14 @@
       "verified": false
     }, 
     "twitter_description": "Jean BESSON, S\u00e9nateur Honoraire, Pr\u00e9sident d'@energiesded, Vice Pr\u00e9sident de la @fnccr, #Progressiste #Europhile", 
-    "twitter_favourites": 2039, 
-    "twitter_followers": 1387, 
+    "twitter_favourites": 2045, 
+    "twitter_followers": 1388, 
     "twitter_following": 370, 
     "twitter_id": 78422142, 
     "twitter_listed": 83, 
     "twitter_name": "Jean BESSON", 
     "twitter_protected": false, 
-    "twitter_tweets": 1532, 
+    "twitter_tweets": 1534, 
     "twitter_verified": false, 
     "url_institution": "http://www.senat.fr/senateur/besson_jean89015p.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-besson", 
@@ -3394,115 +3230,26 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Fri Sep 22 17:57:09 +0000 2017", 
+        "created_at": "Sun Sep 24 17:02:03 +0000 2017", 
         "entities": {
           "hashtags": [
             {
               "indices": [
-                78, 
-                85
+                110, 
+                127
               ], 
-              "text": "Calais"
-            }
-          ], 
-          "media": [
-            {
-              "display_url": "pic.twitter.com/j4NnpRtkSl", 
-              "expanded_url": "https://twitter.com/NatachaBouchart/status/911288272135081984/photo/1", 
-              "id": 911288261951225856, 
-              "id_str": "911288261951225856", 
-              "indices": [
-                86, 
-                109
-              ], 
-              "media_url": "http://pbs.twimg.com/media/DKWL2JWWAAAAQAe.jpg", 
-              "media_url_https": "https://pbs.twimg.com/media/DKWL2JWWAAAAQAe.jpg", 
-              "sizes": {
-                "large": {
-                  "h": 2048, 
-                  "resize": "fit", 
-                  "w": 1536
-                }, 
-                "medium": {
-                  "h": 1200, 
-                  "resize": "fit", 
-                  "w": 900
-                }, 
-                "small": {
-                  "h": 680, 
-                  "resize": "fit", 
-                  "w": 510
-                }, 
-                "thumb": {
-                  "h": 150, 
-                  "resize": "crop", 
-                  "w": 150
-                }
-              }, 
-              "type": "photo", 
-              "url": "https://t.co/j4NnpRtkSl"
+              "text": "senatoriales2017"
             }
           ], 
           "symbols": [], 
           "urls": [], 
-          "user_mentions": [
-            {
-              "id": 819288516, 
-              "id_str": "819288516", 
-              "indices": [
-                15, 
-                31
-              ], 
-              "name": "Marc Lavoine", 
-              "screen_name": "LavoineOfficiel"
-            }
-          ]
+          "user_mentions": []
         }, 
-        "extended_entities": {
-          "media": [
-            {
-              "display_url": "pic.twitter.com/j4NnpRtkSl", 
-              "expanded_url": "https://twitter.com/NatachaBouchart/status/911288272135081984/photo/1", 
-              "id": 911288261951225856, 
-              "id_str": "911288261951225856", 
-              "indices": [
-                86, 
-                109
-              ], 
-              "media_url": "http://pbs.twimg.com/media/DKWL2JWWAAAAQAe.jpg", 
-              "media_url_https": "https://pbs.twimg.com/media/DKWL2JWWAAAAQAe.jpg", 
-              "sizes": {
-                "large": {
-                  "h": 2048, 
-                  "resize": "fit", 
-                  "w": 1536
-                }, 
-                "medium": {
-                  "h": 1200, 
-                  "resize": "fit", 
-                  "w": 900
-                }, 
-                "small": {
-                  "h": 680, 
-                  "resize": "fit", 
-                  "w": 510
-                }, 
-                "thumb": {
-                  "h": 150, 
-                  "resize": "crop", 
-                  "w": 150
-                }
-              }, 
-              "type": "photo", 
-              "url": "https://t.co/j4NnpRtkSl"
-            }
-          ]
-        }, 
-        "favorite_count": 9, 
+        "favorite_count": 6, 
         "favorited": false, 
         "geo": null, 
-        "id": 911288272135081984, 
-        "id_str": "911288272135081984", 
+        "id": 911999180842946560, 
+        "id_str": "911999180842946560", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -3516,20 +3263,20 @@
             "coordinates": [
               [
                 [
-                  1.8057791000000001, 
-                  50.922145100000002
+                  2.0019754000000001, 
+                  50.7530529
                 ], 
                 [
-                  1.9319451999999999, 
-                  50.922145100000002
+                  2.0809346, 
+                  50.7530529
                 ], 
                 [
-                  1.9319451999999999, 
-                  50.983351599999999
+                  2.0809346, 
+                  50.821342600000001
                 ], 
                 [
-                  1.8057791000000001, 
-                  50.983351599999999
+                  2.0019754000000001, 
+                  50.821342600000001
                 ]
               ]
             ], 
@@ -3538,20 +3285,19 @@
           "contained_within": [], 
           "country": "France", 
           "country_code": "FR", 
-          "full_name": "Calais, France", 
-          "id": "72e43a057cec3602", 
-          "name": "Calais", 
+          "full_name": "Tournehem-sur-la-Hem, France", 
+          "id": "0d7271089992a4cf", 
+          "name": "Tournehem-sur-la-Hem", 
           "place_type": "city", 
-          "url": "https://api.twitter.com/1.1/geo/id/72e43a057cec3602.json"
+          "url": "https://api.twitter.com/1.1/geo/id/0d7271089992a4cf.json"
         }, 
-        "possibly_sensitive": false, 
         "retweet_count": 3, 
         "retweeted": false, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "Rencontre avec @LavoineOfficiel actuellement en tournage de la s\u00e9rie Charon \u00e0 #Calais https://t.co/j4NnpRtkSl", 
+        "text": "Quant aux dissidents qui nous ont emp\u00each\u00e9 d'obtenir un 3\u00e8me si\u00e8ge, ils devront prendre leurs responsabilit\u00e9s. #senatoriales2017", 
         "truncated": false
       }, 
-      "statuses_count": 6133, 
+      "statuses_count": 6136, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": null, 
@@ -3566,7 +3312,7 @@
     "twitter_listed": 155, 
     "twitter_name": "Natacha BOUCHART", 
     "twitter_protected": false, 
-    "twitter_tweets": 6133, 
+    "twitter_tweets": 6136, 
     "twitter_verified": false, 
     "url_institution": "http://www.senat.fr/senateur/bouchart_natacha11060j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/natacha-bouchart", 
@@ -5980,7 +5726,7 @@
       }, 
       "favourites_count": 155, 
       "follow_request_sent": false, 
-      "followers_count": 62140, 
+      "followers_count": 62143, 
       "following": false, 
       "friends_count": 698, 
       "geo_enabled": true, 
@@ -5990,7 +5736,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 0, 
+      "listed_count": 1216, 
       "location": "Paris, France", 
       "name": "J-P. Chev\u00e8nement", 
       "notifications": false, 
@@ -6198,10 +5944,10 @@
     }, 
     "twitter_description": "Ancien ministre. Pdt du club R\u00e9publique Moderne (@RepubliqueMod), de la Fondation Res Publica (@fondarespublica) et de la Fondation de l'Islam de France.", 
     "twitter_favourites": 155, 
-    "twitter_followers": 62140, 
+    "twitter_followers": 62143, 
     "twitter_following": 698, 
     "twitter_id": 57116930, 
-    "twitter_listed": 0, 
+    "twitter_listed": 1216, 
     "twitter_name": "J-P. Chev\u00e8nement", 
     "twitter_protected": false, 
     "twitter_tweets": 4458, 
@@ -7226,7 +6972,7 @@
             }
           ]
         }, 
-        "favorite_count": 2, 
+        "favorite_count": 3, 
         "favorited": false, 
         "geo": null, 
         "id": 911250655817453569, 
@@ -13483,7 +13229,7 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 919, 
+        "retweet_count": 998, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
@@ -13505,7 +13251,7 @@
             ], 
             "user_mentions": []
           }, 
-          "favorite_count": 943, 
+          "favorite_count": 1020, 
           "favorited": false, 
           "geo": null, 
           "id": 911311649323196417, 
@@ -13519,7 +13265,7 @@
           "lang": "fr", 
           "place": null, 
           "possibly_sensitive": false, 
-          "retweet_count": 919, 
+          "retweet_count": 998, 
           "retweeted": false, 
           "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>", 
           "text": "La jeune Malala, prix Nobel de la paix, a recadr\u00e9 les dirigeants du monde entier \u00e0 l'assembl\u00e9e g\u00e9n\u00e9rale de l'ONU\u2026 https://t.co/jZcx5bORWW", 
@@ -17078,7 +16824,7 @@
       }, 
       "favourites_count": 5, 
       "follow_request_sent": false, 
-      "followers_count": 3799, 
+      "followers_count": 3800, 
       "following": false, 
       "friends_count": 2346, 
       "geo_enabled": false, 
@@ -17144,7 +16890,7 @@
     }, 
     "twitter_description": "S\u00e9nateur honoraire-maire de Compi\u00e8gne , Pr\u00e9sident de l'agglom\u00e9ration de la r\u00e9gion de Compi\u00e8gne, Pr\u00e9sident de la commission des finances du S\u00e9nat.", 
     "twitter_favourites": 5, 
-    "twitter_followers": 3799, 
+    "twitter_followers": 3800, 
     "twitter_following": 2346, 
     "twitter_id": 1534099902, 
     "twitter_listed": 129, 
@@ -19555,7 +19301,7 @@
       }, 
       "favourites_count": 1806, 
       "follow_request_sent": false, 
-      "followers_count": 95883, 
+      "followers_count": 95900, 
       "following": false, 
       "friends_count": 2438, 
       "geo_enabled": true, 
@@ -19889,7 +19635,7 @@
     }, 
     "twitter_description": "Ancien Ministre. S\u00e9nateur de l'Essonne. Conseiller r\u00e9gional d'\u00cele de France. Pr\u00e9sident de l' @UDE_FR", 
     "twitter_favourites": 1806, 
-    "twitter_followers": 95883, 
+    "twitter_followers": 95900, 
     "twitter_following": 2438, 
     "twitter_id": 219361536, 
     "twitter_listed": 1002, 
@@ -21348,7 +21094,7 @@
       }, 
       "favourites_count": 78, 
       "follow_request_sent": false, 
-      "followers_count": 5722, 
+      "followers_count": 5726, 
       "following": false, 
       "friends_count": 471, 
       "geo_enabled": true, 
@@ -21380,49 +21126,85 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Thu Sep 21 18:04:55 +0000 2017", 
+        "created_at": "Sun Sep 24 15:21:43 +0000 2017", 
         "entities": {
-          "hashtags": [], 
-          "symbols": [], 
-          "urls": [
+          "hashtags": [
             {
-              "display_url": "twitter.com/i/web/status/9\u2026", 
-              "expanded_url": "https://twitter.com/i/web/status/910927837116469248", 
               "indices": [
-                117, 
-                140
+                51, 
+                62
               ], 
-              "url": "https://t.co/MrvQ6dS65K"
-            }
-          ], 
-          "user_mentions": [
-            {
-              "id": 463337324, 
-              "id_str": "463337324", 
-              "indices": [
-                33, 
-                49
-              ], 
-              "name": "William Friedkin", 
-              "screen_name": "WilliamFriedkin"
+              "text": "TousRacing"
             }, 
             {
-              "id": 712235274, 
-              "id_str": "712235274", 
               "indices": [
-                71, 
-                86
+                63, 
+                75
               ], 
-              "name": "Strasbourg Festival", 
-              "screen_name": "FantasticStras"
+              "text": "UnSeulAmour"
+            }, 
+            {
+              "indices": [
+                76, 
+                84
+              ], 
+              "text": "RCSAFCN"
+            }, 
+            {
+              "indices": [
+                85, 
+                92
+              ], 
+              "text": "Ligue1"
+            }, 
+            {
+              "indices": [
+                93, 
+                104
+              ], 
+              "text": "Strasbourg"
+            }
+          ], 
+          "symbols": [], 
+          "urls": [], 
+          "user_mentions": [
+            {
+              "id": 627377507, 
+              "id_str": "627377507", 
+              "indices": [
+                27, 
+                32
+              ], 
+              "name": "RC Strasbourg Alsace", 
+              "screen_name": "RCSA"
+            }, 
+            {
+              "id": 3302900980, 
+              "id_str": "3302900980", 
+              "indices": [
+                105, 
+                121
+              ], 
+              "name": "Ligue 1 Conforama", 
+              "screen_name": "Ligue1Conforama"
+            }, 
+            {
+              "id": 7756322, 
+              "id_str": "7756322", 
+              "indices": [
+                122, 
+                133
+              ], 
+              "name": "Strasbourg.eu", 
+              "screen_name": "strasbourg"
             }
           ]
         }, 
-        "favorite_count": 41, 
+        "favorite_count": 10, 
         "favorited": false, 
         "geo": null, 
-        "id": 910927837116469248, 
-        "id_str": "910927837116469248", 
+        "id": 911973931241832448, 
+        "id_str": "911973931241832448", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -21430,48 +21212,14 @@
         "in_reply_to_user_id_str": null, 
         "is_quote_status": false, 
         "lang": "fr", 
-        "place": {
-          "attributes": {}, 
-          "bounding_box": {
-            "coordinates": [
-              [
-                [
-                  7.6881601000000002, 
-                  48.492421299999997
-                ], 
-                [
-                  7.8362559999999997, 
-                  48.492421299999997
-                ], 
-                [
-                  7.8362559999999997, 
-                  48.6461915
-                ], 
-                [
-                  7.6881601000000002, 
-                  48.6461915
-                ]
-              ]
-            ], 
-            "type": "Polygon"
-          }, 
-          "contained_within": [], 
-          "country": "France", 
-          "country_code": "FR", 
-          "full_name": "Strasbourg, France", 
-          "id": "0701e94ee168b555", 
-          "name": "Strasbourg", 
-          "place_type": "city", 
-          "url": "https://api.twitter.com/1.1/geo/id/0701e94ee168b555.json"
-        }, 
-        "possibly_sensitive": false, 
-        "retweet_count": 12, 
+        "place": null, 
+        "retweet_count": 3, 
         "retweeted": false, 
-        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "Belle rencontre aujourd'hui avec @WilliamFriedkin, invit\u00e9 d'honneur du @FantasticStras qui se tient du 15 au 24 sep\u2026 https://t.co/MrvQ6dS65K", 
-        "truncated": true
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "Bon courage aux joueurs du @RCSA, ne l\u00e2chez rien ! #TousRacing #UnSeulAmour #RCSAFCN #Ligue1 #Strasbourg @Ligue1Conforama @strasbourg", 
+        "truncated": false
       }, 
-      "statuses_count": 674, 
+      "statuses_count": 675, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": null, 
@@ -21480,13 +21228,13 @@
     }, 
     "twitter_description": "Maire de Strasbourg", 
     "twitter_favourites": 78, 
-    "twitter_followers": 5722, 
+    "twitter_followers": 5726, 
     "twitter_following": 471, 
     "twitter_id": 281438650, 
     "twitter_listed": 248, 
     "twitter_name": "Roland Ries", 
     "twitter_protected": false, 
-    "twitter_tweets": 674, 
+    "twitter_tweets": 675, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/ries_roland04065k.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/roland-ries", 
