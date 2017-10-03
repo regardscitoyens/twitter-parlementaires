@@ -458,12 +458,14 @@
     "url_nossenateurs_api": "http://www.nossenateurs.fr/maurice-antiste/json"
   }, 
   {
+    "ancien_senateur": 1, 
     "date_naissance": "1951-05-30", 
-    "groupe_sigle": "", 
+    "groupe_sigle": "SOC", 
     "id": 46, 
     "id_institution": "anziani_alain08025t", 
     "lieu_naissance": "non disponible", 
     "mandat_debut": "2008-09-21", 
+    "mandat_fin": "2017-09-30", 
     "nb_mandats": 3, 
     "nom": "Alain Anziani", 
     "nom_circo": "Gironde", 
@@ -812,9 +814,9 @@
       }, 
       "favourites_count": 1294, 
       "follow_request_sent": false, 
-      "followers_count": 20846, 
+      "followers_count": 20853, 
       "following": false, 
-      "friends_count": 1926, 
+      "friends_count": 1931, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 110191018, 
@@ -822,7 +824,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 686, 
+      "listed_count": 683, 
       "location": "Ch-Gontier/Bruxelles/Strasbrg", 
       "name": "Jean Arthuis", 
       "notifications": false, 
@@ -844,29 +846,28 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Mon Oct 02 06:21:53 +0000 2017", 
+        "created_at": "Mon Oct 02 17:53:12 +0000 2017", 
         "entities": {
           "hashtags": [], 
           "symbols": [], 
-          "urls": [], 
-          "user_mentions": [
+          "urls": [
             {
-              "id": 115030163, 
-              "id_str": "115030163", 
+              "display_url": "twitter.com/i/web/status/9\u2026", 
+              "expanded_url": "https://twitter.com/i/web/status/914911155096866816", 
               "indices": [
-                2, 
-                12
+                117, 
+                140
               ], 
-              "name": "Alliance Centriste", 
-              "screen_name": "AllianceC"
+              "url": "https://t.co/hlFfP4dNqx"
             }
-          ]
+          ], 
+          "user_mentions": []
         }, 
         "favorite_count": 6, 
         "favorited": false, 
         "geo": null, 
-        "id": 914737178663686144, 
-        "id_str": "914737178663686144", 
+        "id": 914911155096866816, 
+        "id_str": "914911155096866816", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -880,20 +881,20 @@
             "coordinates": [
               [
                 [
-                  2.3000775999999998, 
-                  48.809609600000002
+                  7.6881601000000002, 
+                  48.492421299999997
                 ], 
                 [
-                  2.3323269999999998, 
-                  48.809609600000002
+                  7.8362559999999997, 
+                  48.492421299999997
                 ], 
                 [
-                  2.3323269999999998, 
-                  48.822360199999999
+                  7.8362559999999997, 
+                  48.6461915
                 ], 
                 [
-                  2.3000775999999998, 
-                  48.822360199999999
+                  7.6881601000000002, 
+                  48.6461915
                 ]
               ]
             ], 
@@ -902,19 +903,20 @@
           "contained_within": [], 
           "country": "France", 
           "country_code": "FR", 
-          "full_name": "Montrouge, France", 
-          "id": "162484267d777828", 
-          "name": "Montrouge", 
+          "full_name": "Strasbourg, France", 
+          "id": "0701e94ee168b555", 
+          "name": "Strasbourg", 
           "place_type": "city", 
-          "url": "https://api.twitter.com/1.1/geo/id/162484267d777828.json"
+          "url": "https://api.twitter.com/1.1/geo/id/0701e94ee168b555.json"
         }, 
-        "retweet_count": 7, 
+        "possibly_sensitive": false, 
+        "retweet_count": 3, 
         "retweeted": false, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "L'@AllianceC a \u00e9t\u00e9 cr\u00e9\u00e9e sur l'espoir du rassemblement du centre. Son manifeste \"libres et responsables\"conforme \u00e0 la vision &amp;au projet LREM", 
-        "truncated": false
+        "text": "PE Strasbourg.Accueil des d\u00e9l\u00e9gu\u00e9s des comit\u00e9s de jumelage Murrhardt, Frome et Chateau-Gontier.Comment impliquer le\u2026 https://t.co/hlFfP4dNqx", 
+        "truncated": true
       }, 
-      "statuses_count": 3755, 
+      "statuses_count": 3758, 
       "time_zone": "Amsterdam", 
       "translator_type": "none", 
       "url": "https://t.co/YhICpAOeW0", 
@@ -923,13 +925,13 @@
     }, 
     "twitter_description": "D\u00e9put\u00e9 europ\u00e9en, Pdt de la com. #BUDG fondateur de l'Alliance centriste #EnMarche, ancien ministre de l'\u00e9conomie et des finances https://t.co/fhOVDCyFu0", 
     "twitter_favourites": 1294, 
-    "twitter_followers": 20846, 
-    "twitter_following": 1926, 
+    "twitter_followers": 20853, 
+    "twitter_following": 1931, 
     "twitter_id": 110191018, 
-    "twitter_listed": 686, 
+    "twitter_listed": 683, 
     "twitter_name": "Jean Arthuis", 
     "twitter_protected": false, 
-    "twitter_tweets": 3755, 
+    "twitter_tweets": 3758, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/arthuis_jean83011j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-arthuis", 
@@ -1175,7 +1177,7 @@
       }, 
       "favourites_count": 16, 
       "follow_request_sent": false, 
-      "followers_count": 198, 
+      "followers_count": 200, 
       "following": false, 
       "friends_count": 151, 
       "geo_enabled": true, 
@@ -1206,19 +1208,19 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Mon Oct 02 07:23:34 +0000 2017", 
+        "created_at": "Mon Oct 02 13:49:10 +0000 2017", 
         "entities": {
           "hashtags": [], 
           "symbols": [], 
           "urls": [
             {
-              "display_url": "fb.me/26YSgVBQr", 
-              "expanded_url": "http://fb.me/26YSgVBQr", 
+              "display_url": "fb.me/1C3JRjSLt", 
+              "expanded_url": "http://fb.me/1C3JRjSLt", 
               "indices": [
-                116, 
-                139
+                112, 
+                135
               ], 
-              "url": "https://t.co/mmmkcIlmD7"
+              "url": "https://t.co/cqGFyQm5Hc"
             }
           ], 
           "user_mentions": []
@@ -1226,8 +1228,8 @@
         "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 914752704525864963, 
-        "id_str": "914752704525864963", 
+        "id": 914849744865890304, 
+        "id_str": "914849744865890304", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -1240,10 +1242,10 @@
         "retweet_count": 0, 
         "retweeted": false, 
         "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>", 
-        "text": "Hier, journ\u00e9e sur le terrain. Au programme, les f\u00eates Th\u00e9r\u00e9siennes \u00e0 Lisieux, les Vielles Fum\u00e9es et le lancement... https://t.co/mmmkcIlmD7", 
+        "text": "Ce matin, \u00e0 la R\u00e9gion pour la rencontre d\u00e9veloppement dans les territoires et la restitution des ateliers du... https://t.co/cqGFyQm5Hc", 
         "truncated": false
       }, 
-      "statuses_count": 126, 
+      "statuses_count": 127, 
       "time_zone": null, 
       "translator_type": "none", 
       "url": null, 
@@ -1252,13 +1254,13 @@
     }, 
     "twitter_description": "Maire de MEZIDON VALL\u00c9E D'AUGE. Pr\u00e9sident de l'Agglomeration LISIEUX NORMANDIE", 
     "twitter_favourites": 16, 
-    "twitter_followers": 198, 
+    "twitter_followers": 200, 
     "twitter_following": 151, 
     "twitter_id": 2976706774, 
     "twitter_listed": 10, 
     "twitter_name": "Fran\u00e7ois Aubey", 
     "twitter_protected": false, 
-    "twitter_tweets": 126, 
+    "twitter_tweets": 127, 
     "twitter_verified": false, 
     "url_institution": "http://www.senat.fr/senateur/aubey_francois14137p.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/francois-aubey", 
@@ -1439,12 +1441,14 @@
     "url_nossenateurs_api": "http://www.nossenateurs.fr/dominique-bailly/json"
   }, 
   {
+    "ancien_senateur": 1, 
     "date_naissance": "1965-06-21", 
-    "groupe_sigle": "", 
+    "groupe_sigle": "LR", 
     "id": 628, 
     "id_institution": "baroin_francois05004a", 
     "lieu_naissance": "non disponible", 
     "mandat_debut": "2014-09-28", 
+    "mandat_fin": "2017-09-30", 
     "nb_mandats": 3, 
     "nom": "Fran\u00e7ois Baroin", 
     "nom_circo": "Aube", 
@@ -1732,10 +1736,10 @@
     "mandat_debut": "2011-09-25", 
     "nb_mandats": 2, 
     "nom": "Esther Benbassa", 
-    "nom_circo": "Val-de-Marne", 
+    "nom_circo": "Paris", 
     "nom_de_famille": "Benbassa", 
     "num_circo": "non disponible", 
-    "num_deptmt": "94", 
+    "num_deptmt": "75", 
     "parti_ratt_financier": "Europe \u00c9cologie Les Verts", 
     "place_en_hemicycle": "316", 
     "prenom": "Esther", 
@@ -3222,7 +3226,7 @@
       }, 
       "favourites_count": 246, 
       "follow_request_sent": false, 
-      "followers_count": 4589, 
+      "followers_count": 4587, 
       "following": false, 
       "friends_count": 1062, 
       "geo_enabled": true, 
@@ -3254,47 +3258,18 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Sat Sep 30 13:15:11 +0000 2017", 
+        "created_at": "Mon Oct 02 21:38:01 +0000 2017", 
         "entities": {
-          "hashtags": [
-            {
-              "indices": [
-                64, 
-                78
-              ], 
-              "text": "VirtualCalais"
-            }
-          ], 
+          "hashtags": [], 
           "symbols": [], 
           "urls": [], 
-          "user_mentions": [
-            {
-              "id": 637236441, 
-              "id_str": "637236441", 
-              "indices": [
-                3, 
-                16
-              ], 
-              "name": "L'Bouk", 
-              "screen_name": "bouk_bouk_62"
-            }, 
-            {
-              "id": 551342517, 
-              "id_str": "551342517", 
-              "indices": [
-                44, 
-                60
-              ], 
-              "name": "Natacha BOUCHART", 
-              "screen_name": "NatachaBouchart"
-            }
-          ]
+          "user_mentions": []
         }, 
-        "favorite_count": 0, 
+        "favorite_count": 2, 
         "favorited": false, 
         "geo": null, 
-        "id": 914116413492793345, 
-        "id_str": "914116413492793345", 
+        "id": 914967733900644353, 
+        "id_str": "914967733900644353", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -3302,72 +3277,47 @@
         "in_reply_to_user_id_str": null, 
         "is_quote_status": false, 
         "lang": "fr", 
-        "place": null, 
-        "retweet_count": 1, 
-        "retweeted": false, 
-        "retweeted_status": {
-          "contributors": null, 
-          "coordinates": null, 
-          "created_at": "Sat Sep 30 11:13:35 +0000 2017", 
-          "entities": {
-            "hashtags": [
-              {
-                "indices": [
-                  46, 
-                  60
+        "place": {
+          "attributes": {}, 
+          "bounding_box": {
+            "coordinates": [
+              [
+                [
+                  1.8057791000000001, 
+                  50.922145100000002
                 ], 
-                "text": "VirtualCalais"
-              }
+                [
+                  1.9319451999999999, 
+                  50.922145100000002
+                ], 
+                [
+                  1.9319451999999999, 
+                  50.983351599999999
+                ], 
+                [
+                  1.8057791000000001, 
+                  50.983351599999999
+                ]
+              ]
             ], 
-            "symbols": [], 
-            "urls": [], 
-            "user_mentions": [
-              {
-                "id": 551342517, 
-                "id_str": "551342517", 
-                "indices": [
-                  26, 
-                  42
-                ], 
-                "name": "Natacha BOUCHART", 
-                "screen_name": "NatachaBouchart"
-              }, 
-              {
-                "id": 534446896, 
-                "id_str": "534446896", 
-                "indices": [
-                  116, 
-                  130
-                ], 
-                "name": "Virtual Calais", 
-                "screen_name": "VirtualCalais"
-              }
-            ]
+            "type": "Polygon"
           }, 
-          "favorite_count": 0, 
-          "favorited": false, 
-          "geo": null, 
-          "id": 914085812618358784, 
-          "id_str": "914085812618358784", 
-          "in_reply_to_screen_name": null, 
-          "in_reply_to_status_id": null, 
-          "in_reply_to_status_id_str": null, 
-          "in_reply_to_user_id": null, 
-          "in_reply_to_user_id_str": null, 
-          "is_quote_status": false, 
-          "lang": "fr", 
-          "place": null, 
-          "retweet_count": 1, 
-          "retweeted": false, 
-          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-          "text": "Visite de madame le maire @NatachaBouchart au #VirtualCalais 8.0 merci \u00e0 vous pour ce que vous faites pour la ville @VirtualCalais", 
-          "truncated": false
+          "contained_within": [], 
+          "country": "France", 
+          "country_code": "FR", 
+          "full_name": "Calais, France", 
+          "id": "72e43a057cec3602", 
+          "name": "Calais", 
+          "place_type": "city", 
+          "url": "https://api.twitter.com/1.1/geo/id/72e43a057cec3602.json"
         }, 
+        "retweet_count": 0, 
+        "retweeted": false, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "RT @bouk_bouk_62: Visite de madame le maire @NatachaBouchart au #VirtualCalais 8.0 merci \u00e0 vous pour ce que vous faites pour la ville @Virt\u2026", 
+        "text": "Nous devons refuser la banalisation de cette barbarie qui n\u2019a plus de limites. Des mesures internationales fortes doivent \u00eatre prises !", 
         "truncated": false
       }, 
-      "statuses_count": 6145, 
+      "statuses_count": 6151, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": null, 
@@ -3376,13 +3326,13 @@
     }, 
     "twitter_description": "Vice-Pr\u00e9sidente de la R\u00e9gion Hauts-de-France. Maire de #Calais, Pr\u00e9sidente de Grand Calais Terres & Mers", 
     "twitter_favourites": 246, 
-    "twitter_followers": 4589, 
+    "twitter_followers": 4587, 
     "twitter_following": 1062, 
     "twitter_id": 551342517, 
     "twitter_listed": 155, 
     "twitter_name": "Natacha BOUCHART", 
     "twitter_protected": false, 
-    "twitter_tweets": 6145, 
+    "twitter_tweets": 6151, 
     "twitter_verified": false, 
     "url_institution": "http://www.senat.fr/senateur/bouchart_natacha11060j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/natacha-bouchart", 
@@ -5804,7 +5754,7 @@
       }, 
       "favourites_count": 155, 
       "follow_request_sent": false, 
-      "followers_count": 62173, 
+      "followers_count": 62177, 
       "following": false, 
       "friends_count": 699, 
       "geo_enabled": true, 
@@ -5922,7 +5872,7 @@
     }, 
     "twitter_description": "Ancien ministre. Pdt du club R\u00e9publique Moderne (@RepubliqueMod), de la Fondation Res Publica (@fondarespublica) et de la Fondation de l'Islam de France.", 
     "twitter_favourites": 155, 
-    "twitter_followers": 62173, 
+    "twitter_followers": 62177, 
     "twitter_following": 699, 
     "twitter_id": 57116930, 
     "twitter_listed": 1214, 
@@ -6240,12 +6190,14 @@
     "url_nossenateurs_api": "http://www.nossenateurs.fr/gerard-collomb/json"
   }, 
   {
+    "ancien_senateur": 1, 
     "date_naissance": "1949-11-10", 
-    "groupe_sigle": "", 
+    "groupe_sigle": "LR", 
     "id": 631, 
     "id_institution": "commeinhes_francois14209n", 
     "lieu_naissance": "non disponible", 
     "mandat_debut": "2014-09-28", 
+    "mandat_fin": "2017-09-30", 
     "nb_mandats": 4, 
     "nom": "Fran\u00e7ois Commeinhes", 
     "nom_circo": "H\u00e9rault", 
@@ -6837,7 +6789,7 @@
       }, 
       "favourites_count": 11, 
       "follow_request_sent": false, 
-      "followers_count": 492, 
+      "followers_count": 493, 
       "following": false, 
       "friends_count": 13, 
       "geo_enabled": false, 
@@ -6983,7 +6935,7 @@
     }, 
     "twitter_description": "Maire de @villedemacon pr\u00e9sident de la @_MBAgglo", 
     "twitter_favourites": 11, 
-    "twitter_followers": 492, 
+    "twitter_followers": 493, 
     "twitter_following": 13, 
     "twitter_id": 1479161936, 
     "twitter_listed": 36, 
@@ -8799,12 +8751,14 @@
     "url_nossenateurs_api": "http://www.nossenateurs.fr/daniel-dubois/json"
   }, 
   {
+    "ancien_senateur": 1, 
     "date_naissance": "1955-01-31", 
-    "groupe_sigle": "", 
+    "groupe_sigle": "UC", 
     "id": 242, 
     "id_institution": "dupont_jean_leonce98042t", 
     "lieu_naissance": "non disponible", 
     "mandat_debut": "1998-09-27", 
+    "mandat_fin": "2017-09-30", 
     "nb_mandats": 2, 
     "nom": "Jean-L\u00e9once Dupont", 
     "nom_circo": "Calvados", 
@@ -8817,8 +8771,8 @@
     "profession": "Directeur d'\u00e9cole de commerce international", 
     "sexe": "H", 
     "sites_web": [
-      "http://www.jeanleoncedupont.fr", 
       "https://twitter.com/jldupont14", 
+      "http://www.jeanleoncedupont.fr", 
       "https://www.facebook.com/jeanleoncedupont"
     ], 
     "slug": "jean-leonce-dupont", 
@@ -13237,7 +13191,7 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 1039, 
+        "retweet_count": 1038, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
@@ -13273,7 +13227,7 @@
           "lang": "fr", 
           "place": null, 
           "possibly_sensitive": false, 
-          "retweet_count": 1039, 
+          "retweet_count": 1038, 
           "retweeted": false, 
           "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>", 
           "text": "La jeune Malala, prix Nobel de la paix, a recadr\u00e9 les dirigeants du monde entier \u00e0 l'assembl\u00e9e g\u00e9n\u00e9rale de l'ONU\u2026 https://t.co/jZcx5bORWW", 
@@ -16842,7 +16796,7 @@
       }, 
       "favourites_count": 5, 
       "follow_request_sent": false, 
-      "followers_count": 3801, 
+      "followers_count": 3799, 
       "following": false, 
       "friends_count": 2345, 
       "geo_enabled": false, 
@@ -16852,7 +16806,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 0, 
+      "listed_count": 130, 
       "location": "Compi\u00e8gne-Paris", 
       "name": "Philippe Marini", 
       "notifications": false, 
@@ -16908,10 +16862,10 @@
     }, 
     "twitter_description": "S\u00e9nateur honoraire-maire de Compi\u00e8gne , Pr\u00e9sident de l'agglom\u00e9ration de la r\u00e9gion de Compi\u00e8gne, Pr\u00e9sident de la commission des finances du S\u00e9nat.", 
     "twitter_favourites": 5, 
-    "twitter_followers": 3801, 
+    "twitter_followers": 3799, 
     "twitter_following": 2345, 
     "twitter_id": 1534099902, 
-    "twitter_listed": 0, 
+    "twitter_listed": 130, 
     "twitter_name": "Philippe Marini", 
     "twitter_protected": false, 
     "twitter_tweets": 952, 
@@ -18045,7 +17999,7 @@
       }, 
       "favourites_count": 139, 
       "follow_request_sent": false, 
-      "followers_count": 301, 
+      "followers_count": 300, 
       "following": false, 
       "friends_count": 160, 
       "geo_enabled": false, 
@@ -18120,7 +18074,7 @@
     }, 
     "twitter_description": "S\u00e9natrice Les R\u00e9publicains des Hautes-Alpes", 
     "twitter_favourites": 139, 
-    "twitter_followers": 301, 
+    "twitter_followers": 300, 
     "twitter_following": 160, 
     "twitter_id": 3189823869, 
     "twitter_listed": 12, 
@@ -18518,12 +18472,14 @@
     "url_nossenateurs_api": "http://www.nossenateurs.fr/colette-melot/json"
   }, 
   {
+    "ancien_senateur": 1, 
     "date_naissance": "1947-02-08", 
-    "groupe_sigle": "", 
+    "groupe_sigle": "LR", 
     "id": 236, 
     "id_institution": "negre_louis08042u", 
     "lieu_naissance": "non disponible", 
     "mandat_debut": "2008-09-21", 
+    "mandat_fin": "2017-09-30", 
     "nb_mandats": 5, 
     "nom": "Louis N\u00e8gre", 
     "nom_circo": "Alpes-Maritimes", 
@@ -19327,7 +19283,7 @@
       }, 
       "favourites_count": 1805, 
       "follow_request_sent": false, 
-      "followers_count": 95966, 
+      "followers_count": 95976, 
       "following": false, 
       "friends_count": 2437, 
       "geo_enabled": true, 
@@ -19358,145 +19314,47 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Fri Sep 15 10:21:27 +0000 2017", 
+        "created_at": "Mon Oct 02 21:06:43 +0000 2017", 
         "entities": {
-          "hashtags": [], 
-          "media": [
+          "hashtags": [
             {
-              "display_url": "pic.twitter.com/adFmNiRM1K", 
-              "expanded_url": "https://twitter.com/GroupeVicat/status/908635238502473728/photo/1", 
-              "id": 908635216008351744, 
-              "id_str": "908635216008351744", 
               "indices": [
-                90, 
-                113
+                16, 
+                24
               ], 
-              "media_url": "http://pbs.twimg.com/media/DJwe6jCWkAAfmk_.jpg", 
-              "media_url_https": "https://pbs.twimg.com/media/DJwe6jCWkAAfmk_.jpg", 
-              "sizes": {
-                "large": {
-                  "h": 1536, 
-                  "resize": "fit", 
-                  "w": 2048
-                }, 
-                "medium": {
-                  "h": 900, 
-                  "resize": "fit", 
-                  "w": 1200
-                }, 
-                "small": {
-                  "h": 510, 
-                  "resize": "fit", 
-                  "w": 680
-                }, 
-                "thumb": {
-                  "h": 150, 
-                  "resize": "crop", 
-                  "w": 150
-                }
-              }, 
-              "source_status_id": 908635238502473728, 
-              "source_status_id_str": "908635238502473728", 
-              "source_user_id": 408324472, 
-              "source_user_id_str": "408324472", 
-              "type": "photo", 
-              "url": "https://t.co/adFmNiRM1K"
+              "text": "voeuxPM"
             }
           ], 
           "symbols": [], 
           "urls": [], 
           "user_mentions": [
             {
-              "id": 408324472, 
-              "id_str": "408324472", 
+              "id": 2473037815, 
+              "id_str": "2473037815", 
               "indices": [
                 3, 
-                15
+                14
               ], 
-              "name": "Vicat", 
-              "screen_name": "GroupeVicat"
+              "name": "Ha\u00efm Korsia", 
+              "screen_name": "HaimKorsia"
             }, 
             {
-              "id": 219361536, 
-              "id_str": "219361536", 
+              "id": 70385068, 
+              "id_str": "70385068", 
               "indices": [
                 58, 
-                66
+                70
               ], 
-              "name": "Jean-Vincent Plac\u00e9", 
-              "screen_name": "JVPlace"
-            }, 
-            {
-              "id": 279137479, 
-              "id_str": "279137479", 
-              "indices": [
-                67, 
-                76
-              ], 
-              "name": "Jean-Louis BORLOO", 
-              "screen_name": "JLBorloo"
-            }, 
-            {
-              "id": 883255068727934976, 
-              "id_str": "883255068727934976", 
-              "indices": [
-                77, 
-                89
-              ], 
-              "name": "Sophie Sidos", 
-              "screen_name": "SophieSidos"
-            }
-          ]
-        }, 
-        "extended_entities": {
-          "media": [
-            {
-              "display_url": "pic.twitter.com/adFmNiRM1K", 
-              "expanded_url": "https://twitter.com/GroupeVicat/status/908635238502473728/photo/1", 
-              "id": 908635216008351744, 
-              "id_str": "908635216008351744", 
-              "indices": [
-                90, 
-                113
-              ], 
-              "media_url": "http://pbs.twimg.com/media/DJwe6jCWkAAfmk_.jpg", 
-              "media_url_https": "https://pbs.twimg.com/media/DJwe6jCWkAAfmk_.jpg", 
-              "sizes": {
-                "large": {
-                  "h": 1536, 
-                  "resize": "fit", 
-                  "w": 2048
-                }, 
-                "medium": {
-                  "h": 900, 
-                  "resize": "fit", 
-                  "w": 1200
-                }, 
-                "small": {
-                  "h": 510, 
-                  "resize": "fit", 
-                  "w": 680
-                }, 
-                "thumb": {
-                  "h": 150, 
-                  "resize": "crop", 
-                  "w": 150
-                }
-              }, 
-              "source_status_id": 908635238502473728, 
-              "source_status_id_str": "908635238502473728", 
-              "source_user_id": 408324472, 
-              "source_user_id_str": "408324472", 
-              "type": "photo", 
-              "url": "https://t.co/adFmNiRM1K"
+              "name": "Manuel Valls", 
+              "screen_name": "manuelvalls"
             }
           ]
         }, 
         "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 908636876067753985, 
-        "id_str": "908636876067753985", 
+        "id": 914959855651364865, 
+        "id_str": "914959855651364865", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -19505,133 +19363,42 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "possibly_sensitive": false, 
-        "retweet_count": 2, 
+        "retweet_count": 34, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
           "coordinates": null, 
-          "created_at": "Fri Sep 15 10:14:57 +0000 2017", 
+          "created_at": "Mon Oct 02 19:23:06 +0000 2017", 
           "entities": {
-            "hashtags": [], 
-            "media": [
+            "hashtags": [
               {
-                "display_url": "pic.twitter.com/adFmNiRM1K", 
-                "expanded_url": "https://twitter.com/GroupeVicat/status/908635238502473728/photo/1", 
-                "id": 908635216008351744, 
-                "id_str": "908635216008351744", 
                 "indices": [
-                  73, 
-                  96
+                  0, 
+                  8
                 ], 
-                "media_url": "http://pbs.twimg.com/media/DJwe6jCWkAAfmk_.jpg", 
-                "media_url_https": "https://pbs.twimg.com/media/DJwe6jCWkAAfmk_.jpg", 
-                "sizes": {
-                  "large": {
-                    "h": 1536, 
-                    "resize": "fit", 
-                    "w": 2048
-                  }, 
-                  "medium": {
-                    "h": 900, 
-                    "resize": "fit", 
-                    "w": 1200
-                  }, 
-                  "small": {
-                    "h": 510, 
-                    "resize": "fit", 
-                    "w": 680
-                  }, 
-                  "thumb": {
-                    "h": 150, 
-                    "resize": "crop", 
-                    "w": 150
-                  }
-                }, 
-                "type": "photo", 
-                "url": "https://t.co/adFmNiRM1K"
+                "text": "voeuxPM"
               }
             ], 
             "symbols": [], 
             "urls": [], 
             "user_mentions": [
               {
-                "id": 219361536, 
-                "id_str": "219361536", 
+                "id": 70385068, 
+                "id_str": "70385068", 
                 "indices": [
-                  41, 
-                  49
+                  42, 
+                  54
                 ], 
-                "name": "Jean-Vincent Plac\u00e9", 
-                "screen_name": "JVPlace"
-              }, 
-              {
-                "id": 279137479, 
-                "id_str": "279137479", 
-                "indices": [
-                  50, 
-                  59
-                ], 
-                "name": "Jean-Louis BORLOO", 
-                "screen_name": "JLBorloo"
-              }, 
-              {
-                "id": 883255068727934976, 
-                "id_str": "883255068727934976", 
-                "indices": [
-                  60, 
-                  72
-                ], 
-                "name": "Sophie Sidos", 
-                "screen_name": "SophieSidos"
+                "name": "Manuel Valls", 
+                "screen_name": "manuelvalls"
               }
             ]
           }, 
-          "extended_entities": {
-            "media": [
-              {
-                "display_url": "pic.twitter.com/adFmNiRM1K", 
-                "expanded_url": "https://twitter.com/GroupeVicat/status/908635238502473728/photo/1", 
-                "id": 908635216008351744, 
-                "id_str": "908635216008351744", 
-                "indices": [
-                  73, 
-                  96
-                ], 
-                "media_url": "http://pbs.twimg.com/media/DJwe6jCWkAAfmk_.jpg", 
-                "media_url_https": "https://pbs.twimg.com/media/DJwe6jCWkAAfmk_.jpg", 
-                "sizes": {
-                  "large": {
-                    "h": 1536, 
-                    "resize": "fit", 
-                    "w": 2048
-                  }, 
-                  "medium": {
-                    "h": 900, 
-                    "resize": "fit", 
-                    "w": 1200
-                  }, 
-                  "small": {
-                    "h": 510, 
-                    "resize": "fit", 
-                    "w": 680
-                  }, 
-                  "thumb": {
-                    "h": 150, 
-                    "resize": "crop", 
-                    "w": 150
-                  }
-                }, 
-                "type": "photo", 
-                "url": "https://t.co/adFmNiRM1K"
-              }
-            ]
-          }, 
-          "favorite_count": 11, 
+          "favorite_count": 106, 
           "favorited": false, 
           "geo": null, 
-          "id": 908635238502473728, 
-          "id_str": "908635238502473728", 
+          "id": 914933779113893888, 
+          "id_str": "914933779113893888", 
           "in_reply_to_screen_name": null, 
           "in_reply_to_status_id": null, 
           "in_reply_to_status_id_str": null, 
@@ -19640,18 +19407,17 @@
           "is_quote_status": false, 
           "lang": "fr", 
           "place": null, 
-          "possibly_sensitive": false, 
-          "retweet_count": 2, 
+          "retweet_count": 34, 
           "retweeted": false, 
-          "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
-          "text": "Une belle photo digne d'une belle soir\u00e9e @JVPlace @JLBorloo @SophieSidos https://t.co/adFmNiRM1K", 
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+          "text": "#voeuxPM Je voudrais saluer le courage de @manuelvalls qui a \u00e9t\u00e9 capable de dire \"la France sans les Juifs ne serait plus la France!\"", 
           "truncated": false
         }, 
         "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
-        "text": "RT @GroupeVicat: Une belle photo digne d'une belle soir\u00e9e @JVPlace @JLBorloo @SophieSidos https://t.co/adFmNiRM1K", 
+        "text": "RT @HaimKorsia: #voeuxPM Je voudrais saluer le courage de @manuelvalls qui a \u00e9t\u00e9 capable de dire \"la France sans les Juifs ne serait plus l\u2026", 
         "truncated": false
       }, 
-      "statuses_count": 8305, 
+      "statuses_count": 8306, 
       "time_zone": null, 
       "translator_type": "none", 
       "url": null, 
@@ -19660,13 +19426,13 @@
     }, 
     "twitter_description": "Ancien Ministre. Ancien S\u00e9nateur. Conseiller r\u00e9gional d'\u00cele de France. Pr\u00e9sident de l' @UDE_FR", 
     "twitter_favourites": 1805, 
-    "twitter_followers": 95966, 
+    "twitter_followers": 95976, 
     "twitter_following": 2437, 
     "twitter_id": 219361536, 
     "twitter_listed": 1003, 
     "twitter_name": "Jean-Vincent Plac\u00e9", 
     "twitter_protected": false, 
-    "twitter_tweets": 8305, 
+    "twitter_tweets": 8306, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/place_jean_vincent11069t.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-vincent-place", 
@@ -20295,12 +20061,14 @@
     "url_nossenateurs_api": "http://www.nossenateurs.fr/catherine-procaccia/json"
   }, 
   {
+    "ancien_senateur": 1, 
     "date_naissance": "1987-12-02", 
-    "groupe_sigle": "", 
+    "groupe_sigle": "NI", 
     "id": 639, 
     "id_institution": "rachline_david14247u", 
     "lieu_naissance": "non disponible", 
     "mandat_debut": "2014-09-28", 
+    "mandat_fin": "2017-09-30", 
     "nb_mandats": 3, 
     "nom": "David Rachline", 
     "nom_circo": "Var", 
@@ -21125,7 +20893,7 @@
       }, 
       "favourites_count": 78, 
       "follow_request_sent": false, 
-      "followers_count": 5748, 
+      "followers_count": 5749, 
       "following": false, 
       "friends_count": 470, 
       "geo_enabled": true, 
@@ -21157,50 +20925,33 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Mon Oct 02 06:28:27 +0000 2017", 
+        "created_at": "Mon Oct 02 15:55:49 +0000 2017", 
         "entities": {
           "hashtags": [
             {
               "indices": [
-                58, 
-                67
+                6, 
+                16
               ], 
-              "text": "Poteries"
+              "text": "Marseille"
             }, 
             {
               "indices": [
-                68, 
-                76
+                55, 
+                64
               ], 
-              "text": "Hohberg"
-            }, 
-            {
-              "indices": [
-                77, 
-                84
-              ], 
-              "text": "Forges"
+              "text": "LasVegas"
             }
           ], 
           "symbols": [], 
-          "urls": [
-            {
-              "display_url": "twitter.com/i/web/status/9\u2026", 
-              "expanded_url": "https://twitter.com/i/web/status/914738834000302080", 
-              "indices": [
-                101, 
-                124
-              ], 
-              "url": "https://t.co/2VKYhTschD"
-            }
-          ], 
+          "urls": [], 
           "user_mentions": []
         }, 
         "favorite_count": 2, 
         "favorited": false, 
         "geo": null, 
-        "id": 914738834000302080, 
-        "id_str": "914738834000302080", 
+        "id": 914881613967839232, 
+        "id_str": "914881613967839232", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -21209,14 +20960,13 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "possibly_sensitive": false, 
-        "retweet_count": 1, 
+        "retweet_count": 2, 
         "retweeted": false, 
         "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-        "text": "Une visite de quartier riche en \u00e9changes sur les secteurs #Poteries #Hohberg #Forges samedi dernier\u2026 https://t.co/2VKYhTschD", 
-        "truncated": true
+        "text": "Apr\u00e8s #Marseille hier, l'horreur continue cette fois \u00e0 #LasVegas. Toutes mes pens\u00e9es vont vers les victimes et leurs proches.", 
+        "truncated": false
       }, 
-      "statuses_count": 692, 
+      "statuses_count": 693, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": null, 
@@ -21225,13 +20975,13 @@
     }, 
     "twitter_description": "Maire de Strasbourg", 
     "twitter_favourites": 78, 
-    "twitter_followers": 5748, 
+    "twitter_followers": 5749, 
     "twitter_following": 470, 
     "twitter_id": 281438650, 
     "twitter_listed": 249, 
     "twitter_name": "Roland Ries", 
     "twitter_protected": false, 
-    "twitter_tweets": 692, 
+    "twitter_tweets": 693, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/ries_roland04065k.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/roland-ries", 
