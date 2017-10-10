@@ -814,9 +814,9 @@
       }, 
       "favourites_count": 1304, 
       "follow_request_sent": false, 
-      "followers_count": 20890, 
+      "followers_count": 20905, 
       "following": false, 
-      "friends_count": 1949, 
+      "friends_count": 1955, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 110191018, 
@@ -824,7 +824,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 685, 
+      "listed_count": 684, 
       "location": "Ch-Gontier/Bruxelles/Strasbrg", 
       "name": "Jean Arthuis", 
       "notifications": false, 
@@ -846,66 +846,54 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Sun Oct 08 19:05:17 +0000 2017", 
+        "created_at": "Mon Oct 09 11:44:19 +0000 2017", 
         "entities": {
           "hashtags": [], 
           "symbols": [], 
-          "urls": [], 
-          "user_mentions": []
+          "urls": [
+            {
+              "display_url": "twitter.com/i/web/status/9\u2026", 
+              "expanded_url": "https://twitter.com/i/web/status/917355039269801984", 
+              "indices": [
+                117, 
+                140
+              ], 
+              "url": "https://t.co/CMUBz13zwK"
+            }
+          ], 
+          "user_mentions": [
+            {
+              "id": 792871926628806656, 
+              "id_str": "792871926628806656", 
+              "indices": [
+                0, 
+                10
+              ], 
+              "name": "Nanardstef", 
+              "screen_name": "NanardOMF"
+            }
+          ]
         }, 
-        "favorite_count": 10, 
+        "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 917103622336532480, 
-        "id_str": "917103622336532480", 
-        "in_reply_to_screen_name": null, 
-        "in_reply_to_status_id": null, 
-        "in_reply_to_status_id_str": null, 
-        "in_reply_to_user_id": null, 
-        "in_reply_to_user_id_str": null, 
+        "id": 917355039269801984, 
+        "id_str": "917355039269801984", 
+        "in_reply_to_screen_name": "NanardOMF", 
+        "in_reply_to_status_id": 917353160112517122, 
+        "in_reply_to_status_id_str": "917353160112517122", 
+        "in_reply_to_user_id": 792871926628806656, 
+        "in_reply_to_user_id_str": "792871926628806656", 
         "is_quote_status": false, 
         "lang": "fr", 
-        "place": {
-          "attributes": {}, 
-          "bounding_box": {
-            "coordinates": [
-              [
-                [
-                  -0.7829585, 
-                  47.795988899999998
-                ], 
-                [
-                  -0.68886130000000001, 
-                  47.795988899999998
-                ], 
-                [
-                  -0.68886130000000001, 
-                  47.856612900000002
-                ], 
-                [
-                  -0.7829585, 
-                  47.856612900000002
-                ]
-              ]
-            ], 
-            "type": "Polygon"
-          }, 
-          "contained_within": [], 
-          "country": "France", 
-          "country_code": "FR", 
-          "full_name": "Ch\u00e2teau-Gontier, France", 
-          "id": "61aaf18ddd5a0627", 
-          "name": "Ch\u00e2teau-Gontier", 
-          "place_type": "city", 
-          "url": "https://api.twitter.com/1.1/geo/id/61aaf18ddd5a0627.json"
-        }, 
-        "retweet_count": 3, 
+        "place": null, 
+        "retweet_count": 0, 
         "retweeted": false, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "Et ce n'est pas parce qu'il est dangereux de taxer les meubles delicalisables qu'il faut concentrer l'imp\u00f4t sur les immeubles. Trop facile!", 
-        "truncated": false
+        "text": "@NanardOMF C'est en cela que l'engagement des politiques et des citoyens est d\u00e9cisif. Rompre avec la d\u00e9magogie et l\u2026 https://t.co/CMUBz13zwK", 
+        "truncated": true
       }, 
-      "statuses_count": 3783, 
+      "statuses_count": 3787, 
       "time_zone": "Amsterdam", 
       "translator_type": "none", 
       "url": "https://t.co/YhICpAOeW0", 
@@ -914,13 +902,13 @@
     }, 
     "twitter_description": "D\u00e9put\u00e9 europ\u00e9en, Pdt de la com. #BUDG fondateur de l'Alliance centriste #EnMarche, ancien ministre de l'\u00e9conomie et des finances https://t.co/fhOVDCyFu0", 
     "twitter_favourites": 1304, 
-    "twitter_followers": 20890, 
-    "twitter_following": 1949, 
+    "twitter_followers": 20905, 
+    "twitter_following": 1955, 
     "twitter_id": 110191018, 
-    "twitter_listed": 685, 
+    "twitter_listed": 684, 
     "twitter_name": "Jean Arthuis", 
     "twitter_protected": false, 
-    "twitter_tweets": 3783, 
+    "twitter_tweets": 3787, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/arthuis_jean83011j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-arthuis", 
@@ -2024,9 +2012,9 @@
           ]
         }
       }, 
-      "favourites_count": 2049, 
+      "favourites_count": 2050, 
       "follow_request_sent": false, 
-      "followers_count": 1390, 
+      "followers_count": 1388, 
       "following": false, 
       "friends_count": 371, 
       "geo_enabled": true, 
@@ -2109,7 +2097,7 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 2, 
+        "retweet_count": 3, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
@@ -2166,7 +2154,7 @@
           "lang": "fr", 
           "place": null, 
           "possibly_sensitive": false, 
-          "retweet_count": 2, 
+          "retweet_count": 3, 
           "retweeted": false, 
           "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
           "text": "@bessonjean @fnccr signature d'un partenariat SDED / ADIL26  ce matin pour l'information des particuliers et des co\u2026 https://t.co/meSjx3Fa6f", 
@@ -2184,8 +2172,8 @@
       "verified": false
     }, 
     "twitter_description": "Jean BESSON, S\u00e9nateur Honoraire, Pr\u00e9sident d'@energiesded, Vice Pr\u00e9sident de la @fnccr, #Progressiste #Europhile", 
-    "twitter_favourites": 2049, 
-    "twitter_followers": 1390, 
+    "twitter_favourites": 2050, 
+    "twitter_followers": 1388, 
     "twitter_following": 371, 
     "twitter_id": 78422142, 
     "twitter_listed": 82, 
@@ -3335,7 +3323,7 @@
       }, 
       "favourites_count": 246, 
       "follow_request_sent": false, 
-      "followers_count": 4592, 
+      "followers_count": 4590, 
       "following": false, 
       "friends_count": 1061, 
       "geo_enabled": true, 
@@ -3413,7 +3401,7 @@
     }, 
     "twitter_description": "Vice-Pr\u00e9sidente de la R\u00e9gion Hauts-de-France. Maire de #Calais, Pr\u00e9sidente de Grand Calais Terres & Mers", 
     "twitter_favourites": 246, 
-    "twitter_followers": 4592, 
+    "twitter_followers": 4590, 
     "twitter_following": 1061, 
     "twitter_id": 551342517, 
     "twitter_listed": 154, 
@@ -3527,12 +3515,14 @@
     "url_nossenateurs_api": "http://www.nossenateurs.fr/corinne-bouchoux/json"
   }, 
   {
+    "ancien_senateur": 1, 
     "date_naissance": "1943-03-28", 
     "groupe_sigle": "", 
     "id": 693, 
     "id_institution": "boulard_jean_claude14167v", 
     "lieu_naissance": "non disponible", 
     "mandat_debut": "2014-09-28", 
+    "mandat_fin": "2017-09-30", 
     "nb_mandats": 4, 
     "nom": "Jean-Claude Boulard", 
     "nom_circo": "Sarthe", 
@@ -5839,9 +5829,9 @@
           ]
         }
       }, 
-      "favourites_count": 155, 
+      "favourites_count": 156, 
       "follow_request_sent": false, 
-      "followers_count": 62191, 
+      "followers_count": 62194, 
       "following": false, 
       "friends_count": 703, 
       "geo_enabled": true, 
@@ -5958,8 +5948,8 @@
       "verified": true
     }, 
     "twitter_description": "Ancien ministre. Pdt du club R\u00e9publique Moderne (@RepubliqueMod), de la Fondation Res Publica (@fondarespublica) et de la Fondation de l'Islam de France.", 
-    "twitter_favourites": 155, 
-    "twitter_followers": 62191, 
+    "twitter_favourites": 156, 
+    "twitter_followers": 62194, 
     "twitter_following": 703, 
     "twitter_id": 57116930, 
     "twitter_listed": 1216, 
@@ -13219,7 +13209,7 @@
       }, 
       "favourites_count": 18, 
       "follow_request_sent": false, 
-      "followers_count": 929, 
+      "followers_count": 928, 
       "following": false, 
       "friends_count": 313, 
       "geo_enabled": false, 
@@ -13337,7 +13327,7 @@
     }, 
     "twitter_description": "Maire de Saint-Flour, Pr\u00e9sident des Maires du #Cantal, Comit\u00e9 des #Finances locales - #Collectivit\u00e9s territoriales #Urbanisme #Logement #D\u00e9veloppement durable", 
     "twitter_favourites": 18, 
-    "twitter_followers": 929, 
+    "twitter_followers": 928, 
     "twitter_following": 313, 
     "twitter_id": 2328417882, 
     "twitter_listed": 39, 
@@ -16897,7 +16887,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 131, 
+      "listed_count": 133, 
       "location": "Compi\u00e8gne-Paris", 
       "name": "Philippe Marini", 
       "notifications": false, 
@@ -16956,7 +16946,7 @@
     "twitter_followers": 3798, 
     "twitter_following": 2345, 
     "twitter_id": 1534099902, 
-    "twitter_listed": 131, 
+    "twitter_listed": 133, 
     "twitter_name": "Philippe Marini", 
     "twitter_protected": false, 
     "twitter_tweets": 952, 
@@ -18090,7 +18080,7 @@
       }, 
       "favourites_count": 140, 
       "follow_request_sent": false, 
-      "followers_count": 309, 
+      "followers_count": 310, 
       "following": false, 
       "friends_count": 160, 
       "geo_enabled": false, 
@@ -18327,7 +18317,7 @@
     }, 
     "twitter_description": "S\u00e9natrice Les R\u00e9publicains des Hautes-Alpes", 
     "twitter_favourites": 140, 
-    "twitter_followers": 309, 
+    "twitter_followers": 310, 
     "twitter_following": 160, 
     "twitter_id": 3189823869, 
     "twitter_listed": 13, 
@@ -19538,9 +19528,9 @@
       }, 
       "favourites_count": 1804, 
       "follow_request_sent": false, 
-      "followers_count": 96070, 
+      "followers_count": 96085, 
       "following": false, 
-      "friends_count": 2437, 
+      "friends_count": 2436, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 219361536, 
@@ -19548,7 +19538,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 1003, 
+      "listed_count": 1004, 
       "location": "Paris, France", 
       "name": "Jean-Vincent Plac\u00e9", 
       "notifications": false, 
@@ -19649,7 +19639,7 @@
               }
             ]
           }, 
-          "favorite_count": 188, 
+          "favorite_count": 189, 
           "favorited": false, 
           "geo": null, 
           "id": 914933779113893888, 
@@ -19681,10 +19671,10 @@
     }, 
     "twitter_description": "Ancien Ministre. Ancien S\u00e9nateur. Conseiller r\u00e9gional d'\u00cele de France. Pr\u00e9sident de l' @UDE_FR", 
     "twitter_favourites": 1804, 
-    "twitter_followers": 96070, 
-    "twitter_following": 2437, 
+    "twitter_followers": 96085, 
+    "twitter_following": 2436, 
     "twitter_id": 219361536, 
-    "twitter_listed": 1003, 
+    "twitter_listed": 1004, 
     "twitter_name": "Jean-Vincent Plac\u00e9", 
     "twitter_protected": false, 
     "twitter_tweets": 8305, 
@@ -21152,7 +21142,7 @@
       }, 
       "favourites_count": 78, 
       "follow_request_sent": false, 
-      "followers_count": 5776, 
+      "followers_count": 5780, 
       "following": false, 
       "friends_count": 470, 
       "geo_enabled": true, 
@@ -21184,50 +21174,43 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Sat Oct 07 17:48:58 +0000 2017", 
+        "created_at": "Mon Oct 09 18:16:15 +0000 2017", 
         "entities": {
           "hashtags": [
             {
               "indices": [
-                0, 
-                11
+                55, 
+                69
+              ], 
+              "text": "SommetCitoyen"
+            }, 
+            {
+              "indices": [
+                85, 
+                96
               ], 
               "text": "Strasbourg"
-            }, 
-            {
-              "indices": [
-                91, 
-                109
-              ], 
-              "text": "LaStrasbourgeoise"
-            }, 
-            {
-              "indices": [
-                110, 
-                115
-              ], 
-              "text": "rose"
             }
           ], 
           "symbols": [], 
           "urls": [
             {
               "display_url": "twitter.com/i/web/status/9\u2026", 
-              "expanded_url": "https://twitter.com/i/web/status/916722029667201025", 
+              "expanded_url": "https://twitter.com/i/web/status/917453670974926849", 
               "indices": [
-                117, 
-                140
+                98, 
+                121
               ], 
-              "url": "https://t.co/iKkNVcjfKR"
+              "url": "https://t.co/z4obnn2aOD"
             }
           ], 
           "user_mentions": []
         }, 
-        "favorite_count": 24, 
+        "favorite_count": 3, 
         "favorited": false, 
         "geo": null, 
-        "id": 916722029667201025, 
-        "id_str": "916722029667201025", 
+        "id": 917453670974926849, 
+        "id_str": "917453670974926849", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -21235,48 +21218,15 @@
         "in_reply_to_user_id_str": null, 
         "is_quote_status": false, 
         "lang": "fr", 
-        "place": {
-          "attributes": {}, 
-          "bounding_box": {
-            "coordinates": [
-              [
-                [
-                  7.6881601000000002, 
-                  48.492421299999997
-                ], 
-                [
-                  7.8362559999999997, 
-                  48.492421299999997
-                ], 
-                [
-                  7.8362559999999997, 
-                  48.6461915
-                ], 
-                [
-                  7.6881601000000002, 
-                  48.6461915
-                ]
-              ]
-            ], 
-            "type": "Polygon"
-          }, 
-          "contained_within": [], 
-          "country": "France", 
-          "country_code": "FR", 
-          "full_name": "Strasbourg, France", 
-          "id": "0701e94ee168b555", 
-          "name": "Strasbourg", 
-          "place_type": "city", 
-          "url": "https://api.twitter.com/1.1/geo/id/0701e94ee168b555.json"
-        }, 
+        "place": null, 
         "possibly_sensitive": false, 
-        "retweet_count": 18, 
+        "retweet_count": 4, 
         "retweeted": false, 
-        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "#Strasbourg - Le Centre administratif et le pont Beatus Rhenanus aux couleurs de la course #LaStrasbourgeoise #rose\u2026 https://t.co/iKkNVcjfKR", 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "Je vous donne rendez-vous ce samedi 14 octobre pour le #SommetCitoyen de la Ville de #Strasbourg\u2026 https://t.co/z4obnn2aOD", 
         "truncated": true
       }, 
-      "statuses_count": 702, 
+      "statuses_count": 703, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": null, 
@@ -21285,13 +21235,13 @@
     }, 
     "twitter_description": "Maire de Strasbourg", 
     "twitter_favourites": 78, 
-    "twitter_followers": 5776, 
+    "twitter_followers": 5780, 
     "twitter_following": 470, 
     "twitter_id": 281438650, 
     "twitter_listed": 250, 
     "twitter_name": "Roland Ries", 
     "twitter_protected": false, 
-    "twitter_tweets": 702, 
+    "twitter_tweets": 703, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/ries_roland04065k.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/roland-ries", 
