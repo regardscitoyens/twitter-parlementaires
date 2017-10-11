@@ -812,9 +812,9 @@
           ]
         }
       }, 
-      "favourites_count": 1304, 
+      "favourites_count": 1305, 
       "follow_request_sent": false, 
-      "followers_count": 20905, 
+      "followers_count": 20913, 
       "following": false, 
       "friends_count": 1955, 
       "geo_enabled": true, 
@@ -824,7 +824,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 684, 
+      "listed_count": 682, 
       "location": "Ch-Gontier/Bruxelles/Strasbrg", 
       "name": "Jean Arthuis", 
       "notifications": false, 
@@ -846,54 +846,100 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Mon Oct 09 11:44:19 +0000 2017", 
+        "created_at": "Tue Oct 10 15:36:03 +0000 2017", 
         "entities": {
-          "hashtags": [], 
-          "symbols": [], 
-          "urls": [
+          "hashtags": [
             {
-              "display_url": "twitter.com/i/web/status/9\u2026", 
-              "expanded_url": "https://twitter.com/i/web/status/917355039269801984", 
               "indices": [
-                117, 
-                140
+                19, 
+                23
               ], 
-              "url": "https://t.co/CMUBz13zwK"
+              "text": "PME"
             }
           ], 
+          "symbols": [], 
+          "urls": [], 
           "user_mentions": [
             {
-              "id": 792871926628806656, 
-              "id_str": "792871926628806656", 
+              "id": 1388794680, 
+              "id_str": "1388794680", 
               "indices": [
-                0, 
-                10
+                3, 
+                17
               ], 
-              "name": "Nanardstef", 
-              "screen_name": "NanardOMF"
+              "name": "D\u00e9l\u00e9gation FR ADLE", 
+              "screen_name": "Les_Europeens"
             }
           ]
         }, 
         "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 917355039269801984, 
-        "id_str": "917355039269801984", 
-        "in_reply_to_screen_name": "NanardOMF", 
-        "in_reply_to_status_id": 917353160112517122, 
-        "in_reply_to_status_id_str": "917353160112517122", 
-        "in_reply_to_user_id": 792871926628806656, 
-        "in_reply_to_user_id_str": "792871926628806656", 
+        "id": 917775745837076481, 
+        "id_str": "917775745837076481", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 0, 
+        "retweet_count": 11, 
         "retweeted": false, 
-        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "@NanardOMF C'est en cela que l'engagement des politiques et des citoyens est d\u00e9cisif. Rompre avec la d\u00e9magogie et l\u2026 https://t.co/CMUBz13zwK", 
-        "truncated": true
+        "retweeted_status": {
+          "contributors": null, 
+          "coordinates": null, 
+          "created_at": "Tue Oct 10 15:27:52 +0000 2017", 
+          "entities": {
+            "hashtags": [
+              {
+                "indices": [
+                  0, 
+                  4
+                ], 
+                "text": "PME"
+              }
+            ], 
+            "symbols": [], 
+            "urls": [
+              {
+                "display_url": "twitter.com/i/web/status/9\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/917773682658902017", 
+                "indices": [
+                  117, 
+                  140
+                ], 
+                "url": "https://t.co/aLbOA6xsFV"
+              }
+            ], 
+            "user_mentions": []
+          }, 
+          "favorite_count": 8, 
+          "favorited": false, 
+          "geo": null, 
+          "id": 917773682658902017, 
+          "id_str": "917773682658902017", 
+          "in_reply_to_screen_name": null, 
+          "in_reply_to_status_id": null, 
+          "in_reply_to_status_id_str": null, 
+          "in_reply_to_user_id": null, 
+          "in_reply_to_user_id_str": null, 
+          "is_quote_status": false, 
+          "lang": "fr", 
+          "place": null, 
+          "possibly_sensitive": false, 
+          "retweet_count": 11, 
+          "retweeted": false, 
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+          "text": "#PME et opportunit\u00e9s \ud83c\uddea\ud83c\uddfa : une rencontre riche en d\u00e9bats entre les d\u00e9put\u00e9s de la d\u00e9l\u00e9gation et des chefs d'entrepris\u2026 https://t.co/aLbOA6xsFV", 
+          "truncated": true
+        }, 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "RT @Les_Europeens: #PME et opportunit\u00e9s \ud83c\uddea\ud83c\uddfa : une rencontre riche en d\u00e9bats entre les d\u00e9put\u00e9s de la d\u00e9l\u00e9gation et des chefs d'entreprises @C\u2026", 
+        "truncated": false
       }, 
-      "statuses_count": 3787, 
+      "statuses_count": 3790, 
       "time_zone": "Amsterdam", 
       "translator_type": "none", 
       "url": "https://t.co/YhICpAOeW0", 
@@ -901,14 +947,14 @@
       "verified": true
     }, 
     "twitter_description": "D\u00e9put\u00e9 europ\u00e9en, Pdt de la com. #BUDG fondateur de l'Alliance centriste #EnMarche, ancien ministre de l'\u00e9conomie et des finances https://t.co/fhOVDCyFu0", 
-    "twitter_favourites": 1304, 
-    "twitter_followers": 20905, 
+    "twitter_favourites": 1305, 
+    "twitter_followers": 20913, 
     "twitter_following": 1955, 
     "twitter_id": 110191018, 
-    "twitter_listed": 684, 
+    "twitter_listed": 682, 
     "twitter_name": "Jean Arthuis", 
     "twitter_protected": false, 
-    "twitter_tweets": 3787, 
+    "twitter_tweets": 3790, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/arthuis_jean83011j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-arthuis", 
@@ -1185,39 +1231,28 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Sat Oct 07 21:16:27 +0000 2017", 
+        "created_at": "Tue Oct 10 16:07:50 +0000 2017", 
         "entities": {
           "hashtags": [], 
           "symbols": [], 
-          "urls": [], 
-          "user_mentions": [
+          "urls": [
             {
-              "id": 958275463, 
-              "id_str": "958275463", 
+              "display_url": "fb.me/9eZciF9JV", 
+              "expanded_url": "http://fb.me/9eZciF9JV", 
               "indices": [
-                3, 
-                15
+                115, 
+                138
               ], 
-              "name": "Paz Olivier", 
-              "screen_name": "paz_olivier"
-            }, 
-            {
-              "id": 413165525, 
-              "id_str": "413165525", 
-              "indices": [
-                62, 
-                69
-              ], 
-              "name": "AdCF", 
-              "screen_name": "l_AdCF"
+              "url": "https://t.co/sz0p25WuYP"
             }
-          ]
+          ], 
+          "user_mentions": []
         }, 
-        "favorite_count": 0, 
+        "favorite_count": 1, 
         "favorited": false, 
         "geo": null, 
-        "id": 916774245337837568, 
-        "id_str": "916774245337837568", 
+        "id": 917783743825436672, 
+        "id_str": "917783743825436672", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -1226,53 +1261,14 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 8, 
+        "possibly_sensitive": false, 
+        "retweet_count": 0, 
         "retweeted": false, 
-        "retweeted_status": {
-          "contributors": null, 
-          "coordinates": null, 
-          "created_at": "Fri Oct 06 15:52:32 +0000 2017", 
-          "entities": {
-            "hashtags": [], 
-            "symbols": [], 
-            "urls": [], 
-            "user_mentions": [
-              {
-                "id": 413165525, 
-                "id_str": "413165525", 
-                "indices": [
-                  45, 
-                  52
-                ], 
-                "name": "AdCF", 
-                "screen_name": "l_AdCF"
-              }
-            ]
-          }, 
-          "favorite_count": 17, 
-          "favorited": false, 
-          "geo": null, 
-          "id": 916330340704284673, 
-          "id_str": "916330340704284673", 
-          "in_reply_to_screen_name": null, 
-          "in_reply_to_status_id": null, 
-          "in_reply_to_status_id_str": null, 
-          "in_reply_to_user_id": null, 
-          "in_reply_to_user_id_str": null, 
-          "is_quote_status": false, 
-          "lang": "fr", 
-          "place": null, 
-          "retweet_count": 8, 
-          "retweeted": false, 
-          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-          "text": "La bonne nouvelle du jour \u00e0 la convention de @l_AdCF : pas de baisse des dotations en 2018 pour le + grand nombre des communes et intercos.", 
-          "truncated": false
-        }, 
-        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "RT @paz_olivier: La bonne nouvelle du jour \u00e0 la convention de @l_AdCF : pas de baisse des dotations en 2018 pour le + grand nombre des comm\u2026", 
+        "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>", 
+        "text": "l SANTE l\n\nJe remercie le Docteur Mansour, chef de service des Urgences, pour son invitation, hier, \u00e0 l'h\u00f4pital... https://t.co/sz0p25WuYP", 
         "truncated": false
       }, 
-      "statuses_count": 130, 
+      "statuses_count": 133, 
       "time_zone": null, 
       "translator_type": "none", 
       "url": null, 
@@ -1287,7 +1283,7 @@
     "twitter_listed": 10, 
     "twitter_name": "Fran\u00e7ois Aubey", 
     "twitter_protected": false, 
-    "twitter_tweets": 130, 
+    "twitter_tweets": 133, 
     "twitter_verified": false, 
     "url_institution": "http://www.senat.fr/senateur/aubey_francois14137p.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/francois-aubey", 
@@ -2012,11 +2008,11 @@
           ]
         }
       }, 
-      "favourites_count": 2050, 
+      "favourites_count": 2051, 
       "follow_request_sent": false, 
       "followers_count": 1388, 
       "following": false, 
-      "friends_count": 371, 
+      "friends_count": 374, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 78422142, 
@@ -2046,49 +2042,37 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Fri Oct 06 16:31:38 +0000 2017", 
+        "created_at": "Tue Oct 10 10:08:35 +0000 2017", 
         "entities": {
-          "hashtags": [], 
+          "hashtags": [
+            {
+              "indices": [
+                55, 
+                71
+              ], 
+              "text": "aucoeurdureseau"
+            }
+          ], 
           "symbols": [], 
           "urls": [], 
           "user_mentions": [
             {
-              "id": 105177639, 
-              "id_str": "105177639", 
+              "id": 4805988977, 
+              "id_str": "4805988977", 
               "indices": [
                 3, 
-                15
+                11
               ], 
-              "name": "SDED", 
-              "screen_name": "energiesded"
-            }, 
-            {
-              "id": 78422142, 
-              "id_str": "78422142", 
-              "indices": [
-                17, 
-                28
-              ], 
-              "name": "Jean BESSON", 
-              "screen_name": "bessonjean"
-            }, 
-            {
-              "id": 510382623, 
-              "id_str": "510382623", 
-              "indices": [
-                29, 
-                35
-              ], 
-              "name": "FNCCR", 
-              "screen_name": "fnccr"
+              "name": "RTE Rh.AlpesAuvergne", 
+              "screen_name": "RTE_raa"
             }
           ]
         }, 
         "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 916340181103497218, 
-        "id_str": "916340181103497218", 
+        "id": 917693333715243008, 
+        "id_str": "917693333715243008", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -2097,74 +2081,237 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 3, 
+        "retweet_count": 7, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
           "coordinates": null, 
-          "created_at": "Fri Oct 06 15:52:37 +0000 2017", 
+          "created_at": "Tue Oct 10 09:07:08 +0000 2017", 
           "entities": {
-            "hashtags": [], 
-            "symbols": [], 
-            "urls": [
+            "hashtags": [
               {
-                "display_url": "twitter.com/i/web/status/9\u2026", 
-                "expanded_url": "https://twitter.com/i/web/status/916330363571654656", 
                 "indices": [
-                  117, 
-                  140
+                  42, 
+                  58
                 ], 
-                "url": "https://t.co/meSjx3Fa6f"
+                "text": "aucoeurdureseau"
               }
             ], 
-            "user_mentions": [
+            "media": [
               {
-                "id": 78422142, 
-                "id_str": "78422142", 
+                "display_url": "pic.twitter.com/qIM1o5tVDe", 
+                "expanded_url": "https://twitter.com/RTE_raa/status/917677871770071040/photo/1", 
+                "id": 917676565613416448, 
+                "id_str": "917676565613416448", 
                 "indices": [
-                  0, 
-                  11
+                  116, 
+                  139
                 ], 
-                "name": "Jean BESSON", 
-                "screen_name": "bessonjean"
+                "media_url": "http://pbs.twimg.com/media/DLw9-XAWkAASWlm.jpg", 
+                "media_url_https": "https://pbs.twimg.com/media/DLw9-XAWkAASWlm.jpg", 
+                "sizes": {
+                  "large": {
+                    "h": 801, 
+                    "resize": "fit", 
+                    "w": 1200
+                  }, 
+                  "medium": {
+                    "h": 801, 
+                    "resize": "fit", 
+                    "w": 1200
+                  }, 
+                  "small": {
+                    "h": 454, 
+                    "resize": "fit", 
+                    "w": 680
+                  }, 
+                  "thumb": {
+                    "h": 150, 
+                    "resize": "crop", 
+                    "w": 150
+                  }
+                }, 
+                "type": "photo", 
+                "url": "https://t.co/qIM1o5tVDe"
+              }
+            ], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": []
+          }, 
+          "extended_entities": {
+            "media": [
+              {
+                "display_url": "pic.twitter.com/qIM1o5tVDe", 
+                "expanded_url": "https://twitter.com/RTE_raa/status/917677871770071040/photo/1", 
+                "id": 917676565613416448, 
+                "id_str": "917676565613416448", 
+                "indices": [
+                  116, 
+                  139
+                ], 
+                "media_url": "http://pbs.twimg.com/media/DLw9-XAWkAASWlm.jpg", 
+                "media_url_https": "https://pbs.twimg.com/media/DLw9-XAWkAASWlm.jpg", 
+                "sizes": {
+                  "large": {
+                    "h": 801, 
+                    "resize": "fit", 
+                    "w": 1200
+                  }, 
+                  "medium": {
+                    "h": 801, 
+                    "resize": "fit", 
+                    "w": 1200
+                  }, 
+                  "small": {
+                    "h": 454, 
+                    "resize": "fit", 
+                    "w": 680
+                  }, 
+                  "thumb": {
+                    "h": 150, 
+                    "resize": "crop", 
+                    "w": 150
+                  }
+                }, 
+                "type": "photo", 
+                "url": "https://t.co/qIM1o5tVDe"
               }, 
               {
-                "id": 510382623, 
-                "id_str": "510382623", 
+                "display_url": "pic.twitter.com/qIM1o5tVDe", 
+                "expanded_url": "https://twitter.com/RTE_raa/status/917677871770071040/photo/1", 
+                "id": 917676607439065088, 
+                "id_str": "917676607439065088", 
                 "indices": [
-                  12, 
-                  18
+                  116, 
+                  139
                 ], 
-                "name": "FNCCR", 
-                "screen_name": "fnccr"
+                "media_url": "http://pbs.twimg.com/media/DLw-Ay0XUAAYQQm.jpg", 
+                "media_url_https": "https://pbs.twimg.com/media/DLw-Ay0XUAAYQQm.jpg", 
+                "sizes": {
+                  "large": {
+                    "h": 801, 
+                    "resize": "fit", 
+                    "w": 1200
+                  }, 
+                  "medium": {
+                    "h": 801, 
+                    "resize": "fit", 
+                    "w": 1200
+                  }, 
+                  "small": {
+                    "h": 454, 
+                    "resize": "fit", 
+                    "w": 680
+                  }, 
+                  "thumb": {
+                    "h": 150, 
+                    "resize": "crop", 
+                    "w": 150
+                  }
+                }, 
+                "type": "photo", 
+                "url": "https://t.co/qIM1o5tVDe"
+              }, 
+              {
+                "display_url": "pic.twitter.com/qIM1o5tVDe", 
+                "expanded_url": "https://twitter.com/RTE_raa/status/917677871770071040/photo/1", 
+                "id": 917676913958834176, 
+                "id_str": "917676913958834176", 
+                "indices": [
+                  116, 
+                  139
+                ], 
+                "media_url": "http://pbs.twimg.com/media/DLw-SosX0AA5HLR.jpg", 
+                "media_url_https": "https://pbs.twimg.com/media/DLw-SosX0AA5HLR.jpg", 
+                "sizes": {
+                  "large": {
+                    "h": 801, 
+                    "resize": "fit", 
+                    "w": 1200
+                  }, 
+                  "medium": {
+                    "h": 801, 
+                    "resize": "fit", 
+                    "w": 1200
+                  }, 
+                  "small": {
+                    "h": 454, 
+                    "resize": "fit", 
+                    "w": 680
+                  }, 
+                  "thumb": {
+                    "h": 150, 
+                    "resize": "crop", 
+                    "w": 150
+                  }
+                }, 
+                "type": "photo", 
+                "url": "https://t.co/qIM1o5tVDe"
+              }, 
+              {
+                "display_url": "pic.twitter.com/qIM1o5tVDe", 
+                "expanded_url": "https://twitter.com/RTE_raa/status/917677871770071040/photo/1", 
+                "id": 917676928143937536, 
+                "id_str": "917676928143937536", 
+                "indices": [
+                  116, 
+                  139
+                ], 
+                "media_url": "http://pbs.twimg.com/media/DLw-TdiXUAAKjOP.jpg", 
+                "media_url_https": "https://pbs.twimg.com/media/DLw-TdiXUAAKjOP.jpg", 
+                "sizes": {
+                  "large": {
+                    "h": 1536, 
+                    "resize": "fit", 
+                    "w": 2048
+                  }, 
+                  "medium": {
+                    "h": 900, 
+                    "resize": "fit", 
+                    "w": 1200
+                  }, 
+                  "small": {
+                    "h": 510, 
+                    "resize": "fit", 
+                    "w": 680
+                  }, 
+                  "thumb": {
+                    "h": 150, 
+                    "resize": "crop", 
+                    "w": 150
+                  }
+                }, 
+                "type": "photo", 
+                "url": "https://t.co/qIM1o5tVDe"
               }
             ]
           }, 
-          "favorite_count": 2, 
+          "favorite_count": 10, 
           "favorited": false, 
           "geo": null, 
-          "id": 916330363571654656, 
-          "id_str": "916330363571654656", 
-          "in_reply_to_screen_name": "bessonjean", 
+          "id": 917677871770071040, 
+          "id_str": "917677871770071040", 
+          "in_reply_to_screen_name": null, 
           "in_reply_to_status_id": null, 
           "in_reply_to_status_id_str": null, 
-          "in_reply_to_user_id": 78422142, 
-          "in_reply_to_user_id_str": "78422142", 
+          "in_reply_to_user_id": null, 
+          "in_reply_to_user_id_str": null, 
           "is_quote_status": false, 
           "lang": "fr", 
           "place": null, 
           "possibly_sensitive": false, 
-          "retweet_count": 3, 
+          "retweet_count": 7, 
           "retweeted": false, 
-          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-          "text": "@bessonjean @fnccr signature d'un partenariat SDED / ADIL26  ce matin pour l'information des particuliers et des co\u2026 https://t.co/meSjx3Fa6f", 
-          "truncated": true
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+          "text": "Merci \u00e0 tous ceux qui ont voyag\u00e9 avec RTE #aucoeurdureseau \u00e0 Lyon  : salari\u00e9s, clients, \u00e9lus, partenaires, m\u00e9dias ! https://t.co/qIM1o5tVDe", 
+          "truncated": false
         }, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "RT @energiesded: @bessonjean @fnccr signature d'un partenariat SDED / ADIL26  ce matin pour l'information des particuliers et des consommat\u2026", 
+        "text": "RT @RTE_raa: Merci \u00e0 tous ceux qui ont voyag\u00e9 avec RTE #aucoeurdureseau \u00e0 Lyon  : salari\u00e9s, clients, \u00e9lus, partenaires, m\u00e9dias ! https://t.\u2026", 
         "truncated": false
       }, 
-      "statuses_count": 1547, 
+      "statuses_count": 1548, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": "https://t.co/cFrea9booe", 
@@ -2172,14 +2319,14 @@
       "verified": false
     }, 
     "twitter_description": "Jean BESSON, S\u00e9nateur Honoraire, Pr\u00e9sident d'@energiesded, Vice Pr\u00e9sident de la @fnccr, #Progressiste #Europhile", 
-    "twitter_favourites": 2050, 
+    "twitter_favourites": 2051, 
     "twitter_followers": 1388, 
-    "twitter_following": 371, 
+    "twitter_following": 374, 
     "twitter_id": 78422142, 
     "twitter_listed": 82, 
     "twitter_name": "Jean BESSON", 
     "twitter_protected": false, 
-    "twitter_tweets": 1547, 
+    "twitter_tweets": 1548, 
     "twitter_verified": false, 
     "url_institution": "http://www.senat.fr/senateur/besson_jean89015p.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-besson", 
@@ -3323,7 +3470,7 @@
       }, 
       "favourites_count": 246, 
       "follow_request_sent": false, 
-      "followers_count": 4590, 
+      "followers_count": 4591, 
       "following": false, 
       "friends_count": 1061, 
       "geo_enabled": true, 
@@ -3401,7 +3548,7 @@
     }, 
     "twitter_description": "Vice-Pr\u00e9sidente de la R\u00e9gion Hauts-de-France. Maire de #Calais, Pr\u00e9sidente de Grand Calais Terres & Mers", 
     "twitter_favourites": 246, 
-    "twitter_followers": 4590, 
+    "twitter_followers": 4591, 
     "twitter_following": 1061, 
     "twitter_id": 551342517, 
     "twitter_listed": 154, 
@@ -5831,7 +5978,7 @@
       }, 
       "favourites_count": 156, 
       "follow_request_sent": false, 
-      "followers_count": 62194, 
+      "followers_count": 62188, 
       "following": false, 
       "friends_count": 703, 
       "geo_enabled": true, 
@@ -5874,57 +6021,57 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Thu Oct 05 17:27:12 +0000 2017", 
+        "created_at": "Tue Oct 10 15:08:21 +0000 2017", 
         "entities": {
           "hashtags": [
             {
               "indices": [
-                10, 
-                24
+                120, 
+                128
               ], 
-              "text": "JacquesBerque"
+              "text": "RVH2018"
             }
           ], 
           "symbols": [], 
           "urls": [
             {
-              "display_url": "xfru.it/rDUcMP", 
-              "expanded_url": "http://xfru.it/rDUcMP", 
+              "display_url": "xfru.it/RVYbHe", 
+              "expanded_url": "http://xfru.it/RVYbHe", 
               "indices": [
-                64, 
-                87
+                70, 
+                93
               ], 
-              "url": "https://t.co/UVr0PGyShH"
+              "url": "https://t.co/JkzcRhoj4y"
             }
           ], 
           "user_mentions": [
             {
-              "id": 82095454, 
-              "id_str": "82095454", 
+              "id": 491344959, 
+              "id_str": "491344959", 
               "indices": [
-                91, 
-                103
+                94, 
+                106
               ], 
-              "name": "Coll\u00e8ge Bernardins", 
-              "screen_name": "CBernardins"
+              "name": "Rendez-vous-histoire", 
+              "screen_name": "RDVhistoire"
             }, 
             {
-              "id": 905020749240561664, 
-              "id_str": "905020749240561664", 
+              "id": 116796776, 
+              "id_str": "116796776", 
               "indices": [
-                104, 
-                116
+                107, 
+                119
               ], 
-              "name": "Fonda. Islam France", 
-              "screen_name": "FondIslamFR"
+              "name": "Fondation CdG", 
+              "screen_name": "web2_gaulle"
             }
           ]
         }, 
-        "favorite_count": 7, 
+        "favorite_count": 5, 
         "favorited": false, 
         "geo": null, 
-        "id": 915991777907286016, 
-        "id_str": "915991777907286016", 
+        "id": 917768771393212417, 
+        "id_str": "917768771393212417", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -5934,13 +6081,13 @@
         "lang": "fr", 
         "place": null, 
         "possibly_sensitive": false, 
-        "retweet_count": 5, 
+        "retweet_count": 9, 
         "retweeted": false, 
         "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-        "text": "Hommage \u00e0 #JacquesBerque: \"L'avenir aussi est dans le souvenir\" https://t.co/UVr0PGyShH cc @CBernardins @FondIslamFR", 
+        "text": "La constitution de la V\u00e8me R\u00e9publique se pr\u00eate-t-elle \u00e0 l\u2019innovation? https://t.co/JkzcRhoj4y @RDVhistoire @web2_gaulle #RVH2018", 
         "truncated": false
       }, 
-      "statuses_count": 4474, 
+      "statuses_count": 4476, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": "http://t.co/uxgBAwrQat", 
@@ -5949,13 +6096,13 @@
     }, 
     "twitter_description": "Ancien ministre. Pdt du club R\u00e9publique Moderne (@RepubliqueMod), de la Fondation Res Publica (@fondarespublica) et de la Fondation de l'Islam de France.", 
     "twitter_favourites": 156, 
-    "twitter_followers": 62194, 
+    "twitter_followers": 62188, 
     "twitter_following": 703, 
     "twitter_id": 57116930, 
     "twitter_listed": 1216, 
     "twitter_name": "J-P. Chev\u00e8nement", 
     "twitter_protected": false, 
-    "twitter_tweets": 4474, 
+    "twitter_tweets": 4476, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/chevenement_jean_pierre02053w.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-pierre-chevenement", 
@@ -6683,7 +6830,7 @@
   {
     "ancien_senateur": 1, 
     "date_naissance": "1946-09-16", 
-    "groupe_sigle": "UMP", 
+    "groupe_sigle": "LR", 
     "id": 272, 
     "id_institution": "couderc_raymond07030l", 
     "lieu_naissance": "non disponible", 
@@ -10140,7 +10287,7 @@
   {
     "ancien_senateur": 1, 
     "date_naissance": "1927-08-16", 
-    "groupe_sigle": "UMP", 
+    "groupe_sigle": "LR", 
     "id": 472, 
     "id_institution": "francois_philippe83003j", 
     "lieu_naissance": "non disponible", 
@@ -13211,7 +13358,7 @@
       "follow_request_sent": false, 
       "followers_count": 928, 
       "following": false, 
-      "friends_count": 313, 
+      "friends_count": 312, 
       "geo_enabled": false, 
       "has_extended_profile": false, 
       "id": 2328417882, 
@@ -13328,7 +13475,7 @@
     "twitter_description": "Maire de Saint-Flour, Pr\u00e9sident des Maires du #Cantal, Comit\u00e9 des #Finances locales - #Collectivit\u00e9s territoriales #Urbanisme #Logement #D\u00e9veloppement durable", 
     "twitter_favourites": 18, 
     "twitter_followers": 928, 
-    "twitter_following": 313, 
+    "twitter_following": 312, 
     "twitter_id": 2328417882, 
     "twitter_listed": 39, 
     "twitter_name": "Pierre Jarlier", 
@@ -13380,7 +13527,7 @@
       "follow_request_sent": false, 
       "followers_count": 31, 
       "following": false, 
-      "friends_count": 58, 
+      "friends_count": 57, 
       "geo_enabled": false, 
       "has_extended_profile": false, 
       "id": 2172852169, 
@@ -13457,7 +13604,7 @@
     "twitter_description": "", 
     "twitter_favourites": 1, 
     "twitter_followers": 31, 
-    "twitter_following": 58, 
+    "twitter_following": 57, 
     "twitter_id": 2172852169, 
     "twitter_listed": 8, 
     "twitter_name": "JEAN Genevi\u00e8ve", 
@@ -16826,7 +16973,7 @@
   {
     "ancien_senateur": 1, 
     "date_naissance": "1950-01-28", 
-    "groupe_sigle": "UMP", 
+    "groupe_sigle": "LR", 
     "id": 357, 
     "id_institution": "marini_philippe92035t", 
     "lieu_naissance": "non disponible", 
@@ -18080,7 +18227,7 @@
       }, 
       "favourites_count": 140, 
       "follow_request_sent": false, 
-      "followers_count": 310, 
+      "followers_count": 309, 
       "following": false, 
       "friends_count": 160, 
       "geo_enabled": false, 
@@ -18317,7 +18464,7 @@
     }, 
     "twitter_description": "S\u00e9natrice Les R\u00e9publicains des Hautes-Alpes", 
     "twitter_favourites": 140, 
-    "twitter_followers": 310, 
+    "twitter_followers": 309, 
     "twitter_following": 160, 
     "twitter_id": 3189823869, 
     "twitter_listed": 13, 
@@ -19528,9 +19675,9 @@
       }, 
       "favourites_count": 1804, 
       "follow_request_sent": false, 
-      "followers_count": 96085, 
+      "followers_count": 96092, 
       "following": false, 
-      "friends_count": 2436, 
+      "friends_count": 2437, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 219361536, 
@@ -19538,7 +19685,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 1004, 
+      "listed_count": 1003, 
       "location": "Paris, France", 
       "name": "Jean-Vincent Plac\u00e9", 
       "notifications": false, 
@@ -19671,10 +19818,10 @@
     }, 
     "twitter_description": "Ancien Ministre. Ancien S\u00e9nateur. Conseiller r\u00e9gional d'\u00cele de France. Pr\u00e9sident de l' @UDE_FR", 
     "twitter_favourites": 1804, 
-    "twitter_followers": 96085, 
-    "twitter_following": 2436, 
+    "twitter_followers": 96092, 
+    "twitter_following": 2437, 
     "twitter_id": 219361536, 
-    "twitter_listed": 1004, 
+    "twitter_listed": 1003, 
     "twitter_name": "Jean-Vincent Plac\u00e9", 
     "twitter_protected": false, 
     "twitter_tweets": 8305, 
@@ -21142,7 +21289,7 @@
       }, 
       "favourites_count": 78, 
       "follow_request_sent": false, 
-      "followers_count": 5780, 
+      "followers_count": 5785, 
       "following": false, 
       "friends_count": 470, 
       "geo_enabled": true, 
@@ -21160,7 +21307,7 @@
       "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/488028366/Strasbourg_vue_CUS_01.jpg", 
       "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/488028366/Strasbourg_vue_CUS_01.jpg", 
       "profile_background_tile": false, 
-      "profile_banner_url": "https://pbs.twimg.com/profile_banners/281438650/1507024525", 
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/281438650/1507620870", 
       "profile_image_url": "http://pbs.twimg.com/profile_images/915161201075728384/Gy4edGPG_normal.jpg", 
       "profile_image_url_https": "https://pbs.twimg.com/profile_images/915161201075728384/Gy4edGPG_normal.jpg", 
       "profile_link_color": "0084B4", 
@@ -21206,7 +21353,7 @@
           ], 
           "user_mentions": []
         }, 
-        "favorite_count": 3, 
+        "favorite_count": 4, 
         "favorited": false, 
         "geo": null, 
         "id": 917453670974926849, 
@@ -21220,7 +21367,7 @@
         "lang": "fr", 
         "place": null, 
         "possibly_sensitive": false, 
-        "retweet_count": 4, 
+        "retweet_count": 5, 
         "retweeted": false, 
         "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
         "text": "Je vous donne rendez-vous ce samedi 14 octobre pour le #SommetCitoyen de la Ville de #Strasbourg\u2026 https://t.co/z4obnn2aOD", 
@@ -21235,7 +21382,7 @@
     }, 
     "twitter_description": "Maire de Strasbourg", 
     "twitter_favourites": 78, 
-    "twitter_followers": 5780, 
+    "twitter_followers": 5785, 
     "twitter_following": 470, 
     "twitter_id": 281438650, 
     "twitter_listed": 250, 
