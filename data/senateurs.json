@@ -812,11 +812,11 @@
           ]
         }
       }, 
-      "favourites_count": 1354, 
+      "favourites_count": 1355, 
       "follow_request_sent": false, 
-      "followers_count": 21087, 
+      "followers_count": 21096, 
       "following": false, 
-      "friends_count": 1985, 
+      "friends_count": 1990, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 110191018, 
@@ -846,47 +846,39 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Mon Oct 30 14:53:54 +0000 2017", 
+        "created_at": "Wed Nov 01 10:20:10 +0000 2017", 
         "entities": {
-          "hashtags": [
+          "hashtags": [], 
+          "symbols": [], 
+          "urls": [
             {
+              "display_url": "twitter.com/i/web/status/9\u2026", 
+              "expanded_url": "https://twitter.com/i/web/status/925668784341479424", 
               "indices": [
-                82, 
-                92
+                116, 
+                139
               ], 
-              "text": "Infor\u00e9tro"
+              "url": "https://t.co/T0n0yzWICN"
             }
           ], 
-          "symbols": [], 
-          "urls": [], 
           "user_mentions": [
             {
-              "id": 40056514, 
-              "id_str": "40056514", 
+              "id": 2987059119, 
+              "id_str": "2987059119", 
               "indices": [
-                3, 
-                15
+                31, 
+                40
               ], 
-              "name": "Public S\u00e9nat", 
-              "screen_name": "publicsenat"
-            }, 
-            {
-              "id": 110191018, 
-              "id_str": "110191018", 
-              "indices": [
-                64, 
-                76
-              ], 
-              "name": "Jean Arthuis", 
-              "screen_name": "JeanArthuis"
+              "name": "Le Souvenir Fran\u00e7ais", 
+              "screen_name": "SF_Siege"
             }
           ]
         }, 
-        "favorite_count": 0, 
+        "favorite_count": 19, 
         "favorited": false, 
         "geo": null, 
-        "id": 925012896056250370, 
-        "id_str": "925012896056250370", 
+        "id": 925668784341479424, 
+        "id_str": "925668784341479424", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -895,72 +887,14 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
+        "possibly_sensitive": false, 
         "retweet_count": 6, 
         "retweeted": false, 
-        "retweeted_status": {
-          "contributors": null, 
-          "coordinates": null, 
-          "created_at": "Mon Oct 30 14:53:22 +0000 2017", 
-          "entities": {
-            "hashtags": [
-              {
-                "indices": [
-                  65, 
-                  75
-                ], 
-                "text": "Infor\u00e9tro"
-              }
-            ], 
-            "symbols": [], 
-            "urls": [
-              {
-                "display_url": "twitter.com/i/web/status/9\u2026", 
-                "expanded_url": "https://twitter.com/i/web/status/925012761658249217", 
-                "indices": [
-                  120, 
-                  143
-                ], 
-                "url": "https://t.co/IPqX280ia8"
-              }
-            ], 
-            "user_mentions": [
-              {
-                "id": 110191018, 
-                "id_str": "110191018", 
-                "indices": [
-                  47, 
-                  59
-                ], 
-                "name": "Jean Arthuis", 
-                "screen_name": "JeanArthuis"
-              }
-            ]
-          }, 
-          "favorite_count": 9, 
-          "favorited": false, 
-          "geo": null, 
-          "id": 925012761658249217, 
-          "id_str": "925012761658249217", 
-          "in_reply_to_screen_name": null, 
-          "in_reply_to_status_id": null, 
-          "in_reply_to_status_id_str": null, 
-          "in_reply_to_user_id": null, 
-          "in_reply_to_user_id_str": null, 
-          "is_quote_status": false, 
-          "lang": "fr", 
-          "place": null, 
-          "possibly_sensitive": false, 
-          "retweet_count": 6, 
-          "retweeted": false, 
-          "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
-          "text": "\ud83d\udcac \"L'ISF \u00e9tait une faute politique\"... c'\u00e9tait @JeanArthuis dans #Infor\u00e9tro samedi matin\n\ud83d\udcfc Revoyez l'\u00e9mission ici &gt;\u2026 https://t.co/IPqX280ia8", 
-          "truncated": true
-        }, 
-        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-        "text": "RT @publicsenat: \ud83d\udcac \"L'ISF \u00e9tait une faute politique\"... c'\u00e9tait @JeanArthuis dans #Infor\u00e9tro samedi matin\n\ud83d\udcfc Revoyez l'\u00e9mission ici &gt;&gt; https\u2026", 
-        "truncated": false
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "Devoir de m\u00e9moire aux c\u00f4t\u00e9s du @SF_Siege. Hommage \u00e0 tous ceux qui sont morts au nom de nos valeurs, pour pr\u00e9server\u2026 https://t.co/T0n0yzWICN", 
+        "truncated": true
       }, 
-      "statuses_count": 3856, 
+      "statuses_count": 3857, 
       "time_zone": "Amsterdam", 
       "translator_type": "none", 
       "url": "https://t.co/YhICpAOeW0", 
@@ -968,14 +902,14 @@
       "verified": true
     }, 
     "twitter_description": "D\u00e9put\u00e9 europ\u00e9en, Pdt de la com. #BUDG fondateur de l'Alliance centriste #EnMarche, ancien ministre de l'\u00e9conomie et des finances https://t.co/fhOVDCyFu0", 
-    "twitter_favourites": 1354, 
-    "twitter_followers": 21087, 
-    "twitter_following": 1985, 
+    "twitter_favourites": 1355, 
+    "twitter_followers": 21096, 
+    "twitter_following": 1990, 
     "twitter_id": 110191018, 
     "twitter_listed": 687, 
     "twitter_name": "Jean Arthuis", 
     "twitter_protected": false, 
-    "twitter_tweets": 3856, 
+    "twitter_tweets": 3857, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/arthuis_jean83011j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-arthuis", 
@@ -2029,9 +1963,9 @@
           ]
         }
       }, 
-      "favourites_count": 2060, 
+      "favourites_count": 2061, 
       "follow_request_sent": false, 
-      "followers_count": 1401, 
+      "followers_count": 1402, 
       "following": false, 
       "friends_count": 376, 
       "geo_enabled": true, 
@@ -2192,8 +2126,8 @@
       "verified": false
     }, 
     "twitter_description": "Jean BESSON, S\u00e9nateur Honoraire, Pr\u00e9sident d'@energiesded, Vice Pr\u00e9sident de la @fnccr, #Progressiste #Europhile", 
-    "twitter_favourites": 2060, 
-    "twitter_followers": 1401, 
+    "twitter_favourites": 2061, 
+    "twitter_followers": 1402, 
     "twitter_following": 376, 
     "twitter_id": 78422142, 
     "twitter_listed": 82, 
@@ -3353,7 +3287,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 160, 
+      "listed_count": 159, 
       "location": "Calais, France", 
       "name": "Natacha BOUCHART", 
       "notifications": false, 
@@ -3449,7 +3383,7 @@
               }
             ]
           }, 
-          "favorite_count": 80, 
+          "favorite_count": 81, 
           "favorited": false, 
           "geo": null, 
           "id": 923958783847620609, 
@@ -3485,7 +3419,7 @@
     "twitter_followers": 4655, 
     "twitter_following": 1060, 
     "twitter_id": 551342517, 
-    "twitter_listed": 160, 
+    "twitter_listed": 159, 
     "twitter_name": "Natacha BOUCHART", 
     "twitter_protected": false, 
     "twitter_tweets": 6209, 
@@ -5912,7 +5846,7 @@
       }, 
       "favourites_count": 156, 
       "follow_request_sent": false, 
-      "followers_count": 62280, 
+      "followers_count": 62282, 
       "following": false, 
       "friends_count": 705, 
       "geo_enabled": true, 
@@ -6001,7 +5935,7 @@
     }, 
     "twitter_description": "Ancien ministre. Pdt du club R\u00e9publique Moderne (@RepubliqueMod), de la Fondation Res Publica (@fondarespublica) et de la Fondation de l'Islam de France.", 
     "twitter_favourites": 156, 
-    "twitter_followers": 62280, 
+    "twitter_followers": 62282, 
     "twitter_following": 705, 
     "twitter_id": 57116930, 
     "twitter_listed": 1215, 
@@ -13261,7 +13195,7 @@
       }, 
       "favourites_count": 20, 
       "follow_request_sent": false, 
-      "followers_count": 937, 
+      "followers_count": 938, 
       "following": false, 
       "friends_count": 320, 
       "geo_enabled": false, 
@@ -13413,7 +13347,7 @@
     }, 
     "twitter_description": "Maire de Saint-Flour, Pr\u00e9sident des Maires du #Cantal, Comit\u00e9 des #Finances locales - #Collectivit\u00e9s territoriales #Urbanisme #Logement #D\u00e9veloppement durable", 
     "twitter_favourites": 20, 
-    "twitter_followers": 937, 
+    "twitter_followers": 938, 
     "twitter_following": 320, 
     "twitter_id": 2328417882, 
     "twitter_listed": 39, 
@@ -18164,7 +18098,7 @@
           ]
         }
       }, 
-      "favourites_count": 142, 
+      "favourites_count": 143, 
       "follow_request_sent": false, 
       "followers_count": 317, 
       "following": false, 
@@ -18291,7 +18225,7 @@
             }
           ]
         }, 
-        "favorite_count": 2, 
+        "favorite_count": 3, 
         "favorited": false, 
         "geo": null, 
         "id": 925281734400335873, 
@@ -18319,7 +18253,7 @@
       "verified": true
     }, 
     "twitter_description": "S\u00e9natrice Les R\u00e9publicains des Hautes-Alpes", 
-    "twitter_favourites": 142, 
+    "twitter_favourites": 143, 
     "twitter_followers": 317, 
     "twitter_following": 160, 
     "twitter_id": 3189823869, 
@@ -19531,9 +19465,9 @@
       }, 
       "favourites_count": 1806, 
       "follow_request_sent": false, 
-      "followers_count": 96304, 
+      "followers_count": 96317, 
       "following": false, 
-      "friends_count": 2444, 
+      "friends_count": 2446, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 219361536, 
@@ -19562,125 +19496,37 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Sat Oct 28 16:06:40 +0000 2017", 
+        "created_at": "Wed Nov 01 21:31:26 +0000 2017", 
         "entities": {
-          "hashtags": [], 
-          "media": [
+          "hashtags": [
             {
-              "display_url": "pic.twitter.com/DFLN5x6Y2k", 
-              "expanded_url": "https://twitter.com/yvesjego/status/924031677718040576/photo/1", 
-              "id": 924031672311533569, 
-              "id_str": "924031672311533569", 
               "indices": [
-                76, 
-                99
+                53, 
+                64
               ], 
-              "media_url": "http://pbs.twimg.com/media/DNLR6QVW0AE6BBI.jpg", 
-              "media_url_https": "https://pbs.twimg.com/media/DNLR6QVW0AE6BBI.jpg", 
-              "sizes": {
-                "large": {
-                  "h": 512, 
-                  "resize": "fit", 
-                  "w": 914
-                }, 
-                "medium": {
-                  "h": 512, 
-                  "resize": "fit", 
-                  "w": 914
-                }, 
-                "small": {
-                  "h": 381, 
-                  "resize": "fit", 
-                  "w": 680
-                }, 
-                "thumb": {
-                  "h": 150, 
-                  "resize": "crop", 
-                  "w": 150
-                }
-              }, 
-              "source_status_id": 924031677718040576, 
-              "source_status_id_str": "924031677718040576", 
-              "source_user_id": 74092783, 
-              "source_user_id_str": "74092783", 
-              "type": "photo", 
-              "url": "https://t.co/DFLN5x6Y2k"
+              "text": "IlanHalimi"
             }
           ], 
           "symbols": [], 
           "urls": [], 
           "user_mentions": [
             {
-              "id": 74092783, 
-              "id_str": "74092783", 
+              "id": 2473037815, 
+              "id_str": "2473037815", 
               "indices": [
                 3, 
-                12
+                14
               ], 
-              "name": "Yves J\u00e9go", 
-              "screen_name": "yvesjego"
-            }, 
-            {
-              "id": 343922907, 
-              "id_str": "343922907", 
-              "indices": [
-                20, 
-                28
-              ], 
-              "name": "Biocoop", 
-              "screen_name": "Biocoop"
-            }
-          ]
-        }, 
-        "extended_entities": {
-          "media": [
-            {
-              "display_url": "pic.twitter.com/DFLN5x6Y2k", 
-              "expanded_url": "https://twitter.com/yvesjego/status/924031677718040576/photo/1", 
-              "id": 924031672311533569, 
-              "id_str": "924031672311533569", 
-              "indices": [
-                76, 
-                99
-              ], 
-              "media_url": "http://pbs.twimg.com/media/DNLR6QVW0AE6BBI.jpg", 
-              "media_url_https": "https://pbs.twimg.com/media/DNLR6QVW0AE6BBI.jpg", 
-              "sizes": {
-                "large": {
-                  "h": 512, 
-                  "resize": "fit", 
-                  "w": 914
-                }, 
-                "medium": {
-                  "h": 512, 
-                  "resize": "fit", 
-                  "w": 914
-                }, 
-                "small": {
-                  "h": 381, 
-                  "resize": "fit", 
-                  "w": 680
-                }, 
-                "thumb": {
-                  "h": 150, 
-                  "resize": "crop", 
-                  "w": 150
-                }
-              }, 
-              "source_status_id": 924031677718040576, 
-              "source_status_id_str": "924031677718040576", 
-              "source_user_id": 74092783, 
-              "source_user_id_str": "74092783", 
-              "type": "photo", 
-              "url": "https://t.co/DFLN5x6Y2k"
+              "name": "Ha\u00efm Korsia", 
+              "screen_name": "HaimKorsia"
             }
           ]
         }, 
         "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 924306431913943042, 
-        "id_str": "924306431913943042", 
+        "id": 925837711486877696, 
+        "id_str": "925837711486877696", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -19689,113 +19535,31 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "possibly_sensitive": false, 
-        "retweet_count": 24, 
+        "retweet_count": 148, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
           "coordinates": null, 
-          "created_at": "Fri Oct 27 21:54:54 +0000 2017", 
+          "created_at": "Wed Nov 01 21:18:47 +0000 2017", 
           "entities": {
-            "hashtags": [], 
-            "media": [
+            "hashtags": [
               {
-                "display_url": "pic.twitter.com/DFLN5x6Y2k", 
-                "expanded_url": "https://twitter.com/yvesjego/status/924031677718040576/photo/1", 
-                "id": 924031672311533569, 
-                "id_str": "924031672311533569", 
                 "indices": [
-                  62, 
-                  85
+                  37, 
+                  48
                 ], 
-                "media_url": "http://pbs.twimg.com/media/DNLR6QVW0AE6BBI.jpg", 
-                "media_url_https": "https://pbs.twimg.com/media/DNLR6QVW0AE6BBI.jpg", 
-                "sizes": {
-                  "large": {
-                    "h": 512, 
-                    "resize": "fit", 
-                    "w": 914
-                  }, 
-                  "medium": {
-                    "h": 512, 
-                    "resize": "fit", 
-                    "w": 914
-                  }, 
-                  "small": {
-                    "h": 381, 
-                    "resize": "fit", 
-                    "w": 680
-                  }, 
-                  "thumb": {
-                    "h": 150, 
-                    "resize": "crop", 
-                    "w": 150
-                  }
-                }, 
-                "type": "photo", 
-                "url": "https://t.co/DFLN5x6Y2k"
+                "text": "IlanHalimi"
               }
             ], 
             "symbols": [], 
             "urls": [], 
-            "user_mentions": [
-              {
-                "id": 343922907, 
-                "id_str": "343922907", 
-                "indices": [
-                  6, 
-                  14
-                ], 
-                "name": "Biocoop", 
-                "screen_name": "Biocoop"
-              }
-            ]
+            "user_mentions": []
           }, 
-          "extended_entities": {
-            "media": [
-              {
-                "display_url": "pic.twitter.com/DFLN5x6Y2k", 
-                "expanded_url": "https://twitter.com/yvesjego/status/924031677718040576/photo/1", 
-                "id": 924031672311533569, 
-                "id_str": "924031672311533569", 
-                "indices": [
-                  62, 
-                  85
-                ], 
-                "media_url": "http://pbs.twimg.com/media/DNLR6QVW0AE6BBI.jpg", 
-                "media_url_https": "https://pbs.twimg.com/media/DNLR6QVW0AE6BBI.jpg", 
-                "sizes": {
-                  "large": {
-                    "h": 512, 
-                    "resize": "fit", 
-                    "w": 914
-                  }, 
-                  "medium": {
-                    "h": 512, 
-                    "resize": "fit", 
-                    "w": 914
-                  }, 
-                  "small": {
-                    "h": 381, 
-                    "resize": "fit", 
-                    "w": 680
-                  }, 
-                  "thumb": {
-                    "h": 150, 
-                    "resize": "crop", 
-                    "w": 150
-                  }
-                }, 
-                "type": "photo", 
-                "url": "https://t.co/DFLN5x6Y2k"
-              }
-            ]
-          }, 
-          "favorite_count": 48, 
+          "favorite_count": 260, 
           "favorited": false, 
           "geo": null, 
-          "id": 924031677718040576, 
-          "id_str": "924031677718040576", 
+          "id": 925834527402061824, 
+          "id_str": "925834527402061824", 
           "in_reply_to_screen_name": null, 
           "in_reply_to_status_id": null, 
           "in_reply_to_status_id_str": null, 
@@ -19804,18 +19568,17 @@
           "is_quote_status": false, 
           "lang": "fr", 
           "place": null, 
-          "possibly_sensitive": false, 
-          "retweet_count": 24, 
+          "retweet_count": 148, 
           "retweeted": false, 
-          "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>", 
-          "text": "Bravo @Biocoop pour cette pub particuli\u00e8rement pertinente \ud83d\udc4f\ud83c\udffb\ud83d\ude02 https://t.co/DFLN5x6Y2k", 
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+          "text": "La profanation de la plaque au nom d #IlanHalimi est le reflet d'une m\u00e9diocrit\u00e9 indicible. Personne ne nous emp\u00eachera d'honorer sa m\u00e9moire", 
           "truncated": false
         }, 
-        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>", 
-        "text": "RT @yvesjego: Bravo @Biocoop pour cette pub particuli\u00e8rement pertinente \ud83d\udc4f\ud83c\udffb\ud83d\ude02 https://t.co/DFLN5x6Y2k", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @HaimKorsia: La profanation de la plaque au nom d #IlanHalimi est le reflet d'une m\u00e9diocrit\u00e9 indicible. Personne ne nous emp\u00eachera d'hon\u2026", 
         "truncated": false
       }, 
-      "statuses_count": 8310, 
+      "statuses_count": 8311, 
       "time_zone": null, 
       "translator_type": "none", 
       "url": null, 
@@ -19824,13 +19587,13 @@
     }, 
     "twitter_description": "Ancien Ministre. Ancien S\u00e9nateur. Conseiller r\u00e9gional d'\u00cele de France. Pr\u00e9sident de l' @UDE_FR", 
     "twitter_favourites": 1806, 
-    "twitter_followers": 96304, 
-    "twitter_following": 2444, 
+    "twitter_followers": 96317, 
+    "twitter_following": 2446, 
     "twitter_id": 219361536, 
     "twitter_listed": 1002, 
     "twitter_name": "Jean-Vincent Plac\u00e9", 
     "twitter_protected": false, 
-    "twitter_tweets": 8310, 
+    "twitter_tweets": 8311, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/place_jean_vincent11069t.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-vincent-place", 
@@ -21295,9 +21058,9 @@
       }, 
       "favourites_count": 78, 
       "follow_request_sent": false, 
-      "followers_count": 5857, 
+      "followers_count": 5856, 
       "following": false, 
-      "friends_count": 470, 
+      "friends_count": 472, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 281438650, 
@@ -21305,7 +21068,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 252, 
+      "listed_count": 251, 
       "location": "Strasbourg, France", 
       "name": "Roland Ries", 
       "notifications": false, 
@@ -21327,47 +21090,26 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Tue Oct 31 22:15:20 +0000 2017", 
+        "created_at": "Wed Nov 01 16:22:59 +0000 2017", 
         "entities": {
           "hashtags": [
             {
               "indices": [
-                18, 
-                26
+                119, 
+                127
               ], 
               "text": "NewYork"
             }
           ], 
           "symbols": [], 
           "urls": [], 
-          "user_mentions": [
-            {
-              "id": 143713251, 
-              "id_str": "143713251", 
-              "indices": [
-                104, 
-                116
-              ], 
-              "name": "New York City", 
-              "screen_name": "newyorkcity"
-            }, 
-            {
-              "id": 476193064, 
-              "id_str": "476193064", 
-              "indices": [
-                117, 
-                130
-              ], 
-              "name": "Bill de Blasio", 
-              "screen_name": "BilldeBlasio"
-            }
-          ]
+          "user_mentions": []
         }, 
-        "favorite_count": 8, 
+        "favorite_count": 4, 
         "favorited": false, 
         "geo": null, 
-        "id": 925486372114313216, 
-        "id_str": "925486372114313216", 
+        "id": 925760089084104709, 
+        "id_str": "925760089084104709", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -21376,13 +21118,13 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 3, 
+        "retweet_count": 2, 
         "retweeted": false, 
-        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>", 
-        "text": "Solidarit\u00e9 envers #NewYork face au terrible drame qui s'y est d\u00e9roul\u00e9. Sinc\u00e8res pens\u00e9es aux New-Yorkais @newyorkcity @BilldeBlasio", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "Le r\u00f4le d\u2019un maire, c\u2019est d\u2019inviter ses concitoyens \u00e0 faire face \u00e0 la menace terroriste. La vie doit vaincre la peur \u00e0 #NewYork, et ailleurs", 
         "truncated": false
       }, 
-      "statuses_count": 730, 
+      "statuses_count": 733, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": null, 
@@ -21391,13 +21133,13 @@
     }, 
     "twitter_description": "Maire de Strasbourg", 
     "twitter_favourites": 78, 
-    "twitter_followers": 5857, 
-    "twitter_following": 470, 
+    "twitter_followers": 5856, 
+    "twitter_following": 472, 
     "twitter_id": 281438650, 
-    "twitter_listed": 252, 
+    "twitter_listed": 251, 
     "twitter_name": "Roland Ries", 
     "twitter_protected": false, 
-    "twitter_tweets": 730, 
+    "twitter_tweets": 733, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/ries_roland04065k.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/roland-ries", 
