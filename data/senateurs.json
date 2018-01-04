@@ -113,7 +113,7 @@
     "nom_de_famille": "Adnot", 
     "num_circo": "non disponible", 
     "num_deptmt": "10", 
-    "parti_ratt_financier": "Union des Radicaux, Centristes, Ind\u00e9pendants et D\u00e9mocrates", 
+    "parti_ratt_financier": "Union des D\u00e9mocrates, Radicaux et Lib\u00e9raux", 
     "place_en_hemicycle": "326", 
     "prenom": "Philippe", 
     "profession": "Agriculteur", 
@@ -299,7 +299,7 @@
     "nom_de_famille": "Amiel", 
     "num_circo": "non disponible", 
     "num_deptmt": "13", 
-    "parti_ratt_financier": "Parti radical de gauche", 
+    "parti_ratt_financier": "En Marche !", 
     "place_en_hemicycle": "79", 
     "prenom": "Michel", 
     "profession": "M\u00e9decin", 
@@ -678,7 +678,7 @@
     "nom_de_famille": "Arnell", 
     "num_circo": "non disponible", 
     "num_deptmt": "978", 
-    "parti_ratt_financier": "Rassemblement d\u00e9mocratique pour la Martinique", 
+    "parti_ratt_financier": "Parti Radical de gauche", 
     "place_en_hemicycle": "49", 
     "prenom": "Guillaume", 
     "profession": "Cadre administratif", 
@@ -814,9 +814,9 @@
       }, 
       "favourites_count": 1402, 
       "follow_request_sent": false, 
-      "followers_count": 21437, 
+      "followers_count": 21436, 
       "following": false, 
-      "friends_count": 2047, 
+      "friends_count": 2048, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 110191018, 
@@ -846,54 +846,104 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Mon Jan 01 18:54:21 +0000 2018", 
+        "created_at": "Wed Jan 03 15:04:04 +0000 2018", 
         "entities": {
-          "hashtags": [], 
-          "symbols": [], 
-          "urls": [
+          "hashtags": [
             {
-              "display_url": "twitter.com/i/web/status/9\u2026", 
-              "expanded_url": "https://twitter.com/i/web/status/947903842200571904", 
               "indices": [
-                116, 
-                139
+                16, 
+                23
               ], 
-              "url": "https://t.co/LeqmQDmP89"
+              "text": "EGalim"
             }
           ], 
+          "symbols": [], 
+          "urls": [], 
           "user_mentions": [
             {
-              "id": 2907408203, 
-              "id_str": "2907408203", 
+              "id": 2715759383, 
+              "id_str": "2715759383", 
               "indices": [
-                0, 
+                3, 
                 14
               ], 
-              "name": "Philippe Murer \ud83c\uddeb\ud83c\uddf7", 
-              "screen_name": "PhilippeMurer"
+              "name": "Fran\u00e7oise Duchemin", 
+              "screen_name": "FDuchemin7"
             }
           ]
         }, 
-        "favorite_count": 3, 
+        "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 947903842200571904, 
-        "id_str": "947903842200571904", 
-        "in_reply_to_screen_name": "PhilippeMurer", 
-        "in_reply_to_status_id": 947532619247439872, 
-        "in_reply_to_status_id_str": "947532619247439872", 
-        "in_reply_to_user_id": 2907408203, 
-        "in_reply_to_user_id_str": "2907408203", 
-        "is_quote_status": false, 
+        "id": 948570664180514816, 
+        "id_str": "948570664180514816", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "is_quote_status": true, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 0, 
+        "quoted_status_id": 948492733177630722, 
+        "quoted_status_id_str": "948492733177630722", 
+        "retweet_count": 10, 
         "retweeted": false, 
+        "retweeted_status": {
+          "contributors": null, 
+          "coordinates": null, 
+          "created_at": "Wed Jan 03 14:25:24 +0000 2018", 
+          "entities": {
+            "hashtags": [
+              {
+                "indices": [
+                  0, 
+                  7
+                ], 
+                "text": "EGalim"
+              }
+            ], 
+            "symbols": [], 
+            "urls": [
+              {
+                "display_url": "twitter.com/i/web/status/9\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/948560932812345344", 
+                "indices": [
+                  117, 
+                  140
+                ], 
+                "url": "https://t.co/hYIchXtiis"
+              }
+            ], 
+            "user_mentions": []
+          }, 
+          "favorite_count": 6, 
+          "favorited": false, 
+          "geo": null, 
+          "id": 948560932812345344, 
+          "id_str": "948560932812345344", 
+          "in_reply_to_screen_name": null, 
+          "in_reply_to_status_id": null, 
+          "in_reply_to_status_id_str": null, 
+          "in_reply_to_user_id": null, 
+          "in_reply_to_user_id_str": null, 
+          "is_quote_status": true, 
+          "lang": "fr", 
+          "place": null, 
+          "possibly_sensitive": false, 
+          "quoted_status_id": 948492733177630722, 
+          "quoted_status_id_str": "948492733177630722", 
+          "retweet_count": 10, 
+          "retweeted": false, 
+          "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+          "text": "#EGalim Stopper cette logique destructrice de la guerre du prix  Il est temps de changer de mod\u00e8le agricole et alim\u2026 https://t.co/hYIchXtiis", 
+          "truncated": true
+        }, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "@PhilippeMurer Face \u00e0 certains d\u00e9fis de la mondialisation, migration, terrorisme, cyber attaques, paradis fiscaux,\u2026 https://t.co/LeqmQDmP89", 
-        "truncated": true
+        "text": "RT @FDuchemin7: #EGalim Stopper cette logique destructrice de la guerre du prix  Il est temps de changer de mod\u00e8le agricole et alimentaire\u2026", 
+        "truncated": false
       }, 
-      "statuses_count": 4004, 
+      "statuses_count": 4005, 
       "time_zone": "Amsterdam", 
       "translator_type": "none", 
       "url": "https://t.co/YhICpAOeW0", 
@@ -902,13 +952,13 @@
     }, 
     "twitter_description": "D\u00e9put\u00e9 europ\u00e9en, Pdt de la com. #BUDG fondateur de l'Alliance centriste #EnMarche, ancien ministre de l'\u00e9conomie et des finances https://t.co/fhOVDCyFu0", 
     "twitter_favourites": 1402, 
-    "twitter_followers": 21437, 
-    "twitter_following": 2047, 
+    "twitter_followers": 21436, 
+    "twitter_following": 2048, 
     "twitter_id": 110191018, 
     "twitter_listed": 692, 
     "twitter_name": "Jean Arthuis", 
     "twitter_protected": false, 
-    "twitter_tweets": 4004, 
+    "twitter_tweets": 4005, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/arthuis_jean83011j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-arthuis", 
@@ -1027,7 +1077,7 @@
     "nom_de_famille": "Assouline", 
     "num_circo": "non disponible", 
     "num_deptmt": "75", 
-    "parti_ratt_financier": "Parti socialiste", 
+    "parti_ratt_financier": "Parti Socialiste", 
     "place_en_hemicycle": "17", 
     "prenom": "David", 
     "profession": "Professeur d'histoire-g\u00e9ographie", 
@@ -1154,7 +1204,7 @@
       }, 
       "favourites_count": 27, 
       "follow_request_sent": false, 
-      "followers_count": 220, 
+      "followers_count": 221, 
       "following": false, 
       "friends_count": 151, 
       "geo_enabled": true, 
@@ -1231,7 +1281,7 @@
     }, 
     "twitter_description": "Maire de MEZIDON VALL\u00c9E D'AUGE. Pr\u00e9sident de l'Agglomeration LISIEUX NORMANDIE", 
     "twitter_favourites": 27, 
-    "twitter_followers": 220, 
+    "twitter_followers": 221, 
     "twitter_following": 151, 
     "twitter_id": 2976706774, 
     "twitter_listed": 11, 
@@ -2035,7 +2085,7 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 1768, 
+        "retweet_count": 1771, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
@@ -2065,7 +2115,7 @@
             ], 
             "user_mentions": []
           }, 
-          "favorite_count": 3254, 
+          "favorite_count": 3294, 
           "favorited": false, 
           "geo": null, 
           "id": 947858036143673345, 
@@ -2111,7 +2161,7 @@
             "place_type": "city", 
             "url": "https://api.twitter.com/1.1/geo/id/09f6a7707f18e0b1.json"
           }, 
-          "retweet_count": 1768, 
+          "retweet_count": 1771, 
           "retweeted": false, 
           "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
           "text": "#Champigny : je viens de m\u2019entretenir avec les fonctionnaires de Police agress\u00e9s. \nTout est mis en \u0153uvre pour que l\u2026 https://t.co/UXBoa8ZT8S", 
@@ -2155,7 +2205,7 @@
     "nom_de_famille": "Bignon", 
     "num_circo": "non disponible", 
     "num_deptmt": "80", 
-    "parti_ratt_financier": "Les R\u00e9publicains", 
+    "parti_ratt_financier": "Union des D\u00e9mocrates, Radicaux et Lib\u00e9raux", 
     "place_en_hemicycle": "257", 
     "prenom": "J\u00e9r\u00f4me", 
     "profession": "Avocat", 
@@ -2254,7 +2304,7 @@
     "nom_de_famille": "Bigot", 
     "num_circo": "non disponible", 
     "num_deptmt": "67", 
-    "parti_ratt_financier": "Parti socialiste", 
+    "parti_ratt_financier": "Parti Socialiste", 
     "place_en_hemicycle": "151", 
     "prenom": "Jacques", 
     "profession": "Avocat", 
@@ -2355,7 +2405,7 @@
     "nom_de_famille": "Billon", 
     "num_circo": "non disponible", 
     "num_deptmt": "85", 
-    "parti_ratt_financier": "Union des Radicaux, Centristes, Ind\u00e9pendants et D\u00e9mocrates", 
+    "parti_ratt_financier": "Union des D\u00e9mocrates, Radicaux et Lib\u00e9raux", 
     "place_en_hemicycle": "26", 
     "prenom": "Annick", 
     "profession": "Cadre commercial", 
@@ -2655,7 +2705,7 @@
     "nom_de_famille": "Blondin", 
     "num_circo": "non disponible", 
     "num_deptmt": "29", 
-    "parti_ratt_financier": "Parti socialiste", 
+    "parti_ratt_financier": "Parti Socialiste", 
     "place_en_hemicycle": "149", 
     "prenom": "Maryvonne", 
     "profession": "Enseignante", 
@@ -2755,7 +2805,7 @@
     "nom_de_famille": "Bockel", 
     "num_circo": "non disponible", 
     "num_deptmt": "68", 
-    "parti_ratt_financier": "Union des Radicaux, Centristes, Ind\u00e9pendants et D\u00e9mocrates", 
+    "parti_ratt_financier": "Union des D\u00e9mocrates, Radicaux et Lib\u00e9raux", 
     "place_en_hemicycle": "86", 
     "prenom": "Jean-Marie", 
     "profession": "Avocat", 
@@ -3050,7 +3100,7 @@
     "nom_de_famille": "Bonnefoy", 
     "num_circo": "non disponible", 
     "num_deptmt": "16", 
-    "parti_ratt_financier": "Parti socialiste", 
+    "parti_ratt_financier": "Parti Socialiste", 
     "place_en_hemicycle": "112", 
     "prenom": "Nicole", 
     "profession": "Attach\u00e9e parlementaire", 
@@ -3315,26 +3365,29 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Sun Dec 31 19:05:09 +0000 2017", 
+        "created_at": "Wed Jan 03 15:49:35 +0000 2018", 
         "entities": {
-          "hashtags": [
-            {
-              "indices": [
-                43, 
-                50
-              ], 
-              "text": "Calais"
-            }
-          ], 
+          "hashtags": [], 
           "symbols": [], 
           "urls": [], 
-          "user_mentions": []
+          "user_mentions": [
+            {
+              "id": 807520003671158785, 
+              "id_str": "807520003671158785", 
+              "indices": [
+                3, 
+                19
+              ], 
+              "name": "Boulangerie MATTON", 
+              "screen_name": "BoulangerieMAT1"
+            }
+          ]
         }, 
-        "favorite_count": 4, 
+        "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 947544169295302658, 
-        "id_str": "947544169295302658", 
+        "id": 948582120112390144, 
+        "id_str": "948582120112390144", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -3342,47 +3395,87 @@
         "in_reply_to_user_id_str": null, 
         "is_quote_status": false, 
         "lang": "fr", 
-        "place": {
-          "attributes": {}, 
-          "bounding_box": {
-            "coordinates": [
-              [
-                [
-                  1.8057791000000001, 
-                  50.922145100000002
-                ], 
-                [
-                  1.9319451999999999, 
-                  50.922145100000002
-                ], 
-                [
-                  1.9319451999999999, 
-                  50.983351599999999
-                ], 
-                [
-                  1.8057791000000001, 
-                  50.983351599999999
-                ]
-              ]
-            ], 
-            "type": "Polygon"
-          }, 
-          "contained_within": [], 
-          "country": "France", 
-          "country_code": "FR", 
-          "full_name": "Calais, France", 
-          "id": "72e43a057cec3602", 
-          "name": "Calais", 
-          "place_type": "city", 
-          "url": "https://api.twitter.com/1.1/geo/id/72e43a057cec3602.json"
-        }, 
-        "retweet_count": 1, 
+        "place": null, 
+        "retweet_count": 2, 
         "retweeted": false, 
+        "retweeted_status": {
+          "contributors": null, 
+          "coordinates": null, 
+          "created_at": "Wed Jan 03 11:33:37 +0000 2018", 
+          "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [
+              {
+                "display_url": "twitter.com/i/web/status/9\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/948517701017841664", 
+                "indices": [
+                  117, 
+                  140
+                ], 
+                "url": "https://t.co/5y1JodG0GC"
+              }
+            ], 
+            "user_mentions": []
+          }, 
+          "favorite_count": 2, 
+          "favorited": false, 
+          "geo": null, 
+          "id": 948517701017841664, 
+          "id_str": "948517701017841664", 
+          "in_reply_to_screen_name": null, 
+          "in_reply_to_status_id": null, 
+          "in_reply_to_status_id_str": null, 
+          "in_reply_to_user_id": null, 
+          "in_reply_to_user_id_str": null, 
+          "is_quote_status": false, 
+          "lang": "fr", 
+          "place": {
+            "attributes": {}, 
+            "bounding_box": {
+              "coordinates": [
+                [
+                  [
+                    1.8057791000000001, 
+                    50.922145100000002
+                  ], 
+                  [
+                    1.9319451999999999, 
+                    50.922145100000002
+                  ], 
+                  [
+                    1.9319451999999999, 
+                    50.983351599999999
+                  ], 
+                  [
+                    1.8057791000000001, 
+                    50.983351599999999
+                  ]
+                ]
+              ], 
+              "type": "Polygon"
+            }, 
+            "contained_within": [], 
+            "country": "France", 
+            "country_code": "FR", 
+            "full_name": "Calais, France", 
+            "id": "72e43a057cec3602", 
+            "name": "Calais", 
+            "place_type": "city", 
+            "url": "https://api.twitter.com/1.1/geo/id/72e43a057cec3602.json"
+          }, 
+          "possibly_sensitive": false, 
+          "retweet_count": 2, 
+          "retweeted": false, 
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+          "text": "Les f\u00e8ves sur le th\u00e8me de Calais ayant eu un grand succ\u00e9s en 2017 .\nNous avons choisi d'honorer une nouvelle fois n\u2026 https://t.co/5y1JodG0GC", 
+          "truncated": true
+        }, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "Encore une bonne ann\u00e9e et le meilleur pour #Calais !", 
+        "text": "RT @BoulangerieMAT1: Les f\u00e8ves sur le th\u00e8me de Calais ayant eu un grand succ\u00e9s en 2017 .\nNous avons choisi d'honorer une nouvelle fois notr\u2026", 
         "truncated": false
       }, 
-      "statuses_count": 6287, 
+      "statuses_count": 6288, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": null, 
@@ -3397,7 +3490,7 @@
     "twitter_listed": 159, 
     "twitter_name": "Natacha BOUCHART", 
     "twitter_protected": false, 
-    "twitter_tweets": 6287, 
+    "twitter_tweets": 6288, 
     "twitter_verified": false, 
     "url_institution": "http://www.senat.fr/senateur/bouchart_natacha11060j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/natacha-bouchart", 
@@ -3606,7 +3699,7 @@
     "nom_de_famille": "Bourquin", 
     "num_circo": "non disponible", 
     "num_deptmt": "25", 
-    "parti_ratt_financier": "Parti socialiste", 
+    "parti_ratt_financier": "Parti Socialiste", 
     "place_en_hemicycle": "40", 
     "prenom": "Martial", 
     "profession": "Employ\u00e9", 
@@ -4102,7 +4195,7 @@
     "nom_de_famille": "Cabanel", 
     "num_circo": "non disponible", 
     "num_deptmt": "34", 
-    "parti_ratt_financier": "Parti socialiste", 
+    "parti_ratt_financier": "Parti Socialiste", 
     "place_en_hemicycle": "246", 
     "prenom": "Henri", 
     "profession": "Viticulteur", 
@@ -4202,7 +4295,7 @@
     "nom_de_famille": "Cadic", 
     "num_circo": "non disponible", 
     "num_deptmt": "999", 
-    "parti_ratt_financier": "Union des Radicaux, Centristes, Ind\u00e9pendants et D\u00e9mocrates", 
+    "parti_ratt_financier": "Union des D\u00e9mocrates, Radicaux et Lib\u00e9raux", 
     "place_en_hemicycle": "163", 
     "prenom": "Olivier", 
     "profession": "Chef d'entreprise", 
@@ -4588,7 +4681,7 @@
     "nom_de_famille": "Canevet", 
     "num_circo": "non disponible", 
     "num_deptmt": "29", 
-    "parti_ratt_financier": "Union des Radicaux, Centristes, Ind\u00e9pendants et D\u00e9mocrates", 
+    "parti_ratt_financier": "En Marche !", 
     "place_en_hemicycle": "264", 
     "prenom": "Michel", 
     "profession": "Responsable de collectivit\u00e9s", 
@@ -4689,7 +4782,7 @@
     "nom_de_famille": "Capo-Canellas", 
     "num_circo": "non disponible", 
     "num_deptmt": "93", 
-    "parti_ratt_financier": "Union des Radicaux, Centristes, Ind\u00e9pendants et D\u00e9mocrates", 
+    "parti_ratt_financier": "Union des D\u00e9mocrates, Radicaux et Lib\u00e9raux", 
     "place_en_hemicycle": "120", 
     "prenom": "Vincent", 
     "profession": "Fonctionnaire territorial", 
@@ -4973,7 +5066,7 @@
     "nom_de_famille": "Cartron", 
     "num_circo": "non disponible", 
     "num_deptmt": "33", 
-    "parti_ratt_financier": "Parti socialiste", 
+    "parti_ratt_financier": "Parti Socialiste", 
     "place_en_hemicycle": "108", 
     "prenom": "Fran\u00e7oise", 
     "profession": "Directrice d'\u00e9cole", 
@@ -5281,7 +5374,7 @@
     "nom_de_famille": "Cazeau", 
     "num_circo": "non disponible", 
     "num_deptmt": "24", 
-    "parti_ratt_financier": "Parti socialiste", 
+    "parti_ratt_financier": "En Marche !", 
     "place_en_hemicycle": "48", 
     "prenom": "Bernard", 
     "profession": "M\u00e9decin", 
@@ -5683,7 +5776,7 @@
     "nom_de_famille": "Chasseing", 
     "num_circo": "non disponible", 
     "num_deptmt": "19", 
-    "parti_ratt_financier": "Union des Radicaux, Centristes, Ind\u00e9pendants et D\u00e9mocrates", 
+    "parti_ratt_financier": "Union des D\u00e9mocrates, Radicaux et Lib\u00e9raux", 
     "place_en_hemicycle": "258", 
     "prenom": "Daniel", 
     "profession": "M\u00e9decin", 
@@ -5824,7 +5917,7 @@
       }, 
       "favourites_count": 165, 
       "follow_request_sent": false, 
-      "followers_count": 62377, 
+      "followers_count": 62370, 
       "following": false, 
       "friends_count": 710, 
       "geo_enabled": true, 
@@ -6042,7 +6135,7 @@
     }, 
     "twitter_description": "Ancien ministre. Pdt du club R\u00e9publique Moderne (@RepubliqueMod), de la Fondation Res Publica (@fondarespublica) et de la Fondation de l'Islam de France.", 
     "twitter_favourites": 165, 
-    "twitter_followers": 62377, 
+    "twitter_followers": 62370, 
     "twitter_following": 710, 
     "twitter_id": 57116930, 
     "twitter_listed": 1210, 
@@ -6473,7 +6566,7 @@
     "nom_de_famille": "Conway-Mouret", 
     "num_circo": "non disponible", 
     "num_deptmt": "999", 
-    "parti_ratt_financier": "Parti socialiste", 
+    "parti_ratt_financier": "Parti Socialiste", 
     "place_en_hemicycle": "41", 
     "prenom": "H\u00e9l\u00e8ne", 
     "profession": "Professeure d'universit\u00e9", 
@@ -6959,7 +7052,7 @@
       }, 
       "favourites_count": 11, 
       "follow_request_sent": false, 
-      "followers_count": 503, 
+      "followers_count": 502, 
       "following": false, 
       "friends_count": 13, 
       "geo_enabled": false, 
@@ -7105,7 +7198,7 @@
     }, 
     "twitter_description": "Maire de @villedemacon pr\u00e9sident de la @_MBAgglo", 
     "twitter_favourites": 11, 
-    "twitter_followers": 503, 
+    "twitter_followers": 502, 
     "twitter_following": 13, 
     "twitter_id": 1479161936, 
     "twitter_listed": 34, 
@@ -7527,7 +7620,7 @@
     "nom_de_famille": "Daudigny", 
     "num_circo": "non disponible", 
     "num_deptmt": "02", 
-    "parti_ratt_financier": "Parti socialiste", 
+    "parti_ratt_financier": "Parti Socialiste", 
     "place_en_hemicycle": "43", 
     "prenom": "Yves", 
     "profession": "Professeur de physique", 
@@ -7829,7 +7922,7 @@
     "nom_de_famille": "Delahaye", 
     "num_circo": "non disponible", 
     "num_deptmt": "91", 
-    "parti_ratt_financier": "Union des Radicaux, Centristes, Ind\u00e9pendants et D\u00e9mocrates", 
+    "parti_ratt_financier": "Union des D\u00e9mocrates, Radicaux et Lib\u00e9raux", 
     "place_en_hemicycle": "209", 
     "prenom": "Vincent", 
     "profession": "Expert comptable", 
@@ -7928,7 +8021,7 @@
     "nom_de_famille": "Delattre", 
     "num_circo": "non disponible", 
     "num_deptmt": "33", 
-    "parti_ratt_financier": "", 
+    "parti_ratt_financier": "Union des D\u00e9mocrates, Radicaux et Lib\u00e9raux", 
     "place_en_hemicycle": "202", 
     "prenom": "Nathalie", 
     "profession": null, 
@@ -7964,11 +8057,11 @@
           ]
         }
       }, 
-      "favourites_count": 2661, 
+      "favourites_count": 2662, 
       "follow_request_sent": false, 
-      "followers_count": 3259, 
+      "followers_count": 3258, 
       "following": false, 
-      "friends_count": 2241, 
+      "friends_count": 2228, 
       "geo_enabled": true, 
       "has_extended_profile": true, 
       "id": 1916605993, 
@@ -7998,39 +8091,57 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Tue Jan 02 12:44:50 +0000 2018", 
+        "created_at": "Wed Jan 03 22:07:48 +0000 2018", 
         "entities": {
-          "hashtags": [], 
+          "hashtags": [
+            {
+              "indices": [
+                105, 
+                118
+              ], 
+              "text": "Ann\u00e9eLumi\u00e8re"
+            }
+          ], 
           "symbols": [], 
           "urls": [], 
           "user_mentions": [
             {
-              "id": 3228192364, 
-              "id_str": "3228192364", 
+              "id": 258345629, 
+              "id_str": "258345629", 
               "indices": [
                 3, 
-                18
+                14
               ], 
-              "name": "Jean Marc Guillembet", 
-              "screen_name": "GuillembetJean"
+              "name": "Alain Jupp\u00e9", 
+              "screen_name": "alainjuppe"
             }, 
             {
-              "id": 2905329532, 
-              "id_str": "2905329532", 
+              "id": 437520768, 
+              "id_str": "437520768", 
               "indices": [
-                20, 
-                29
+                22, 
+                33
               ], 
-              "name": "ALLIANCE VILLEMPLOI", 
-              "screen_name": "AVEmploi"
+              "name": "Thomas Pesquet", 
+              "screen_name": "Thom_astro"
+            }, 
+            {
+              "id": 44127582, 
+              "id_str": "44127582", 
+              "indices": [
+                52, 
+                61
+              ], 
+              "name": "Bordeaux", 
+              "screen_name": "Bordeaux"
             }
           ]
         }, 
         "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 948173237619515392, 
-        "id_str": "948173237619515392", 
+        "id": 948677300207390721, 
+        "id_str": "948677300207390721", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -8039,63 +8150,150 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 3, 
+        "retweet_count": 155, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
           "coordinates": null, 
-          "created_at": "Mon Jan 01 12:22:33 +0000 2018", 
+          "created_at": "Tue Jan 02 19:55:12 +0000 2018", 
           "entities": {
-            "hashtags": [], 
-            "symbols": [], 
-            "urls": [
+            "hashtags": [
               {
-                "display_url": "twitter.com/i/web/status/9\u2026", 
-                "expanded_url": "https://twitter.com/i/web/status/947805241503813632", 
                 "indices": [
-                  117, 
-                  140
+                  89, 
+                  102
                 ], 
-                "url": "https://t.co/mbB9rSm9FU"
+                "text": "Ann\u00e9eLumi\u00e8re"
               }
             ], 
+            "media": [
+              {
+                "display_url": "pic.twitter.com/QRXQnZ3WJ0", 
+                "expanded_url": "https://twitter.com/alainjuppe/status/948281541762912259/photo/1", 
+                "id": 948281520598474752, 
+                "id_str": "948281520598474752", 
+                "indices": [
+                  103, 
+                  126
+                ], 
+                "media_url": "http://pbs.twimg.com/media/DSj5BM5W4AA1H63.jpg", 
+                "media_url_https": "https://pbs.twimg.com/media/DSj5BM5W4AA1H63.jpg", 
+                "sizes": {
+                  "large": {
+                    "h": 625, 
+                    "resize": "fit", 
+                    "w": 1000
+                  }, 
+                  "medium": {
+                    "h": 625, 
+                    "resize": "fit", 
+                    "w": 1000
+                  }, 
+                  "small": {
+                    "h": 425, 
+                    "resize": "fit", 
+                    "w": 680
+                  }, 
+                  "thumb": {
+                    "h": 150, 
+                    "resize": "crop", 
+                    "w": 150
+                  }
+                }, 
+                "type": "photo", 
+                "url": "https://t.co/QRXQnZ3WJ0"
+              }
+            ], 
+            "symbols": [], 
+            "urls": [], 
             "user_mentions": [
               {
-                "id": 2905329532, 
-                "id_str": "2905329532", 
+                "id": 437520768, 
+                "id_str": "437520768", 
                 "indices": [
-                  0, 
-                  9
+                  6, 
+                  17
                 ], 
-                "name": "ALLIANCE VILLEMPLOI", 
-                "screen_name": "AVEmploi"
+                "name": "Thomas Pesquet", 
+                "screen_name": "Thom_astro"
+              }, 
+              {
+                "id": 44127582, 
+                "id_str": "44127582", 
+                "indices": [
+                  36, 
+                  45
+                ], 
+                "name": "Bordeaux", 
+                "screen_name": "Bordeaux"
               }
             ]
           }, 
-          "favorite_count": 8, 
+          "extended_entities": {
+            "media": [
+              {
+                "display_url": "pic.twitter.com/QRXQnZ3WJ0", 
+                "expanded_url": "https://twitter.com/alainjuppe/status/948281541762912259/photo/1", 
+                "id": 948281520598474752, 
+                "id_str": "948281520598474752", 
+                "indices": [
+                  103, 
+                  126
+                ], 
+                "media_url": "http://pbs.twimg.com/media/DSj5BM5W4AA1H63.jpg", 
+                "media_url_https": "https://pbs.twimg.com/media/DSj5BM5W4AA1H63.jpg", 
+                "sizes": {
+                  "large": {
+                    "h": 625, 
+                    "resize": "fit", 
+                    "w": 1000
+                  }, 
+                  "medium": {
+                    "h": 625, 
+                    "resize": "fit", 
+                    "w": 1000
+                  }, 
+                  "small": {
+                    "h": 425, 
+                    "resize": "fit", 
+                    "w": 680
+                  }, 
+                  "thumb": {
+                    "h": 150, 
+                    "resize": "crop", 
+                    "w": 150
+                  }
+                }, 
+                "type": "photo", 
+                "url": "https://t.co/QRXQnZ3WJ0"
+              }
+            ]
+          }, 
+          "favorite_count": 834, 
           "favorited": false, 
           "geo": null, 
-          "id": 947805241503813632, 
-          "id_str": "947805241503813632", 
-          "in_reply_to_screen_name": "AVEmploi", 
+          "id": 948281541762912259, 
+          "id_str": "948281541762912259", 
+          "in_reply_to_screen_name": null, 
           "in_reply_to_status_id": null, 
           "in_reply_to_status_id_str": null, 
-          "in_reply_to_user_id": 2905329532, 
-          "in_reply_to_user_id_str": "2905329532", 
+          "in_reply_to_user_id": null, 
+          "in_reply_to_user_id_str": null, 
           "is_quote_status": false, 
           "lang": "fr", 
           "place": null, 
-          "retweet_count": 3, 
+          "possibly_sensitive": false, 
+          "retweet_count": 155, 
           "retweeted": false, 
-          "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>", 
-          "text": "@AVEmploi \nA l\u2019or\u00e9e d\u2019une ann\u00e9e encore d\u00e9cisive pour nos structures,souhaitons qu\u2019enfin on reconnaisse en haut lieu\u2026 https://t.co/mbB9rSm9FU", 
-          "truncated": true
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+          "text": "Merci @Thom_astro ! Votre photo de  @Bordeaux \u00e0 l'honneur sur notre carte de v\u0153ux. #2018 #Ann\u00e9eLumi\u00e8re https://t.co/QRXQnZ3WJ0", 
+          "truncated": false
         }, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "RT @GuillembetJean: @AVEmploi \nA l\u2019or\u00e9e d\u2019une ann\u00e9e encore d\u00e9cisive pour nos structures,souhaitons qu\u2019enfin on reconnaisse en haut lieu nos\u2026", 
+        "text": "RT @alainjuppe: Merci @Thom_astro ! Votre photo de  @Bordeaux \u00e0 l'honneur sur notre carte de v\u0153ux. #2018 #Ann\u00e9eLumi\u00e8re https://t.co/QRXQnZ3\u2026", 
         "truncated": false
       }, 
-      "statuses_count": 2560, 
+      "statuses_count": 2561, 
       "time_zone": null, 
       "translator_type": "none", 
       "url": "https://t.co/HP3hXRopZr", 
@@ -8103,14 +8301,14 @@
       "verified": false
     }, 
     "twitter_description": "S\u00e9natrice de la #Gironde, Vice-pr\u00e9sidente de la commission des lois, conseill\u00e8re municipale de #Bordeaux, Secr\u00e9taire G\u00e9n\u00e9rale @PartiRadical #MouvementRadical", 
-    "twitter_favourites": 2661, 
-    "twitter_followers": 3259, 
-    "twitter_following": 2241, 
+    "twitter_favourites": 2662, 
+    "twitter_followers": 3258, 
+    "twitter_following": 2228, 
     "twitter_id": 1916605993, 
     "twitter_listed": 68, 
     "twitter_name": "Nathalie Delattre", 
     "twitter_protected": false, 
-    "twitter_tweets": 2560, 
+    "twitter_tweets": 2561, 
     "twitter_verified": false, 
     "url_institution": "http://www.senat.fr/senateur/delattre_nathalie19719d.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/nathalie-delattre", 
@@ -8129,7 +8327,7 @@
     "nom_de_famille": "Delcros", 
     "num_circo": "non disponible", 
     "num_deptmt": "15", 
-    "parti_ratt_financier": "Le Centre pour la France", 
+    "parti_ratt_financier": "Mouvement d\u00e9mocrate", 
     "place_en_hemicycle": "27", 
     "prenom": "Bernard", 
     "profession": "Enseignant", 
@@ -8835,7 +9033,7 @@
     "nom_de_famille": "Doineau", 
     "num_circo": "non disponible", 
     "num_deptmt": "53", 
-    "parti_ratt_financier": "Union des Radicaux, Centristes, Ind\u00e9pendants et D\u00e9mocrates", 
+    "parti_ratt_financier": "Union des D\u00e9mocrates, Radicaux et Lib\u00e9raux", 
     "place_en_hemicycle": "262", 
     "prenom": "Elisabeth", 
     "profession": null, 
@@ -8937,7 +9135,7 @@
     "nom_de_famille": "Dominati", 
     "num_circo": "non disponible", 
     "num_deptmt": "75", 
-    "parti_ratt_financier": "Les R\u00e9publicains", 
+    "parti_ratt_financier": "Mouvement d\u00e9mocrate", 
     "place_en_hemicycle": "100", 
     "prenom": "Philippe", 
     "profession": "Chef d'entreprise", 
@@ -9036,7 +9234,7 @@
     "nom_de_famille": "Dubois", 
     "num_circo": "non disponible", 
     "num_deptmt": "80", 
-    "parti_ratt_financier": "Union des Radicaux, Centristes, Ind\u00e9pendants et D\u00e9mocrates", 
+    "parti_ratt_financier": "Union des D\u00e9mocrates, Radicaux et Lib\u00e9raux", 
     "place_en_hemicycle": "3", 
     "prenom": "Daniel", 
     "profession": "Directeur g\u00e9n\u00e9ral d'OPAC", 
@@ -9239,7 +9437,7 @@
     "nom_de_famille": "Durain", 
     "num_circo": "non disponible", 
     "num_deptmt": "71", 
-    "parti_ratt_financier": "Parti socialiste", 
+    "parti_ratt_financier": "Parti Socialiste", 
     "place_en_hemicycle": "70", 
     "prenom": "J\u00e9r\u00f4me", 
     "profession": "Fonctionnaire", 
@@ -9437,7 +9635,7 @@
     "nom_de_famille": "D\u00e9traigne", 
     "num_circo": "non disponible", 
     "num_deptmt": "51", 
-    "parti_ratt_financier": "Union des Radicaux, Centristes, Ind\u00e9pendants et D\u00e9mocrates", 
+    "parti_ratt_financier": "Union des D\u00e9mocrates, Radicaux et Lib\u00e9raux", 
     "place_en_hemicycle": "54", 
     "prenom": "Yves", 
     "profession": "Conseiller de Chambre R\u00e9gionale des Comptes", 
@@ -9537,7 +9735,7 @@
     "nom_de_famille": "Ebl\u00e9", 
     "num_circo": "non disponible", 
     "num_deptmt": "77", 
-    "parti_ratt_financier": "Parti socialiste", 
+    "parti_ratt_financier": "Parti Socialiste", 
     "place_en_hemicycle": "16", 
     "prenom": "Vincent", 
     "profession": "Fonctionnaire territorial", 
@@ -9637,7 +9835,7 @@
     "nom_de_famille": "Espagnac", 
     "num_circo": "non disponible", 
     "num_deptmt": "64", 
-    "parti_ratt_financier": "Parti socialiste", 
+    "parti_ratt_financier": "Parti Socialiste", 
     "place_en_hemicycle": "195", 
     "prenom": "Fr\u00e9d\u00e9rique", 
     "profession": "Cadre", 
@@ -10041,7 +10239,7 @@
     "nom_de_famille": "Feret", 
     "num_circo": "non disponible", 
     "num_deptmt": "14", 
-    "parti_ratt_financier": "Parti socialiste", 
+    "parti_ratt_financier": "Parti Socialiste", 
     "place_en_hemicycle": "147", 
     "prenom": "Corinne", 
     "profession": "Fonctionnaire de l'\u00e9ducation nationale", 
@@ -10657,7 +10855,7 @@
     "nom_de_famille": "Gabouty", 
     "num_circo": "non disponible", 
     "num_deptmt": "87", 
-    "parti_ratt_financier": "Union des Radicaux, Centristes, Ind\u00e9pendants et D\u00e9mocrates", 
+    "parti_ratt_financier": "Union des D\u00e9mocrates, Radicaux et Lib\u00e9raux", 
     "place_en_hemicycle": "24", 
     "prenom": "Jean-Marc", 
     "profession": "Chef d'entreprise", 
@@ -10858,7 +11056,7 @@
     "nom_de_famille": "Gatel", 
     "num_circo": "non disponible", 
     "num_deptmt": "35", 
-    "parti_ratt_financier": "Union des Radicaux, Centristes, Ind\u00e9pendants et D\u00e9mocrates", 
+    "parti_ratt_financier": "Union des D\u00e9mocrates, Radicaux et Lib\u00e9raux", 
     "place_en_hemicycle": "4", 
     "prenom": "Fran\u00e7oise", 
     "profession": null, 
@@ -10946,7 +11144,7 @@
     "nom_de_famille": "Gattolin", 
     "num_circo": "non disponible", 
     "num_deptmt": "92", 
-    "parti_ratt_financier": "Europe \u00c9cologie Les Verts", 
+    "parti_ratt_financier": "En Marche !", 
     "place_en_hemicycle": "80", 
     "prenom": "Andr\u00e9", 
     "profession": "Consultant", 
@@ -11161,7 +11359,7 @@
     "nom_de_famille": "Ghali", 
     "num_circo": "non disponible", 
     "num_deptmt": "13", 
-    "parti_ratt_financier": "Parti socialiste", 
+    "parti_ratt_financier": "Parti Socialiste", 
     "place_en_hemicycle": "146", 
     "prenom": "Samia", 
     "profession": "Fonctionnaire territoriale", 
@@ -11858,7 +12056,7 @@
     "nom_de_famille": "Goulet", 
     "num_circo": "non disponible", 
     "num_deptmt": "61", 
-    "parti_ratt_financier": "Union des Radicaux, Centristes, Ind\u00e9pendants et D\u00e9mocrates", 
+    "parti_ratt_financier": "Union des D\u00e9mocrates, Radicaux et Lib\u00e9raux", 
     "place_en_hemicycle": "162", 
     "prenom": "Nathalie", 
     "profession": "Avocat au Barreau de Paris", 
@@ -12073,7 +12271,7 @@
     "nom_de_famille": "Goy-Chavent", 
     "num_circo": "non disponible", 
     "num_deptmt": "01", 
-    "parti_ratt_financier": "Union des Radicaux, Centristes, Ind\u00e9pendants et D\u00e9mocrates", 
+    "parti_ratt_financier": "Union des D\u00e9mocrates, Radicaux et Lib\u00e9raux", 
     "place_en_hemicycle": "207", 
     "prenom": "Sylvie", 
     "profession": "Professeur de l'enseignement professionnel", 
@@ -12560,7 +12758,7 @@
     "nom_de_famille": "Gr\u00e9aume", 
     "num_circo": "non disponible", 
     "num_deptmt": "59", 
-    "parti_ratt_financier": "", 
+    "parti_ratt_financier": "Parti Communiste Fran\u00e7ais", 
     "place_en_hemicycle": "184", 
     "prenom": "Michelle", 
     "profession": "Fonctionnaire territoriale", 
@@ -12798,7 +12996,7 @@
     "nom_de_famille": "Guerriau", 
     "num_circo": "non disponible", 
     "num_deptmt": "44", 
-    "parti_ratt_financier": "Union des Radicaux, Centristes, Ind\u00e9pendants et D\u00e9mocrates", 
+    "parti_ratt_financier": "Union des D\u00e9mocrates, Radicaux et Lib\u00e9raux", 
     "place_en_hemicycle": "314", 
     "prenom": "Jo\u00ebl", 
     "profession": "Directeur g\u00e9n\u00e9ral de banque", 
@@ -12899,7 +13097,7 @@
     "nom_de_famille": "Guillaume", 
     "num_circo": "non disponible", 
     "num_deptmt": "26", 
-    "parti_ratt_financier": "Parti socialiste", 
+    "parti_ratt_financier": "Parti Socialiste", 
     "place_en_hemicycle": "77", 
     "prenom": "Didier", 
     "profession": "Agent du Tr\u00e9sor public", 
@@ -12999,7 +13197,7 @@
     "nom_de_famille": "Gu\u00e9rini", 
     "num_circo": "non disponible", 
     "num_deptmt": "13", 
-    "parti_ratt_financier": "Parti radical de gauche", 
+    "parti_ratt_financier": "Parti Radical de gauche", 
     "place_en_hemicycle": "156", 
     "prenom": "Jean-No\u00ebl", 
     "profession": null, 
@@ -13188,7 +13386,7 @@
     "nom_de_famille": "Herv\u00e9", 
     "num_circo": "non disponible", 
     "num_deptmt": "74", 
-    "parti_ratt_financier": "Association PSLE - Nouveau Centre", 
+    "parti_ratt_financier": "Union des D\u00e9mocrates, Radicaux et Lib\u00e9raux", 
     "place_en_hemicycle": "51", 
     "prenom": "Lo\u00efc", 
     "profession": "Cadre territorial", 
@@ -13605,7 +13803,7 @@
     "nom_de_famille": "Iacovelli", 
     "num_circo": "non disponible", 
     "num_deptmt": "92", 
-    "parti_ratt_financier": "", 
+    "parti_ratt_financier": "Parti Socialiste", 
     "place_en_hemicycle": "295", 
     "prenom": "Xavier", 
     "profession": "Attach\u00e9 territorial contractuel", 
@@ -13642,9 +13840,9 @@
           ]
         }
       }, 
-      "favourites_count": 3881, 
+      "favourites_count": 3887, 
       "follow_request_sent": false, 
-      "followers_count": 3054, 
+      "followers_count": 3055, 
       "following": false, 
       "friends_count": 3816, 
       "geo_enabled": true, 
@@ -13676,36 +13874,29 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Mon Jan 01 16:45:45 +0000 2018", 
+        "created_at": "Wed Jan 03 16:22:02 +0000 2018", 
         "entities": {
-          "hashtags": [
-            {
-              "indices": [
-                33, 
-                51
-              ], 
-              "text": "Champignysurmarne"
-            }
-          ], 
+          "hashtags": [], 
           "symbols": [], 
-          "urls": [
+          "urls": [], 
+          "user_mentions": [
             {
-              "display_url": "twitter.com/i/web/status/9\u2026", 
-              "expanded_url": "https://twitter.com/i/web/status/947871477067591681", 
+              "id": 21302947, 
+              "id_str": "21302947", 
               "indices": [
-                117, 
-                140
+                3, 
+                16
               ], 
-              "url": "https://t.co/xmqKUpGyiJ"
+              "name": "Pierre Kanuty", 
+              "screen_name": "PierreKanuty"
             }
-          ], 
-          "user_mentions": []
+          ]
         }, 
-        "favorite_count": 13, 
+        "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 947871477067591681, 
-        "id_str": "947871477067591681", 
+        "id": 948590286850199552, 
+        "id_str": "948590286850199552", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -13716,11 +13907,50 @@
         "place": null, 
         "retweet_count": 1, 
         "retweeted": false, 
+        "retweeted_status": {
+          "contributors": null, 
+          "coordinates": null, 
+          "created_at": "Wed Jan 03 13:43:30 +0000 2018", 
+          "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [
+              {
+                "display_url": "twitter.com/i/web/status/9\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/948550388789202944", 
+                "indices": [
+                  117, 
+                  140
+                ], 
+                "url": "https://t.co/YSYhRlsrJ3"
+              }
+            ], 
+            "user_mentions": []
+          }, 
+          "favorite_count": 1, 
+          "favorited": false, 
+          "geo": null, 
+          "id": 948550388789202944, 
+          "id_str": "948550388789202944", 
+          "in_reply_to_screen_name": null, 
+          "in_reply_to_status_id": null, 
+          "in_reply_to_status_id_str": null, 
+          "in_reply_to_user_id": null, 
+          "in_reply_to_user_id_str": null, 
+          "is_quote_status": false, 
+          "lang": "fr", 
+          "place": null, 
+          "retweet_count": 1, 
+          "retweeted": false, 
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+          "text": "Le 3 janvier 1919, le prince Fay\u00e7al et le leader sioniste Ha\u00efm Weizmann se mettaient d\u2019accord sur la cr\u00e9ation de de\u2026 https://t.co/YSYhRlsrJ3", 
+          "truncated": true
+        }, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "Odieu lynchage de la polici\u00e8re a #Champignysurmarne   Aucune excuse acceptable, des condamnations sont indispensabl\u2026 https://t.co/xmqKUpGyiJ", 
-        "truncated": true
+        "text": "RT @PierreKanuty: Le 3 janvier 1919, le prince Fay\u00e7al et le leader sioniste Ha\u00efm Weizmann se mettaient d\u2019accord sur la cr\u00e9ation de deux \u00c9ta\u2026", 
+        "truncated": false
       }, 
-      "statuses_count": 3074, 
+      "statuses_count": 3076, 
       "time_zone": "Amsterdam", 
       "translator_type": "none", 
       "url": "https://t.co/gFexPLosAM", 
@@ -13728,14 +13958,14 @@
       "verified": false
     }, 
     "twitter_description": "S\u00e9nateur des #HautsdeSeine \u2022 com affaires \u00e9conomiques \u2022 Premier Secr\u00e9taire du @PSfederation92 \u2022 Conseiller Municipal et territorial @villedesuresnes.", 
-    "twitter_favourites": 3881, 
-    "twitter_followers": 3054, 
+    "twitter_favourites": 3887, 
+    "twitter_followers": 3055, 
     "twitter_following": 3816, 
     "twitter_id": 1205524668, 
     "twitter_listed": 49, 
     "twitter_name": "Xavier IACOVELLI", 
     "twitter_protected": false, 
-    "twitter_tweets": 3074, 
+    "twitter_tweets": 3076, 
     "twitter_verified": false, 
     "url_institution": "http://www.senat.fr/senateur/iacovelli_xavier19591f.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/xavier-iacovelli", 
@@ -14167,7 +14397,7 @@
     "nom_de_famille": "Jeansannetas", 
     "num_circo": "non disponible", 
     "num_deptmt": "23", 
-    "parti_ratt_financier": "Parti socialiste", 
+    "parti_ratt_financier": "Parti Socialiste", 
     "place_en_hemicycle": "189", 
     "prenom": "Eric", 
     "profession": "Professeur des \u00e9coles", 
@@ -14268,7 +14498,7 @@
     "nom_de_famille": "Joissains", 
     "num_circo": "non disponible", 
     "num_deptmt": "13", 
-    "parti_ratt_financier": "Union des Radicaux, Centristes, Ind\u00e9pendants et D\u00e9mocrates", 
+    "parti_ratt_financier": "Union des D\u00e9mocrates, Radicaux et Lib\u00e9raux", 
     "place_en_hemicycle": "52", 
     "prenom": "Sophie", 
     "profession": "Juriste criminologue", 
@@ -14470,7 +14700,7 @@
     "nom_de_famille": "Jourda", 
     "num_circo": "non disponible", 
     "num_deptmt": "11", 
-    "parti_ratt_financier": "Parti socialiste", 
+    "parti_ratt_financier": "Parti Socialiste", 
     "place_en_hemicycle": "303", 
     "prenom": "Gis\u00e8le", 
     "profession": "Cadre territorial", 
@@ -14772,7 +15002,7 @@
     "nom_de_famille": "Karam", 
     "num_circo": "non disponible", 
     "num_deptmt": "973", 
-    "parti_ratt_financier": "Parti socialiste guyanais", 
+    "parti_ratt_financier": "Parti progressiste Martiniquais", 
     "place_en_hemicycle": "250", 
     "prenom": "Antoine", 
     "profession": "Professeur d'histoire", 
@@ -14971,7 +15201,7 @@
     "nom_de_famille": "Keller", 
     "num_circo": "non disponible", 
     "num_deptmt": "67", 
-    "parti_ratt_financier": "Les R\u00e9publicains", 
+    "parti_ratt_financier": "Union des D\u00e9mocrates, Radicaux et Lib\u00e9raux", 
     "place_en_hemicycle": "215", 
     "prenom": "Fabienne", 
     "profession": "Ing\u00e9nieur", 
@@ -15158,7 +15388,7 @@
     "nom_de_famille": "Kern", 
     "num_circo": "non disponible", 
     "num_deptmt": "67", 
-    "parti_ratt_financier": "Association PSLE - Nouveau Centre", 
+    "parti_ratt_financier": "Union des D\u00e9mocrates, Radicaux et Lib\u00e9raux", 
     "place_en_hemicycle": "263", 
     "prenom": "Claude", 
     "profession": null, 
@@ -15447,7 +15677,7 @@
     "nom_de_famille": "Laborde", 
     "num_circo": "non disponible", 
     "num_deptmt": "31", 
-    "parti_ratt_financier": "Parti radical de gauche", 
+    "parti_ratt_financier": "Parti Radical de gauche", 
     "place_en_hemicycle": "25", 
     "prenom": "Fran\u00e7oise", 
     "profession": "Professeur des \u00e9coles", 
@@ -15546,7 +15776,7 @@
     "nom_de_famille": "Lalande", 
     "num_circo": "non disponible", 
     "num_deptmt": "17", 
-    "parti_ratt_financier": "Parti socialiste", 
+    "parti_ratt_financier": "Parti Socialiste", 
     "place_en_hemicycle": "19", 
     "prenom": "Bernard", 
     "profession": "Commissaire aux comptes et expert comptable", 
@@ -16248,7 +16478,7 @@
     "nom_de_famille": "Lepage", 
     "num_circo": "non disponible", 
     "num_deptmt": "999", 
-    "parti_ratt_financier": "Parti socialiste", 
+    "parti_ratt_financier": "Parti Socialiste", 
     "place_en_hemicycle": "191", 
     "prenom": "Claudine", 
     "profession": "Cadre dans le secteur de la formation", 
@@ -16348,7 +16578,7 @@
     "nom_de_famille": "Lienemann", 
     "num_circo": "non disponible", 
     "num_deptmt": "75", 
-    "parti_ratt_financier": "Parti socialiste", 
+    "parti_ratt_financier": "Parti Socialiste", 
     "place_en_hemicycle": "18", 
     "prenom": "Marie-No\u00eblle", 
     "profession": "Professeur de l'Education nationale", 
@@ -16450,7 +16680,7 @@
     "nom_de_famille": "Loisier", 
     "num_circo": "non disponible", 
     "num_deptmt": "21", 
-    "parti_ratt_financier": "Union des Radicaux, Centristes, Ind\u00e9pendants et D\u00e9mocrates", 
+    "parti_ratt_financier": "Union des D\u00e9mocrates, Radicaux et Lib\u00e9raux", 
     "place_en_hemicycle": "160", 
     "prenom": "Anne-Catherine", 
     "profession": "Gestionnaire de for\u00eats", 
@@ -16550,7 +16780,7 @@
     "nom_de_famille": "Longeot", 
     "num_circo": "non disponible", 
     "num_deptmt": "25", 
-    "parti_ratt_financier": "Union des Radicaux, Centristes, Ind\u00e9pendants et D\u00e9mocrates", 
+    "parti_ratt_financier": "Union des D\u00e9mocrates, Radicaux et Lib\u00e9raux", 
     "place_en_hemicycle": "261", 
     "prenom": "Jean-Fran\u00e7ois", 
     "profession": "Attach\u00e9 territorial principal", 
@@ -16735,7 +16965,7 @@
     "nom_de_famille": "Luche", 
     "num_circo": "non disponible", 
     "num_deptmt": "12", 
-    "parti_ratt_financier": "Union des Radicaux, Centristes, Ind\u00e9pendants et D\u00e9mocrates", 
+    "parti_ratt_financier": "Union des D\u00e9mocrates, Radicaux et Lib\u00e9raux", 
     "place_en_hemicycle": "321", 
     "prenom": "Jean-Claude", 
     "profession": "Cadre bancaire", 
@@ -16820,7 +17050,7 @@
     "nom_de_famille": "L\u00e9tard", 
     "num_circo": "non disponible", 
     "num_deptmt": "59", 
-    "parti_ratt_financier": "Union des Radicaux, Centristes, Ind\u00e9pendants et D\u00e9mocrates", 
+    "parti_ratt_financier": "Union des D\u00e9mocrates, Radicaux et Lib\u00e9raux", 
     "place_en_hemicycle": "5", 
     "prenom": "Val\u00e9rie", 
     "profession": "Assistante sociale", 
@@ -17023,7 +17253,7 @@
     "nom_de_famille": "Madrelle", 
     "num_circo": "non disponible", 
     "num_deptmt": "33", 
-    "parti_ratt_financier": "Parti socialiste", 
+    "parti_ratt_financier": "Parti Socialiste", 
     "place_en_hemicycle": "144", 
     "prenom": "Philippe", 
     "profession": "Professeur d'anglais", 
@@ -17122,7 +17352,7 @@
     "nom_de_famille": "Magner", 
     "num_circo": "non disponible", 
     "num_deptmt": "63", 
-    "parti_ratt_financier": "Parti socialiste", 
+    "parti_ratt_financier": "Parti Socialiste", 
     "place_en_hemicycle": "148", 
     "prenom": "Jacques-Bernard", 
     "profession": "Professeur des \u00e9coles", 
@@ -17425,7 +17655,7 @@
     "nom_de_famille": "Marie", 
     "num_circo": "non disponible", 
     "num_deptmt": "76", 
-    "parti_ratt_financier": "Parti socialiste", 
+    "parti_ratt_financier": "Parti Socialiste", 
     "place_en_hemicycle": "242", 
     "prenom": "Didier", 
     "profession": "Professeur des \u00e9coles", 
@@ -17565,7 +17795,7 @@
       }, 
       "favourites_count": 5, 
       "follow_request_sent": false, 
-      "followers_count": 3822, 
+      "followers_count": 3823, 
       "following": false, 
       "friends_count": 2341, 
       "geo_enabled": false, 
@@ -17631,7 +17861,7 @@
     }, 
     "twitter_description": "S\u00e9nateur honoraire-maire de Compi\u00e8gne , Pr\u00e9sident de l'agglom\u00e9ration de la r\u00e9gion de Compi\u00e8gne, Pr\u00e9sident de la commission des finances du S\u00e9nat.", 
     "twitter_favourites": 5, 
-    "twitter_followers": 3822, 
+    "twitter_followers": 3823, 
     "twitter_following": 2341, 
     "twitter_id": 1534099902, 
     "twitter_listed": 132, 
@@ -17656,7 +17886,7 @@
     "nom_de_famille": "Marseille", 
     "num_circo": "non disponible", 
     "num_deptmt": "92", 
-    "parti_ratt_financier": "Union des Radicaux, Centristes, Ind\u00e9pendants et D\u00e9mocrates", 
+    "parti_ratt_financier": "Union des D\u00e9mocrates, Radicaux et Lib\u00e9raux", 
     "place_en_hemicycle": "122", 
     "prenom": "Herv\u00e9", 
     "profession": "Cadre", 
@@ -17680,7 +17910,7 @@
       }, 
       "favourites_count": 100, 
       "follow_request_sent": false, 
-      "followers_count": 632, 
+      "followers_count": 634, 
       "following": false, 
       "friends_count": 220, 
       "geo_enabled": false, 
@@ -17743,7 +17973,7 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 15, 
+        "retweet_count": 17, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
@@ -17765,7 +17995,7 @@
             ], 
             "user_mentions": []
           }, 
-          "favorite_count": 23, 
+          "favorite_count": 26, 
           "favorited": false, 
           "geo": null, 
           "id": 947780915136290816, 
@@ -17778,7 +18008,7 @@
           "is_quote_status": false, 
           "lang": "fr", 
           "place": null, 
-          "retweet_count": 15, 
+          "retweet_count": 17, 
           "retweeted": false, 
           "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
           "text": "Avec nos plus chaleureux v\u0153ux pour une ann\u00e9e 2018 qui s\u2019annonce riche en \u00e9v\u00e9nements et en actions ...plus que jamai\u2026 https://t.co/CAlx6EjaxM", 
@@ -17797,7 +18027,7 @@
     }, 
     "twitter_description": "S\u00e9nateur des Hauts-de-Seine, Pr\u00e9sident du groupe Union centriste @UC_Senat Conseiller municipal de Meudon", 
     "twitter_favourites": 100, 
-    "twitter_followers": 632, 
+    "twitter_followers": 634, 
     "twitter_following": 220, 
     "twitter_id": 884772861524807681, 
     "twitter_listed": 22, 
@@ -18024,7 +18254,7 @@
     "nom_de_famille": "Maurey", 
     "num_circo": "non disponible", 
     "num_deptmt": "27", 
-    "parti_ratt_financier": "Association PSLE - Nouveau Centre", 
+    "parti_ratt_financier": "Union des D\u00e9mocrates, Radicaux et Lib\u00e9raux", 
     "place_en_hemicycle": "121", 
     "prenom": "Herv\u00e9", 
     "profession": "Chef d'entreprise", 
@@ -18110,7 +18340,7 @@
     "nom_de_famille": "Mazuir", 
     "num_circo": "non disponible", 
     "num_deptmt": "01", 
-    "parti_ratt_financier": "Parti socialiste", 
+    "parti_ratt_financier": "Parti Socialiste", 
     "place_en_hemicycle": "192", 
     "prenom": "Rachel", 
     "profession": "Professeur d'\u00e9ducation physique et sportive", 
@@ -18308,7 +18538,7 @@
     "nom_de_famille": "Meunier", 
     "num_circo": "non disponible", 
     "num_deptmt": "44", 
-    "parti_ratt_financier": "Parti socialiste", 
+    "parti_ratt_financier": "Parti Socialiste", 
     "place_en_hemicycle": "297", 
     "prenom": "Michelle", 
     "profession": "Educatrice de jeunes enfants", 
@@ -18696,7 +18926,7 @@
     "nom_de_famille": "Montaug\u00e9", 
     "num_circo": "non disponible", 
     "num_deptmt": "32", 
-    "parti_ratt_financier": "Parti socialiste", 
+    "parti_ratt_financier": "Parti Socialiste", 
     "place_en_hemicycle": "304", 
     "prenom": "Franck", 
     "profession": "Ing\u00e9nieur", 
@@ -19026,7 +19256,7 @@
     "nom_de_famille": "Morin-Desailly", 
     "num_circo": "non disponible", 
     "num_deptmt": "76", 
-    "parti_ratt_financier": "Association PSLE - Nouveau Centre", 
+    "parti_ratt_financier": "Union des D\u00e9mocrates, Radicaux et Lib\u00e9raux", 
     "place_en_hemicycle": "87", 
     "prenom": "Catherine", 
     "profession": "Professeur d'anglais", 
@@ -19210,7 +19440,7 @@
     "nom_de_famille": "M\u00e9devielle", 
     "num_circo": "non disponible", 
     "num_deptmt": "31", 
-    "parti_ratt_financier": "Union des Radicaux, Centristes, Ind\u00e9pendants et D\u00e9mocrates", 
+    "parti_ratt_financier": "Union des D\u00e9mocrates, Radicaux et Lib\u00e9raux", 
     "place_en_hemicycle": "322", 
     "prenom": "Pierre", 
     "profession": "Pharmacien", 
@@ -19311,7 +19541,7 @@
     "nom_de_famille": "M\u00e9lot", 
     "num_circo": "non disponible", 
     "num_deptmt": "77", 
-    "parti_ratt_financier": "Les R\u00e9publicains", 
+    "parti_ratt_financier": "Union des D\u00e9mocrates, Radicaux et Lib\u00e9raux", 
     "place_en_hemicycle": "255", 
     "prenom": "Colette", 
     "profession": "Professeur d'anglais", 
@@ -19587,7 +19817,7 @@
     "nom_de_famille": "Ouzoulias", 
     "num_circo": "non disponible", 
     "num_deptmt": "92", 
-    "parti_ratt_financier": "", 
+    "parti_ratt_financier": "Parti Communiste Fran\u00e7ais", 
     "place_en_hemicycle": "235", 
     "prenom": "Pierre", 
     "profession": "Charg\u00e9 de recherche au CNRS", 
@@ -19750,7 +19980,7 @@
     "nom_de_famille": "Patient", 
     "num_circo": "non disponible", 
     "num_deptmt": "973", 
-    "parti_ratt_financier": "Parti socialiste", 
+    "parti_ratt_financier": "Parti Socialiste", 
     "place_en_hemicycle": "249", 
     "prenom": "Georges", 
     "profession": "Consultant financier", 
@@ -20052,7 +20282,7 @@
     "nom_de_famille": "Perol-Dumont", 
     "num_circo": "non disponible", 
     "num_deptmt": "87", 
-    "parti_ratt_financier": "Parti socialiste", 
+    "parti_ratt_financier": "Parti Socialiste", 
     "place_en_hemicycle": "109", 
     "prenom": "Marie-Fran\u00e7oise", 
     "profession": "Professeure", 
@@ -20250,7 +20480,7 @@
     "nom_de_famille": "Piednoir", 
     "num_circo": "non disponible", 
     "num_deptmt": "49", 
-    "parti_ratt_financier": "", 
+    "parti_ratt_financier": "Les R\u00e9publicains", 
     "place_en_hemicycle": "169", 
     "prenom": "St\u00e9phane", 
     "profession": "Professeur", 
@@ -20286,9 +20516,9 @@
           ]
         }
       }, 
-      "favourites_count": 506, 
+      "favourites_count": 510, 
       "follow_request_sent": false, 
-      "followers_count": 498, 
+      "followers_count": 500, 
       "following": false, 
       "friends_count": 360, 
       "geo_enabled": false, 
@@ -20320,154 +20550,54 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Tue Jan 02 20:16:20 +0000 2018", 
+        "created_at": "Wed Jan 03 21:53:05 +0000 2018", 
         "entities": {
           "hashtags": [
             {
               "indices": [
-                51, 
-                67
+                13, 
+                21
               ], 
-              "text": "MontreuilJuign\u00e9"
-            }
-          ], 
-          "media": [
+              "text": "Elevage"
+            }, 
             {
-              "display_url": "pic.twitter.com/mHwPUBbEq0", 
-              "expanded_url": "https://twitter.com/MairieMJ/status/948131554794012672/video/1", 
-              "id": 948131502243622912, 
-              "id_str": "948131502243622912", 
               "indices": [
-                68, 
-                91
+                37, 
+                52
               ], 
-              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/948131502243622912/pu/img/KypWADh2d_JOcCeq.jpg", 
-              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/948131502243622912/pu/img/KypWADh2d_JOcCeq.jpg", 
-              "sizes": {
-                "large": {
-                  "h": 720, 
-                  "resize": "fit", 
-                  "w": 1280
-                }, 
-                "medium": {
-                  "h": 675, 
-                  "resize": "fit", 
-                  "w": 1200
-                }, 
-                "small": {
-                  "h": 383, 
-                  "resize": "fit", 
-                  "w": 680
-                }, 
-                "thumb": {
-                  "h": 150, 
-                  "resize": "crop", 
-                  "w": 150
-                }
-              }, 
-              "source_status_id": 948131554794012672, 
-              "source_status_id_str": "948131554794012672", 
-              "source_user_id": 2674041798, 
-              "source_user_id_str": "2674041798", 
-              "type": "photo", 
-              "url": "https://t.co/mHwPUBbEq0"
+              "text": "BienEtreAnimal"
             }
           ], 
           "symbols": [], 
           "urls": [], 
           "user_mentions": [
             {
-              "id": 2674041798, 
-              "id_str": "2674041798", 
+              "id": 366626738, 
+              "id_str": "366626738", 
               "indices": [
                 3, 
-                12
+                11
               ], 
-              "name": "Montreuil-Juign\u00e9", 
-              "screen_name": "MairieMJ"
-            }
-          ]
-        }, 
-        "extended_entities": {
-          "media": [
+              "name": "FDSEA 49", 
+              "screen_name": "FDSEA49"
+            }, 
             {
-              "additional_media_info": {
-                "monetizable": false
-              }, 
-              "display_url": "pic.twitter.com/mHwPUBbEq0", 
-              "expanded_url": "https://twitter.com/MairieMJ/status/948131554794012672/video/1", 
-              "id": 948131502243622912, 
-              "id_str": "948131502243622912", 
+              "id": 366626738, 
+              "id_str": "366626738", 
               "indices": [
-                68, 
-                91
+                130, 
+                138
               ], 
-              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/948131502243622912/pu/img/KypWADh2d_JOcCeq.jpg", 
-              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/948131502243622912/pu/img/KypWADh2d_JOcCeq.jpg", 
-              "sizes": {
-                "large": {
-                  "h": 720, 
-                  "resize": "fit", 
-                  "w": 1280
-                }, 
-                "medium": {
-                  "h": 675, 
-                  "resize": "fit", 
-                  "w": 1200
-                }, 
-                "small": {
-                  "h": 383, 
-                  "resize": "fit", 
-                  "w": 680
-                }, 
-                "thumb": {
-                  "h": 150, 
-                  "resize": "crop", 
-                  "w": 150
-                }
-              }, 
-              "source_status_id": 948131554794012672, 
-              "source_status_id_str": "948131554794012672", 
-              "source_user_id": 2674041798, 
-              "source_user_id_str": "2674041798", 
-              "type": "video", 
-              "url": "https://t.co/mHwPUBbEq0", 
-              "video_info": {
-                "aspect_ratio": [
-                  16, 
-                  9
-                ], 
-                "duration_millis": 25034, 
-                "variants": [
-                  {
-                    "content_type": "application/x-mpegURL", 
-                    "url": "https://video.twimg.com/ext_tw_video/948131502243622912/pu/pl/quMfmesBgacC0dL5.m3u8"
-                  }, 
-                  {
-                    "bitrate": 320000, 
-                    "content_type": "video/mp4", 
-                    "url": "https://video.twimg.com/ext_tw_video/948131502243622912/pu/vid/320x180/XHPJ2q8QzchcV_gx.mp4"
-                  }, 
-                  {
-                    "bitrate": 2176000, 
-                    "content_type": "video/mp4", 
-                    "url": "https://video.twimg.com/ext_tw_video/948131502243622912/pu/vid/1280x720/04h1CDUS7j587Bdv.mp4"
-                  }, 
-                  {
-                    "bitrate": 832000, 
-                    "content_type": "video/mp4", 
-                    "url": "https://video.twimg.com/ext_tw_video/948131502243622912/pu/vid/640x360/C4ZN2i4yk9hs7IE7.mp4"
-                  }
-                ]
-              }
+              "name": "FDSEA 49", 
+              "screen_name": "FDSEA49"
             }
           ]
         }, 
         "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 948286859490283520, 
-        "id_str": "948286859490283520", 
+        "id": 948673596595023873, 
+        "id_str": "948673596595023873", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -20476,141 +20606,48 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "possibly_sensitive": false, 
-        "retweet_count": 7, 
+        "retweet_count": 11, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
           "coordinates": null, 
-          "created_at": "Tue Jan 02 09:59:12 +0000 2018", 
+          "created_at": "Wed Jan 03 15:35:47 +0000 2018", 
           "entities": {
             "hashtags": [
               {
                 "indices": [
-                  37, 
-                  53
+                  0, 
+                  8
                 ], 
-                "text": "MontreuilJuign\u00e9"
-              }
-            ], 
-            "media": [
+                "text": "Elevage"
+              }, 
               {
-                "display_url": "pic.twitter.com/mHwPUBbEq0", 
-                "expanded_url": "https://twitter.com/MairieMJ/status/948131554794012672/video/1", 
-                "id": 948131502243622912, 
-                "id_str": "948131502243622912", 
                 "indices": [
-                  54, 
-                  77
+                  24, 
+                  39
                 ], 
-                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/948131502243622912/pu/img/KypWADh2d_JOcCeq.jpg", 
-                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/948131502243622912/pu/img/KypWADh2d_JOcCeq.jpg", 
-                "sizes": {
-                  "large": {
-                    "h": 720, 
-                    "resize": "fit", 
-                    "w": 1280
-                  }, 
-                  "medium": {
-                    "h": 675, 
-                    "resize": "fit", 
-                    "w": 1200
-                  }, 
-                  "small": {
-                    "h": 383, 
-                    "resize": "fit", 
-                    "w": 680
-                  }, 
-                  "thumb": {
-                    "h": 150, 
-                    "resize": "crop", 
-                    "w": 150
-                  }
-                }, 
-                "type": "photo", 
-                "url": "https://t.co/mHwPUBbEq0"
+                "text": "BienEtreAnimal"
               }
             ], 
             "symbols": [], 
-            "urls": [], 
+            "urls": [
+              {
+                "display_url": "twitter.com/i/web/status/9\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/948578645555245059", 
+                "indices": [
+                  117, 
+                  140
+                ], 
+                "url": "https://t.co/59udBMDGO6"
+              }
+            ], 
             "user_mentions": []
           }, 
-          "extended_entities": {
-            "media": [
-              {
-                "additional_media_info": {
-                  "monetizable": false
-                }, 
-                "display_url": "pic.twitter.com/mHwPUBbEq0", 
-                "expanded_url": "https://twitter.com/MairieMJ/status/948131554794012672/video/1", 
-                "id": 948131502243622912, 
-                "id_str": "948131502243622912", 
-                "indices": [
-                  54, 
-                  77
-                ], 
-                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/948131502243622912/pu/img/KypWADh2d_JOcCeq.jpg", 
-                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/948131502243622912/pu/img/KypWADh2d_JOcCeq.jpg", 
-                "sizes": {
-                  "large": {
-                    "h": 720, 
-                    "resize": "fit", 
-                    "w": 1280
-                  }, 
-                  "medium": {
-                    "h": 675, 
-                    "resize": "fit", 
-                    "w": 1200
-                  }, 
-                  "small": {
-                    "h": 383, 
-                    "resize": "fit", 
-                    "w": 680
-                  }, 
-                  "thumb": {
-                    "h": 150, 
-                    "resize": "crop", 
-                    "w": 150
-                  }
-                }, 
-                "type": "video", 
-                "url": "https://t.co/mHwPUBbEq0", 
-                "video_info": {
-                  "aspect_ratio": [
-                    16, 
-                    9
-                  ], 
-                  "duration_millis": 25034, 
-                  "variants": [
-                    {
-                      "content_type": "application/x-mpegURL", 
-                      "url": "https://video.twimg.com/ext_tw_video/948131502243622912/pu/pl/quMfmesBgacC0dL5.m3u8"
-                    }, 
-                    {
-                      "bitrate": 320000, 
-                      "content_type": "video/mp4", 
-                      "url": "https://video.twimg.com/ext_tw_video/948131502243622912/pu/vid/320x180/XHPJ2q8QzchcV_gx.mp4"
-                    }, 
-                    {
-                      "bitrate": 2176000, 
-                      "content_type": "video/mp4", 
-                      "url": "https://video.twimg.com/ext_tw_video/948131502243622912/pu/vid/1280x720/04h1CDUS7j587Bdv.mp4"
-                    }, 
-                    {
-                      "bitrate": 832000, 
-                      "content_type": "video/mp4", 
-                      "url": "https://video.twimg.com/ext_tw_video/948131502243622912/pu/vid/640x360/C4ZN2i4yk9hs7IE7.mp4"
-                    }
-                  ]
-                }
-              }
-            ]
-          }, 
-          "favorite_count": 5, 
+          "favorite_count": 13, 
           "favorited": false, 
           "geo": null, 
-          "id": 948131554794012672, 
-          "id_str": "948131554794012672", 
+          "id": 948578645555245059, 
+          "id_str": "948578645555245059", 
           "in_reply_to_screen_name": null, 
           "in_reply_to_status_id": null, 
           "in_reply_to_status_id_str": null, 
@@ -20620,17 +20657,17 @@
           "lang": "fr", 
           "place": null, 
           "possibly_sensitive": false, 
-          "retweet_count": 7, 
+          "retweet_count": 11, 
           "retweeted": false, 
-          "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>", 
-          "text": "Une tr\u00e8s belle ann\u00e9e 2018 \u00e0 tous...  #MontreuilJuign\u00e9 https://t.co/mHwPUBbEq0", 
-          "truncated": false
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+          "text": "#Elevage : soir\u00e9e d\u00e9bat #BienEtreAnimal 11 janvier \u00e0 Angers, destin\u00e9e aux professionnels de l'\u00e9levage. Organis\u00e9e pa\u2026 https://t.co/59udBMDGO6", 
+          "truncated": true
         }, 
         "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
-        "text": "RT @MairieMJ: Une tr\u00e8s belle ann\u00e9e 2018 \u00e0 tous...  #MontreuilJuign\u00e9 https://t.co/mHwPUBbEq0", 
+        "text": "RT @FDSEA49: #Elevage : soir\u00e9e d\u00e9bat #BienEtreAnimal 11 janvier \u00e0 Angers, destin\u00e9e aux professionnels de l'\u00e9levage. Organis\u00e9e par @FDSEA49\u2026", 
         "truncated": false
       }, 
-      "statuses_count": 327, 
+      "statuses_count": 330, 
       "time_zone": "Pacific Time (US & Canada)", 
       "translator_type": "none", 
       "url": "https://t.co/Mq47zGgyMI", 
@@ -20638,14 +20675,14 @@
       "verified": true
     }, 
     "twitter_description": "S\u00e9nateur de Maine-et-Loire, membre de la com. Culture, Education et Communication, membre de l'#OPECST | Maire de Montreuil-Juign\u00e9", 
-    "twitter_favourites": 506, 
-    "twitter_followers": 498, 
+    "twitter_favourites": 510, 
+    "twitter_followers": 500, 
     "twitter_following": 360, 
     "twitter_id": 493045528, 
     "twitter_listed": 20, 
     "twitter_name": "St\u00e9phane Piednoir", 
     "twitter_protected": false, 
-    "twitter_tweets": 327, 
+    "twitter_tweets": 330, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/piednoir_stephane19533u.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/stephane-piednoir", 
@@ -20789,7 +20826,7 @@
       }, 
       "favourites_count": 1805, 
       "follow_request_sent": false, 
-      "followers_count": 97399, 
+      "followers_count": 97430, 
       "following": false, 
       "friends_count": 2448, 
       "geo_enabled": true, 
@@ -20943,7 +20980,7 @@
     }, 
     "twitter_description": "Ancien Ministre. Ancien S\u00e9nateur. Conseiller r\u00e9gional d'\u00cele de France. Pr\u00e9sident de l' @UDE_FR", 
     "twitter_favourites": 1805, 
-    "twitter_followers": 97399, 
+    "twitter_followers": 97430, 
     "twitter_following": 2448, 
     "twitter_id": 219361536, 
     "twitter_listed": 997, 
@@ -22431,7 +22468,7 @@
       }, 
       "favourites_count": 81, 
       "follow_request_sent": false, 
-      "followers_count": 6072, 
+      "followers_count": 6071, 
       "following": false, 
       "friends_count": 483, 
       "geo_enabled": true, 
@@ -22441,7 +22478,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 252, 
+      "listed_count": 251, 
       "location": "Strasbourg, France", 
       "name": "Roland Ries", 
       "notifications": false, 
@@ -22496,7 +22533,7 @@
           "urls": [], 
           "user_mentions": []
         }, 
-        "favorite_count": 27, 
+        "favorite_count": 29, 
         "favorited": false, 
         "geo": null, 
         "id": 947604182361608192, 
@@ -22557,10 +22594,10 @@
     }, 
     "twitter_description": "Maire de @Strasbourg", 
     "twitter_favourites": 81, 
-    "twitter_followers": 6072, 
+    "twitter_followers": 6071, 
     "twitter_following": 483, 
     "twitter_id": 281438650, 
-    "twitter_listed": 252, 
+    "twitter_listed": 251, 
     "twitter_name": "Roland Ries", 
     "twitter_protected": false, 
     "twitter_tweets": 812, 
@@ -22683,7 +22720,7 @@
     "nom_de_famille": "Robert", 
     "num_circo": "non disponible", 
     "num_deptmt": "35", 
-    "parti_ratt_financier": "Parti socialiste", 
+    "parti_ratt_financier": "Parti Socialiste", 
     "place_en_hemicycle": "44", 
     "prenom": "Sylvie", 
     "profession": "Cadre culturel", 
@@ -22783,7 +22820,7 @@
     "nom_de_famille": "Roger", 
     "num_circo": "non disponible", 
     "num_deptmt": "93", 
-    "parti_ratt_financier": "Parti socialiste", 
+    "parti_ratt_financier": "Parti Socialiste", 
     "place_en_hemicycle": "237", 
     "prenom": "Gilbert", 
     "profession": "Ma\u00eetre-nageur sauveteur", 
@@ -22987,7 +23024,7 @@
     "nom_de_famille": "Roux", 
     "num_circo": "non disponible", 
     "num_deptmt": "04", 
-    "parti_ratt_financier": "Parti socialiste", 
+    "parti_ratt_financier": "Parti Socialiste", 
     "place_en_hemicycle": "76", 
     "prenom": "Jean-Yves", 
     "profession": "Agent de ma\u00eetrise", 
@@ -23211,9 +23248,9 @@
           ]
         }
       }, 
-      "favourites_count": 65, 
+      "favourites_count": 66, 
       "follow_request_sent": false, 
-      "followers_count": 677, 
+      "followers_count": 678, 
       "following": false, 
       "friends_count": 431, 
       "geo_enabled": false, 
@@ -23223,7 +23260,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 18, 
+      "listed_count": 19, 
       "location": "", 
       "name": "Michel Savin", 
       "notifications": false, 
@@ -23245,28 +23282,29 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Mon Jan 01 13:03:23 +0000 2018", 
+        "created_at": "Wed Jan 03 11:28:17 +0000 2018", 
         "entities": {
           "hashtags": [], 
           "symbols": [], 
-          "urls": [
+          "urls": [], 
+          "user_mentions": [
             {
-              "display_url": "twitter.com/i/web/status/9\u2026", 
-              "expanded_url": "https://twitter.com/i/web/status/947815518479831040", 
+              "id": 800815734163062785, 
+              "id_str": "800815734163062785", 
               "indices": [
-                116, 
-                139
+                3, 
+                17
               ], 
-              "url": "https://t.co/k2CiY1m5ZK"
+              "name": "Michel Savin", 
+              "screen_name": "MichelSavin38"
             }
-          ], 
-          "user_mentions": []
+          ]
         }, 
-        "favorite_count": 3, 
+        "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 947815518479831040, 
-        "id_str": "947815518479831040", 
+        "id": 948516361315250176, 
+        "id_str": "948516361315250176", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -23275,14 +23313,53 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "possibly_sensitive": false, 
-        "retweet_count": 3, 
+        "retweet_count": 4, 
         "retweeted": false, 
+        "retweeted_status": {
+          "contributors": null, 
+          "coordinates": null, 
+          "created_at": "Mon Jan 01 13:03:23 +0000 2018", 
+          "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [
+              {
+                "display_url": "twitter.com/i/web/status/9\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/947815518479831040", 
+                "indices": [
+                  116, 
+                  139
+                ], 
+                "url": "https://t.co/k2CiY1m5ZK"
+              }
+            ], 
+            "user_mentions": []
+          }, 
+          "favorite_count": 4, 
+          "favorited": false, 
+          "geo": null, 
+          "id": 947815518479831040, 
+          "id_str": "947815518479831040", 
+          "in_reply_to_screen_name": null, 
+          "in_reply_to_status_id": null, 
+          "in_reply_to_status_id_str": null, 
+          "in_reply_to_user_id": null, 
+          "in_reply_to_user_id_str": null, 
+          "is_quote_status": false, 
+          "lang": "fr", 
+          "place": null, 
+          "possibly_sensitive": false, 
+          "retweet_count": 4, 
+          "retweeted": false, 
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+          "text": "A toutes et \u00e0 tous, je vous pr\u00e9sente mes meilleurs v\u0153ux pour 2018 et vous souhaite le meilleur pour cette nouvelle\u2026 https://t.co/k2CiY1m5ZK", 
+          "truncated": true
+        }, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "A toutes et \u00e0 tous, je vous pr\u00e9sente mes meilleurs v\u0153ux pour 2018 et vous souhaite le meilleur pour cette nouvelle\u2026 https://t.co/k2CiY1m5ZK", 
-        "truncated": true
+        "text": "RT @MichelSavin38: A toutes et \u00e0 tous, je vous pr\u00e9sente mes meilleurs v\u0153ux pour 2018 et vous souhaite le meilleur pour cette nouvelle ann\u00e9e\u2026", 
+        "truncated": false
       }, 
-      "statuses_count": 498, 
+      "statuses_count": 499, 
       "time_zone": "Pacific Time (US & Canada)", 
       "translator_type": "none", 
       "url": "https://t.co/SPHu0HP1ca", 
@@ -23290,14 +23367,14 @@
       "verified": false
     }, 
     "twitter_description": "S\u00e9nateur #LR de l'Is\u00e8re - Pr\u00e9sident du groupe Pratiques sportives et les grands \u00e9v\u00e8nements sportifs #S\u00e9nat", 
-    "twitter_favourites": 65, 
-    "twitter_followers": 677, 
+    "twitter_favourites": 66, 
+    "twitter_followers": 678, 
     "twitter_following": 431, 
     "twitter_id": 800815734163062785, 
-    "twitter_listed": 18, 
+    "twitter_listed": 19, 
     "twitter_name": "Michel Savin", 
     "twitter_protected": false, 
-    "twitter_tweets": 498, 
+    "twitter_tweets": 499, 
     "twitter_verified": false, 
     "url_institution": "http://www.senat.fr/senateur/savin_michel11043h.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/michel-savin", 
@@ -23316,7 +23393,7 @@
     "nom_de_famille": "Schillinger", 
     "num_circo": "non disponible", 
     "num_deptmt": "68", 
-    "parti_ratt_financier": "Parti socialiste", 
+    "parti_ratt_financier": "En Marche !", 
     "place_en_hemicycle": "47", 
     "prenom": "Patricia", 
     "profession": "Aide soignante", 
@@ -23511,7 +23588,7 @@
     "nom_de_famille": "Sueur", 
     "num_circo": "non disponible", 
     "num_deptmt": "45", 
-    "parti_ratt_financier": "Parti socialiste", 
+    "parti_ratt_financier": "Parti Socialiste", 
     "place_en_hemicycle": "42", 
     "prenom": "Jean-Pierre", 
     "profession": "Ma\u00eetre de conf\u00e9rences \u00e0 l'universit\u00e9", 
@@ -23613,7 +23690,7 @@
     "nom_de_famille": "Sutour", 
     "num_circo": "non disponible", 
     "num_deptmt": "30", 
-    "parti_ratt_financier": "Parti socialiste", 
+    "parti_ratt_financier": "Parti Socialiste", 
     "place_en_hemicycle": "20", 
     "prenom": "Simon", 
     "profession": "Administrateur territorial", 
@@ -23814,7 +23891,7 @@
     "nom_de_famille": "Tourenne", 
     "num_circo": "non disponible", 
     "num_deptmt": "35", 
-    "parti_ratt_financier": "Parti socialiste", 
+    "parti_ratt_financier": "Parti Socialiste", 
     "place_en_hemicycle": "241", 
     "prenom": "Jean-Louis", 
     "profession": "Principal de coll\u00e8ge", 
@@ -24117,7 +24194,7 @@
     "nom_de_famille": "Vanlerenberghe", 
     "num_circo": "non disponible", 
     "num_deptmt": "62", 
-    "parti_ratt_financier": "Le Centre pour la France", 
+    "parti_ratt_financier": "Mouvement d\u00e9mocrate", 
     "place_en_hemicycle": "85", 
     "prenom": "Jean-Marie", 
     "profession": "Ing\u00e9nieur", 
@@ -24429,7 +24506,7 @@
     "nom_de_famille": "Vaugrenard", 
     "num_circo": "non disponible", 
     "num_deptmt": "44", 
-    "parti_ratt_financier": "Parti socialiste", 
+    "parti_ratt_financier": "Parti Socialiste", 
     "place_en_hemicycle": "150", 
     "prenom": "Yannick", 
     "profession": "Cadre bancaire", 
@@ -24820,7 +24897,7 @@
     "nom_de_famille": "Yung", 
     "num_circo": "non disponible", 
     "num_deptmt": "999", 
-    "parti_ratt_financier": "Parti socialiste", 
+    "parti_ratt_financier": "En Marche !", 
     "place_en_hemicycle": "46", 
     "prenom": "Richard", 
     "profession": "Directeur des affaires internationales de l'Office europ\u00e9en des brevets", 
