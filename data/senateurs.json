@@ -814,7 +814,7 @@
       }, 
       "favourites_count": 1404, 
       "follow_request_sent": false, 
-      "followers_count": 21473, 
+      "followers_count": 21479, 
       "following": false, 
       "friends_count": 2058, 
       "geo_enabled": true, 
@@ -863,7 +863,7 @@
           ], 
           "user_mentions": []
         }, 
-        "favorite_count": 26, 
+        "favorite_count": 65, 
         "favorited": false, 
         "geo": null, 
         "id": 951933734726635521, 
@@ -877,7 +877,7 @@
         "lang": "fr", 
         "place": null, 
         "possibly_sensitive": false, 
-        "retweet_count": 14, 
+        "retweet_count": 33, 
         "retweeted": false, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
         "text": "Bonne nouvelle pour l\u2019Europe https://t.co/90NPEscnMT", 
@@ -892,7 +892,7 @@
     }, 
     "twitter_description": "D\u00e9put\u00e9 europ\u00e9en, Pdt de la com. #BUDG fondateur de l'Alliance centriste #EnMarche, ancien ministre de l'\u00e9conomie et des finances https://t.co/fhOVDCyFu0", 
     "twitter_favourites": 1404, 
-    "twitter_followers": 21473, 
+    "twitter_followers": 21479, 
     "twitter_following": 2058, 
     "twitter_id": 110191018, 
     "twitter_listed": 690, 
@@ -3493,54 +3493,84 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Sun Jan 07 13:27:09 +0000 2018", 
+        "created_at": "Sat Jan 13 19:27:01 +0000 2018", 
         "entities": {
-          "hashtags": [
-            {
-              "indices": [
-                0, 
-                11
-              ], 
-              "text": "FranceGall"
-            }
-          ], 
+          "hashtags": [], 
           "symbols": [], 
-          "urls": [
+          "urls": [], 
+          "user_mentions": [
             {
-              "display_url": "twitter.com/i/web/status/9\u2026", 
-              "expanded_url": "https://twitter.com/i/web/status/949995825161228288", 
+              "id": 993016556, 
+              "id_str": "993016556", 
               "indices": [
-                117, 
-                140
+                3, 
+                17
               ], 
-              "url": "https://t.co/bzKp2Rmaya"
+              "name": "ULCO (officiel)", 
+              "screen_name": "Univ_Littoral"
             }
-          ], 
-          "user_mentions": []
+          ]
         }, 
-        "favorite_count": 8, 
+        "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 949995825161228288, 
-        "id_str": "949995825161228288", 
+        "id": 952260714214969344, 
+        "id_str": "952260714214969344", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
         "in_reply_to_user_id": null, 
         "in_reply_to_user_id_str": null, 
-        "is_quote_status": true, 
+        "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "possibly_sensitive": false, 
-        "quoted_status_id": 949989221825175553, 
-        "quoted_status_id_str": "949989221825175553", 
-        "retweet_count": 0, 
+        "retweet_count": 3, 
         "retweeted": false, 
+        "retweeted_status": {
+          "contributors": null, 
+          "coordinates": null, 
+          "created_at": "Fri Jan 12 09:56:09 +0000 2018", 
+          "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [
+              {
+                "display_url": "twitter.com/i/web/status/9\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/951754663313006592", 
+                "indices": [
+                  117, 
+                  140
+                ], 
+                "url": "https://t.co/EgZonTCfyr"
+              }
+            ], 
+            "user_mentions": []
+          }, 
+          "favorite_count": 3, 
+          "favorited": false, 
+          "geo": null, 
+          "id": 951754663313006592, 
+          "id_str": "951754663313006592", 
+          "in_reply_to_screen_name": null, 
+          "in_reply_to_status_id": null, 
+          "in_reply_to_status_id_str": null, 
+          "in_reply_to_user_id": null, 
+          "in_reply_to_user_id_str": null, 
+          "is_quote_status": false, 
+          "lang": "fr", 
+          "place": null, 
+          "possibly_sensitive": false, 
+          "retweet_count": 3, 
+          "retweeted": false, 
+          "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>", 
+          "text": "Inauguration du parking du centre universitaire de la Mi-Voix.\nVendredi 12 janvier 2018 \u00e0 14h30 // Centre Universit\u2026 https://t.co/EgZonTCfyr", 
+          "truncated": true
+        }, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "#FranceGall s\u2019en est all\u00e9e rejoindre le paradis blanc. Nous perdons avec \u00e9motion une idole dont les chansons ont ac\u2026 https://t.co/bzKp2Rmaya", 
-        "truncated": true
+        "text": "RT @Univ_Littoral: Inauguration du parking du centre universitaire de la Mi-Voix.\nVendredi 12 janvier 2018 \u00e0 14h30 // Centre Universitaire\u2026", 
+        "truncated": false
       }, 
-      "statuses_count": 6299, 
+      "statuses_count": 6300, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": null, 
@@ -3555,7 +3585,7 @@
     "twitter_listed": 159, 
     "twitter_name": "Natacha BOUCHART", 
     "twitter_protected": false, 
-    "twitter_tweets": 6299, 
+    "twitter_tweets": 6300, 
     "twitter_verified": false, 
     "url_institution": "http://www.senat.fr/senateur/bouchart_natacha11060j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/natacha-bouchart", 
@@ -5982,7 +6012,7 @@
       }, 
       "favourites_count": 165, 
       "follow_request_sent": false, 
-      "followers_count": 62348, 
+      "followers_count": 62353, 
       "following": false, 
       "friends_count": 710, 
       "geo_enabled": true, 
@@ -6100,7 +6130,7 @@
     }, 
     "twitter_description": "Ancien ministre. Pdt du club R\u00e9publique Moderne (@RepubliqueMod), de la Fondation Res Publica (@fondarespublica) et de la Fondation de l'Islam de France.", 
     "twitter_favourites": 165, 
-    "twitter_followers": 62348, 
+    "twitter_followers": 62353, 
     "twitter_following": 710, 
     "twitter_id": 57116930, 
     "twitter_listed": 1209, 
@@ -7017,7 +7047,7 @@
       }, 
       "favourites_count": 11, 
       "follow_request_sent": false, 
-      "followers_count": 503, 
+      "followers_count": 504, 
       "following": false, 
       "friends_count": 13, 
       "geo_enabled": false, 
@@ -7163,7 +7193,7 @@
     }, 
     "twitter_description": "Maire de @villedemacon pr\u00e9sident de la @_MBAgglo", 
     "twitter_favourites": 11, 
-    "twitter_followers": 503, 
+    "twitter_followers": 504, 
     "twitter_following": 13, 
     "twitter_id": 1479161936, 
     "twitter_listed": 34, 
@@ -8022,9 +8052,9 @@
           ]
         }
       }, 
-      "favourites_count": 2693, 
+      "favourites_count": 2701, 
       "follow_request_sent": false, 
-      "followers_count": 3278, 
+      "followers_count": 3281, 
       "following": false, 
       "friends_count": 2242, 
       "geo_enabled": true, 
@@ -8056,28 +8086,43 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Fri Jan 12 22:20:11 +0000 2018", 
+        "created_at": "Sat Jan 13 20:42:47 +0000 2018", 
         "entities": {
-          "hashtags": [], 
+          "hashtags": [
+            {
+              "indices": [
+                23, 
+                32
+              ], 
+              "text": "Preignac"
+            }, 
+            {
+              "indices": [
+                39, 
+                48
+              ], 
+              "text": "Toulenne"
+            }
+          ], 
           "symbols": [], 
           "urls": [
             {
               "display_url": "twitter.com/i/web/status/9\u2026", 
-              "expanded_url": "https://twitter.com/i/web/status/951941905457274880", 
+              "expanded_url": "https://twitter.com/i/web/status/952279785375485952", 
               "indices": [
                 117, 
                 140
               ], 
-              "url": "https://t.co/jTExW6jvQO"
+              "url": "https://t.co/fi40P5Gqgc"
             }
           ], 
           "user_mentions": []
         }, 
-        "favorite_count": 1, 
+        "favorite_count": 3, 
         "favorited": false, 
         "geo": null, 
-        "id": 951941905457274880, 
-        "id_str": "951941905457274880", 
+        "id": 952279785375485952, 
+        "id_str": "952279785375485952", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -8087,13 +8132,13 @@
         "lang": "fr", 
         "place": null, 
         "possibly_sensitive": false, 
-        "retweet_count": 2, 
+        "retweet_count": 0, 
         "retweeted": false, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "Visite des installations ostr\u00e9icoles de Talais avant une rencontre avec les \u00e9lus des communes de la pointe du M\u00e9doc\u2026 https://t.co/jTExW6jvQO", 
+        "text": "Aux v\u0153ux des maires de #Preignac et de #Toulenne, en soutien et reconnaissance de nos \u00e9lus locaux et aux communes \u00ab\u2026 https://t.co/fi40P5Gqgc", 
         "truncated": true
       }, 
-      "statuses_count": 2573, 
+      "statuses_count": 2575, 
       "time_zone": null, 
       "translator_type": "none", 
       "url": "https://t.co/HP3hXRopZr", 
@@ -8101,14 +8146,14 @@
       "verified": false
     }, 
     "twitter_description": "S\u00e9natrice de la #Gironde, Vice-pr\u00e9sidente de la commission des lois, conseill\u00e8re municipale de #Bordeaux, Secr\u00e9taire G\u00e9n\u00e9rale @PartiRadical #MouvementRadical", 
-    "twitter_favourites": 2693, 
-    "twitter_followers": 3278, 
+    "twitter_favourites": 2701, 
+    "twitter_followers": 3281, 
     "twitter_following": 2242, 
     "twitter_id": 1916605993, 
     "twitter_listed": 69, 
     "twitter_name": "Nathalie Delattre", 
     "twitter_protected": false, 
-    "twitter_tweets": 2573, 
+    "twitter_tweets": 2575, 
     "twitter_verified": false, 
     "url_institution": "http://www.senat.fr/senateur/delattre_nathalie19719d.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/nathalie-delattre", 
@@ -13642,9 +13687,9 @@
           ]
         }
       }, 
-      "favourites_count": 3924, 
+      "favourites_count": 3928, 
       "follow_request_sent": false, 
-      "followers_count": 3093, 
+      "followers_count": 3098, 
       "following": false, 
       "friends_count": 3857, 
       "geo_enabled": true, 
@@ -13676,95 +13721,54 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Fri Jan 12 11:22:12 +0000 2018", 
+        "created_at": "Sat Jan 13 15:51:55 +0000 2018", 
         "entities": {
           "hashtags": [], 
           "symbols": [], 
-          "urls": [
-            {
-              "display_url": "publicsenat.fr/article/politi\u2026", 
-              "expanded_url": "https://www.publicsenat.fr/article/politique/le-conseil-constitutionnel-censure-encore-une-disposition-de-l-etat-d-urgence", 
-              "indices": [
-                97, 
-                120
-              ], 
-              "url": "https://t.co/YxoTvJUaRB"
-            }
-          ], 
+          "urls": [], 
           "user_mentions": [
             {
-              "id": 40056514, 
-              "id_str": "40056514", 
+              "id": 910239715038810112, 
+              "id_str": "910239715038810112", 
               "indices": [
-                3, 
-                15
+                0, 
+                11
               ], 
-              "name": "Public S\u00e9nat", 
-              "screen_name": "publicsenat"
+              "name": "Etudiant de gauche lambda", 
+              "screen_name": "MatteoRblt"
+            }, 
+            {
+              "id": 1006325990, 
+              "id_str": "1006325990", 
+              "indices": [
+                12, 
+                25
+              ], 
+              "name": "Luc Carvounas", 
+              "screen_name": "luccarvounas"
             }
           ]
         }, 
         "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 951776319016177664, 
-        "id_str": "951776319016177664", 
-        "in_reply_to_screen_name": null, 
-        "in_reply_to_status_id": null, 
-        "in_reply_to_status_id_str": null, 
-        "in_reply_to_user_id": null, 
-        "in_reply_to_user_id_str": null, 
+        "id": 952206585329307648, 
+        "id_str": "952206585329307648", 
+        "in_reply_to_screen_name": "MatteoRblt", 
+        "in_reply_to_status_id": 952205051342225408, 
+        "in_reply_to_status_id_str": "952205051342225408", 
+        "in_reply_to_user_id": 910239715038810112, 
+        "in_reply_to_user_id_str": "910239715038810112", 
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "possibly_sensitive": false, 
-        "retweet_count": 24, 
+        "retweet_count": 0, 
         "retweeted": false, 
-        "retweeted_status": {
-          "contributors": null, 
-          "coordinates": null, 
-          "created_at": "Fri Jan 12 11:20:21 +0000 2018", 
-          "entities": {
-            "hashtags": [], 
-            "symbols": [], 
-            "urls": [
-              {
-                "display_url": "publicsenat.fr/article/politi\u2026", 
-                "expanded_url": "https://www.publicsenat.fr/article/politique/le-conseil-constitutionnel-censure-encore-une-disposition-de-l-etat-d-urgence", 
-                "indices": [
-                  80, 
-                  103
-                ], 
-                "url": "https://t.co/YxoTvJUaRB"
-              }
-            ], 
-            "user_mentions": []
-          }, 
-          "favorite_count": 17, 
-          "favorited": false, 
-          "geo": null, 
-          "id": 951775855646330880, 
-          "id_str": "951775855646330880", 
-          "in_reply_to_screen_name": null, 
-          "in_reply_to_status_id": null, 
-          "in_reply_to_status_id_str": null, 
-          "in_reply_to_user_id": null, 
-          "in_reply_to_user_id_str": null, 
-          "is_quote_status": false, 
-          "lang": "fr", 
-          "place": null, 
-          "possibly_sensitive": false, 
-          "retweet_count": 24, 
-          "retweeted": false, 
-          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-          "text": "Le Conseil constitutionnel censure (encore) une disposition de l\u2019\u00e9tat d\u2019urgence\nhttps://t.co/YxoTvJUaRB", 
-          "truncated": false
-        }, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "RT @publicsenat: Le Conseil constitutionnel censure (encore) une disposition de l\u2019\u00e9tat d\u2019urgence\nhttps://t.co/YxoTvJUaRB", 
+        "text": "@MatteoRblt @luccarvounas C\u2019est pour cela qu\u2019il faut s\u2019adresser aux \u00e9lecteurs, aux militants et pas aux appareils", 
         "truncated": false
       }, 
-      "statuses_count": 3085, 
+      "statuses_count": 3087, 
       "time_zone": "Amsterdam", 
       "translator_type": "none", 
       "url": "https://t.co/gFexPLosAM", 
@@ -13772,14 +13776,14 @@
       "verified": false
     }, 
     "twitter_description": "S\u00e9nateur des #HautsdeSeine \u2022 com affaires \u00e9conomiques \u2022 Premier Secr\u00e9taire du @PSfederation92 \u2022 Conseiller Municipal et territorial @villedesuresnes.", 
-    "twitter_favourites": 3924, 
-    "twitter_followers": 3093, 
+    "twitter_favourites": 3928, 
+    "twitter_followers": 3098, 
     "twitter_following": 3857, 
     "twitter_id": 1205524668, 
     "twitter_listed": 48, 
     "twitter_name": "Xavier IACOVELLI", 
     "twitter_protected": false, 
-    "twitter_tweets": 3085, 
+    "twitter_tweets": 3087, 
     "twitter_verified": false, 
     "url_institution": "http://www.senat.fr/senateur/iacovelli_xavier19591f.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/xavier-iacovelli", 
@@ -13940,7 +13944,7 @@
       }, 
       "favourites_count": 35, 
       "follow_request_sent": false, 
-      "followers_count": 984, 
+      "followers_count": 986, 
       "following": false, 
       "friends_count": 332, 
       "geo_enabled": false, 
@@ -14057,7 +14061,7 @@
     }, 
     "twitter_description": "Maire de Saint-Flour, Pr\u00e9sident des Maires du #Cantal, Comit\u00e9 des #Finances locales - #Collectivit\u00e9s territoriales #Urbanisme #Logement #D\u00e9veloppement durable", 
     "twitter_favourites": 35, 
-    "twitter_followers": 984, 
+    "twitter_followers": 986, 
     "twitter_following": 332, 
     "twitter_id": 2328417882, 
     "twitter_listed": 40, 
@@ -17609,7 +17613,7 @@
       }, 
       "favourites_count": 5, 
       "follow_request_sent": false, 
-      "followers_count": 3824, 
+      "followers_count": 3822, 
       "following": false, 
       "friends_count": 2340, 
       "geo_enabled": false, 
@@ -17675,7 +17679,7 @@
     }, 
     "twitter_description": "S\u00e9nateur honoraire-maire de Compi\u00e8gne , Pr\u00e9sident de l'agglom\u00e9ration de la r\u00e9gion de Compi\u00e8gne, Pr\u00e9sident de la commission des finances du S\u00e9nat.", 
     "twitter_favourites": 5, 
-    "twitter_followers": 3824, 
+    "twitter_followers": 3822, 
     "twitter_following": 2340, 
     "twitter_id": 1534099902, 
     "twitter_listed": 132, 
@@ -18977,9 +18981,9 @@
           ]
         }
       }, 
-      "favourites_count": 168, 
+      "favourites_count": 169, 
       "follow_request_sent": false, 
-      "followers_count": 364, 
+      "followers_count": 365, 
       "following": false, 
       "friends_count": 165, 
       "geo_enabled": false, 
@@ -19045,8 +19049,8 @@
       "verified": true
     }, 
     "twitter_description": "S\u00e9natrice Les R\u00e9publicains des Hautes-Alpes", 
-    "twitter_favourites": 168, 
-    "twitter_followers": 364, 
+    "twitter_favourites": 169, 
+    "twitter_followers": 365, 
     "twitter_following": 165, 
     "twitter_id": 3189823869, 
     "twitter_listed": 16, 
@@ -19671,7 +19675,7 @@
       }, 
       "favourites_count": 4, 
       "follow_request_sent": false, 
-      "followers_count": 459, 
+      "followers_count": 460, 
       "following": false, 
       "friends_count": 179, 
       "geo_enabled": false, 
@@ -19764,7 +19768,7 @@
     }, 
     "twitter_description": "S\u00e9nateur des Hauts-de-Seine (Communiste, r\u00e9publicain, citoyen et \u00e9cologiste). Conseiller d\u00e9partemental. Historien et arch\u00e9ologue", 
     "twitter_favourites": 4, 
-    "twitter_followers": 459, 
+    "twitter_followers": 460, 
     "twitter_following": 179, 
     "twitter_id": 4857624851, 
     "twitter_listed": 12, 
@@ -20325,11 +20329,11 @@
           ]
         }
       }, 
-      "favourites_count": 527, 
+      "favourites_count": 530, 
       "follow_request_sent": false, 
-      "followers_count": 512, 
+      "followers_count": 514, 
       "following": false, 
-      "friends_count": 371, 
+      "friends_count": 374, 
       "geo_enabled": false, 
       "has_extended_profile": true, 
       "id": 493045528, 
@@ -20359,28 +20363,47 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Fri Jan 12 17:50:57 +0000 2018", 
+        "created_at": "Sat Jan 13 15:19:44 +0000 2018", 
         "entities": {
-          "hashtags": [], 
+          "hashtags": [
+            {
+              "indices": [
+                6, 
+                15
+              ], 
+              "text": "Chemill\u00e9"
+            }
+          ], 
           "symbols": [], 
           "urls": [
             {
               "display_url": "twitter.com/i/web/status/9\u2026", 
-              "expanded_url": "https://twitter.com/i/web/status/951874151802966016", 
+              "expanded_url": "https://twitter.com/i/web/status/952198485591420929", 
               "indices": [
-                117, 
-                140
+                111, 
+                134
               ], 
-              "url": "https://t.co/wM0oeHthCn"
+              "url": "https://t.co/OIyFr7tUM5"
             }
           ], 
-          "user_mentions": []
+          "user_mentions": [
+            {
+              "id": 626721976, 
+              "id_str": "626721976", 
+              "indices": [
+                55, 
+                68
+              ], 
+              "name": "Didier Huchon", 
+              "screen_name": "didierhuchon"
+            }
+          ]
         }, 
-        "favorite_count": 5, 
+        "favorite_count": 4, 
         "favorited": false, 
         "geo": null, 
-        "id": 951874151802966016, 
-        "id_str": "951874151802966016", 
+        "id": 952198485591420929, 
+        "id_str": "952198485591420929", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -20389,14 +20412,13 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "possibly_sensitive": false, 
         "retweet_count": 5, 
         "retweeted": false, 
-        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-        "text": "Rencontre avec les maires de Segr\u00e9-en-Anjou bleu, Ombr\u00e9e d\u2019Anjou et Baug\u00e9-en-Anjou. Bilan de ces communes nouvelles\u2026 https://t.co/wM0oeHthCn", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "Apr\u00e8s #Chemill\u00e9-en-Anjou jeudi soir autour de C. Dil\u00e9, @didierhuchon et H. Martin, place aux voeux ce matin \u00e0\u2026 https://t.co/OIyFr7tUM5", 
         "truncated": true
       }, 
-      "statuses_count": 343, 
+      "statuses_count": 345, 
       "time_zone": "Pacific Time (US & Canada)", 
       "translator_type": "none", 
       "url": "https://t.co/Mq47zGgyMI", 
@@ -20404,14 +20426,14 @@
       "verified": true
     }, 
     "twitter_description": "S\u00e9nateur de Maine-et-Loire, membre de la com. Culture, Education et Communication, membre de l'#OPECST | Maire de Montreuil-Juign\u00e9", 
-    "twitter_favourites": 527, 
-    "twitter_followers": 512, 
-    "twitter_following": 371, 
+    "twitter_favourites": 530, 
+    "twitter_followers": 514, 
+    "twitter_following": 374, 
     "twitter_id": 493045528, 
     "twitter_listed": 20, 
     "twitter_name": "St\u00e9phane Piednoir", 
     "twitter_protected": false, 
-    "twitter_tweets": 343, 
+    "twitter_tweets": 345, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/piednoir_stephane19533u.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/stephane-piednoir", 
@@ -20555,9 +20577,9 @@
       }, 
       "favourites_count": 1805, 
       "follow_request_sent": false, 
-      "followers_count": 97609, 
+      "followers_count": 97640, 
       "following": false, 
-      "friends_count": 2447, 
+      "friends_count": 2446, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 219361536, 
@@ -20672,8 +20694,8 @@
     }, 
     "twitter_description": "Ancien Ministre. Ancien S\u00e9nateur. Conseiller r\u00e9gional d'\u00cele de France. Pr\u00e9sident de l' @UDE_FR", 
     "twitter_favourites": 1805, 
-    "twitter_followers": 97609, 
-    "twitter_following": 2447, 
+    "twitter_followers": 97640, 
+    "twitter_following": 2446, 
     "twitter_id": 219361536, 
     "twitter_listed": 995, 
     "twitter_name": "Jean-Vincent Plac\u00e9", 
@@ -22160,7 +22182,7 @@
       }, 
       "favourites_count": 82, 
       "follow_request_sent": false, 
-      "followers_count": 6102, 
+      "followers_count": 6108, 
       "following": false, 
       "friends_count": 484, 
       "geo_enabled": true, 
@@ -22278,7 +22300,7 @@
     }, 
     "twitter_description": "Maire de @Strasbourg", 
     "twitter_favourites": 82, 
-    "twitter_followers": 6102, 
+    "twitter_followers": 6108, 
     "twitter_following": 484, 
     "twitter_id": 281438650, 
     "twitter_listed": 254, 
@@ -22934,7 +22956,7 @@
       }, 
       "favourites_count": 67, 
       "follow_request_sent": false, 
-      "followers_count": 689, 
+      "followers_count": 692, 
       "following": false, 
       "friends_count": 436, 
       "geo_enabled": false, 
@@ -23141,7 +23163,7 @@
     }, 
     "twitter_description": "S\u00e9nateur #LR de l'Is\u00e8re - Pr\u00e9sident du groupe Pratiques sportives et les grands \u00e9v\u00e8nements sportifs #S\u00e9nat", 
     "twitter_favourites": 67, 
-    "twitter_followers": 689, 
+    "twitter_followers": 692, 
     "twitter_following": 436, 
     "twitter_id": 800815734163062785, 
     "twitter_listed": 19, 
