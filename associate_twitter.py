@@ -112,7 +112,7 @@ def store_one(twid, parl, slug):
             tw = twitterConn.users.show(screen_name=twid)
         except:
             return log("Could not get info on Twitter account https://twitter.com/%s" % twid, "warning")
-        log("Twitter account %s for %s found in urls but missing from list" % (twid.encode("utf-8"), parl['nom'].encode("utf-8")), "info")
+        #log("Twitter account %s for %s found in urls but missing from list" % (twid.encode("utf-8"), parl['nom'].encode("utf-8")), "info")
     parl['twitter'] = twid
     parl['twitter_data'] = tw
     goodparls.append(parl)
