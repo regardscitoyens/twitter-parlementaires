@@ -824,7 +824,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 688, 
+      "listed_count": 689, 
       "location": "Ch-Gontier/Bruxelles/Strasbrg", 
       "name": "Jean Arthuis", 
       "notifications": false, 
@@ -846,28 +846,39 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Fri Jan 26 13:16:48 +0000 2018", 
+        "created_at": "Sat Jan 27 13:38:58 +0000 2018", 
         "entities": {
           "hashtags": [], 
           "symbols": [], 
-          "urls": [
+          "urls": [], 
+          "user_mentions": [
             {
-              "display_url": "twitter.com/i/web/status/9\u2026", 
-              "expanded_url": "https://twitter.com/i/web/status/956878589676441600", 
+              "id": 773527911022399488, 
+              "id_str": "773527911022399488", 
               "indices": [
-                117, 
-                140
+                3, 
+                15
               ], 
-              "url": "https://t.co/Z5ACM13xGp"
+              "name": "EQUISTRATIS", 
+              "screen_name": "Equistratis"
+            }, 
+            {
+              "id": 110191018, 
+              "id_str": "110191018", 
+              "indices": [
+                32, 
+                44
+              ], 
+              "name": "Jean Arthuis", 
+              "screen_name": "JeanArthuis"
             }
-          ], 
-          "user_mentions": []
+          ]
         }, 
-        "favorite_count": 18, 
+        "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 956878589676441600, 
-        "id_str": "956878589676441600", 
+        "id": 957246554439585792, 
+        "id_str": "957246554439585792", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -876,14 +887,63 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "possibly_sensitive": false, 
-        "retweet_count": 14, 
+        "retweet_count": 10, 
         "retweeted": false, 
+        "retweeted_status": {
+          "contributors": null, 
+          "coordinates": null, 
+          "created_at": "Fri Jan 26 10:18:25 +0000 2018", 
+          "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [
+              {
+                "display_url": "twitter.com/i/web/status/9\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/956833696899850245", 
+                "indices": [
+                  117, 
+                  140
+                ], 
+                "url": "https://t.co/hLW9Y6YRlC"
+              }
+            ], 
+            "user_mentions": [
+              {
+                "id": 110191018, 
+                "id_str": "110191018", 
+                "indices": [
+                  15, 
+                  27
+                ], 
+                "name": "Jean Arthuis", 
+                "screen_name": "JeanArthuis"
+              }
+            ]
+          }, 
+          "favorite_count": 15, 
+          "favorited": false, 
+          "geo": null, 
+          "id": 956833696899850245, 
+          "id_str": "956833696899850245", 
+          "in_reply_to_screen_name": null, 
+          "in_reply_to_status_id": null, 
+          "in_reply_to_status_id_str": null, 
+          "in_reply_to_user_id": null, 
+          "in_reply_to_user_id_str": null, 
+          "is_quote_status": false, 
+          "lang": "fr", 
+          "place": null, 
+          "retweet_count": 10, 
+          "retweeted": false, 
+          "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+          "text": "Proposition de @JeanArthuis, invit\u00e9 d'honneur du GAET: \"que le PMU se recentre sur son coeur de m\u00e9tier, l'hippisme,\u2026 https://t.co/hLW9Y6YRlC", 
+          "truncated": true
+        }, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "Assembl\u00e9e du GAET (\u00e9leveurs de trotteurs). J\u2019ai plaid\u00e9 pour le rassemblement des acteurs de la fili\u00e8re \u00e9quine et l\u2019\u2026 https://t.co/Z5ACM13xGp", 
-        "truncated": true
+        "text": "RT @Equistratis: Proposition de @JeanArthuis, invit\u00e9 d'honneur du GAET: \"que le PMU se recentre sur son coeur de m\u00e9tier, l'hippisme, et s'\"\u2026", 
+        "truncated": false
       }, 
-      "statuses_count": 4081, 
+      "statuses_count": 4082, 
       "time_zone": "Amsterdam", 
       "translator_type": "none", 
       "url": "https://t.co/YhICpAOeW0", 
@@ -895,10 +955,10 @@
     "twitter_followers": 21573, 
     "twitter_following": 2081, 
     "twitter_id": 110191018, 
-    "twitter_listed": 688, 
+    "twitter_listed": 689, 
     "twitter_name": "Jean Arthuis", 
     "twitter_protected": false, 
-    "twitter_tweets": 4081, 
+    "twitter_tweets": 4082, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/arthuis_jean83011j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-arthuis", 
@@ -1192,7 +1252,7 @@
           ], 
           "user_mentions": []
         }, 
-        "favorite_count": 0, 
+        "favorite_count": 1, 
         "favorited": false, 
         "geo": null, 
         "id": 957191463372288001, 
@@ -1952,7 +2012,7 @@
           ]
         }
       }, 
-      "favourites_count": 2205, 
+      "favourites_count": 2206, 
       "follow_request_sent": false, 
       "followers_count": 1424, 
       "following": false, 
@@ -1986,111 +2046,29 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Fri Jan 26 23:23:08 +0000 2018", 
+        "created_at": "Sat Jan 27 18:23:41 +0000 2018", 
         "entities": {
-          "hashtags": [
-            {
-              "indices": [
-                14, 
-                20
-              ], 
-              "text": "Nyons"
-            }, 
-            {
-              "indices": [
-                73, 
-                90
-              ], 
-              "text": "AuchwitzBirkenau"
-            }
-          ], 
-          "media": [
-            {
-              "display_url": "pic.twitter.com/ZUtXU2Cwgg", 
-              "expanded_url": "https://twitter.com/bessonjean/status/957031180028833792/photo/1", 
-              "id": 957031176899846145, 
-              "id_str": "957031176899846145", 
-              "indices": [
-                110, 
-                133
-              ], 
-              "media_url": "http://pbs.twimg.com/media/DUgOyOoW4AEAW90.jpg", 
-              "media_url_https": "https://pbs.twimg.com/media/DUgOyOoW4AEAW90.jpg", 
-              "sizes": {
-                "large": {
-                  "h": 2048, 
-                  "resize": "fit", 
-                  "w": 2048
-                }, 
-                "medium": {
-                  "h": 1200, 
-                  "resize": "fit", 
-                  "w": 1200
-                }, 
-                "small": {
-                  "h": 680, 
-                  "resize": "fit", 
-                  "w": 680
-                }, 
-                "thumb": {
-                  "h": 150, 
-                  "resize": "crop", 
-                  "w": 150
-                }
-              }, 
-              "type": "photo", 
-              "url": "https://t.co/ZUtXU2Cwgg"
-            }
-          ], 
+          "hashtags": [], 
           "symbols": [], 
           "urls": [], 
-          "user_mentions": []
-        }, 
-        "extended_entities": {
-          "media": [
+          "user_mentions": [
             {
-              "display_url": "pic.twitter.com/ZUtXU2Cwgg", 
-              "expanded_url": "https://twitter.com/bessonjean/status/957031180028833792/photo/1", 
-              "id": 957031176899846145, 
-              "id_str": "957031176899846145", 
+              "id": 11694252, 
+              "id_str": "11694252", 
               "indices": [
-                110, 
-                133
+                3, 
+                17
               ], 
-              "media_url": "http://pbs.twimg.com/media/DUgOyOoW4AEAW90.jpg", 
-              "media_url_https": "https://pbs.twimg.com/media/DUgOyOoW4AEAW90.jpg", 
-              "sizes": {
-                "large": {
-                  "h": 2048, 
-                  "resize": "fit", 
-                  "w": 2048
-                }, 
-                "medium": {
-                  "h": 1200, 
-                  "resize": "fit", 
-                  "w": 1200
-                }, 
-                "small": {
-                  "h": 680, 
-                  "resize": "fit", 
-                  "w": 680
-                }, 
-                "thumb": {
-                  "h": 150, 
-                  "resize": "crop", 
-                  "w": 150
-                }
-              }, 
-              "type": "photo", 
-              "url": "https://t.co/ZUtXU2Cwgg"
+              "name": "G\u00e9rard Collomb", 
+              "screen_name": "gerardcollomb"
             }
           ]
         }, 
         "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 957031180028833792, 
-        "id_str": "957031180028833792", 
+        "id": 957318206288465926, 
+        "id_str": "957318206288465926", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -2099,14 +2077,86 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "possibly_sensitive": false, 
-        "retweet_count": 0, 
+        "retweet_count": 286, 
         "retweeted": false, 
+        "retweeted_status": {
+          "contributors": null, 
+          "coordinates": null, 
+          "created_at": "Fri Jan 26 11:30:53 +0000 2018", 
+          "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [
+              {
+                "display_url": "twitter.com/i/web/status/9\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/956851935075848192", 
+                "indices": [
+                  116, 
+                  139
+                ], 
+                "url": "https://t.co/5vRo9RP8Xb"
+              }
+            ], 
+            "user_mentions": []
+          }, 
+          "favorite_count": 674, 
+          "favorited": false, 
+          "geo": null, 
+          "id": 956851935075848192, 
+          "id_str": "956851935075848192", 
+          "in_reply_to_screen_name": null, 
+          "in_reply_to_status_id": null, 
+          "in_reply_to_status_id_str": null, 
+          "in_reply_to_user_id": null, 
+          "in_reply_to_user_id_str": null, 
+          "is_quote_status": false, 
+          "lang": "fr", 
+          "place": {
+            "attributes": {}, 
+            "bounding_box": {
+              "coordinates": [
+                [
+                  [
+                    4.7718312000000003, 
+                    45.707362600000003
+                  ], 
+                  [
+                    4.8983666000000001, 
+                    45.707362600000003
+                  ], 
+                  [
+                    4.8983666000000001, 
+                    45.808280000000003
+                  ], 
+                  [
+                    4.7718312000000003, 
+                    45.808280000000003
+                  ]
+                ]
+              ], 
+              "type": "Polygon"
+            }, 
+            "contained_within": [], 
+            "country": "France", 
+            "country_code": "FR", 
+            "full_name": "Lyon, France", 
+            "id": "179b8df9e368044d", 
+            "name": "Lyon", 
+            "place_type": "city", 
+            "url": "https://api.twitter.com/1.1/geo/id/179b8df9e368044d.json"
+          }, 
+          "possibly_sensitive": false, 
+          "retweet_count": 286, 
+          "retweeted": false, 
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+          "text": "Voyez, Monsieur Paul, ces centaines de chefs qui vous entourent ce matin.\nIls sont venus de Lyon, de tout le pays.\u2026 https://t.co/5vRo9RP8Xb", 
+          "truncated": true
+        }, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "C\u00e9l\u00e9bration \u00e0 #Nyons du 74\u00e8me anniversaire de la lib\u00e9ration des camps de #AuchwitzBirkenau Ne jamais oublier! https://t.co/ZUtXU2Cwgg", 
+        "text": "RT @gerardcollomb: Voyez, Monsieur Paul, ces centaines de chefs qui vous entourent ce matin.\nIls sont venus de Lyon, de tout le pays.\nIls s\u2026", 
         "truncated": false
       }, 
-      "statuses_count": 1626, 
+      "statuses_count": 1627, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": "https://t.co/cFrea9booe", 
@@ -2114,14 +2164,14 @@
       "verified": false
     }, 
     "twitter_description": "Jean BESSON, S\u00e9nateur Honoraire, Pr\u00e9sident d'@energiesded, Vice Pr\u00e9sident de la @fnccr, #Progressiste #Europhile", 
-    "twitter_favourites": 2205, 
+    "twitter_favourites": 2206, 
     "twitter_followers": 1424, 
     "twitter_following": 381, 
     "twitter_id": 78422142, 
     "twitter_listed": 82, 
     "twitter_name": "Jean BESSON", 
     "twitter_protected": false, 
-    "twitter_tweets": 1626, 
+    "twitter_tweets": 1627, 
     "twitter_verified": false, 
     "url_institution": "http://www.senat.fr/senateur/besson_jean89015p.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-besson", 
@@ -3268,7 +3318,7 @@
       }, 
       "favourites_count": 285, 
       "follow_request_sent": false, 
-      "followers_count": 4769, 
+      "followers_count": 4767, 
       "following": false, 
       "friends_count": 1057, 
       "geo_enabled": true, 
@@ -3278,7 +3328,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 158, 
+      "listed_count": 159, 
       "location": "Calais, France", 
       "name": "Natacha BOUCHART", 
       "notifications": false, 
@@ -3300,57 +3350,133 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Sat Jan 27 12:33:46 +0000 2018", 
+        "created_at": "Sun Jan 28 00:04:55 +0000 2018", 
         "entities": {
           "hashtags": [
             {
               "indices": [
-                93, 
-                100
+                112, 
+                116
               ], 
-              "text": "Calais"
+              "text": "AFP"
+            }
+          ], 
+          "media": [
+            {
+              "display_url": "pic.twitter.com/HeYLQAr7xU", 
+              "expanded_url": "https://twitter.com/afpfr/status/955385049595064321/photo/1", 
+              "id": 955383355838787584, 
+              "id_str": "955383355838787584", 
+              "indices": [
+                117, 
+                140
+              ], 
+              "media_url": "http://pbs.twimg.com/media/DUI0Ga0XcAAN68m.jpg", 
+              "media_url_https": "https://pbs.twimg.com/media/DUI0Ga0XcAAN68m.jpg", 
+              "sizes": {
+                "large": {
+                  "h": 507, 
+                  "resize": "fit", 
+                  "w": 1014
+                }, 
+                "medium": {
+                  "h": 507, 
+                  "resize": "fit", 
+                  "w": 1014
+                }, 
+                "small": {
+                  "h": 340, 
+                  "resize": "fit", 
+                  "w": 680
+                }, 
+                "thumb": {
+                  "h": 150, 
+                  "resize": "crop", 
+                  "w": 150
+                }
+              }, 
+              "source_status_id": 955385049595064321, 
+              "source_status_id_str": "955385049595064321", 
+              "source_user_id": 338985020, 
+              "source_user_id_str": "338985020", 
+              "type": "photo", 
+              "url": "https://t.co/HeYLQAr7xU"
             }
           ], 
           "symbols": [], 
           "urls": [
             {
-              "display_url": "vdn.lv/Urc86d", 
-              "expanded_url": "http://vdn.lv/Urc86d", 
+              "display_url": "u.afp.com/oZRy", 
+              "expanded_url": "http://u.afp.com/oZRy", 
               "indices": [
-                108, 
-                131
+                88, 
+                111
               ], 
-              "url": "https://t.co/NpndTHjsPL"
+              "url": "https://t.co/uyT3ax4Pfb"
             }
           ], 
           "user_mentions": [
             {
-              "id": 1524888602, 
-              "id_str": "1524888602", 
+              "id": 338985020, 
+              "id_str": "338985020", 
               "indices": [
                 3, 
-                13
+                9
               ], 
-              "name": "La Voix Calais", 
-              "screen_name": "VDNCalais"
-            }, 
+              "name": "Agence France-Presse", 
+              "screen_name": "afpfr"
+            }
+          ]
+        }, 
+        "extended_entities": {
+          "media": [
             {
-              "id": 551342517, 
-              "id_str": "551342517", 
+              "display_url": "pic.twitter.com/HeYLQAr7xU", 
+              "expanded_url": "https://twitter.com/afpfr/status/955385049595064321/photo/1", 
+              "id": 955383355838787584, 
+              "id_str": "955383355838787584", 
               "indices": [
-                15, 
-                31
+                117, 
+                140
               ], 
-              "name": "Natacha BOUCHART", 
-              "screen_name": "NatachaBouchart"
+              "media_url": "http://pbs.twimg.com/media/DUI0Ga0XcAAN68m.jpg", 
+              "media_url_https": "https://pbs.twimg.com/media/DUI0Ga0XcAAN68m.jpg", 
+              "sizes": {
+                "large": {
+                  "h": 507, 
+                  "resize": "fit", 
+                  "w": 1014
+                }, 
+                "medium": {
+                  "h": 507, 
+                  "resize": "fit", 
+                  "w": 1014
+                }, 
+                "small": {
+                  "h": 340, 
+                  "resize": "fit", 
+                  "w": 680
+                }, 
+                "thumb": {
+                  "h": 150, 
+                  "resize": "crop", 
+                  "w": 150
+                }
+              }, 
+              "source_status_id": 955385049595064321, 
+              "source_status_id_str": "955385049595064321", 
+              "source_user_id": 338985020, 
+              "source_user_id_str": "338985020", 
+              "type": "photo", 
+              "url": "https://t.co/HeYLQAr7xU"
             }
           ]
         }, 
         "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 957230150189494277, 
-        "id_str": "957230150189494277", 
+        "id": 957404082179923968, 
+        "id_str": "957404082179923968", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -3360,47 +3486,47 @@
         "lang": "fr", 
         "place": null, 
         "possibly_sensitive": false, 
-        "retweet_count": 2, 
+        "retweet_count": 210, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
           "coordinates": null, 
-          "created_at": "Sat Jan 27 11:14:51 +0000 2018", 
+          "created_at": "Mon Jan 22 10:22:00 +0000 2018", 
           "entities": {
             "hashtags": [
               {
                 "indices": [
-                  78, 
-                  85
+                  101, 
+                  105
                 ], 
-                "text": "Calais"
+                "text": "AFP"
               }
             ], 
             "media": [
               {
-                "display_url": "pic.twitter.com/vQDieKtfUO", 
-                "expanded_url": "https://twitter.com/VDNCalais/status/957210287547052032/photo/1", 
-                "id": 957210122543124480, 
-                "id_str": "957210122543124480", 
+                "display_url": "pic.twitter.com/HeYLQAr7xU", 
+                "expanded_url": "https://twitter.com/afpfr/status/955385049595064321/photo/1", 
+                "id": 955383355838787584, 
+                "id_str": "955383355838787584", 
                 "indices": [
-                  117, 
-                  140
+                  106, 
+                  129
                 ], 
-                "media_url": "http://pbs.twimg.com/media/DUixiPGXUAAslGy.jpg", 
-                "media_url_https": "https://pbs.twimg.com/media/DUixiPGXUAAslGy.jpg", 
+                "media_url": "http://pbs.twimg.com/media/DUI0Ga0XcAAN68m.jpg", 
+                "media_url_https": "https://pbs.twimg.com/media/DUI0Ga0XcAAN68m.jpg", 
                 "sizes": {
                   "large": {
-                    "h": 759, 
+                    "h": 507, 
                     "resize": "fit", 
-                    "w": 1350
+                    "w": 1014
                   }, 
                   "medium": {
-                    "h": 675, 
+                    "h": 507, 
                     "resize": "fit", 
-                    "w": 1200
+                    "w": 1014
                   }, 
                   "small": {
-                    "h": 382, 
+                    "h": 340, 
                     "resize": "fit", 
                     "w": 680
                   }, 
@@ -3411,60 +3537,49 @@
                   }
                 }, 
                 "type": "photo", 
-                "url": "https://t.co/vQDieKtfUO"
+                "url": "https://t.co/HeYLQAr7xU"
               }
             ], 
             "symbols": [], 
             "urls": [
               {
-                "display_url": "vdn.lv/Urc86d", 
-                "expanded_url": "http://vdn.lv/Urc86d", 
+                "display_url": "u.afp.com/oZRy", 
+                "expanded_url": "http://u.afp.com/oZRy", 
                 "indices": [
-                  93, 
-                  116
+                  77, 
+                  100
                 ], 
-                "url": "https://t.co/NpndTHjsPL"
+                "url": "https://t.co/uyT3ax4Pfb"
               }
             ], 
-            "user_mentions": [
-              {
-                "id": 551342517, 
-                "id_str": "551342517", 
-                "indices": [
-                  0, 
-                  16
-                ], 
-                "name": "Natacha BOUCHART", 
-                "screen_name": "NatachaBouchart"
-              }
-            ]
+            "user_mentions": []
           }, 
           "extended_entities": {
             "media": [
               {
-                "display_url": "pic.twitter.com/vQDieKtfUO", 
-                "expanded_url": "https://twitter.com/VDNCalais/status/957210287547052032/photo/1", 
-                "id": 957210122543124480, 
-                "id_str": "957210122543124480", 
+                "display_url": "pic.twitter.com/HeYLQAr7xU", 
+                "expanded_url": "https://twitter.com/afpfr/status/955385049595064321/photo/1", 
+                "id": 955383355838787584, 
+                "id_str": "955383355838787584", 
                 "indices": [
-                  117, 
-                  140
+                  106, 
+                  129
                 ], 
-                "media_url": "http://pbs.twimg.com/media/DUixiPGXUAAslGy.jpg", 
-                "media_url_https": "https://pbs.twimg.com/media/DUixiPGXUAAslGy.jpg", 
+                "media_url": "http://pbs.twimg.com/media/DUI0Ga0XcAAN68m.jpg", 
+                "media_url_https": "https://pbs.twimg.com/media/DUI0Ga0XcAAN68m.jpg", 
                 "sizes": {
                   "large": {
-                    "h": 759, 
+                    "h": 507, 
                     "resize": "fit", 
-                    "w": 1350
+                    "w": 1014
                   }, 
                   "medium": {
-                    "h": 675, 
+                    "h": 507, 
                     "resize": "fit", 
-                    "w": 1200
+                    "w": 1014
                   }, 
                   "small": {
-                    "h": 382, 
+                    "h": 340, 
                     "resize": "fit", 
                     "w": 680
                   }, 
@@ -3475,35 +3590,35 @@
                   }
                 }, 
                 "type": "photo", 
-                "url": "https://t.co/vQDieKtfUO"
+                "url": "https://t.co/HeYLQAr7xU"
               }
             ]
           }, 
-          "favorite_count": 2, 
+          "favorite_count": 323, 
           "favorited": false, 
           "geo": null, 
-          "id": 957210287547052032, 
-          "id_str": "957210287547052032", 
-          "in_reply_to_screen_name": "NatachaBouchart", 
+          "id": 955385049595064321, 
+          "id_str": "955385049595064321", 
+          "in_reply_to_screen_name": null, 
           "in_reply_to_status_id": null, 
           "in_reply_to_status_id_str": null, 
-          "in_reply_to_user_id": 551342517, 
-          "in_reply_to_user_id_str": "551342517", 
+          "in_reply_to_user_id": null, 
+          "in_reply_to_user_id_str": null, 
           "is_quote_status": false, 
           "lang": "fr", 
           "place": null, 
           "possibly_sensitive": false, 
-          "retweet_count": 2, 
+          "retweet_count": 210, 
           "retweeted": false, 
           "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
-          "text": "@NatachaBouchart , mod\u00e8le pour Signature F. et ambassadrice de la dentelle de #Calais\n\n=&gt; https://t.co/NpndTHjsPL https://t.co/vQDieKtfUO", 
+          "text": "Migrants : l'\u00e9crivain Yann Moix d\u00e9nonce \"un protocole de la bavure\" \u00e0 Calais https://t.co/uyT3ax4Pfb #AFP https://t.co/HeYLQAr7xU", 
           "truncated": false
         }, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "RT @VDNCalais: @NatachaBouchart , mod\u00e8le pour Signature F. et ambassadrice de la dentelle de #Calais\n\n=&gt; https://t.co/NpndTHjsPL https://t.\u2026", 
+        "text": "RT @afpfr: Migrants : l'\u00e9crivain Yann Moix d\u00e9nonce \"un protocole de la bavure\" \u00e0 Calais https://t.co/uyT3ax4Pfb #AFP https://t.co/HeYLQAr7xU", 
         "truncated": false
       }, 
-      "statuses_count": 6372, 
+      "statuses_count": 6373, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": null, 
@@ -3512,13 +3627,13 @@
     }, 
     "twitter_description": "Vice-Pr\u00e9sidente de la R\u00e9gion Hauts-de-France. Maire de #Calais, Pr\u00e9sidente de Grand Calais Terres & Mers", 
     "twitter_favourites": 285, 
-    "twitter_followers": 4769, 
+    "twitter_followers": 4767, 
     "twitter_following": 1057, 
     "twitter_id": 551342517, 
-    "twitter_listed": 158, 
+    "twitter_listed": 159, 
     "twitter_name": "Natacha BOUCHART", 
     "twitter_protected": false, 
-    "twitter_tweets": 6372, 
+    "twitter_tweets": 6373, 
     "twitter_verified": false, 
     "url_institution": "http://www.senat.fr/senateur/bouchart_natacha11060j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/natacha-bouchart", 
@@ -5945,7 +6060,7 @@
       }, 
       "favourites_count": 165, 
       "follow_request_sent": false, 
-      "followers_count": 62395, 
+      "followers_count": 62394, 
       "following": false, 
       "friends_count": 711, 
       "geo_enabled": true, 
@@ -6045,7 +6160,7 @@
     }, 
     "twitter_description": "Ancien ministre. Pdt du club R\u00e9publique Moderne (@RepubliqueMod), de la Fondation Res Publica (@fondarespublica) et de la Fondation de l'Islam de France.", 
     "twitter_favourites": 165, 
-    "twitter_followers": 62395, 
+    "twitter_followers": 62394, 
     "twitter_following": 711, 
     "twitter_id": 57116930, 
     "twitter_listed": 1207, 
@@ -6962,7 +7077,7 @@
       }, 
       "favourites_count": 11, 
       "follow_request_sent": false, 
-      "followers_count": 510, 
+      "followers_count": 509, 
       "following": false, 
       "friends_count": 13, 
       "geo_enabled": false, 
@@ -7040,7 +7155,7 @@
     }, 
     "twitter_description": "Maire de @villedemacon pr\u00e9sident de la @_MBAgglo", 
     "twitter_favourites": 11, 
-    "twitter_followers": 510, 
+    "twitter_followers": 509, 
     "twitter_following": 13, 
     "twitter_id": 1479161936, 
     "twitter_listed": 34, 
@@ -7901,7 +8016,7 @@
       }, 
       "favourites_count": 2768, 
       "follow_request_sent": false, 
-      "followers_count": 3337, 
+      "followers_count": 3339, 
       "following": false, 
       "friends_count": 2273, 
       "geo_enabled": true, 
@@ -7958,7 +8073,7 @@
           ], 
           "user_mentions": []
         }, 
-        "favorite_count": 9, 
+        "favorite_count": 13, 
         "favorited": false, 
         "geo": null, 
         "id": 957017334652325888, 
@@ -7972,7 +8087,7 @@
         "lang": "fr", 
         "place": null, 
         "possibly_sensitive": false, 
-        "retweet_count": 1, 
+        "retweet_count": 4, 
         "retweeted": false, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
         "text": "\u00c9mouvante c\u00e9r\u00e9monie de v\u0153ux \u00e0 #Sauveterre-de-Guyenne o\u00f9 les 1ers acteurs sont la population r\u00e9compens\u00e9e par une \u00e9qu\u2026 https://t.co/G6oTA7NYEc", 
@@ -7987,7 +8102,7 @@
     }, 
     "twitter_description": "S\u00e9natrice de la #Gironde, Vice-pr\u00e9sidente de la commission des lois, conseill\u00e8re municipale de #Bordeaux, Secr\u00e9taire G\u00e9n\u00e9rale @PartiRadical #MouvementRadical", 
     "twitter_favourites": 2768, 
-    "twitter_followers": 3337, 
+    "twitter_followers": 3339, 
     "twitter_following": 2273, 
     "twitter_id": 1916605993, 
     "twitter_listed": 69, 
@@ -12483,7 +12598,7 @@
       }, 
       "favourites_count": 7, 
       "follow_request_sent": false, 
-      "followers_count": 112, 
+      "followers_count": 113, 
       "following": false, 
       "friends_count": 241, 
       "geo_enabled": false, 
@@ -12601,7 +12716,7 @@
     }, 
     "twitter_description": "Michelle GREAUME S\u00e9natrice du Nord", 
     "twitter_favourites": 7, 
-    "twitter_followers": 112, 
+    "twitter_followers": 113, 
     "twitter_following": 241, 
     "twitter_id": 922403735812403200, 
     "twitter_listed": 4, 
@@ -13470,9 +13585,9 @@
           ]
         }
       }, 
-      "favourites_count": 4042, 
+      "favourites_count": 4044, 
       "follow_request_sent": false, 
-      "followers_count": 3165, 
+      "followers_count": 3162, 
       "following": false, 
       "friends_count": 3943, 
       "geo_enabled": true, 
@@ -13504,57 +13619,557 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Fri Jan 26 20:04:40 +0000 2018", 
+        "created_at": "Sat Jan 27 23:55:40 +0000 2018", 
         "entities": {
-          "hashtags": [], 
-          "symbols": [], 
-          "urls": [
+          "hashtags": [
             {
-              "display_url": "twitter.com/i/web/status/9\u2026", 
-              "expanded_url": "https://twitter.com/i/web/status/956981233434681350", 
               "indices": [
-                117, 
-                140
+                75, 
+                85
               ], 
-              "url": "https://t.co/JqqBQzOeVy"
+              "text": "Voeux2018"
             }
           ], 
+          "media": [
+            {
+              "display_url": "pic.twitter.com/UYTBFtkRMw", 
+              "expanded_url": "https://twitter.com/fabiennegambiez/status/957373730409328640/photo/1", 
+              "id": 957373591854690304, 
+              "id_str": "957373591854690304", 
+              "indices": [
+                95, 
+                118
+              ], 
+              "media_url": "http://pbs.twimg.com/media/DUlGNZvWsAAPAgC.jpg", 
+              "media_url_https": "https://pbs.twimg.com/media/DUlGNZvWsAAPAgC.jpg", 
+              "sizes": {
+                "large": {
+                  "h": 2048, 
+                  "resize": "fit", 
+                  "w": 1536
+                }, 
+                "medium": {
+                  "h": 1200, 
+                  "resize": "fit", 
+                  "w": 900
+                }, 
+                "small": {
+                  "h": 680, 
+                  "resize": "fit", 
+                  "w": 510
+                }, 
+                "thumb": {
+                  "h": 150, 
+                  "resize": "crop", 
+                  "w": 150
+                }
+              }, 
+              "source_status_id": 957373730409328640, 
+              "source_status_id_str": "957373730409328640", 
+              "source_user_id": 504625171, 
+              "source_user_id_str": "504625171", 
+              "type": "photo", 
+              "url": "https://t.co/UYTBFtkRMw"
+            }
+          ], 
+          "symbols": [], 
+          "urls": [], 
           "user_mentions": [
             {
-              "id": 125941712, 
-              "id_str": "125941712", 
+              "id": 504625171, 
+              "id_str": "504625171", 
               "indices": [
-                80, 
-                91
+                3, 
+                19
               ], 
-              "name": "Association Aurore", 
-              "screen_name": "AssoAurore"
+              "name": "fabiennegambiez", 
+              "screen_name": "fabiennegambiez"
+            }, 
+            {
+              "id": 1139223050, 
+              "id_str": "1139223050", 
+              "indices": [
+                58, 
+                73
+              ], 
+              "name": "PartiSocialiste92", 
+              "screen_name": "PSfederation92"
+            }, 
+            {
+              "id": 2365629494, 
+              "id_str": "2365629494", 
+              "indices": [
+                86, 
+                94
+              ], 
+              "name": "UDESR92", 
+              "screen_name": "UDESR92"
             }
           ]
         }, 
-        "favorite_count": 7, 
+        "extended_entities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/UYTBFtkRMw", 
+              "expanded_url": "https://twitter.com/fabiennegambiez/status/957373730409328640/photo/1", 
+              "id": 957373591854690304, 
+              "id_str": "957373591854690304", 
+              "indices": [
+                95, 
+                118
+              ], 
+              "media_url": "http://pbs.twimg.com/media/DUlGNZvWsAAPAgC.jpg", 
+              "media_url_https": "https://pbs.twimg.com/media/DUlGNZvWsAAPAgC.jpg", 
+              "sizes": {
+                "large": {
+                  "h": 2048, 
+                  "resize": "fit", 
+                  "w": 1536
+                }, 
+                "medium": {
+                  "h": 1200, 
+                  "resize": "fit", 
+                  "w": 900
+                }, 
+                "small": {
+                  "h": 680, 
+                  "resize": "fit", 
+                  "w": 510
+                }, 
+                "thumb": {
+                  "h": 150, 
+                  "resize": "crop", 
+                  "w": 150
+                }
+              }, 
+              "source_status_id": 957373730409328640, 
+              "source_status_id_str": "957373730409328640", 
+              "source_user_id": 504625171, 
+              "source_user_id_str": "504625171", 
+              "type": "photo", 
+              "url": "https://t.co/UYTBFtkRMw"
+            }, 
+            {
+              "display_url": "pic.twitter.com/UYTBFtkRMw", 
+              "expanded_url": "https://twitter.com/fabiennegambiez/status/957373730409328640/photo/1", 
+              "id": 957373621902696448, 
+              "id_str": "957373621902696448", 
+              "indices": [
+                95, 
+                118
+              ], 
+              "media_url": "http://pbs.twimg.com/media/DUlGPJrW4AABk-x.jpg", 
+              "media_url_https": "https://pbs.twimg.com/media/DUlGPJrW4AABk-x.jpg", 
+              "sizes": {
+                "large": {
+                  "h": 2048, 
+                  "resize": "fit", 
+                  "w": 1536
+                }, 
+                "medium": {
+                  "h": 1200, 
+                  "resize": "fit", 
+                  "w": 900
+                }, 
+                "small": {
+                  "h": 680, 
+                  "resize": "fit", 
+                  "w": 510
+                }, 
+                "thumb": {
+                  "h": 150, 
+                  "resize": "crop", 
+                  "w": 150
+                }
+              }, 
+              "source_status_id": 957373730409328640, 
+              "source_status_id_str": "957373730409328640", 
+              "source_user_id": 504625171, 
+              "source_user_id_str": "504625171", 
+              "type": "photo", 
+              "url": "https://t.co/UYTBFtkRMw"
+            }, 
+            {
+              "display_url": "pic.twitter.com/UYTBFtkRMw", 
+              "expanded_url": "https://twitter.com/fabiennegambiez/status/957373730409328640/photo/1", 
+              "id": 957373649736097794, 
+              "id_str": "957373649736097794", 
+              "indices": [
+                95, 
+                118
+              ], 
+              "media_url": "http://pbs.twimg.com/media/DUlGQxXW4AIye2h.jpg", 
+              "media_url_https": "https://pbs.twimg.com/media/DUlGQxXW4AIye2h.jpg", 
+              "sizes": {
+                "large": {
+                  "h": 2048, 
+                  "resize": "fit", 
+                  "w": 1536
+                }, 
+                "medium": {
+                  "h": 1200, 
+                  "resize": "fit", 
+                  "w": 900
+                }, 
+                "small": {
+                  "h": 680, 
+                  "resize": "fit", 
+                  "w": 510
+                }, 
+                "thumb": {
+                  "h": 150, 
+                  "resize": "crop", 
+                  "w": 150
+                }
+              }, 
+              "source_status_id": 957373730409328640, 
+              "source_status_id_str": "957373730409328640", 
+              "source_user_id": 504625171, 
+              "source_user_id_str": "504625171", 
+              "type": "photo", 
+              "url": "https://t.co/UYTBFtkRMw"
+            }, 
+            {
+              "display_url": "pic.twitter.com/UYTBFtkRMw", 
+              "expanded_url": "https://twitter.com/fabiennegambiez/status/957373730409328640/photo/1", 
+              "id": 957373679549239297, 
+              "id_str": "957373679549239297", 
+              "indices": [
+                95, 
+                118
+              ], 
+              "media_url": "http://pbs.twimg.com/media/DUlGSgbXUAEVXNd.jpg", 
+              "media_url_https": "https://pbs.twimg.com/media/DUlGSgbXUAEVXNd.jpg", 
+              "sizes": {
+                "large": {
+                  "h": 2048, 
+                  "resize": "fit", 
+                  "w": 1536
+                }, 
+                "medium": {
+                  "h": 1200, 
+                  "resize": "fit", 
+                  "w": 900
+                }, 
+                "small": {
+                  "h": 680, 
+                  "resize": "fit", 
+                  "w": 510
+                }, 
+                "thumb": {
+                  "h": 150, 
+                  "resize": "crop", 
+                  "w": 150
+                }
+              }, 
+              "source_status_id": 957373730409328640, 
+              "source_status_id_str": "957373730409328640", 
+              "source_user_id": 504625171, 
+              "source_user_id_str": "504625171", 
+              "type": "photo", 
+              "url": "https://t.co/UYTBFtkRMw"
+            }
+          ]
+        }, 
+        "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 956981233434681350, 
-        "id_str": "956981233434681350", 
+        "id": 957401755138117633, 
+        "id_str": "957401755138117633", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
         "in_reply_to_user_id": null, 
         "in_reply_to_user_id_str": null, 
-        "is_quote_status": true, 
+        "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
         "possibly_sensitive": false, 
-        "quoted_status_id": 956975298939052032, 
-        "quoted_status_id_str": "956975298939052032", 
-        "retweet_count": 4, 
+        "retweet_count": 3, 
         "retweeted": false, 
+        "retweeted_status": {
+          "contributors": null, 
+          "coordinates": null, 
+          "created_at": "Sat Jan 27 22:04:19 +0000 2018", 
+          "entities": {
+            "hashtags": [
+              {
+                "indices": [
+                  54, 
+                  64
+                ], 
+                "text": "Voeux2018"
+              }
+            ], 
+            "media": [
+              {
+                "display_url": "pic.twitter.com/UYTBFtkRMw", 
+                "expanded_url": "https://twitter.com/fabiennegambiez/status/957373730409328640/photo/1", 
+                "id": 957373591854690304, 
+                "id_str": "957373591854690304", 
+                "indices": [
+                  74, 
+                  97
+                ], 
+                "media_url": "http://pbs.twimg.com/media/DUlGNZvWsAAPAgC.jpg", 
+                "media_url_https": "https://pbs.twimg.com/media/DUlGNZvWsAAPAgC.jpg", 
+                "sizes": {
+                  "large": {
+                    "h": 2048, 
+                    "resize": "fit", 
+                    "w": 1536
+                  }, 
+                  "medium": {
+                    "h": 1200, 
+                    "resize": "fit", 
+                    "w": 900
+                  }, 
+                  "small": {
+                    "h": 680, 
+                    "resize": "fit", 
+                    "w": 510
+                  }, 
+                  "thumb": {
+                    "h": 150, 
+                    "resize": "crop", 
+                    "w": 150
+                  }
+                }, 
+                "type": "photo", 
+                "url": "https://t.co/UYTBFtkRMw"
+              }
+            ], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": [
+              {
+                "id": 1139223050, 
+                "id_str": "1139223050", 
+                "indices": [
+                  37, 
+                  52
+                ], 
+                "name": "PartiSocialiste92", 
+                "screen_name": "PSfederation92"
+              }, 
+              {
+                "id": 2365629494, 
+                "id_str": "2365629494", 
+                "indices": [
+                  65, 
+                  73
+                ], 
+                "name": "UDESR92", 
+                "screen_name": "UDESR92"
+              }
+            ]
+          }, 
+          "extended_entities": {
+            "media": [
+              {
+                "display_url": "pic.twitter.com/UYTBFtkRMw", 
+                "expanded_url": "https://twitter.com/fabiennegambiez/status/957373730409328640/photo/1", 
+                "id": 957373591854690304, 
+                "id_str": "957373591854690304", 
+                "indices": [
+                  74, 
+                  97
+                ], 
+                "media_url": "http://pbs.twimg.com/media/DUlGNZvWsAAPAgC.jpg", 
+                "media_url_https": "https://pbs.twimg.com/media/DUlGNZvWsAAPAgC.jpg", 
+                "sizes": {
+                  "large": {
+                    "h": 2048, 
+                    "resize": "fit", 
+                    "w": 1536
+                  }, 
+                  "medium": {
+                    "h": 1200, 
+                    "resize": "fit", 
+                    "w": 900
+                  }, 
+                  "small": {
+                    "h": 680, 
+                    "resize": "fit", 
+                    "w": 510
+                  }, 
+                  "thumb": {
+                    "h": 150, 
+                    "resize": "crop", 
+                    "w": 150
+                  }
+                }, 
+                "type": "photo", 
+                "url": "https://t.co/UYTBFtkRMw"
+              }, 
+              {
+                "display_url": "pic.twitter.com/UYTBFtkRMw", 
+                "expanded_url": "https://twitter.com/fabiennegambiez/status/957373730409328640/photo/1", 
+                "id": 957373621902696448, 
+                "id_str": "957373621902696448", 
+                "indices": [
+                  74, 
+                  97
+                ], 
+                "media_url": "http://pbs.twimg.com/media/DUlGPJrW4AABk-x.jpg", 
+                "media_url_https": "https://pbs.twimg.com/media/DUlGPJrW4AABk-x.jpg", 
+                "sizes": {
+                  "large": {
+                    "h": 2048, 
+                    "resize": "fit", 
+                    "w": 1536
+                  }, 
+                  "medium": {
+                    "h": 1200, 
+                    "resize": "fit", 
+                    "w": 900
+                  }, 
+                  "small": {
+                    "h": 680, 
+                    "resize": "fit", 
+                    "w": 510
+                  }, 
+                  "thumb": {
+                    "h": 150, 
+                    "resize": "crop", 
+                    "w": 150
+                  }
+                }, 
+                "type": "photo", 
+                "url": "https://t.co/UYTBFtkRMw"
+              }, 
+              {
+                "display_url": "pic.twitter.com/UYTBFtkRMw", 
+                "expanded_url": "https://twitter.com/fabiennegambiez/status/957373730409328640/photo/1", 
+                "id": 957373649736097794, 
+                "id_str": "957373649736097794", 
+                "indices": [
+                  74, 
+                  97
+                ], 
+                "media_url": "http://pbs.twimg.com/media/DUlGQxXW4AIye2h.jpg", 
+                "media_url_https": "https://pbs.twimg.com/media/DUlGQxXW4AIye2h.jpg", 
+                "sizes": {
+                  "large": {
+                    "h": 2048, 
+                    "resize": "fit", 
+                    "w": 1536
+                  }, 
+                  "medium": {
+                    "h": 1200, 
+                    "resize": "fit", 
+                    "w": 900
+                  }, 
+                  "small": {
+                    "h": 680, 
+                    "resize": "fit", 
+                    "w": 510
+                  }, 
+                  "thumb": {
+                    "h": 150, 
+                    "resize": "crop", 
+                    "w": 150
+                  }
+                }, 
+                "type": "photo", 
+                "url": "https://t.co/UYTBFtkRMw"
+              }, 
+              {
+                "display_url": "pic.twitter.com/UYTBFtkRMw", 
+                "expanded_url": "https://twitter.com/fabiennegambiez/status/957373730409328640/photo/1", 
+                "id": 957373679549239297, 
+                "id_str": "957373679549239297", 
+                "indices": [
+                  74, 
+                  97
+                ], 
+                "media_url": "http://pbs.twimg.com/media/DUlGSgbXUAEVXNd.jpg", 
+                "media_url_https": "https://pbs.twimg.com/media/DUlGSgbXUAEVXNd.jpg", 
+                "sizes": {
+                  "large": {
+                    "h": 2048, 
+                    "resize": "fit", 
+                    "w": 1536
+                  }, 
+                  "medium": {
+                    "h": 1200, 
+                    "resize": "fit", 
+                    "w": 900
+                  }, 
+                  "small": {
+                    "h": 680, 
+                    "resize": "fit", 
+                    "w": 510
+                  }, 
+                  "thumb": {
+                    "h": 150, 
+                    "resize": "crop", 
+                    "w": 150
+                  }
+                }, 
+                "type": "photo", 
+                "url": "https://t.co/UYTBFtkRMw"
+              }
+            ]
+          }, 
+          "favorite_count": 5, 
+          "favorited": false, 
+          "geo": null, 
+          "id": 957373730409328640, 
+          "id_str": "957373730409328640", 
+          "in_reply_to_screen_name": null, 
+          "in_reply_to_status_id": null, 
+          "in_reply_to_status_id_str": null, 
+          "in_reply_to_user_id": null, 
+          "in_reply_to_user_id_str": null, 
+          "is_quote_status": false, 
+          "lang": "fr", 
+          "place": {
+            "attributes": {}, 
+            "bounding_box": {
+              "coordinates": [
+                [
+                  [
+                    2.1687843999999998, 
+                    48.8742071
+                  ], 
+                  [
+                    2.2343696, 
+                    48.8742071
+                  ], 
+                  [
+                    2.2343696, 
+                    48.9205726
+                  ], 
+                  [
+                    2.1687843999999998, 
+                    48.9205726
+                  ]
+                ]
+              ], 
+              "type": "Polygon"
+            }, 
+            "contained_within": [], 
+            "country": "France", 
+            "country_code": "FR", 
+            "full_name": "Nanterre, France", 
+            "id": "79501ff93a482e01", 
+            "name": "Nanterre", 
+            "place_type": "city", 
+            "url": "https://api.twitter.com/1.1/geo/id/79501ff93a482e01.json"
+          }, 
+          "possibly_sensitive": false, 
+          "retweet_count": 3, 
+          "retweeted": false, 
+          "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+          "text": "Presente a la ceremonie des voeux du @PSfederation92  #Voeux2018 @UDESR92 https://t.co/UYTBFtkRMw", 
+          "truncated": false
+        }, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "Tout mon soutien pour l\u2019ouverture de ce centre d\u2019h\u00e9bergement d\u2019urgence g\u00e9r\u00e9 par @AssoAurore pour permettre aux publ\u2026 https://t.co/JqqBQzOeVy", 
-        "truncated": true
+        "text": "RT @fabiennegambiez: Presente a la ceremonie des voeux du @PSfederation92  #Voeux2018 @UDESR92 https://t.co/UYTBFtkRMw", 
+        "truncated": false
       }, 
-      "statuses_count": 3155, 
+      "statuses_count": 3157, 
       "time_zone": "Amsterdam", 
       "translator_type": "none", 
       "url": "https://t.co/gFexPLosAM", 
@@ -13562,14 +14177,14 @@
       "verified": false
     }, 
     "twitter_description": "S\u00e9nateur des #HautsdeSeine \u2022 com affaires \u00e9conomiques \u2022 Premier Secr\u00e9taire du @PSfederation92 \u2022 Conseiller Municipal et territorial @villedesuresnes.", 
-    "twitter_favourites": 4042, 
-    "twitter_followers": 3165, 
+    "twitter_favourites": 4044, 
+    "twitter_followers": 3162, 
     "twitter_following": 3943, 
     "twitter_id": 1205524668, 
     "twitter_listed": 49, 
     "twitter_name": "Xavier IACOVELLI", 
     "twitter_protected": false, 
-    "twitter_tweets": 3155, 
+    "twitter_tweets": 3157, 
     "twitter_verified": false, 
     "url_institution": "http://www.senat.fr/senateur/iacovelli_xavier19591f.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/xavier-iacovelli", 
@@ -17576,7 +18191,7 @@
       }, 
       "favourites_count": 103, 
       "follow_request_sent": false, 
-      "followers_count": 673, 
+      "followers_count": 675, 
       "following": false, 
       "friends_count": 228, 
       "geo_enabled": false, 
@@ -17731,7 +18346,7 @@
     }, 
     "twitter_description": "S\u00e9nateur des Hauts-de-Seine, Pr\u00e9sident du groupe Union centriste @UC_Senat Conseiller municipal de Meudon", 
     "twitter_favourites": 103, 
-    "twitter_followers": 673, 
+    "twitter_followers": 675, 
     "twitter_following": 228, 
     "twitter_id": 884772861524807681, 
     "twitter_listed": 22, 
@@ -19627,7 +20242,7 @@
       }, 
       "favourites_count": 4, 
       "follow_request_sent": false, 
-      "followers_count": 496, 
+      "followers_count": 498, 
       "following": false, 
       "friends_count": 182, 
       "geo_enabled": false, 
@@ -19659,63 +20274,46 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Fri Jan 26 16:09:21 +0000 2018", 
+        "created_at": "Sat Jan 27 19:50:20 +0000 2018", 
         "entities": {
-          "hashtags": [
-            {
-              "indices": [
-                68, 
-                79
-              ], 
-              "text": "Parcoursup"
-            }
-          ], 
+          "hashtags": [], 
           "symbols": [], 
           "urls": [
             {
-              "display_url": "publicsenat.fr/article/politi\u2026", 
-              "expanded_url": "https://www.publicsenat.fr/article/politique/parcoursup-les-senateurs-communistes-contre-attaquent-81959#.WmtR_BrlxwU.twitter", 
+              "display_url": "twitter.com/i/web/status/9\u2026", 
+              "expanded_url": "https://twitter.com/i/web/status/957340012986753024", 
               "indices": [
-                98, 
-                121
+                117, 
+                140
               ], 
-              "url": "https://t.co/JOrIs8eWjY"
+              "url": "https://t.co/d2l2cKFIv1"
             }
           ], 
-          "user_mentions": [
-            {
-              "id": 40056514, 
-              "id_str": "40056514", 
-              "indices": [
-                85, 
-                97
-              ], 
-              "name": "Public S\u00e9nat", 
-              "screen_name": "publicsenat"
-            }
-          ]
+          "user_mentions": []
         }, 
-        "favorite_count": 14, 
+        "favorite_count": 4, 
         "favorited": false, 
         "geo": null, 
-        "id": 956922012794007552, 
-        "id_str": "956922012794007552", 
+        "id": 957340012986753024, 
+        "id_str": "957340012986753024", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
         "in_reply_to_user_id": null, 
         "in_reply_to_user_id_str": null, 
-        "is_quote_status": false, 
+        "is_quote_status": true, 
         "lang": "fr", 
         "place": null, 
         "possibly_sensitive": false, 
-        "retweet_count": 13, 
+        "quoted_status_id": 957312277576740864, 
+        "quoted_status_id_str": "957312277576740864", 
+        "retweet_count": 6, 
         "retweeted": false, 
-        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "Recours au Conseil d\u2019\u00c9tat pour la suspension de l\u2019arr\u00eat\u00e9 instaurant #Parcoursup. Sur @publicsenat https://t.co/JOrIs8eWjY", 
-        "truncated": false
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "Aux c\u00f4t\u00e9s des salari\u00e9s de Carrefour \u00e0 Bourg-la-Reine ce matin, mobilis\u00e9s pour d\u00e9noncer la d\u00e9gradation de leurs cond\u2026 https://t.co/d2l2cKFIv1", 
+        "truncated": true
       }, 
-      "statuses_count": 364, 
+      "statuses_count": 365, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": "https://t.co/VNR2hMYANP", 
@@ -19724,13 +20322,13 @@
     }, 
     "twitter_description": "S\u00e9nateur des Hauts-de-Seine (Communiste, r\u00e9publicain, citoyen et \u00e9cologiste). Conseiller d\u00e9partemental. Historien et arch\u00e9ologue", 
     "twitter_favourites": 4, 
-    "twitter_followers": 496, 
+    "twitter_followers": 498, 
     "twitter_following": 182, 
     "twitter_id": 4857624851, 
     "twitter_listed": 13, 
     "twitter_name": "Ouzoulias Pierre", 
     "twitter_protected": false, 
-    "twitter_tweets": 364, 
+    "twitter_tweets": 365, 
     "twitter_verified": false, 
     "url_institution": "http://www.senat.fr/senateur/ouzoulias_pierre19593h.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/pierre-ouzoulias", 
@@ -20285,9 +20883,9 @@
           ]
         }
       }, 
-      "favourites_count": 585, 
+      "favourites_count": 593, 
       "follow_request_sent": false, 
-      "followers_count": 546, 
+      "followers_count": 547, 
       "following": false, 
       "friends_count": 393, 
       "geo_enabled": false, 
@@ -20455,7 +21053,7 @@
         "lang": "fr", 
         "place": null, 
         "possibly_sensitive": false, 
-        "retweet_count": 16, 
+        "retweet_count": 19, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
@@ -20564,7 +21162,7 @@
               }
             ]
           }, 
-          "favorite_count": 29, 
+          "favorite_count": 35, 
           "favorited": false, 
           "geo": null, 
           "id": 957178490209603585, 
@@ -20578,7 +21176,7 @@
           "lang": "fr", 
           "place": null, 
           "possibly_sensitive": false, 
-          "retweet_count": 16, 
+          "retweet_count": 19, 
           "retweeted": false, 
           "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
           "text": "Ouverture du Conseil national @lesRepublicains Au travail pour la refondation !!! #CNLR https://t.co/KXGiW3rs4j", 
@@ -20596,8 +21194,8 @@
       "verified": true
     }, 
     "twitter_description": "S\u00e9nateur de Maine-et-Loire, membre de la com. Culture, Education et Communication, membre de l'#OPECST | Maire de Montreuil-Juign\u00e9", 
-    "twitter_favourites": 585, 
-    "twitter_followers": 546, 
+    "twitter_favourites": 593, 
+    "twitter_followers": 547, 
     "twitter_following": 393, 
     "twitter_id": 493045528, 
     "twitter_listed": 21, 
@@ -20747,9 +21345,9 @@
       }, 
       "favourites_count": 1805, 
       "follow_request_sent": false, 
-      "followers_count": 97826, 
+      "followers_count": 97835, 
       "following": false, 
-      "friends_count": 2449, 
+      "friends_count": 2450, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 219361536, 
@@ -20809,7 +21407,7 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 21, 
+        "retweet_count": 22, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
@@ -20844,7 +21442,7 @@
           "is_quote_status": false, 
           "lang": "fr", 
           "place": null, 
-          "retweet_count": 21, 
+          "retweet_count": 22, 
           "retweeted": false, 
           "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
           "text": "A la suite de l\u2019incendie qui s\u2019est d\u00e9clar\u00e9 dans l\u2019h\u00f4pital de Miryang et qui a co\u00fbt\u00e9 la vie \u00e0 plus de 40 personnes e\u2026 https://t.co/fCnB2x1CJe", 
@@ -20863,8 +21461,8 @@
     }, 
     "twitter_description": "Ancien Ministre. Ancien S\u00e9nateur. Conseiller r\u00e9gional d'\u00cele de France. Pr\u00e9sident de l' @UDE_FR", 
     "twitter_favourites": 1805, 
-    "twitter_followers": 97826, 
-    "twitter_following": 2449, 
+    "twitter_followers": 97835, 
+    "twitter_following": 2450, 
     "twitter_id": 219361536, 
     "twitter_listed": 990, 
     "twitter_name": "Jean-Vincent Plac\u00e9", 
@@ -23137,7 +23735,7 @@
       }, 
       "favourites_count": 72, 
       "follow_request_sent": false, 
-      "followers_count": 724, 
+      "followers_count": 725, 
       "following": false, 
       "friends_count": 444, 
       "geo_enabled": false, 
@@ -23280,7 +23878,7 @@
     }, 
     "twitter_description": "S\u00e9nateur #LR de l'Is\u00e8re - Pr\u00e9sident du groupe Pratiques sportives et les grands \u00e9v\u00e8nements sportifs #S\u00e9nat", 
     "twitter_favourites": 72, 
-    "twitter_followers": 724, 
+    "twitter_followers": 725, 
     "twitter_following": 444, 
     "twitter_id": 800815734163062785, 
     "twitter_listed": 19, 
