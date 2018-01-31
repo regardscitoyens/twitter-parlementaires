@@ -812,11 +812,11 @@
           ]
         }
       }, 
-      "favourites_count": 1423, 
+      "favourites_count": 1424, 
       "follow_request_sent": false, 
-      "followers_count": 21589, 
+      "followers_count": 21595, 
       "following": false, 
-      "friends_count": 2084, 
+      "friends_count": 2086, 
       "geo_enabled": true, 
       "has_extended_profile": false, 
       "id": 110191018, 
@@ -846,39 +846,47 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Mon Jan 29 18:40:33 +0000 2018", 
+        "created_at": "Tue Jan 30 18:32:30 +0000 2018", 
         "entities": {
-          "hashtags": [], 
-          "symbols": [], 
-          "urls": [
+          "hashtags": [
             {
-              "display_url": "twitter.com/i/web/status/9\u2026", 
-              "expanded_url": "https://twitter.com/i/web/status/958047228886691841", 
               "indices": [
-                116, 
-                139
+                22, 
+                33
               ], 
-              "url": "https://t.co/MJlrd7HXbE"
+              "text": "ErasmusPro"
             }
           ], 
+          "symbols": [], 
+          "urls": [], 
           "user_mentions": [
             {
-              "id": 382747703, 
-              "id_str": "382747703", 
+              "id": 594691828, 
+              "id_str": "594691828", 
               "indices": [
-                1, 
-                11
+                3, 
+                18
               ], 
-              "name": "STEPHANE TRAVERT", 
-              "screen_name": "StTRAVERT"
+              "name": "Muriel P\u00e9nicaud", 
+              "screen_name": "murielpenicaud"
+            }, 
+            {
+              "id": 110191018, 
+              "id_str": "110191018", 
+              "indices": [
+                105, 
+                117
+              ], 
+              "name": "Jean Arthuis", 
+              "screen_name": "JeanArthuis"
             }
           ]
         }, 
-        "favorite_count": 12, 
+        "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 958047228886691841, 
-        "id_str": "958047228886691841", 
+        "id": 958407589699735552, 
+        "id_str": "958407589699735552", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -887,14 +895,72 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "possibly_sensitive": false, 
-        "retweet_count": 12, 
+        "retweet_count": 84, 
         "retweeted": false, 
-        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": ".@StTRAVERT demande que la PAC aide \u00e0 la structuration des fili\u00e8res et que le prochain cadre financier pluriannuel\u2026 https://t.co/MJlrd7HXbE", 
-        "truncated": true
+        "retweeted_status": {
+          "contributors": null, 
+          "coordinates": null, 
+          "created_at": "Tue Jan 30 18:31:04 +0000 2018", 
+          "entities": {
+            "hashtags": [
+              {
+                "indices": [
+                  2, 
+                  13
+                ], 
+                "text": "ErasmusPro"
+              }
+            ], 
+            "symbols": [], 
+            "urls": [
+              {
+                "display_url": "twitter.com/i/web/status/9\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/958407228687572993", 
+                "indices": [
+                  116, 
+                  139
+                ], 
+                "url": "https://t.co/nwxIR5uoeP"
+              }
+            ], 
+            "user_mentions": [
+              {
+                "id": 110191018, 
+                "id_str": "110191018", 
+                "indices": [
+                  85, 
+                  97
+                ], 
+                "name": "Jean Arthuis", 
+                "screen_name": "JeanArthuis"
+              }
+            ]
+          }, 
+          "favorite_count": 116, 
+          "favorited": false, 
+          "geo": null, 
+          "id": 958407228687572993, 
+          "id_str": "958407228687572993", 
+          "in_reply_to_screen_name": null, 
+          "in_reply_to_status_id": null, 
+          "in_reply_to_status_id_str": null, 
+          "in_reply_to_user_id": null, 
+          "in_reply_to_user_id_str": null, 
+          "is_quote_status": false, 
+          "lang": "fr", 
+          "place": null, 
+          "possibly_sensitive": false, 
+          "retweet_count": 84, 
+          "retweeted": false, 
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+          "text": "L\u2019#ErasmusPro doit \u00eatre accessible \u00e0 tous les jeunes, y compris aux apprentis ! Avec @JeanArthuis, d\u00e9termin\u00e9s \u00e0 ce\u2026 https://t.co/nwxIR5uoeP", 
+          "truncated": true
+        }, 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "RT @murielpenicaud: L\u2019#ErasmusPro doit \u00eatre accessible \u00e0 tous les jeunes, y compris aux apprentis ! Avec @JeanArthuis, d\u00e9termin\u00e9s \u00e0 ce que\u2026", 
+        "truncated": false
       }, 
-      "statuses_count": 4089, 
+      "statuses_count": 4092, 
       "time_zone": "Amsterdam", 
       "translator_type": "none", 
       "url": "https://t.co/YhICpAOeW0", 
@@ -902,14 +968,14 @@
       "verified": true
     }, 
     "twitter_description": "D\u00e9put\u00e9 europ\u00e9en, Pdt de la com. #BUDG fondateur de l'Alliance centriste #EnMarche, ancien ministre de l'\u00e9conomie et des finances https://t.co/fhOVDCyFu0", 
-    "twitter_favourites": 1423, 
-    "twitter_followers": 21589, 
-    "twitter_following": 2084, 
+    "twitter_favourites": 1424, 
+    "twitter_followers": 21595, 
+    "twitter_following": 2086, 
     "twitter_id": 110191018, 
     "twitter_listed": 689, 
     "twitter_name": "Jean Arthuis", 
     "twitter_protected": false, 
-    "twitter_tweets": 4089, 
+    "twitter_tweets": 4092, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/arthuis_jean83011j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/jean-arthuis", 
@@ -3257,7 +3323,7 @@
       }, 
       "favourites_count": 285, 
       "follow_request_sent": false, 
-      "followers_count": 4769, 
+      "followers_count": 4774, 
       "following": false, 
       "friends_count": 1057, 
       "geo_enabled": true, 
@@ -3289,133 +3355,54 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Sun Jan 28 00:04:55 +0000 2018", 
+        "created_at": "Tue Jan 30 23:30:52 +0000 2018", 
         "entities": {
           "hashtags": [
             {
               "indices": [
-                112, 
-                116
+                23, 
+                29
               ], 
-              "text": "AFP"
-            }
-          ], 
-          "media": [
+              "text": "p\u00eache"
+            }, 
             {
-              "display_url": "pic.twitter.com/HeYLQAr7xU", 
-              "expanded_url": "https://twitter.com/afpfr/status/955385049595064321/photo/1", 
-              "id": 955383355838787584, 
-              "id_str": "955383355838787584", 
               "indices": [
-                117, 
-                140
+                61, 
+                70
               ], 
-              "media_url": "http://pbs.twimg.com/media/DUI0Ga0XcAAN68m.jpg", 
-              "media_url_https": "https://pbs.twimg.com/media/DUI0Ga0XcAAN68m.jpg", 
-              "sizes": {
-                "large": {
-                  "h": 507, 
-                  "resize": "fit", 
-                  "w": 1014
-                }, 
-                "medium": {
-                  "h": 507, 
-                  "resize": "fit", 
-                  "w": 1014
-                }, 
-                "small": {
-                  "h": 340, 
-                  "resize": "fit", 
-                  "w": 680
-                }, 
-                "thumb": {
-                  "h": 150, 
-                  "resize": "crop", 
-                  "w": 150
-                }
-              }, 
-              "source_status_id": 955385049595064321, 
-              "source_status_id_str": "955385049595064321", 
-              "source_user_id": 338985020, 
-              "source_user_id_str": "338985020", 
-              "type": "photo", 
-              "url": "https://t.co/HeYLQAr7xU"
+              "text": "economie"
             }
           ], 
           "symbols": [], 
-          "urls": [
-            {
-              "display_url": "u.afp.com/oZRy", 
-              "expanded_url": "http://u.afp.com/oZRy", 
-              "indices": [
-                88, 
-                111
-              ], 
-              "url": "https://t.co/uyT3ax4Pfb"
-            }
-          ], 
+          "urls": [], 
           "user_mentions": [
             {
-              "id": 338985020, 
-              "id_str": "338985020", 
+              "id": 17172319, 
+              "id_str": "17172319", 
               "indices": [
                 3, 
-                9
+                18
               ], 
-              "name": "Agence France-Presse", 
-              "screen_name": "afpfr"
-            }
-          ]
-        }, 
-        "extended_entities": {
-          "media": [
+              "name": "Xavier Bertrand", 
+              "screen_name": "xavierbertrand"
+            }, 
             {
-              "display_url": "pic.twitter.com/HeYLQAr7xU", 
-              "expanded_url": "https://twitter.com/afpfr/status/955385049595064321/photo/1", 
-              "id": 955383355838787584, 
-              "id_str": "955383355838787584", 
+              "id": 15004908, 
+              "id_str": "15004908", 
               "indices": [
-                117, 
-                140
+                92, 
+                106
               ], 
-              "media_url": "http://pbs.twimg.com/media/DUI0Ga0XcAAN68m.jpg", 
-              "media_url_https": "https://pbs.twimg.com/media/DUI0Ga0XcAAN68m.jpg", 
-              "sizes": {
-                "large": {
-                  "h": 507, 
-                  "resize": "fit", 
-                  "w": 1014
-                }, 
-                "medium": {
-                  "h": 507, 
-                  "resize": "fit", 
-                  "w": 1014
-                }, 
-                "small": {
-                  "h": 340, 
-                  "resize": "fit", 
-                  "w": 680
-                }, 
-                "thumb": {
-                  "h": 150, 
-                  "resize": "crop", 
-                  "w": 150
-                }
-              }, 
-              "source_status_id": 955385049595064321, 
-              "source_status_id_str": "955385049595064321", 
-              "source_user_id": 338985020, 
-              "source_user_id_str": "338985020", 
-              "type": "photo", 
-              "url": "https://t.co/HeYLQAr7xU"
+              "name": "Hauts-de-France", 
+              "screen_name": "hautsdefrance"
             }
           ]
         }, 
         "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 957404082179923968, 
-        "id_str": "957404082179923968", 
+        "id": 958482676159311872, 
+        "id_str": "958482676159311872", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -3424,120 +3411,59 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "possibly_sensitive": false, 
-        "retweet_count": 217, 
+        "retweet_count": 14, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
           "coordinates": null, 
-          "created_at": "Mon Jan 22 10:22:00 +0000 2018", 
+          "created_at": "Tue Jan 30 18:18:22 +0000 2018", 
           "entities": {
             "hashtags": [
               {
                 "indices": [
-                  101, 
-                  105
+                  3, 
+                  9
                 ], 
-                "text": "AFP"
-              }
-            ], 
-            "media": [
+                "text": "p\u00eache"
+              }, 
               {
-                "display_url": "pic.twitter.com/HeYLQAr7xU", 
-                "expanded_url": "https://twitter.com/afpfr/status/955385049595064321/photo/1", 
-                "id": 955383355838787584, 
-                "id_str": "955383355838787584", 
                 "indices": [
-                  106, 
-                  129
+                  41, 
+                  50
                 ], 
-                "media_url": "http://pbs.twimg.com/media/DUI0Ga0XcAAN68m.jpg", 
-                "media_url_https": "https://pbs.twimg.com/media/DUI0Ga0XcAAN68m.jpg", 
-                "sizes": {
-                  "large": {
-                    "h": 507, 
-                    "resize": "fit", 
-                    "w": 1014
-                  }, 
-                  "medium": {
-                    "h": 507, 
-                    "resize": "fit", 
-                    "w": 1014
-                  }, 
-                  "small": {
-                    "h": 340, 
-                    "resize": "fit", 
-                    "w": 680
-                  }, 
-                  "thumb": {
-                    "h": 150, 
-                    "resize": "crop", 
-                    "w": 150
-                  }
-                }, 
-                "type": "photo", 
-                "url": "https://t.co/HeYLQAr7xU"
+                "text": "economie"
               }
             ], 
             "symbols": [], 
             "urls": [
               {
-                "display_url": "u.afp.com/oZRy", 
-                "expanded_url": "http://u.afp.com/oZRy", 
+                "display_url": "twitter.com/i/web/status/9\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/958404031700983809", 
                 "indices": [
-                  77, 
-                  100
+                  116, 
+                  139
                 ], 
-                "url": "https://t.co/uyT3ax4Pfb"
+                "url": "https://t.co/n0Yn3EBVxa"
               }
             ], 
-            "user_mentions": []
-          }, 
-          "extended_entities": {
-            "media": [
+            "user_mentions": [
               {
-                "display_url": "pic.twitter.com/HeYLQAr7xU", 
-                "expanded_url": "https://twitter.com/afpfr/status/955385049595064321/photo/1", 
-                "id": 955383355838787584, 
-                "id_str": "955383355838787584", 
+                "id": 15004908, 
+                "id_str": "15004908", 
                 "indices": [
-                  106, 
-                  129
+                  72, 
+                  86
                 ], 
-                "media_url": "http://pbs.twimg.com/media/DUI0Ga0XcAAN68m.jpg", 
-                "media_url_https": "https://pbs.twimg.com/media/DUI0Ga0XcAAN68m.jpg", 
-                "sizes": {
-                  "large": {
-                    "h": 507, 
-                    "resize": "fit", 
-                    "w": 1014
-                  }, 
-                  "medium": {
-                    "h": 507, 
-                    "resize": "fit", 
-                    "w": 1014
-                  }, 
-                  "small": {
-                    "h": 340, 
-                    "resize": "fit", 
-                    "w": 680
-                  }, 
-                  "thumb": {
-                    "h": 150, 
-                    "resize": "crop", 
-                    "w": 150
-                  }
-                }, 
-                "type": "photo", 
-                "url": "https://t.co/HeYLQAr7xU"
+                "name": "Hauts-de-France", 
+                "screen_name": "hautsdefrance"
               }
             ]
           }, 
-          "favorite_count": 333, 
+          "favorite_count": 42, 
           "favorited": false, 
           "geo": null, 
-          "id": 955385049595064321, 
-          "id_str": "955385049595064321", 
+          "id": 958404031700983809, 
+          "id_str": "958404031700983809", 
           "in_reply_to_screen_name": null, 
           "in_reply_to_status_id": null, 
           "in_reply_to_status_id_str": null, 
@@ -3545,19 +3471,52 @@
           "in_reply_to_user_id_str": null, 
           "is_quote_status": false, 
           "lang": "fr", 
-          "place": null, 
+          "place": {
+            "attributes": {}, 
+            "bounding_box": {
+              "coordinates": [
+                [
+                  [
+                    1.5789143000000001, 
+                    50.7098285
+                  ], 
+                  [
+                    1.6334024, 
+                    50.7098285
+                  ], 
+                  [
+                    1.6334024, 
+                    50.7495665
+                  ], 
+                  [
+                    1.5789143000000001, 
+                    50.7495665
+                  ]
+                ]
+              ], 
+              "type": "Polygon"
+            }, 
+            "contained_within": [], 
+            "country": "France", 
+            "country_code": "FR", 
+            "full_name": "Boulogne-sur-Mer, France", 
+            "id": "7680b5b2701c23df", 
+            "name": "Boulogne-sur-Mer", 
+            "place_type": "city", 
+            "url": "https://api.twitter.com/1.1/geo/id/7680b5b2701c23df.json"
+          }, 
           "possibly_sensitive": false, 
-          "retweet_count": 217, 
+          "retweet_count": 14, 
           "retweeted": false, 
-          "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
-          "text": "Migrants : l'\u00e9crivain Yann Moix d\u00e9nonce \"un protocole de la bavure\" \u00e0 Calais https://t.co/uyT3ax4Pfb #AFP https://t.co/HeYLQAr7xU", 
-          "truncated": false
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+          "text": "La #p\u00eache est une partie importante de l\u2019#economie r\u00e9gionale. La R\u00e9gion @hautsdefrance est aux c\u00f4t\u00e9s des fileyeurs\u2026 https://t.co/n0Yn3EBVxa", 
+          "truncated": true
         }, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "RT @afpfr: Migrants : l'\u00e9crivain Yann Moix d\u00e9nonce \"un protocole de la bavure\" \u00e0 Calais https://t.co/uyT3ax4Pfb #AFP https://t.co/HeYLQAr7xU", 
+        "text": "RT @xavierbertrand: La #p\u00eache est une partie importante de l\u2019#economie r\u00e9gionale. La R\u00e9gion @hautsdefrance est aux c\u00f4t\u00e9s des fileyeurs et l\u2026", 
         "truncated": false
       }, 
-      "statuses_count": 6373, 
+      "statuses_count": 6375, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": null, 
@@ -3566,13 +3525,13 @@
     }, 
     "twitter_description": "Vice-Pr\u00e9sidente de la R\u00e9gion Hauts-de-France. Maire de #Calais, Pr\u00e9sidente de Grand Calais Terres & Mers", 
     "twitter_favourites": 285, 
-    "twitter_followers": 4769, 
+    "twitter_followers": 4774, 
     "twitter_following": 1057, 
     "twitter_id": 551342517, 
     "twitter_listed": 159, 
     "twitter_name": "Natacha BOUCHART", 
     "twitter_protected": false, 
-    "twitter_tweets": 6373, 
+    "twitter_tweets": 6375, 
     "twitter_verified": false, 
     "url_institution": "http://www.senat.fr/senateur/bouchart_natacha11060j.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/natacha-bouchart", 
@@ -5999,7 +5958,7 @@
       }, 
       "favourites_count": 165, 
       "follow_request_sent": false, 
-      "followers_count": 62386, 
+      "followers_count": 62379, 
       "following": false, 
       "friends_count": 711, 
       "geo_enabled": true, 
@@ -6009,7 +5968,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 1207, 
+      "listed_count": 1206, 
       "location": "Paris, France", 
       "name": "J-P. Chev\u00e8nement", 
       "notifications": false, 
@@ -6099,10 +6058,10 @@
     }, 
     "twitter_description": "Ancien ministre. Pdt du club R\u00e9publique Moderne (@RepubliqueMod), de la Fondation Res Publica (@fondarespublica) et de la Fondation de l'Islam de France.", 
     "twitter_favourites": 165, 
-    "twitter_followers": 62386, 
+    "twitter_followers": 62379, 
     "twitter_following": 711, 
     "twitter_id": 57116930, 
-    "twitter_listed": 1207, 
+    "twitter_listed": 1206, 
     "twitter_name": "J-P. Chev\u00e8nement", 
     "twitter_protected": false, 
     "twitter_tweets": 4550, 
@@ -7953,9 +7912,9 @@
           ]
         }
       }, 
-      "favourites_count": 2769, 
+      "favourites_count": 2751, 
       "follow_request_sent": false, 
-      "followers_count": 3341, 
+      "followers_count": 3339, 
       "following": false, 
       "friends_count": 2291, 
       "geo_enabled": true, 
@@ -7987,36 +7946,28 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Sun Jan 28 09:09:33 +0000 2018", 
+        "created_at": "Tue Jan 30 17:11:23 +0000 2018", 
         "entities": {
-          "hashtags": [
-            {
-              "indices": [
-                30, 
-                33
-              ], 
-              "text": "St"
-            }
-          ], 
+          "hashtags": [], 
           "symbols": [], 
           "urls": [
             {
               "display_url": "twitter.com/i/web/status/9\u2026", 
-              "expanded_url": "https://twitter.com/i/web/status/957541145151725568", 
+              "expanded_url": "https://twitter.com/i/web/status/958387176860979200", 
               "indices": [
-                116, 
-                139
+                117, 
+                140
               ], 
-              "url": "https://t.co/92WbjEtPvz"
+              "url": "https://t.co/fE8nzsatx5"
             }
           ], 
           "user_mentions": []
         }, 
-        "favorite_count": 10, 
+        "favorite_count": 5, 
         "favorited": false, 
         "geo": null, 
-        "id": 957541145151725568, 
-        "id_str": "957541145151725568", 
+        "id": 958387176860979200, 
+        "id_str": "958387176860979200", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -8026,13 +7977,13 @@
         "lang": "fr", 
         "place": null, 
         "possibly_sensitive": false, 
-        "retweet_count": 1, 
+        "retweet_count": 4, 
         "retweeted": false, 
-        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "Des voeux du nouveau Maire de #St-Laurent d\u2019Arce, Jean-Pierre Suberville, en pr\u00e9sence d\u2019Alain Dumas, Pdt de la CDC\u2026 https://t.co/92WbjEtPvz", 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "La loi littoral est protectrice, mais ne doit pas \u00eatre un totem. Nous ne pouvons passer sans nuance d'une situation\u2026 https://t.co/fE8nzsatx5", 
         "truncated": true
       }, 
-      "statuses_count": 2604, 
+      "statuses_count": 2588, 
       "time_zone": null, 
       "translator_type": "none", 
       "url": "https://t.co/HP3hXRopZr", 
@@ -8040,14 +7991,14 @@
       "verified": false
     }, 
     "twitter_description": "S\u00e9natrice de la #Gironde, Vice-pr\u00e9sidente de la Commission des lois @Senat, Conseill\u00e8re municipale de #Bordeaux, Secr\u00e9taire G\u00e9n\u00e9rale @PartiRadical @MvtRadical", 
-    "twitter_favourites": 2769, 
-    "twitter_followers": 3341, 
+    "twitter_favourites": 2751, 
+    "twitter_followers": 3339, 
     "twitter_following": 2291, 
     "twitter_id": 1916605993, 
     "twitter_listed": 69, 
     "twitter_name": "Nathalie Delattre", 
     "twitter_protected": false, 
-    "twitter_tweets": 2604, 
+    "twitter_tweets": 2588, 
     "twitter_verified": false, 
     "url_institution": "http://www.senat.fr/senateur/delattre_nathalie19719d.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/nathalie-delattre", 
@@ -12600,7 +12551,7 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 25, 
+        "retweet_count": 24, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
@@ -12622,7 +12573,7 @@
             ], 
             "user_mentions": []
           }, 
-          "favorite_count": 21, 
+          "favorite_count": 22, 
           "favorited": false, 
           "geo": null, 
           "id": 953670958019108867, 
@@ -12636,7 +12587,7 @@
           "lang": "fr", 
           "place": null, 
           "possibly_sensitive": false, 
-          "retweet_count": 25, 
+          "retweet_count": 24, 
           "retweeted": false, 
           "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>", 
           "text": "La prise en charge des mineurs isol\u00e9s \u00e9trangers est insuffisante. Elle ne r\u00e9pond pas \u00e0 leurs besoins fondamentaux e\u2026 https://t.co/VZURQPP0cF", 
@@ -13524,11 +13475,11 @@
           ]
         }
       }, 
-      "favourites_count": 4062, 
+      "favourites_count": 4073, 
       "follow_request_sent": false, 
       "followers_count": 3158, 
       "following": false, 
-      "friends_count": 3948, 
+      "friends_count": 3950, 
       "geo_enabled": true, 
       "has_extended_profile": true, 
       "id": 1205524668, 
@@ -13558,39 +13509,29 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Mon Jan 29 18:35:38 +0000 2018", 
+        "created_at": "Tue Jan 30 21:11:34 +0000 2018", 
         "entities": {
           "hashtags": [], 
           "symbols": [], 
           "urls": [], 
           "user_mentions": [
             {
-              "id": 954363305606418432, 
-              "id_str": "954363305606418432", 
+              "id": 602038257, 
+              "id_str": "602038257", 
               "indices": [
                 3, 
-                19
+                12
               ], 
-              "name": "Jeunes avec Carvounas", 
-              "screen_name": "LesJeunesAvecLC"
-            }, 
-            {
-              "id": 1006325990, 
-              "id_str": "1006325990", 
-              "indices": [
-                76, 
-                89
-              ], 
-              "name": "Luc Carvounas", 
-              "screen_name": "luccarvounas"
+              "name": "UnionHlm", 
+              "screen_name": "UnionHlm"
             }
           ]
         }, 
         "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 958045989545398272, 
-        "id_str": "958045989545398272", 
+        "id": 958447621428801536, 
+        "id_str": "958447621428801536", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -13599,46 +13540,35 @@
         "is_quote_status": true, 
         "lang": "fr", 
         "place": null, 
-        "quoted_status_id": 958007622149558272, 
-        "quoted_status_id_str": "958007622149558272", 
-        "retweet_count": 9, 
+        "quoted_status_id": 958232450609672192, 
+        "quoted_status_id_str": "958232450609672192", 
+        "retweet_count": 60, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
           "coordinates": null, 
-          "created_at": "Mon Jan 29 18:34:42 +0000 2018", 
+          "created_at": "Tue Jan 30 07:20:28 +0000 2018", 
           "entities": {
             "hashtags": [], 
             "symbols": [], 
             "urls": [
               {
                 "display_url": "twitter.com/i/web/status/9\u2026", 
-                "expanded_url": "https://twitter.com/i/web/status/958045756308574214", 
+                "expanded_url": "https://twitter.com/i/web/status/958238466122412032", 
                 "indices": [
-                  106, 
-                  129
+                  117, 
+                  140
                 ], 
-                "url": "https://t.co/jZnTsKt3Af"
+                "url": "https://t.co/YP1TTJJ2CI"
               }
             ], 
-            "user_mentions": [
-              {
-                "id": 1006325990, 
-                "id_str": "1006325990", 
-                "indices": [
-                  55, 
-                  68
-                ], 
-                "name": "Luc Carvounas", 
-                "screen_name": "luccarvounas"
-              }
-            ]
+            "user_mentions": []
           }, 
-          "favorite_count": 8, 
+          "favorite_count": 33, 
           "favorited": false, 
           "geo": null, 
-          "id": 958045756308574214, 
-          "id_str": "958045756308574214", 
+          "id": 958238466122412032, 
+          "id_str": "958238466122412032", 
           "in_reply_to_screen_name": null, 
           "in_reply_to_status_id": null, 
           "in_reply_to_status_id_str": null, 
@@ -13648,19 +13578,19 @@
           "lang": "fr", 
           "place": null, 
           "possibly_sensitive": false, 
-          "quoted_status_id": 958007622149558272, 
-          "quoted_status_id_str": "958007622149558272", 
-          "retweet_count": 9, 
+          "quoted_status_id": 958232450609672192, 
+          "quoted_status_id_str": "958232450609672192", 
+          "retweet_count": 60, 
           "retweeted": false, 
           "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-          "text": "Renouer avec nos partenaires de gauche\u00a0: \u00ab\u00a0Je soutiens @luccarvounas car il est sur cette ligne claire\u00a0\u00bb\u2026 https://t.co/jZnTsKt3Af", 
+          "text": "Un peu plus de 450 organismes Hlm font du logement locatif social, au service des besoins des territoires, dans leu\u2026 https://t.co/YP1TTJJ2CI", 
           "truncated": true
         }, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "RT @LesJeunesAvecLC: Renouer avec nos partenaires de gauche\u00a0: \u00ab\u00a0Je soutiens @luccarvounas car il est sur cette ligne claire\u00a0\u00bb @iacovellixav\u2026", 
+        "text": "RT @UnionHlm: Un peu plus de 450 organismes Hlm font du logement locatif social, au service des besoins des territoires, dans leur diversit\u2026", 
         "truncated": false
       }, 
-      "statuses_count": 3167, 
+      "statuses_count": 3176, 
       "time_zone": "Amsterdam", 
       "translator_type": "none", 
       "url": "https://t.co/gFexPLosAM", 
@@ -13668,14 +13598,14 @@
       "verified": false
     }, 
     "twitter_description": "S\u00e9nateur des #HautsdeSeine \u2022 com affaires \u00e9conomiques \u2022 Premier Secr\u00e9taire du @PSfederation92 \u2022 Conseiller Municipal et territorial @villedesuresnes.", 
-    "twitter_favourites": 4062, 
+    "twitter_favourites": 4073, 
     "twitter_followers": 3158, 
-    "twitter_following": 3948, 
+    "twitter_following": 3950, 
     "twitter_id": 1205524668, 
     "twitter_listed": 49, 
     "twitter_name": "Xavier IACOVELLI", 
     "twitter_protected": false, 
-    "twitter_tweets": 3167, 
+    "twitter_tweets": 3176, 
     "twitter_verified": false, 
     "url_institution": "http://www.senat.fr/senateur/iacovelli_xavier19591f.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/xavier-iacovelli", 
@@ -13838,7 +13768,7 @@
       "follow_request_sent": false, 
       "followers_count": 1002, 
       "following": false, 
-      "friends_count": 332, 
+      "friends_count": 334, 
       "geo_enabled": false, 
       "has_extended_profile": false, 
       "id": 2328417882, 
@@ -13868,145 +13798,114 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Fri Jan 19 00:25:20 +0000 2018", 
+        "created_at": "Tue Jan 30 15:23:43 +0000 2018", 
         "entities": {
           "hashtags": [
             {
               "indices": [
-                61, 
-                74
+                36, 
+                47
               ], 
-              "text": "Gouvernement"
+              "text": "Auvergnats"
+            }, 
+            {
+              "indices": [
+                51, 
+                57
+              ], 
+              "text": "Paris"
             }
           ], 
           "symbols": [], 
           "urls": [], 
           "user_mentions": [
             {
-              "id": 118469575, 
-              "id_str": "118469575", 
+              "id": 958083720661078016, 
+              "id_str": "958083720661078016", 
               "indices": [
                 3, 
                 18
               ], 
-              "name": "Philippe Laurent", 
-              "screen_name": "laurent_sceaux"
-            }, 
-            {
-              "id": 258345629, 
-              "id_str": "258345629", 
-              "indices": [
-                35, 
-                46
-              ], 
-              "name": "Alain Jupp\u00e9", 
-              "screen_name": "alainjuppe"
-            }, 
-            {
-              "id": 1110890216, 
-              "id_str": "1110890216", 
-              "indices": [
-                123, 
-                135
-              ], 
-              "name": "Edouard Philippe", 
-              "screen_name": "EPhilippePM"
+              "name": "Cercle des Auvergnats de Paris", 
+              "screen_name": "CercleAuvParis"
             }
           ]
         }, 
         "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 954147730678575110, 
-        "id_str": "954147730678575110", 
+        "id": 958360080751251456, 
+        "id_str": "958360080751251456", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
         "in_reply_to_user_id": null, 
         "in_reply_to_user_id_str": null, 
-        "is_quote_status": true, 
+        "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "quoted_status_id": 953675533065302017, 
-        "quoted_status_id_str": "953675533065302017", 
-        "retweet_count": 6, 
+        "retweet_count": 15, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
           "coordinates": null, 
-          "created_at": "Thu Jan 18 06:08:51 +0000 2018", 
+          "created_at": "Mon Jan 29 22:22:55 +0000 2018", 
           "entities": {
             "hashtags": [
               {
                 "indices": [
-                  41, 
-                  54
+                  16, 
+                  27
                 ], 
-                "text": "Gouvernement"
+                "text": "Auvergnats"
+              }, 
+              {
+                "indices": [
+                  31, 
+                  37
+                ], 
+                "text": "Paris"
               }
             ], 
             "symbols": [], 
             "urls": [
               {
-                "display_url": "twitter.com/alainjuppe/sta\u2026", 
-                "expanded_url": "https://twitter.com/alainjuppe/status/953675533065302017", 
+                "display_url": "twitter.com/i/web/status/9\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/958103189143736320", 
                 "indices": [
-                  116, 
-                  139
+                  117, 
+                  140
                 ], 
-                "url": "https://t.co/fu5QWLFvj3"
+                "url": "https://t.co/9XN4cXAsp1"
               }
             ], 
-            "user_mentions": [
-              {
-                "id": 258345629, 
-                "id_str": "258345629", 
-                "indices": [
-                  15, 
-                  26
-                ], 
-                "name": "Alain Jupp\u00e9", 
-                "screen_name": "alainjuppe"
-              }, 
-              {
-                "id": 1110890216, 
-                "id_str": "1110890216", 
-                "indices": [
-                  103, 
-                  115
-                ], 
-                "name": "Edouard Philippe", 
-                "screen_name": "EPhilippePM"
-              }
-            ]
+            "user_mentions": []
           }, 
-          "favorite_count": 9, 
+          "favorite_count": 17, 
           "favorited": false, 
           "geo": null, 
-          "id": 953871790127943680, 
-          "id_str": "953871790127943680", 
+          "id": 958103189143736320, 
+          "id_str": "958103189143736320", 
           "in_reply_to_screen_name": null, 
           "in_reply_to_status_id": null, 
           "in_reply_to_status_id_str": null, 
           "in_reply_to_user_id": null, 
           "in_reply_to_user_id_str": null, 
-          "is_quote_status": true, 
+          "is_quote_status": false, 
           "lang": "fr", 
           "place": null, 
           "possibly_sensitive": false, 
-          "quoted_status_id": 953675533065302017, 
-          "quoted_status_id_str": "953675533065302017", 
-          "retweet_count": 6, 
+          "retweet_count": 15, 
           "retweeted": false, 
-          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-          "text": "En accord avec @alainjuppe. On attend du #Gouvernement la m\u00eame d\u00e9termination sur bien d\u2019autres sujets. @EPhilippePM https://t.co/fu5QWLFvj3", 
-          "truncated": false
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+          "text": "\ud83d\ude03\ud83d\udce2Le Cercle des #Auvergnats de #Paris d\u00e9barque sur Twitter ! Retrouvez nos annonces et activit\u00e9s pour les Auvergnat\u2026 https://t.co/9XN4cXAsp1", 
+          "truncated": true
         }, 
         "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>", 
-        "text": "RT @laurent_sceaux: En accord avec @alainjuppe. On attend du #Gouvernement la m\u00eame d\u00e9termination sur bien d\u2019autres sujets. @EPhilippePM htt\u2026", 
+        "text": "RT @CercleAuvParis: \ud83d\ude03\ud83d\udce2Le Cercle des #Auvergnats de #Paris d\u00e9barque sur Twitter ! Retrouvez nos annonces et activit\u00e9s pour les Auvergnats ex\u2026", 
         "truncated": false
       }, 
-      "statuses_count": 180, 
+      "statuses_count": 181, 
       "time_zone": "Pacific Time (US & Canada)", 
       "translator_type": "none", 
       "url": "http://t.co/iroBsMSUFP", 
@@ -14016,12 +13915,12 @@
     "twitter_description": "Maire de Saint-Flour, Pr\u00e9sident des Maires du #Cantal, Comit\u00e9 des #Finances locales - #Collectivit\u00e9s territoriales #Urbanisme #Logement #D\u00e9veloppement durable", 
     "twitter_favourites": 42, 
     "twitter_followers": 1002, 
-    "twitter_following": 332, 
+    "twitter_following": 334, 
     "twitter_id": 2328417882, 
     "twitter_listed": 40, 
     "twitter_name": "Pierre Jarlier", 
     "twitter_protected": false, 
-    "twitter_tweets": 180, 
+    "twitter_tweets": 181, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/jarlier_pierre98027u.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/pierre-jarlier", 
@@ -17680,11 +17579,11 @@
           "urls": []
         }
       }, 
-      "favourites_count": 103, 
+      "favourites_count": 106, 
       "follow_request_sent": false, 
-      "followers_count": 679, 
+      "followers_count": 684, 
       "following": false, 
-      "friends_count": 228, 
+      "friends_count": 229, 
       "geo_enabled": false, 
       "has_extended_profile": false, 
       "id": 884772861524807681, 
@@ -17692,7 +17591,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 22, 
+      "listed_count": 0, 
       "location": "", 
       "name": "Herv\u00e9 Marseille", 
       "notifications": false, 
@@ -17763,7 +17662,7 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 4, 
+        "retweet_count": 5, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
@@ -17804,7 +17703,7 @@
               }
             ]
           }, 
-          "favorite_count": 5, 
+          "favorite_count": 7, 
           "favorited": false, 
           "geo": null, 
           "id": 956192700939685888, 
@@ -17818,7 +17717,7 @@
           "lang": "fr", 
           "place": null, 
           "possibly_sensitive": false, 
-          "retweet_count": 4, 
+          "retweet_count": 5, 
           "retweeted": false, 
           "source": "<a href=\"http://snappytv.com\" rel=\"nofollow\">SnappyTV.com</a>", 
           "text": "#Senat360 @HerveMarseille : \"Il y a des sujets hors constitution qui d\u00e9coulent de cette possible r\u00e9forme constituti\u2026 https://t.co/rBh4xjbCwh", 
@@ -17836,11 +17735,11 @@
       "verified": false
     }, 
     "twitter_description": "S\u00e9nateur des Hauts-de-Seine, Pr\u00e9sident du groupe Union centriste @UC_Senat Conseiller municipal de Meudon", 
-    "twitter_favourites": 103, 
-    "twitter_followers": 679, 
-    "twitter_following": 228, 
+    "twitter_favourites": 106, 
+    "twitter_followers": 684, 
+    "twitter_following": 229, 
     "twitter_id": 884772861524807681, 
-    "twitter_listed": 22, 
+    "twitter_listed": 0, 
     "twitter_name": "Herv\u00e9 Marseille", 
     "twitter_protected": false, 
     "twitter_tweets": 115, 
@@ -18974,7 +18873,7 @@
       }, 
       "favourites_count": 174, 
       "follow_request_sent": false, 
-      "followers_count": 390, 
+      "followers_count": 392, 
       "following": false, 
       "friends_count": 168, 
       "geo_enabled": false, 
@@ -19108,7 +19007,7 @@
     }, 
     "twitter_description": "S\u00e9natrice Les R\u00e9publicains des Hautes-Alpes", 
     "twitter_favourites": 174, 
-    "twitter_followers": 390, 
+    "twitter_followers": 392, 
     "twitter_following": 168, 
     "twitter_id": 3189823869, 
     "twitter_listed": 16, 
@@ -19733,7 +19632,7 @@
       }, 
       "favourites_count": 4, 
       "follow_request_sent": false, 
-      "followers_count": 501, 
+      "followers_count": 504, 
       "following": false, 
       "friends_count": 182, 
       "geo_enabled": false, 
@@ -19743,7 +19642,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 13, 
+      "listed_count": 14, 
       "location": "Bourg-la-Reine", 
       "name": "Ouzoulias Pierre", 
       "notifications": false, 
@@ -19765,54 +19664,47 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Mon Jan 29 17:00:52 +0000 2018", 
+        "created_at": "Tue Jan 30 16:47:45 +0000 2018", 
         "entities": {
           "hashtags": [
             {
               "indices": [
-                17, 
-                26
+                125, 
+                129
               ], 
-              "text": "Senat360"
-            }, 
-            {
-              "indices": [
-                39, 
-                50
-              ], 
-              "text": "Parcoursup"
+              "text": "ORE"
             }
           ], 
           "symbols": [], 
           "urls": [], 
           "user_mentions": [
             {
-              "id": 40056514, 
-              "id_str": "40056514", 
+              "id": 498934313, 
+              "id_str": "498934313", 
               "indices": [
                 3, 
-                15
+                17
               ], 
-              "name": "Public S\u00e9nat", 
-              "screen_name": "publicsenat"
+              "name": "S\u00e9nateurs CRCE", 
+              "screen_name": "senateursCRCE"
             }, 
             {
-              "id": 4857624851, 
-              "id_str": "4857624851", 
+              "id": 867013307999412225, 
+              "id_str": "867013307999412225", 
               "indices": [
-                27, 
-                38
+                70, 
+                86
               ], 
-              "name": "Ouzoulias Pierre", 
-              "screen_name": "OuzouliasP"
+              "name": "Fr\u00e9d\u00e9rique Vidal", 
+              "screen_name": "VidalFrederique"
             }
           ]
         }, 
         "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 958022142880251905, 
-        "id_str": "958022142880251905", 
+        "id": 958381227345670144, 
+        "id_str": "958381227345670144", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -19821,59 +19713,52 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 17, 
+        "retweet_count": 19, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
           "coordinates": null, 
-          "created_at": "Mon Jan 29 16:29:55 +0000 2018", 
+          "created_at": "Tue Jan 30 16:16:44 +0000 2018", 
           "entities": {
             "hashtags": [
               {
                 "indices": [
-                  0, 
-                  9
+                  106, 
+                  110
                 ], 
-                "text": "Senat360"
-              }, 
-              {
-                "indices": [
-                  22, 
-                  33
-                ], 
-                "text": "Parcoursup"
+                "text": "ORE"
               }
             ], 
             "symbols": [], 
             "urls": [
               {
                 "display_url": "twitter.com/i/web/status/9\u2026", 
-                "expanded_url": "https://twitter.com/i/web/status/958014352090587136", 
+                "expanded_url": "https://twitter.com/i/web/status/958373424564461568", 
                 "indices": [
                   117, 
                   140
                 ], 
-                "url": "https://t.co/3kVJz0djFK"
+                "url": "https://t.co/55zueUriSe"
               }
             ], 
             "user_mentions": [
               {
-                "id": 4857624851, 
-                "id_str": "4857624851", 
+                "id": 867013307999412225, 
+                "id_str": "867013307999412225", 
                 "indices": [
-                  10, 
-                  21
+                  51, 
+                  67
                 ], 
-                "name": "Ouzoulias Pierre", 
-                "screen_name": "OuzouliasP"
+                "name": "Fr\u00e9d\u00e9rique Vidal", 
+                "screen_name": "VidalFrederique"
               }
             ]
           }, 
-          "favorite_count": 15, 
+          "favorite_count": 14, 
           "favorited": false, 
           "geo": null, 
-          "id": 958014352090587136, 
-          "id_str": "958014352090587136", 
+          "id": 958373424564461568, 
+          "id_str": "958373424564461568", 
           "in_reply_to_screen_name": null, 
           "in_reply_to_status_id": null, 
           "in_reply_to_status_id_str": null, 
@@ -19883,17 +19768,17 @@
           "lang": "fr", 
           "place": null, 
           "possibly_sensitive": false, 
-          "retweet_count": 17, 
+          "retweet_count": 19, 
           "retweeted": false, 
-          "source": "<a href=\"http://snappytv.com\" rel=\"nofollow\">SnappyTV.com</a>", 
-          "text": "#Senat360 @OuzouliasP #Parcoursup : \"Il y a un projet d'ensemble qui est un projet lib\u00e9ral qui vise \u00e0 ruiner l'\u00e9duc\u2026 https://t.co/3kVJz0djFK", 
+          "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>", 
+          "text": "Lyc\u00e9ens, \u00e9tudiants, parents d'\u00e9l\u00e8ve, enseignants : @VidalFrederique tente de vous mener en bateau. La loi #ORE du g\u2026 https://t.co/55zueUriSe", 
           "truncated": true
         }, 
         "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-        "text": "RT @publicsenat: #Senat360 @OuzouliasP #Parcoursup : \"Il y a un projet d'ensemble qui est un projet lib\u00e9ral qui vise \u00e0 ruiner l'\u00e9ducation n\u2026", 
+        "text": "RT @senateursCRCE: Lyc\u00e9ens, \u00e9tudiants, parents d'\u00e9l\u00e8ve, enseignants : @VidalFrederique tente de vous mener en bateau. La loi #ORE du gouver\u2026", 
         "truncated": false
       }, 
-      "statuses_count": 370, 
+      "statuses_count": 371, 
       "time_zone": "Paris", 
       "translator_type": "none", 
       "url": "https://t.co/VNR2hMYANP", 
@@ -19902,13 +19787,13 @@
     }, 
     "twitter_description": "S\u00e9nateur des Hauts-de-Seine (Communiste, r\u00e9publicain, citoyen et \u00e9cologiste). Conseiller d\u00e9partemental. Historien et arch\u00e9ologue", 
     "twitter_favourites": 4, 
-    "twitter_followers": 501, 
+    "twitter_followers": 504, 
     "twitter_following": 182, 
     "twitter_id": 4857624851, 
-    "twitter_listed": 13, 
+    "twitter_listed": 14, 
     "twitter_name": "Ouzoulias Pierre", 
     "twitter_protected": false, 
-    "twitter_tweets": 370, 
+    "twitter_tweets": 371, 
     "twitter_verified": false, 
     "url_institution": "http://www.senat.fr/senateur/ouzoulias_pierre19593h.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/pierre-ouzoulias", 
@@ -20463,11 +20348,11 @@
           ]
         }
       }, 
-      "favourites_count": 596, 
+      "favourites_count": 601, 
       "follow_request_sent": false, 
       "followers_count": 546, 
       "following": false, 
-      "friends_count": 393, 
+      "friends_count": 394, 
       "geo_enabled": false, 
       "has_extended_profile": true, 
       "id": 493045528, 
@@ -20497,44 +20382,44 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Mon Jan 29 19:45:17 +0000 2018", 
+        "created_at": "Tue Jan 30 11:52:52 +0000 2018", 
         "entities": {
           "hashtags": [
             {
               "indices": [
-                21, 
-                39
+                16, 
+                24
               ], 
-              "text": "Transportspublics"
+              "text": "Justice"
             }, 
             {
               "indices": [
-                108, 
-                124
+                109, 
+                123
               ], 
-              "text": "MontreuilJuigne"
+              "text": "paysdelaloire"
             }
           ], 
           "symbols": [], 
           "urls": [], 
           "user_mentions": [
             {
-              "id": 4144565752, 
-              "id_str": "4144565752", 
+              "id": 3947629648, 
+              "id_str": "3947629648", 
               "indices": [
                 3, 
-                19
+                14
               ], 
-              "name": "Energiescitoyennes49", 
-              "screen_name": "energicitoyen49"
+              "name": "Christian Gillet", 
+              "screen_name": "ChGillet49"
             }
           ]
         }, 
         "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 958063516803575811, 
-        "id_str": "958063516803575811", 
+        "id": 958307017747259397, 
+        "id_str": "958307017747259397", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -20543,48 +20428,48 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 4, 
+        "retweet_count": 11, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
           "coordinates": null, 
-          "created_at": "Mon Jan 29 18:36:15 +0000 2018", 
+          "created_at": "Tue Jan 30 11:19:03 +0000 2018", 
           "entities": {
             "hashtags": [
               {
                 "indices": [
                   0, 
-                  18
+                  8
                 ], 
-                "text": "Transportspublics"
+                "text": "Justice"
               }, 
               {
                 "indices": [
-                  87, 
-                  103
+                  93, 
+                  107
                 ], 
-                "text": "MontreuilJuigne"
+                "text": "paysdelaloire"
               }
             ], 
             "symbols": [], 
             "urls": [
               {
                 "display_url": "twitter.com/i/web/status/9\u2026", 
-                "expanded_url": "https://twitter.com/i/web/status/958046143912521728", 
+                "expanded_url": "https://twitter.com/i/web/status/958298507772858368", 
                 "indices": [
                   117, 
                   140
                 ], 
-                "url": "https://t.co/vR5EGHlym4"
+                "url": "https://t.co/amfC6U7xNH"
               }
             ], 
             "user_mentions": []
           }, 
-          "favorite_count": 3, 
+          "favorite_count": 4, 
           "favorited": false, 
           "geo": null, 
-          "id": 958046143912521728, 
-          "id_str": "958046143912521728", 
+          "id": 958298507772858368, 
+          "id_str": "958298507772858368", 
           "in_reply_to_screen_name": null, 
           "in_reply_to_status_id": null, 
           "in_reply_to_status_id_str": null, 
@@ -20592,52 +20477,19 @@
           "in_reply_to_user_id_str": null, 
           "is_quote_status": false, 
           "lang": "fr", 
-          "place": {
-            "attributes": {}, 
-            "bounding_box": {
-              "coordinates": [
-                [
-                  [
-                    -0.65120230000000001, 
-                    47.520902900000003
-                  ], 
-                  [
-                    -0.58448770000000005, 
-                    47.520902900000003
-                  ], 
-                  [
-                    -0.58448770000000005, 
-                    47.569350499999999
-                  ], 
-                  [
-                    -0.65120230000000001, 
-                    47.569350499999999
-                  ]
-                ]
-              ], 
-              "type": "Polygon"
-            }, 
-            "contained_within": [], 
-            "country": "France", 
-            "country_code": "FR", 
-            "full_name": "Montreuil-Juign\u00e9, France", 
-            "id": "1a476609048791bf", 
-            "name": "Montreuil-Juign\u00e9", 
-            "place_type": "city", 
-            "url": "https://api.twitter.com/1.1/geo/id/1a476609048791bf.json"
-          }, 
+          "place": null, 
           "possibly_sensitive": false, 
-          "retweet_count": 4, 
+          "retweet_count": 11, 
           "retweeted": false, 
           "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-          "text": "#Transportspublics : bilan des 6 premiers mois de fonctionnement du nouveau r\u00e9seau sur #MontreuilJuigne\nFr\u00e9quentati\u2026 https://t.co/vR5EGHlym4", 
+          "text": "#Justice | L\u2019extension du ressort de la Cour d\u2019appel d\u2019Angers \u00e0 l\u2019ensemble du territoire des #paysdelaloire : une q\u2026 https://t.co/amfC6U7xNH", 
           "truncated": true
         }, 
         "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
-        "text": "RT @energicitoyen49: #Transportspublics : bilan des 6 premiers mois de fonctionnement du nouveau r\u00e9seau sur #MontreuilJuigne\nFr\u00e9quentation\u2026", 
+        "text": "RT @ChGillet49: #Justice | L\u2019extension du ressort de la Cour d\u2019appel d\u2019Angers \u00e0 l\u2019ensemble du territoire des #paysdelaloire : une question\u2026", 
         "truncated": false
       }, 
-      "statuses_count": 379, 
+      "statuses_count": 382, 
       "time_zone": "Pacific Time (US & Canada)", 
       "translator_type": "none", 
       "url": "https://t.co/Mq47zGgyMI", 
@@ -20645,14 +20497,14 @@
       "verified": true
     }, 
     "twitter_description": "S\u00e9nateur de Maine-et-Loire, membre de la com. Culture, Education et Communication, membre de l'#OPECST | Maire de Montreuil-Juign\u00e9", 
-    "twitter_favourites": 596, 
+    "twitter_favourites": 601, 
     "twitter_followers": 546, 
-    "twitter_following": 393, 
+    "twitter_following": 394, 
     "twitter_id": 493045528, 
     "twitter_listed": 21, 
     "twitter_name": "St\u00e9phane Piednoir", 
     "twitter_protected": false, 
-    "twitter_tweets": 379, 
+    "twitter_tweets": 382, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/piednoir_stephane19533u.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/stephane-piednoir", 
@@ -20796,7 +20648,7 @@
       }, 
       "favourites_count": 1805, 
       "follow_request_sent": false, 
-      "followers_count": 97848, 
+      "followers_count": 97850, 
       "following": false, 
       "friends_count": 2450, 
       "geo_enabled": true, 
@@ -20912,7 +20764,7 @@
     }, 
     "twitter_description": "Ancien Ministre. Ancien S\u00e9nateur. Conseiller r\u00e9gional d'\u00cele de France. Pr\u00e9sident de l' @UDE_FR", 
     "twitter_favourites": 1805, 
-    "twitter_followers": 97848, 
+    "twitter_followers": 97850, 
     "twitter_following": 2450, 
     "twitter_id": 219361536, 
     "twitter_listed": 990, 
@@ -22400,7 +22252,7 @@
       }, 
       "favourites_count": 82, 
       "follow_request_sent": false, 
-      "followers_count": 6160, 
+      "followers_count": 6164, 
       "following": false, 
       "friends_count": 484, 
       "geo_enabled": true, 
@@ -22410,7 +22262,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 0, 
+      "listed_count": 256, 
       "location": "Strasbourg, France", 
       "name": "Roland Ries", 
       "notifications": false, 
@@ -22530,10 +22382,10 @@
     }, 
     "twitter_description": "Maire de @Strasbourg", 
     "twitter_favourites": 82, 
-    "twitter_followers": 6160, 
+    "twitter_followers": 6164, 
     "twitter_following": 484, 
     "twitter_id": 281438650, 
-    "twitter_listed": 0, 
+    "twitter_listed": 256, 
     "twitter_name": "Roland Ries", 
     "twitter_protected": false, 
     "twitter_tweets": 823, 
@@ -23186,7 +23038,7 @@
       }, 
       "favourites_count": 72, 
       "follow_request_sent": false, 
-      "followers_count": 725, 
+      "followers_count": 729, 
       "following": false, 
       "friends_count": 444, 
       "geo_enabled": false, 
@@ -23196,7 +23048,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 0, 
+      "listed_count": 19, 
       "location": "", 
       "name": "Michel Savin", 
       "notifications": false, 
@@ -23218,28 +23070,38 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Wed Jan 24 15:03:05 +0000 2018", 
+        "created_at": "Tue Jan 30 17:51:27 +0000 2018", 
         "entities": {
           "hashtags": [], 
           "symbols": [], 
-          "urls": [], 
+          "urls": [
+            {
+              "display_url": "olbia-leblog.com/2018/01/30/le-\u2026", 
+              "expanded_url": "https://olbia-leblog.com/2018/01/30/le-guide-presque-pessimiste-du-sport-2018-9/", 
+              "indices": [
+                113, 
+                136
+              ], 
+              "url": "https://t.co/LmD84kFgqq"
+            }
+          ], 
           "user_mentions": [
             {
-              "id": 951849552, 
-              "id_str": "951849552", 
+              "id": 712428683, 
+              "id_str": "712428683", 
               "indices": [
                 3, 
-                13
+                16
               ], 
-              "name": "Paris 2024", 
-              "screen_name": "Paris2024"
+              "name": "Olbia Conseil", 
+              "screen_name": "olbia_leblog"
             }, 
             {
               "id": 800815734163062785, 
               "id_str": "800815734163062785", 
               "indices": [
-                93, 
-                107
+                98, 
+                112
               ], 
               "name": "Michel Savin", 
               "screen_name": "MichelSavin38"
@@ -23249,36 +23111,35 @@
         "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 956180562284351488, 
-        "id_str": "956180562284351488", 
+        "id": 958397261234475008, 
+        "id_str": "958397261234475008", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
         "in_reply_to_user_id": null, 
         "in_reply_to_user_id_str": null, 
-        "is_quote_status": true, 
+        "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "quoted_status_id": 956123560757678081, 
-        "quoted_status_id_str": "956123560757678081", 
-        "retweet_count": 6, 
+        "possibly_sensitive": false, 
+        "retweet_count": 8, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
           "coordinates": null, 
-          "created_at": "Wed Jan 24 14:59:32 +0000 2018", 
+          "created_at": "Tue Jan 30 17:07:01 +0000 2018", 
           "entities": {
             "hashtags": [], 
             "symbols": [], 
             "urls": [
               {
                 "display_url": "twitter.com/i/web/status/9\u2026", 
-                "expanded_url": "https://twitter.com/i/web/status/956179667043733505", 
+                "expanded_url": "https://twitter.com/i/web/status/958386078293135360", 
                 "indices": [
-                  117, 
-                  140
+                  96, 
+                  119
                 ], 
-                "url": "https://t.co/dAwVa9qDt7"
+                "url": "https://t.co/LXjLlMDEii"
               }
             ], 
             "user_mentions": [
@@ -23286,41 +23147,39 @@
                 "id": 800815734163062785, 
                 "id_str": "800815734163062785", 
                 "indices": [
-                  78, 
-                  92
+                  80, 
+                  94
                 ], 
                 "name": "Michel Savin", 
                 "screen_name": "MichelSavin38"
               }
             ]
           }, 
-          "favorite_count": 29, 
+          "favorite_count": 4, 
           "favorited": false, 
           "geo": null, 
-          "id": 956179667043733505, 
-          "id_str": "956179667043733505", 
+          "id": 958386078293135360, 
+          "id_str": "958386078293135360", 
           "in_reply_to_screen_name": null, 
           "in_reply_to_status_id": null, 
           "in_reply_to_status_id_str": null, 
           "in_reply_to_user_id": null, 
           "in_reply_to_user_id_str": null, 
-          "is_quote_status": true, 
+          "is_quote_status": false, 
           "lang": "fr", 
           "place": null, 
           "possibly_sensitive": false, 
-          "quoted_status_id": 956123560757678081, 
-          "quoted_status_id_str": "956123560757678081", 
-          "retweet_count": 6, 
+          "retweet_count": 8, 
           "retweeted": false, 
           "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-          "text": "Ce matin les dirigeants du COJO ont eu l'occasion d'\u00e9changer avec le s\u00e9nateur @MichelSavin38 pour envisager l'h\u00e9rit\u2026 https://t.co/dAwVa9qDt7", 
+          "text": "Le guide (presque) pessimiste du sport 2018 #9 avec la contribution du s\u00e9nateur @MichelSavin38\u2026 https://t.co/LXjLlMDEii", 
           "truncated": true
         }, 
-        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "RT @Paris2024: Ce matin les dirigeants du COJO ont eu l'occasion d'\u00e9changer avec le s\u00e9nateur @MichelSavin38 pour envisager l'h\u00e9ritage de #P\u2026", 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "RT @olbia_leblog: Le guide (presque) pessimiste du sport 2018 #9 avec la contribution du s\u00e9nateur @MichelSavin38 https://t.co/LmD84kFgqq #s\u2026", 
         "truncated": false
       }, 
-      "statuses_count": 517, 
+      "statuses_count": 519, 
       "time_zone": "Pacific Time (US & Canada)", 
       "translator_type": "none", 
       "url": "https://t.co/SPHu0HP1ca", 
@@ -23329,13 +23188,13 @@
     }, 
     "twitter_description": "S\u00e9nateur #LR de l'Is\u00e8re - Pr\u00e9sident du groupe Pratiques sportives et les grands \u00e9v\u00e8nements sportifs #S\u00e9nat", 
     "twitter_favourites": 72, 
-    "twitter_followers": 725, 
+    "twitter_followers": 729, 
     "twitter_following": 444, 
     "twitter_id": 800815734163062785, 
-    "twitter_listed": 0, 
+    "twitter_listed": 19, 
     "twitter_name": "Michel Savin", 
     "twitter_protected": false, 
-    "twitter_tweets": 517, 
+    "twitter_tweets": 519, 
     "twitter_verified": false, 
     "url_institution": "http://www.senat.fr/senateur/savin_michel11043h.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/michel-savin", 
