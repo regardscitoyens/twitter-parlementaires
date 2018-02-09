@@ -812,9 +812,9 @@
           ]
         }
       }, 
-      "favourites_count": 1434, 
+      "favourites_count": 1435, 
       "follow_request_sent": false, 
-      "followers_count": 21640, 
+      "followers_count": 21648, 
       "following": false, 
       "friends_count": 2104, 
       "geo_enabled": true, 
@@ -901,8 +901,8 @@
       "verified": true
     }, 
     "twitter_description": "D\u00e9put\u00e9 europ\u00e9en, Pdt de la com. #BUDG fondateur de l'Alliance centriste #EnMarche, ancien ministre de l'\u00e9conomie et des finances https://t.co/fhOVDCyFu0", 
-    "twitter_favourites": 1434, 
-    "twitter_followers": 21640, 
+    "twitter_favourites": 1435, 
+    "twitter_followers": 21648, 
     "twitter_following": 2104, 
     "twitter_id": 110191018, 
     "twitter_listed": 694, 
@@ -5813,7 +5813,7 @@
       "is_translation_enabled": false, 
       "is_translator": false, 
       "lang": "fr", 
-      "listed_count": 1207, 
+      "listed_count": 1208, 
       "location": "Paris, France", 
       "name": "J-P. Chev\u00e8nement", 
       "notifications": false, 
@@ -5916,7 +5916,7 @@
     "twitter_followers": 62428, 
     "twitter_following": 711, 
     "twitter_id": 57116930, 
-    "twitter_listed": 1207, 
+    "twitter_listed": 1208, 
     "twitter_name": "J-P. Chev\u00e8nement", 
     "twitter_protected": false, 
     "twitter_tweets": 4578, 
@@ -7829,7 +7829,7 @@
             }
           ]
         }, 
-        "favorite_count": 13, 
+        "favorite_count": 17, 
         "favorited": false, 
         "geo": null, 
         "id": 961675978119532546, 
@@ -7843,7 +7843,7 @@
         "lang": "fr", 
         "place": null, 
         "possibly_sensitive": false, 
-        "retweet_count": 10, 
+        "retweet_count": 11, 
         "retweeted": false, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
         "text": "Premi\u00e8re r\u00e9union du @MvtRadical33 \u27a1\ufe0f heureuse de retrouver ma famille politique girondine en tant que nouvelle s\u00e9na\u2026 https://t.co/QYSHCsJptq", 
@@ -12354,7 +12354,7 @@
       }, 
       "favourites_count": 7, 
       "follow_request_sent": false, 
-      "followers_count": 121, 
+      "followers_count": 123, 
       "following": false, 
       "friends_count": 241, 
       "geo_enabled": false, 
@@ -12472,7 +12472,7 @@
     }, 
     "twitter_description": "Michelle GREAUME S\u00e9natrice du Nord", 
     "twitter_favourites": 7, 
-    "twitter_followers": 121, 
+    "twitter_followers": 123, 
     "twitter_following": 241, 
     "twitter_id": 922403735812403200, 
     "twitter_listed": 4, 
@@ -13341,9 +13341,9 @@
           ]
         }
       }, 
-      "favourites_count": 4130, 
+      "favourites_count": 4131, 
       "follow_request_sent": false, 
-      "followers_count": 3176, 
+      "followers_count": 3178, 
       "following": false, 
       "friends_count": 3967, 
       "geo_enabled": true, 
@@ -13375,28 +13375,57 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Thu Feb 08 15:12:19 +0000 2018", 
+        "created_at": "Fri Feb 09 09:50:28 +0000 2018", 
         "entities": {
-          "hashtags": [], 
-          "symbols": [], 
-          "urls": [
+          "hashtags": [
             {
-              "display_url": "twitter.com/i/web/status/9\u2026", 
-              "expanded_url": "https://twitter.com/i/web/status/961618705129115648", 
               "indices": [
-                116, 
-                139
+                102, 
+                106
               ], 
-              "url": "https://t.co/gEVYmN9deE"
+              "text": "Gvt"
             }
           ], 
-          "user_mentions": []
+          "symbols": [], 
+          "urls": [], 
+          "user_mentions": [
+            {
+              "id": 1006325990, 
+              "id_str": "1006325990", 
+              "indices": [
+                3, 
+                16
+              ], 
+              "name": "Luc Carvounas", 
+              "screen_name": "luccarvounas"
+            }, 
+            {
+              "id": 213754264, 
+              "id_str": "213754264", 
+              "indices": [
+                22, 
+                35
+              ], 
+              "name": "Olivier Faure", 
+              "screen_name": "faureolivier"
+            }, 
+            {
+              "id": 1055021191, 
+              "id_str": "1055021191", 
+              "indices": [
+                51, 
+                62
+              ], 
+              "name": "Jean-Yves Le Drian", 
+              "screen_name": "JY_LeDrian"
+            }
+          ]
         }, 
-        "favorite_count": 2, 
+        "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 961618705129115648, 
-        "id_str": "961618705129115648", 
+        "id": 961900095074684928, 
+        "id_str": "961900095074684928", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -13405,16 +13434,86 @@
         "is_quote_status": true, 
         "lang": "fr", 
         "place": null, 
-        "possibly_sensitive": false, 
-        "quoted_status_id": 961605376809500672, 
-        "quoted_status_id_str": "961605376809500672", 
-        "retweet_count": 1, 
+        "quoted_status_id": 961849250467344385, 
+        "quoted_status_id_str": "961849250467344385", 
+        "retweet_count": 48, 
         "retweeted": false, 
+        "retweeted_status": {
+          "contributors": null, 
+          "coordinates": null, 
+          "created_at": "Fri Feb 09 09:40:11 +0000 2018", 
+          "entities": {
+            "hashtags": [
+              {
+                "indices": [
+                  84, 
+                  88
+                ], 
+                "text": "Gvt"
+              }
+            ], 
+            "symbols": [], 
+            "urls": [
+              {
+                "display_url": "twitter.com/i/web/status/9\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/961897506195103744", 
+                "indices": [
+                  117, 
+                  140
+                ], 
+                "url": "https://t.co/Jz1na4vt6E"
+              }
+            ], 
+            "user_mentions": [
+              {
+                "id": 213754264, 
+                "id_str": "213754264", 
+                "indices": [
+                  4, 
+                  17
+                ], 
+                "name": "Olivier Faure", 
+                "screen_name": "faureolivier"
+              }, 
+              {
+                "id": 1055021191, 
+                "id_str": "1055021191", 
+                "indices": [
+                  33, 
+                  44
+                ], 
+                "name": "Jean-Yves Le Drian", 
+                "screen_name": "JY_LeDrian"
+              }
+            ]
+          }, 
+          "favorite_count": 44, 
+          "favorited": false, 
+          "geo": null, 
+          "id": 961897506195103744, 
+          "id_str": "961897506195103744", 
+          "in_reply_to_screen_name": null, 
+          "in_reply_to_status_id": null, 
+          "in_reply_to_status_id_str": null, 
+          "in_reply_to_user_id": null, 
+          "in_reply_to_user_id_str": null, 
+          "is_quote_status": true, 
+          "lang": "fr", 
+          "place": null, 
+          "possibly_sensitive": false, 
+          "quoted_status_id": 961849250467344385, 
+          "quoted_status_id_str": "961849250467344385", 
+          "retweet_count": 48, 
+          "retweeted": false, 
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+          "text": "Non @faureolivier ce n\u2019est pas \u00e0 @JY_LeDrian de se \u00ab\u00a0d\u00e9terminer\u00a0\u00bb. Il si\u00e8ge dans un #Gvt qui licencie nos fonctionn\u2026 https://t.co/Jz1na4vt6E", 
+          "truncated": true
+        }, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "Avant le compte rendu de la conf\u00e9rence de consensus sur le logement, nous avons fait une conf\u00e9rence de presse pour\u2026 https://t.co/gEVYmN9deE", 
-        "truncated": true
+        "text": "RT @luccarvounas: Non @faureolivier ce n\u2019est pas \u00e0 @JY_LeDrian de se \u00ab\u00a0d\u00e9terminer\u00a0\u00bb. Il si\u00e8ge dans un #Gvt qui licencie nos fonctionnaires,\u2026", 
+        "truncated": false
       }, 
-      "statuses_count": 3217, 
+      "statuses_count": 3220, 
       "time_zone": "Amsterdam", 
       "translator_type": "none", 
       "url": "https://t.co/gFexPLosAM", 
@@ -13422,14 +13521,14 @@
       "verified": false
     }, 
     "twitter_description": "S\u00e9nateur des #HautsdeSeine \u2022 com affaires \u00e9conomiques \u2022 Premier Secr\u00e9taire du @PSfederation92 \u2022 Conseiller Municipal et territorial @villedesuresnes.", 
-    "twitter_favourites": 4130, 
-    "twitter_followers": 3176, 
+    "twitter_favourites": 4131, 
+    "twitter_followers": 3178, 
     "twitter_following": 3967, 
     "twitter_id": 1205524668, 
     "twitter_listed": 50, 
     "twitter_name": "Xavier IACOVELLI", 
     "twitter_protected": false, 
-    "twitter_tweets": 3217, 
+    "twitter_tweets": 3220, 
     "twitter_verified": false, 
     "url_institution": "http://www.senat.fr/senateur/iacovelli_xavier19591f.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/xavier-iacovelli", 
@@ -17290,7 +17389,7 @@
       }, 
       "favourites_count": 5, 
       "follow_request_sent": false, 
-      "followers_count": 3834, 
+      "followers_count": 3833, 
       "following": false, 
       "friends_count": 2340, 
       "geo_enabled": false, 
@@ -17356,7 +17455,7 @@
     }, 
     "twitter_description": "S\u00e9nateur honoraire-maire de Compi\u00e8gne , Pr\u00e9sident de l'agglom\u00e9ration de la r\u00e9gion de Compi\u00e8gne, Pr\u00e9sident de la commission des finances du S\u00e9nat.", 
     "twitter_favourites": 5, 
-    "twitter_followers": 3834, 
+    "twitter_followers": 3833, 
     "twitter_following": 2340, 
     "twitter_id": 1534099902, 
     "twitter_listed": 134, 
@@ -18660,7 +18759,7 @@
       }, 
       "favourites_count": 175, 
       "follow_request_sent": false, 
-      "followers_count": 401, 
+      "followers_count": 402, 
       "following": false, 
       "friends_count": 168, 
       "geo_enabled": false, 
@@ -18794,7 +18893,7 @@
     }, 
     "twitter_description": "S\u00e9natrice Les R\u00e9publicains des Hautes-Alpes", 
     "twitter_favourites": 175, 
-    "twitter_followers": 401, 
+    "twitter_followers": 402, 
     "twitter_following": 168, 
     "twitter_id": 3189823869, 
     "twitter_listed": 16, 
@@ -19492,7 +19591,7 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 33, 
+        "retweet_count": 34, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
@@ -19539,7 +19638,7 @@
           "lang": "fr", 
           "place": null, 
           "possibly_sensitive": false, 
-          "retweet_count": 33, 
+          "retweet_count": 34, 
           "retweeted": false, 
           "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>", 
           "text": "Jusqu\u2019\u00e0 pr\u00e9sent, r\u00e9sume @OuzouliasP, ce sont les \u00e9tudiants qui choisissaient leurs universit\u00e9s. Avec le projet de\u2026 https://t.co/H32r9yezlN", 
@@ -20153,29 +20252,39 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Thu Feb 08 22:02:31 +0000 2018", 
+        "created_at": "Fri Feb 09 09:30:38 +0000 2018", 
         "entities": {
           "hashtags": [], 
           "symbols": [], 
-          "urls": [], 
+          "urls": [
+            {
+              "display_url": "twitter.com/i/web/status/9\u2026", 
+              "expanded_url": "https://twitter.com/i/web/status/961895102607183872", 
+              "indices": [
+                117, 
+                140
+              ], 
+              "url": "https://t.co/e7xwJrqjbn"
+            }
+          ], 
           "user_mentions": [
             {
-              "id": 291596081, 
-              "id_str": "291596081", 
+              "id": 1358847770, 
+              "id_str": "1358847770", 
               "indices": [
-                3, 
-                19
+                20, 
+                35
               ], 
-              "name": "C.Morin-Desailly", 
-              "screen_name": "C_MorinDesailly"
+              "name": "Catherine Deroche", 
+              "screen_name": "CDeroche_Senat"
             }
           ]
         }, 
-        "favorite_count": 0, 
+        "favorite_count": 3, 
         "favorited": false, 
         "geo": null, 
-        "id": 961721933220974592, 
-        "id_str": "961721933220974592", 
+        "id": 961895102607183872, 
+        "id_str": "961895102607183872", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -20184,86 +20293,14 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 6, 
+        "possibly_sensitive": false, 
+        "retweet_count": 1, 
         "retweeted": false, 
-        "retweeted_status": {
-          "contributors": null, 
-          "coordinates": null, 
-          "created_at": "Thu Feb 08 21:57:42 +0000 2018", 
-          "entities": {
-            "hashtags": [], 
-            "symbols": [], 
-            "urls": [
-              {
-                "display_url": "twitter.com/i/web/status/9\u2026", 
-                "expanded_url": "https://twitter.com/i/web/status/961720721931194368", 
-                "indices": [
-                  117, 
-                  140
-                ], 
-                "url": "https://t.co/nEJjKfeXdl"
-              }
-            ], 
-            "user_mentions": []
-          }, 
-          "favorite_count": 13, 
-          "favorited": false, 
-          "geo": null, 
-          "id": 961720721931194368, 
-          "id_str": "961720721931194368", 
-          "in_reply_to_screen_name": null, 
-          "in_reply_to_status_id": null, 
-          "in_reply_to_status_id_str": null, 
-          "in_reply_to_user_id": null, 
-          "in_reply_to_user_id_str": null, 
-          "is_quote_status": false, 
-          "lang": "fr", 
-          "place": {
-            "attributes": {}, 
-            "bounding_box": {
-              "coordinates": [
-                [
-                  [
-                    1.0302043000000001, 
-                    49.417204099999999
-                  ], 
-                  [
-                    1.1522007000000001, 
-                    49.417204099999999
-                  ], 
-                  [
-                    1.1522007000000001, 
-                    49.4652107
-                  ], 
-                  [
-                    1.0302043000000001, 
-                    49.4652107
-                  ]
-                ]
-              ], 
-              "type": "Polygon"
-            }, 
-            "contained_within": [], 
-            "country": "France", 
-            "country_code": "FR", 
-            "full_name": "Rouen, France", 
-            "id": "7290785fce79490a", 
-            "name": "Rouen", 
-            "place_type": "city", 
-            "url": "https://api.twitter.com/1.1/geo/id/7290785fce79490a.json"
-          }, 
-          "possibly_sensitive": false, 
-          "retweet_count": 6, 
-          "retweeted": false, 
-          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-          "text": "La semaine n'est pas finie ! mais heureuse que ma commission ait bien travaill\u00e9 ayant contribu\u00e9 avec d'utiles amend\u2026 https://t.co/nEJjKfeXdl", 
-          "truncated": true
-        }, 
-        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
-        "text": "RT @C_MorinDesailly: La semaine n'est pas finie ! mais heureuse que ma commission ait bien travaill\u00e9 ayant contribu\u00e9 avec d'utiles amendeme\u2026", 
-        "truncated": false
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "Cette semaine, avec @CDeroche_Senat nous \u00e9changeons sur des probl\u00e9matiques urbaines et suburbaines avec les \u00e9lus d'\u2026 https://t.co/e7xwJrqjbn", 
+        "truncated": true
       }, 
-      "statuses_count": 398, 
+      "statuses_count": 399, 
       "time_zone": "Pacific Time (US & Canada)", 
       "translator_type": "none", 
       "url": "https://t.co/Mq47zGgyMI", 
@@ -20278,7 +20315,7 @@
     "twitter_listed": 22, 
     "twitter_name": "St\u00e9phane Piednoir", 
     "twitter_protected": false, 
-    "twitter_tweets": 398, 
+    "twitter_tweets": 399, 
     "twitter_verified": true, 
     "url_institution": "http://www.senat.fr/senateur/piednoir_stephane19533u.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/stephane-piednoir", 
@@ -20422,7 +20459,7 @@
       }, 
       "favourites_count": 1805, 
       "follow_request_sent": false, 
-      "followers_count": 97985, 
+      "followers_count": 97988, 
       "following": false, 
       "friends_count": 2453, 
       "geo_enabled": true, 
@@ -20492,7 +20529,7 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 24, 
+        "retweet_count": 26, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
@@ -20522,7 +20559,7 @@
             ], 
             "user_mentions": []
           }, 
-          "favorite_count": 13, 
+          "favorite_count": 17, 
           "favorited": false, 
           "geo": null, 
           "id": 961641838754062337, 
@@ -20536,7 +20573,7 @@
           "lang": "fr", 
           "place": null, 
           "possibly_sensitive": false, 
-          "retweet_count": 24, 
+          "retweet_count": 26, 
           "retweeted": false, 
           "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
           "text": "Le vote des conservateurs et des europhobes est une mauvaise nouvelle pour l\u2019#Europe . Face au danger du repli nati\u2026 https://t.co/WRSMgujzXg", 
@@ -20555,7 +20592,7 @@
     }, 
     "twitter_description": "Ancien Ministre. Ancien S\u00e9nateur. Conseiller r\u00e9gional d'\u00cele de France. Pr\u00e9sident de l' @UDE_FR", 
     "twitter_favourites": 1805, 
-    "twitter_followers": 97985, 
+    "twitter_followers": 97988, 
     "twitter_following": 2453, 
     "twitter_id": 219361536, 
     "twitter_listed": 993, 
@@ -22043,7 +22080,7 @@
       }, 
       "favourites_count": 82, 
       "follow_request_sent": false, 
-      "followers_count": 6200, 
+      "followers_count": 6202, 
       "following": false, 
       "friends_count": 484, 
       "geo_enabled": true, 
@@ -22160,7 +22197,7 @@
     }, 
     "twitter_description": "Maire de @Strasbourg", 
     "twitter_favourites": 82, 
-    "twitter_followers": 6200, 
+    "twitter_followers": 6202, 
     "twitter_following": 484, 
     "twitter_id": 281438650, 
     "twitter_listed": 256, 
@@ -22848,17 +22885,9 @@
       "status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Thu Feb 08 18:43:39 +0000 2018", 
+        "created_at": "Fri Feb 09 08:38:45 +0000 2018", 
         "entities": {
-          "hashtags": [
-            {
-              "indices": [
-                72, 
-                96
-              ], 
-              "text": "PoliceS\u00e9curit\u00e9Quotidien"
-            }
-          ], 
+          "hashtags": [], 
           "symbols": [], 
           "urls": [], 
           "user_mentions": [
@@ -22871,14 +22900,34 @@
               ], 
               "name": "Michel Savin", 
               "screen_name": "MichelSavin38"
+            }, 
+            {
+              "id": 305718058, 
+              "id_str": "305718058", 
+              "indices": [
+                20, 
+                35
+              ], 
+              "name": "Cour des comptes", 
+              "screen_name": "Courdescomptes"
+            }, 
+            {
+              "id": 951849552, 
+              "id_str": "951849552", 
+              "indices": [
+                95, 
+                105
+              ], 
+              "name": "Paris 2024", 
+              "screen_name": "Paris2024"
             }
           ]
         }, 
         "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 961671888580829187, 
-        "id_str": "961671888580829187", 
+        "id": 961882044656766976, 
+        "id_str": "961882044656766976", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -22887,41 +22936,54 @@
         "is_quote_status": false, 
         "lang": "fr", 
         "place": null, 
-        "retweet_count": 9, 
+        "retweet_count": 5, 
         "retweeted": false, 
         "retweeted_status": {
           "contributors": null, 
           "coordinates": null, 
-          "created_at": "Thu Feb 08 15:35:10 +0000 2018", 
+          "created_at": "Thu Feb 08 17:10:32 +0000 2018", 
           "entities": {
-            "hashtags": [
-              {
-                "indices": [
-                  53, 
-                  77
-                ], 
-                "text": "PoliceS\u00e9curit\u00e9Quotidien"
-              }
-            ], 
+            "hashtags": [], 
             "symbols": [], 
             "urls": [
               {
                 "display_url": "twitter.com/i/web/status/9\u2026", 
-                "expanded_url": "https://twitter.com/i/web/status/961624453334650881", 
+                "expanded_url": "https://twitter.com/i/web/status/961648455159558144", 
                 "indices": [
-                  121, 
-                  144
+                  117, 
+                  140
                 ], 
-                "url": "https://t.co/GWaWoXhB1c"
+                "url": "https://t.co/z7KBt22jmN"
               }
             ], 
-            "user_mentions": []
+            "user_mentions": [
+              {
+                "id": 305718058, 
+                "id_str": "305718058", 
+                "indices": [
+                  1, 
+                  16
+                ], 
+                "name": "Cour des comptes", 
+                "screen_name": "Courdescomptes"
+              }, 
+              {
+                "id": 951849552, 
+                "id_str": "951849552", 
+                "indices": [
+                  76, 
+                  86
+                ], 
+                "name": "Paris 2024", 
+                "screen_name": "Paris2024"
+              }
+            ]
           }, 
-          "favorite_count": 5, 
+          "favorite_count": 6, 
           "favorited": false, 
           "geo": null, 
-          "id": 961624453334650881, 
-          "id_str": "961624453334650881", 
+          "id": 961648455159558144, 
+          "id_str": "961648455159558144", 
           "in_reply_to_screen_name": null, 
           "in_reply_to_status_id": null, 
           "in_reply_to_status_id_str": null, 
@@ -22931,17 +22993,17 @@
           "lang": "fr", 
           "place": null, 
           "possibly_sensitive": false, 
-          "retweet_count": 9, 
+          "retweet_count": 5, 
           "retweeted": false, 
           "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-          "text": "La m\u00e9tropole grenobloise est la grande oubli\u00e9e de la #PoliceS\u00e9curit\u00e9Quotidien &amp; des quartiers de reconqu\u00eate r\u00e9publi\u2026 https://t.co/GWaWoXhB1c", 
+          "text": ".@Courdescomptes \u00e9pingle la gestion obsol\u00e8te des piscines publiques.M\u00eame si @Paris2024 permettra de construire un n\u2026 https://t.co/z7KBt22jmN", 
           "truncated": true
         }, 
         "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-        "text": "RT @MichelSavin38: La m\u00e9tropole grenobloise est la grande oubli\u00e9e de la #PoliceS\u00e9curit\u00e9Quotidien &amp; des quartiers de reconqu\u00eate r\u00e9publicaine\u2026", 
+        "text": "RT @MichelSavin38: .@Courdescomptes \u00e9pingle la gestion obsol\u00e8te des piscines publiques.M\u00eame si @Paris2024 permettra de construire un nouvel\u2026", 
         "truncated": false
       }, 
-      "statuses_count": 537, 
+      "statuses_count": 538, 
       "time_zone": "Pacific Time (US & Canada)", 
       "translator_type": "none", 
       "url": "https://t.co/SPHu0HP1ca", 
@@ -22956,7 +23018,7 @@
     "twitter_listed": 20, 
     "twitter_name": "Michel Savin", 
     "twitter_protected": false, 
-    "twitter_tweets": 537, 
+    "twitter_tweets": 538, 
     "twitter_verified": false, 
     "url_institution": "http://www.senat.fr/senateur/savin_michel11043h.html", 
     "url_nossenateurs": "http://www.nossenateurs.fr/michel-savin", 
