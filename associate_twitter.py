@@ -31,7 +31,7 @@ with open(sys.argv[2]) as f:
     twitter = json.load(f)
 
 # Exclude bad accounts
-notparls = ["bayrou", "ABachelay", "search", "clyimiyepiz", "OffLineSouth"]
+notparls = ["bayrou", "ABachelay", "search", "clyimiyepiz", "OffLineSouth", "joaquimpueyo"]
 groupes = ["crcsenat", "udiuc", "ecolosenat", "senateursps", "senateursump", "lesrep_senat", "indep_senat", "senateurslarem", "rdse_senat", "senateurscrce", "uc_senat"]
 doublons = ["teambouillon", "fdebeauce", "vignal2012", "deputecvautrin", "clergeau2012", "isabellebruneau", "roussetalain", "elubondy", "FLefebvre_UMP", "Gabouty2012", "moniquerabin", "PascalAllizard", "pascalegruny", "sergiocoronado", "audeluquet", # 2012-2017
 "Darrieussecq", "MireilleRobert", "tamarelle_marie", "Fdumas2017", "stelladupont2", "karamanli72", "micheldelpon", "8306lrem", "offline8306", "ckamowski", "valbeauvais"] # 2017-2022
