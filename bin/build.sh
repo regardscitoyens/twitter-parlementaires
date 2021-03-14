@@ -24,7 +24,7 @@ echo
 echo "Associating..."
 echo "--------------"
 #./associate_twitter.py deputes .cache/twitter-AssembleeNat.json
-./associate_twitter.py deputes .cache/twitter-lcp.json
-./associate_twitter.py senateurs .cache/twitter-Senat.json
+./associate_twitter.py deputes .cache/twitter-d-put-s-xve-l-gislature.json
+./associate_twitter.py senateurs .cache/twitter-comloiss-nat.json .cache/twitter-comfins-nat.json .cache/twitter-comdevdurs-nat.json .cache/twitter-comd-fenses-nat.json .cache/twitter-comcults-nat.json .cache/twitter-comafsocs-nat.json .cache/twitter-comafecos-nat.json .cache/twitter-collterrs-nat-18321.json
 echo
 

@@ -42,5 +42,5 @@ while args["cursor"]:
     print("[INFO/%s] page %s -> %s results including %s new ; new total: %s" % (LIST_ID, page, len(res['users']), new, len(accounts)))
     page += 1
 
-with open(os.path.join('.cache', 'twitter-%s.json' % LIST_USER), 'w') as f:
+with open(os.path.join('.cache', 'twitter-%s.json' % LIST_ID), 'w') as f:
     json.dump(accounts, f)
