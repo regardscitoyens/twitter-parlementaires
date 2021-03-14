@@ -27,8 +27,12 @@ with open(os.path.join(".cache", "%s.json" % typeparls)) as f:
 
 
 # Read Twitter list data
-with open(sys.argv[2]) as f:
-    twitter = json.load(f)
+twitter = {}
+i = 2
+while i < len(sys.argv):
+    with open(sys.argv[i]) as f:
+        twitter.update(json.load(f))
+    i += 1
 
 # Exclude bad accounts
 notparls = ["bayrou", "ABachelay", "search", "clyimiyepiz", "OffLineSouth", "joaquimpueyo"]
