@@ -187,7 +187,7 @@ def match_parl(tw):
 
         # Try to match a url
         for url in urls:
-            if url in [check_url(u["site"]) for u in parl["sites_web"]] + [check_url(parl.get('url_an', parl.get('url_institution', '')))]:
+            if url in [check_url(u["site"]) for u in parl["sites_web"] if u] + [check_url(parl.get('url_an', parl.get('url_institution', '')) or '')]:
                 return store_one(twid, parl, slug)
 
     # Check matches by family name found
