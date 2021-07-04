@@ -38,7 +38,7 @@ while i < len(sys.argv):
 notparls = ["bayrou", "ABachelay", "search", "clyimiyepiz", "OffLineSouth", "joaquimpueyo"]
 groupes = ["crcsenat", "udiuc", "ecolosenat", "senateursps", "senateursump", "lesrep_senat", "indep_senat", "senateurslarem", "rdse_senat", "senateurscrce", "uc_senat"]
 doublons = ["teambouillon", "fdebeauce", "vignal2012", "deputecvautrin", "clergeau2012", "isabellebruneau", "roussetalain", "elubondy", "FLefebvre_UMP", "Gabouty2012", "moniquerabin", "PascalAllizard", "pascalegruny", "sergiocoronado", "audeluquet", # 2012-2017
-"Darrieussecq", "MireilleRobert", "tamarelle_marie", "Fdumas2017", "stelladupont2", "karamanli72", "micheldelpon", "8306lrem", "offline8306", "ckamowski", "valbeauvais", "cjerretie"] # 2017-2022
+"Darrieussecq", "MireilleRobert", "tamarelle_marie", "Fdumas2017", "stelladupont2", "karamanli72", "micheldelpon", "8306lrem", "offline8306", "ckamowski", "valbeauvais", "cjerretie", "hvchristophe", "SCazenove"] # 2017-2022
 dead = ["Guy_Delcourt", "ConchitaLacuey", "MichelVERGNIER", "bernardroman59", "AndrSaint", "LucetteLousteau", "CathLEMORTON", "EPhilippe_LH", # 2012-2017
 "celiadeputee2017", "davidlorion", "PascalBois2017", "DipompeoChris", "Vincent.Ledoux59", "valeriebeauvais2017", "Josso2017", "ColasRoy2017", "Marc_Delatte", "EricDiardDepute", "bernarddeflesselles", "sttrompille", "pgoulet58", "GCHICHE2017", "obono2017", "Sempastous2017", "JhRatenon",  # 2017-2022
 "brunosido1", "OHerviaux_Senat", "draoulsenateur", "HuguesPortelliS", "patrick_masclet", "LouisNegre2014", "gonthier_maurin", "danymichelsenat"]
