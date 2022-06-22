@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-import os, sys, json, re
+import os, sys, json, re, csv
 from datetime import datetime
 from itertools import chain
 from twitter import Twitter, OAuth
@@ -18,12 +18,29 @@ typeparls = sys.argv[1]
 typeparl = typeparls.rstrip("s")
 goodparls = []
 
-with open(os.path.join(".cache", "%s.json" % typeparls)) as f:
-    try:
-        parls = dict((parl["slug"], parl) for parl in [p[typeparl] for p in json.load(f)[typeparls]])
-    except ValueError:
-        sys.stderr.write("Could not open Nos%s.fr parlementaires list" % typeparls)
-        exit(1)
+if typeparls.endswith(".csv"):
+    with open(os.path.join(typeparls)) as f:
+        try:
+            parls = {}
+            for parl in csv.DictReader(f):
+                parl["sites_web"] = [{"site": u.decode("utf-8")} for u in parl["sites_web"].split("|")]
+                for key in ["nom_de_famille", "prenom"]:
+                    parl[key] = parl[key].decode("utf-8")
+                parl["nom"] = "%s %s" % (parl["prenom"], parl["nom_de_famille"])
+                parl["sexe"] = "H" if parl["Civ."] == "M." else "F"
+                parl["slug"] = parl["slug"] or parl["Slug"]
+                parls[parl["slug"]] = parl
+            typeparls = "deputes" if "deputes" in typeparls else "senateurs"
+        except ValueError:
+            sys.stderr.write("Could not open Nos%s.fr parlementaires list" % typeparls)
+            exit(1)
+else:
+    with open(os.path.join(".cache", "%s.json" % typeparls)) as f:
+        try:
+            parls = dict((parl["slug"], parl) for parl in [p[typeparl] for p in json.load(f)[typeparls]])
+        except ValueError:
+            sys.stderr.write("Could not open Nos%s.fr parlementaires list" % typeparls)
+            exit(1)
 
 
 # Read Twitter list data
@@ -88,9 +105,9 @@ re_clean_url = re.compile(r"^((?:https?://)?(?:(?:www2?|m|fr|fr-fr|deputation)\.
 check_url = lambda x: re_clean_url.sub(r"\2", x.strip().lower())
 clean_url = lambda x: re_clean_url.sub(r"\1\2", x.strip())
 
-re_clean_facebook = re.compile(r"(facebook.com/.*?/?(\?id=.*?)?)([?&].*|#.*|/photos/.*)*$", re.I)
-re_clean_facebook2 = re.compile(r"(facebook.com/)www.facebook.com/", re.I)
-clean_facebook = lambda x: re_clean_facebook.sub(r"\1", re_clean_facebook2.sub(r"\1", x.replace("%C3%A9", u"é")))
+re_clean_facebook = re.compile(ur"(facebook.com/.*?/?(\?id=.*?)?)([?&].*|#.*|/photos/.*)*$", re.I)
+re_clean_facebook2 = re.compile(ur"(facebook.com/)www.facebook.com/", re.I)
+clean_facebook = lambda x: re_clean_facebook.sub(ur"\1", re_clean_facebook2.sub(ur"\1", x.replace(u"%C3%A9", u"é")))
 
 re_clean_initiales = re.compile(r"^([A-Z]{1,2}[\. ]+)+(d('|[eus]+ (la )?))?")
 clean_initiales = lambda x: nospaces(clean(re_clean_initiales.sub("", x.strip())))
@@ -242,9 +259,9 @@ with open(os.path.join("data", "%s.csv" % typeparls), "w") as f:
         parl["sites_web"] = "|".join(clean_sites)
         if "url_institution" not in parl:
             parl["url_institution"] = parl["url_an"]
-        parl["url_nos%s_api" % typeparls] = parl["url_nos%s_api" % typeparls].replace("/json", "/csv")
+        parl["url_nos%s_api" % typeparls] = parl["url_nos%s" % typeparls] + "/csv"
         print >> f, ",".join([formatcsv(parl[k]) for k in headers])
-        parl["url_nos%s_api" % typeparls] = parl["url_nos%s_api" % typeparls].replace("/csv", "/json")
+        parl["url_nos%s_api" % typeparls] = parl["url_nos%s" % typeparls] + "/json"
         parl["sites_web"] = parl["sites_web"].split("|")
 
 with open(os.path.join("data", "%s.json" % typeparls), "w") as f:
