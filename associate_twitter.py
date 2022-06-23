@@ -52,7 +52,7 @@ while i < len(sys.argv):
     i += 1
 
 # Exclude bad accounts
-notparls = ["bayrou", "ABachelay", "search", "clyimiyepiz", "OffLineSouth", "joaquimpueyo", "serrenatbrefra"]
+notparls = ["bayrou", "ABachelay", "search", "clyimiyepiz", "OffLineSouth", "joaquimpueyo", "serrenatbrefra", "SergeMuller19", "vbesse", "JorisHebrard", "FlorenceLASSERR"]
 groupes = ["crcsenat", "udiuc", "ecolosenat", "senateursps", "senateursump", "lesrep_senat", "indep_senat", "senateurslarem", "rdse_senat", "senateurscrce", "uc_senat"]
 doublons = ["teambouillon", "fdebeauce", "vignal2012", "deputecvautrin", "clergeau2012", "isabellebruneau", "roussetalain", "elubondy", "FLefebvre_UMP", "Gabouty2012", "moniquerabin", "PascalAllizard", "pascalegruny", "sergiocoronado", "audeluquet", # 2012-2017
 "Darrieussecq", "MireilleRobert", "tamarelle_marie", "Fdumas2017", "stelladupont2", "karamanli72", "micheldelpon", "8306lrem", "offline8306", "ckamowski", "valbeauvais", "cjerretie", "hvchristophe", "SCazenove"] # 2017-2022
