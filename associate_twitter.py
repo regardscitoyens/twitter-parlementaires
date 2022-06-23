@@ -227,7 +227,7 @@ if not os.path.isdir("data"):
 
 formatcsv = lambda x: '"%s"' % x.encode("utf-8").replace('"', '""') if type(x) == unicode else str(x)
 
-headers = ["twitter", "nom", "nom_de_famille", "prenom", "sexe", "twitter_tweets", "twitter_followers", "twitter_following", "twitter_listed", "twitter_favourites", "twitter_verified", "twitter_protected", "twitter_id", "twitter_name", "twitter_description", "twitter_created_at", "sites_web", "url_institution", "slug", "url_nos%s_api" % typeparls]
+headers = ["twitter", "nom", "nom_de_famille", "prenom", "sexe", "twitter_tweets", "twitter_followers", "twitter_following", "twitter_listed", "twitter_favourites", "twitter_verified", "twitter_protected", "twitter_id", "twitter_name", "twitter_description", "twitter_created_at", "twitter_last_tweeted_at", "sites_web", "url_institution", "slug", "url_nos%s_api" % typeparls]
 
 orderparls = sorted(goodparls, key=lambda x: "%s - %s" % (x["nom_de_famille"], x["prenom"]))
 with open(os.path.join("data", "%s.csv" % typeparls), "w") as f:
@@ -235,6 +235,11 @@ with open(os.path.join("data", "%s.csv" % typeparls), "w") as f:
     for parl in orderparls:
         tw = parl["twitter_data"]
         parl["twitter_id"] = tw["id"]
+        if "status" in tw:
+            parl["twitter_last_tweeted_at"] = datetime.strptime(tw["status"]["created_at"], '%a %b %d %H:%M:%S +0000 %Y').isoformat()
+            tw.pop("status")
+        else:
+            parl["twitter_last_tweeted_at"] = ""
         parl["twitter_name"] = tw["name"]
         parl["twitter_created_at"] = datetime.strptime(tw["created_at"], '%a %b %d %H:%M:%S +0000 %Y').isoformat()
         parl["twitter_description"] = clean_desc(tw["description"])

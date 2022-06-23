@@ -20,7 +20,7 @@ page = 1
 args = {
     "owner_screen_name": LIST_USER,
     "include_entities": "false",
-    "skip_status": "true",
+    "skip_status": "false",
     "count": 5000,
     "cursor": -1
 }
