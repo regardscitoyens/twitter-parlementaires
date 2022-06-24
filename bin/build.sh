@@ -4,8 +4,17 @@ cd $(echo $0 | sed 's#/[^/]*$##')/..
 
 echo "Downloading..."
 echo "--------------"
-source /usr/local/bin/virtualenvwrapper.sh
-workon twitter-parls
+#source /usr/local/bin/virtualenvwrapper.sh
+#workon twitter-parls
+
+export PYENV_ROOT="$HOME/.pyenv"
+export PATH="$PYENV_ROOT/bin:$PATH"    # if `pyenv` is not already on PATH
+eval "$(pyenv init --path)"
+eval "$(pyenv init -)"
+eval "$(pyenv virtualenv-init -)"
+export PYENV_VIRTUALENV_DISABLE_PROMPT=1
+pyenv activate twitter-parls
+
 #./download_twitter.py "AssembleeNat" "les-députés"
 #./download_twitter.py "lcp" "d-put-s-xve-l-gislature"
 ./download_twitter.py "ivalerio" "1536014130506866689"

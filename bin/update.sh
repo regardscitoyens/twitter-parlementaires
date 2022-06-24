@@ -2,7 +2,7 @@
 
 cd $(echo $0 | sed 's#/[^/]*$##')/..
 
-git pull > /tmp/load_twitter_parls.tmp
+git stash && git pull && git stash pop > /tmp/load_twitter_parls.tmp
 
 bin/build.sh >> /tmp/load_twitter_parls.tmp
 
