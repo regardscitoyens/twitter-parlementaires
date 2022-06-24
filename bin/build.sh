@@ -28,7 +28,7 @@ pyenv activate twitter-parls
 ./download_twitter.py "Senat" "comafecos-nat"
 ./download_twitter.py "Senat" "collterrs-nat-18321"
 #curl -sL "http://www.nosdeputes.fr/deputes/json" > .cache/deputes.json
-curl -sL "https://2022.nosdeputes.fr/deputes/csv" > .cache/deputes.json
+curl -sL "https://2022.nosdeputes.fr/deputes/json" > .cache/deputes.json
 curl -sL "http://www.nossenateurs.fr/senateurs/json" > .cache/senateurs.json
 
 echo
