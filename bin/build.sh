@@ -19,6 +19,7 @@ workon twitter-parls
 ./download_twitter.py "Senat" "comafecos-nat"
 ./download_twitter.py "Senat" "collterrs-nat-18321"
 #curl -sL "http://www.nosdeputes.fr/deputes/json" > .cache/deputes.json
+curl -sL "https://2022.nosdeputes.fr/deputes/csv" > .cache/deputes.json
 curl -sL "http://www.nossenateurs.fr/senateurs/json" > .cache/senateurs.json
 
 echo
@@ -26,7 +27,8 @@ echo "Associating..."
 echo "--------------"
 #./associate_twitter.py deputes .cache/twitter-AssembleeNat.json
 #./associate_twitter.py deputes .cache/twitter-d-put-s-xve-l-gislature.json
-./associate_twitter.py 2022-deputes-elus+ND.csv .cache/twitter-1536014130506866689.json
+#./associate_twitter.py 2022-deputes-elus+ND.csv .cache/twitter-1536014130506866689.json
+./associate_twitter.py deputes .cache/twitter-1536014130506866689.json
 ./associate_twitter.py senateurs .cache/twitter-comloiss-nat.json .cache/twitter-comfins-nat.json .cache/twitter-comdevdurs-nat.json .cache/twitter-comd-fenses-nat.json .cache/twitter-comcults-nat.json .cache/twitter-comafsocs-nat.json .cache/twitter-comafecos-nat.json .cache/twitter-collterrs-nat-18321.json
 echo
 
