@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import os, sys, json, re, csv
+import requests
 from datetime import datetime
 from itertools import chain
 from twitter import Twitter, OAuth
@@ -49,6 +50,19 @@ else:
         except ValueError:
             sys.stderr.write("Could not open Nos%s.fr parlementaires list" % typeparls)
             exit(1)
+
+# Collect twitter account from AN webpage in case they updated it:
+if typeparls == "deputes":
+    for parl in parls:
+        try:
+            page = requests.get(parl["url_institution"]).text
+        except:
+            continue
+        twitter_line = re.search(r'<a[^>]*href="http[^"]*twitter.com/@?([^"/#]*)([/#][^"]*)?">Consulter le compte Twitter', page)
+        if twitter_line:
+            twid = twitter_line.group(1)
+            if twid.lower() != parl["twitter"].lower():
+                parl["sites_web"].append({"site": "https://twitter.com/%s" % twid})
 
 
 # Run checks on preexisting data
