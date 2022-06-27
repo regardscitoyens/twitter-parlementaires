@@ -13,6 +13,14 @@ if len(sys.argv) < 3:
     exit(1)
 
 
+# Logging
+def log(msg, typ):
+    print("[%s/%s] %s" % (typ.upper(), typeparls, msg))
+
+def log_status():
+    log("%s todo, %s parls left, %s good" % (len(twitter), len(parls), len(goodparls)), "info")
+
+
 # Read Parls data
 typeparls = sys.argv[1]
 typeparl = typeparls.rstrip("s")
@@ -43,6 +51,53 @@ else:
             exit(1)
 
 
+# Run checks on preexisting data
+try:
+    with open(os.path.join("data", "%s.json" % typeparls)) as f:
+        existing = json.load(f)
+except Exception as e:
+    existing = []
+
+# - Collect known accounts to check screenname changes and disappeared accounts
+accounts_by_id = {str(p["twitter_id"]): p for p in existing}
+ids = accounts_by_id.keys()
+screennames_by_id = {}
+for i in range(len(ids)/100 + 1):
+    batch_ids = ids[100 * i:100 * (i+1)]
+    for user in twitterConn.users.lookup(user_id=",".join(batch_ids)):
+        screennames_by_id[user["id_str"]] = user["screen_name"]
+
+# - Check ids missing in screennames_by_id = accounts disappeared
+if len(ids) != len(screennames_by_id.keys()):
+    for i in ids:
+        if i not in screennames_by_id:
+            parl = accounts_by_id[i]
+            log("Twitter account %s (@%s) seems to have disappeared for parl %s: https://twitter.com/%s | %s | %s" % (i, parl["twitter"], parl["nom"], parl["twitter"], parl["url_nos%s" % typeparls], parl["url_institution"]), "warning")
+
+auto_handle_changes = {}
+for parl in existing:
+    i = str(parl["twitter_id"])
+    old_handle = parl["twitter"]
+    new_handle = screennames_by_id[str(parl["twitter_id"])]
+    # Examine accounts with modified screen_name
+    if new_handle.lower() != old_handle.lower():
+        log("Twitter account %s (https://twitte.com/%s) has changed its Twitter handle to %s for parl %s: https://twitter.com/%s | %s | %s" % (i, old_handle, screennames_by_id[str(parl["twitter_id"])], parl["nom"], new_handle, parl["url_nos%s" % typeparls], parl["url_institution"]), "info")
+        auto_handle_changes[old_handle.lower()] = new_handle
+    else:
+        new_handle = old_handle
+
+    # Examine description to check if compte parodique announced in description
+    if "parodi" in parl["twitter_description"].lower():
+        log("Twitter account %s for parl %s seems to be a parodical one according to its description \"%s\": https://twitter.com/%s" % (new_handle, parl["nom"], parl["twitter_description"], new_handle), "warning")
+
+    # Examine last tweet date to wheck whether account is active
+    if parl["twitter_last_tweeted_at"]:
+        delay = (datetime.now() - datetime.strptime(parl["twitter_last_tweeted_at"], "%Y-%m-%dT%H:%M:%S")).total_seconds()
+        four_months = 86400 * 365
+        if delay > four_months:
+            log("Twitter account %s for parl %s has been inactive for more than a year (since %s): https://twitter.com/%s" % (new_handle, parl["nom"], parl["twitter_last_tweeted_at"][:10], new_handle), "warning")
+
+
 # Read Twitter list data
 twitter = {}
 i = 2
@@ -66,14 +121,6 @@ excludes = [t.lower() for t in notparls + groupes + doublons + dead]
 for e in excludes:
     if e in twitter:
         twitter.pop(e)
-
-
-# Logging
-def log(msg, typ):
-    print("[%s/%s] %s" % (typ.upper(), typeparls, msg))
-
-def log_status():
-    log("%s todo, %s parls left, %s good" % (len(twitter), len(parls), len(goodparls)), "info")
 
 
 # Cleaning regexps
@@ -127,6 +174,12 @@ split_twid = lambda x: [clean(w) for w in re_split.sub(r" \1", x).strip().split(
 log_status()
 
 def store_one(twid, parl, slug):
+    if twid.lower() in auto_handle_changes:
+        oldsite = {"site": "https://twitter.com/%s" % twid}
+        if oldsite in parl["sites_web"]:
+            parl["sites_web"].remove(oldsite)
+        twid = auto_handle_changes[twid]
+        parl["sites_web"].append({"site": "https://twitter.com/%s" % twid})
     try:
         tw = twitter.pop(twid.lower())
     except KeyError:
