@@ -16,7 +16,7 @@ if len(sys.argv) < 3:
 
 # Logging
 def log(msg, typ):
-    print("[%s/%s] %s" % (typ.upper(), typeparls, msg))
+    print("[%s/%s] %s" % (typ.upper(), typeparls, msg.encode("utf-8")))
 
 def log_status():
     log("%s todo, %s parls left, %s good" % (len(twitter), len(parls), len(goodparls)), "info")
@@ -91,11 +91,11 @@ if len(ids) != len(screennames_by_id.keys()):
 auto_handle_changes = {}
 for parl in existing:
     i = str(parl["twitter_id"])
-    old_handle = parl["twitter"]
+    old_handle = parl["twitter"].strip(" @")
     new_handle = screennames_by_id[str(parl["twitter_id"])]
     # Examine accounts with modified screen_name
     if new_handle.lower() != old_handle.lower():
-        log("Twitter account %s (https://twitte.com/%s) has changed its Twitter handle to %s for parl %s: https://twitter.com/%s | %s | %s" % (i, old_handle, screennames_by_id[str(parl["twitter_id"])], parl["nom"], new_handle, parl["url_nos%s" % typeparls], parl["url_institution"]), "info")
+        log("Twitter account %s (https://twitter.com/%s) has changed its Twitter handle to %s for parl %s: https://twitter.com/%s | %s | %s" % (i, old_handle, new_handle, parl["nom"], new_handle, parl["url_nos%s" % typeparls], parl["url_institution"]), "info")
         auto_handle_changes[old_handle.lower()] = new_handle
     else:
         new_handle = old_handle
@@ -105,7 +105,7 @@ for parl in existing:
         log("Twitter account %s for parl %s seems to be a parodical one according to its description \"%s\": https://twitter.com/%s" % (new_handle, parl["nom"], parl["twitter_description"], new_handle), "warning")
 
     # Examine last tweet date to wheck whether account is active
-    if parl["twitter_last_tweeted_at"]:
+    if parl["twitter_last_tweeted_at"] and typeparls != "senateurs":
         delay = (datetime.now() - datetime.strptime(parl["twitter_last_tweeted_at"], "%Y-%m-%dT%H:%M:%S")).total_seconds()
         four_months = 86400 * 365
         if delay > four_months:
