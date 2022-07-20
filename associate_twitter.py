@@ -192,7 +192,7 @@ def store_one(twid, parl, slug):
         oldsite = {"site": "https://twitter.com/%s" % twid}
         if oldsite in parl["sites_web"]:
             parl["sites_web"].remove(oldsite)
-        twid = auto_handle_changes[twid]
+        twid = auto_handle_changes[twid.lower()]
         parl["sites_web"].append({"site": "https://twitter.com/%s" % twid})
     try:
         tw = twitter.pop(twid.lower())
