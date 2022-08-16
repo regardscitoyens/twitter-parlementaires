@@ -38,6 +38,8 @@ echo "--------------"
 #./associate_twitter.py deputes .cache/twitter-d-put-s-xve-l-gislature.json
 #./associate_twitter.py 2022-deputes-elus+ND.csv .cache/twitter-1536014130506866689.json
 ./associate_twitter.py deputes .cache/twitter-1536014130506866689.json
+./search_missing_twitter.py deputes data/deputes.csv
+
 ./associate_twitter.py senateurs .cache/twitter-comloiss-nat.json .cache/twitter-comfins-nat.json .cache/twitter-comdevdurs-nat.json .cache/twitter-comd-fenses-nat.json .cache/twitter-comcults-nat.json .cache/twitter-comafsocs-nat.json .cache/twitter-comafecos-nat.json .cache/twitter-collterrs-nat-18321.json
 echo
 

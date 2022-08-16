@@ -5,6 +5,11 @@ import os, sys, csv, json
 from twitter import Twitter, OAuth
 from twitterconfig import KEY, SECRET, OAUTH_TOKEN, OAUTH_SECRET
 
+BLACKLIST = [
+    "ATColloque",
+    "GNadeauDubois"
+]
+
 t = Twitter(auth=OAuth(OAUTH_TOKEN, OAUTH_SECRET, KEY, SECRET))
 
 args = {
@@ -51,7 +56,7 @@ with open(os.path.join(".cache", "%s.json" % TYPEPARLS)) as f:
         sys.stderr.write("Could not open Nos%s.fr parlementaires list" % TYPEPARLS)
         exit(1)
 
-known_accounts = set()
+known_accounts = set(b.lower() for b in BLACKLIST)
 with open(TWEETS_FILE) as f:
     for parl in csv.DictReader(f):
         del(parls[parl["slug"]])
