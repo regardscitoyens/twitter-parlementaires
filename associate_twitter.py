@@ -92,7 +92,9 @@ auto_handle_changes = {}
 for parl in existing:
     i = str(parl["twitter_id"])
     old_handle = parl["twitter"].strip(" @")
-    new_handle = screennames_by_id[str(parl["twitter_id"])]
+    new_handle = screennames_by_id.get(str(parl["twitter_id"]))
+    if not new_handle:
+        continue
     # Examine accounts with modified screen_name
     if new_handle.lower() != old_handle.lower():
         log("Twitter account %s (https://twitter.com/%s) has changed its Twitter handle to %s for parl %s: https://twitter.com/%s | %s | %s" % (i, old_handle, new_handle, parl["nom"], new_handle, parl["url_nos%s" % typeparls], parl["url_institution"]), "info")
