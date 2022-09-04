@@ -93,6 +93,6 @@ for parl in missing:
     if len(matches):
         print " - %s proposals found for %s (%s):" % (len(matches), parl["nom"], parl["url_nos%s" % TYPEPARLS])
         for g in matches:
-            print u"   ⋅ @%s:" % g["screen_name"], (g["description"], g.get("url", "") or ""), "‑", "https://twitter.com/%s" % g["screen_name"]
+            print u"   ⋅ @%s:" % g["screen_name"], g["description"], g.get("url", "") or "", "‑", "https://twitter.com/%s" % g["screen_name"]
         print
 
