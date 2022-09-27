@@ -91,7 +91,7 @@ for parl in missing:
             goodmatches[res["screen_name"]]["count"] = goodmatches[res["screen_name"]].get("count", 0) + 1
     matches = sorted(goodmatches.values(), key=lambda x: x["count"], reverse=True)
     if len(matches):
-        print " - %s proposals found for %s (%s):" % (len(matches), parl["nom"], parl["url_nos%s" % TYPEPARLS])
+        print " - ", len(matches), "proposals found for", parl["nom"], parl["url_nos%s" % TYPEPARLS], ":"
         for g in matches:
             print u"   ⋅ @%s:" % g["screen_name"], g["description"], g.get("url", "") or "", "‑", "https://twitter.com/%s" % g["screen_name"]
         print
